@@ -1,0 +1,869 @@
+{
+ "generatedAt": "2026-07-27T17:48:23.447Z",
+ "companiesTracked": 93,
+ "failures": [
+  "Verkada: The operation was aborted due to timeout"
+ ],
+ "jobs": [
+  {
+   "company": " Limble CMMS",
+   "title": "Product Manager",
+   "location": "Charlotte, NC",
+   "url": "https://jobs.ashbyhq.com/limble/57781e55-092f-4797-b369-9bbb4e684483/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-24T22:23:19.000Z"
+  },
+  {
+   "company": "Alarm.com",
+   "title": "Product Manager",
+   "location": "Vienna, VA",
+   "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8612482002",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-01T22:03:38.000Z"
+  },
+  {
+   "company": "Altasciences",
+   "title": "Process Innovation Product Management Intern",
+   "location": "Laval, QC, Canada; Overland Park, KS",
+   "url": "https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-04T10:09:53.000Z"
+  },
+  {
+   "company": "Appian",
+   "title": "Product Manager",
+   "location": "McLean, VA",
+   "url": "https://job-boards.greenhouse.io/appian/jobs/8069612",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-23T22:35:19.000Z"
+  },
+  {
+   "company": "Appian",
+   "title": "Product Manager Intern",
+   "location": "McLean, VA",
+   "url": "https://job-boards.greenhouse.io/appian/jobs/8041243",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-23T22:35:21.000Z"
+  },
+  {
+   "company": "AssetMark",
+   "title": "Associate Product Manager - Internal AI",
+   "location": "Charlotte, NC",
+   "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Product-Manager--Internal-AI_Req-003911",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-23T00:00:00.000Z"
+  },
+  {
+   "company": "Bank of America",
+   "title": "Cashpro Service Product Manager 1",
+   "location": "Chicago, IL; Charlotte, NC; NYC",
+   "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/CashPro-Service-Product-Manager-I_26022011-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-04T10:21:47.000Z"
+  },
+  {
+   "company": "BlackRock",
+   "title": "Global Product Intern",
+   "location": "NYC",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-15T00:00:00.000Z"
+  },
+  {
+   "company": "BlackRock",
+   "title": "Global Product Intern",
+   "location": "Wilmington, DE",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/XMLNAME-2027-Global-Product-Intern-Non-New-York_R265169",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-15T00:00:00.000Z"
+  },
+  {
+   "company": "Bridger",
+   "title": "Early Career Product Engineer",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-23T22:22:43.000Z"
+  },
+  {
+   "company": "Cadence Design Systems",
+   "title": "Product Engineering Intern - Simulation and Verification",
+   "location": "Burlington, MA",
+   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-05-22T22:06:34.000Z"
+  },
+  {
+   "company": "CDK Global",
+   "title": "Associate Product Manager",
+   "location": "Austin, TX; Portland, OR",
+   "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Portland-OR-USA/Associate-Product-Manager_JR8858-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-27T10:06:43.000Z"
+  },
+  {
+   "company": "Clipboard Health",
+   "title": "Product Manager",
+   "location": "SF; NYC",
+   "url": "https://jobs.ashbyhq.com/clipboard/1e6c34a4-26a2-4b71-b210-0ce4f951e3ec/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-01T06:08:07.000Z"
+  },
+  {
+   "company": "CoStar Group",
+   "title": "Product Manager - Content Platforms",
+   "location": "Richmond, VA; Arlington, VA",
+   "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Product-Manager--Content-Platforms_R38907",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-05-12T14:05:51.000Z"
+  },
+  {
+   "company": "Databricks",
+   "title": "Associate Product Manager, New Grad (2027 Start)",
+   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002",
+   "kind": "newgrad",
+   "source": "Company board",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2024-08-08T18:52:06-04:00"
+  },
+  {
+   "company": "Databricks",
+   "title": "Product Management Intern (Summer 2027)",
+   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2023-08-17T17:27:27-04:00"
+  },
+  {
+   "company": "Databricks",
+   "title": "Associate Product Manager New Grad",
+   "location": "SF; Bellevue, WA; Mountain View, CA",
+   "url": "https://boards.greenhouse.io/embed/job_app?token=7586263002",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-16T22:18:51.000Z"
+  },
+  {
+   "company": "Databricks",
+   "title": "Product Management Intern",
+   "location": "SF; Bellevue, WA; Mountain View, CA",
+   "url": "https://boards.greenhouse.io/embed/job_app?token=6883068002",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-16T22:19:18.000Z"
+  },
+  {
+   "company": "Direct Staffing",
+   "title": "Product Engineer",
+   "location": "Perrysburg, OH",
+   "url": "https://jobs.smartrecruiters.com/dstaff/80162129",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-02-23T07:16:37.000Z"
+  },
+  {
+   "company": "DTCC",
+   "title": "Product Management Intern",
+   "location": "Tampa, FL; NYC",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-08T22:06:34.000Z"
+  },
+  {
+   "company": "Entrust",
+   "title": "Associate Product Manager",
+   "location": "Shakopee, MN",
+   "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Associate-Product-Manager_R003951",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-17T22:09:00.000Z"
+  },
+  {
+   "company": "Frost",
+   "title": "Product Manager 1 - Salesforce",
+   "location": "San Antonio, TX",
+   "url": "https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/Product-Manager-I---Salesforce_R261125",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-04T11:49:12.000Z"
+  },
+  {
+   "company": "GAP",
+   "title": "Product Manager 1 - App Wayfinding",
+   "location": "NYC; SF",
+   "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Product-Manager-I---App-Wayfinding_R207923-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-03-03T00:09:39.000Z"
+  },
+  {
+   "company": "GCI",
+   "title": "Product Manager 1 - Future Opening",
+   "location": "Anchorage, AK",
+   "url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003471",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-04-17T01:05:45.000Z"
+  },
+  {
+   "company": "GE Vernova",
+   "title": "GE Vernova Grid Automation Product Management Intern",
+   "location": "Rochester, NY",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Automation-Product-Management-Intern---Fall-2026_R5035460-3",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-04-07T14:07:09.000Z"
+  },
+  {
+   "company": "Globus Medical",
+   "title": "Associate Product Manager",
+   "location": "King of Prussia, PA",
+   "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105815",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-03-11T22:48:49.000Z"
+  },
+  {
+   "company": "Globus Medical",
+   "title": "Product Manager",
+   "location": "King of Prussia, PA",
+   "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Manager_JR104165",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-05-16T15:11:50.000Z"
+  },
+  {
+   "company": "Globus Medical",
+   "title": "Product Manager Associate",
+   "location": "King of Prussia, PA",
+   "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR107337",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-24T00:00:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Foundation Engineering Product Management Associate",
+   "location": "Salt Lake City, UT",
+   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176110",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-01T14:07:41.000Z"
+  },
+  {
+   "company": "Howmet Aerospace",
+   "title": "Product Engineer Co-op",
+   "location": "Valparaiso, IN",
+   "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118645",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-24T22:02:28.000Z"
+  },
+  {
+   "company": "Hubs.is",
+   "title": "Product Intern",
+   "location": "Remote in USA",
+   "url": "https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-21T01:15:45.000Z"
+  },
+  {
+   "company": "Hunter Douglas",
+   "title": "Associate Product Manager",
+   "location": "Broomfield, CO",
+   "url": "https://jobs.hunterdouglas.com/division/hunterdouglas/job/7807654003?gh_jid=7807654003",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-24T22:31:20.000Z"
+  },
+  {
+   "company": "IXL Learning",
+   "title": "Associate Product Manager New Grad",
+   "location": "San Mateo, CA",
+   "url": "https://www.ixl.com/company/jobs?gh_jid=8615730002",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-02T22:10:58.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Part-Time Student - Continuous Improvement - Waterloo IA Product Engineering (CA)",
+   "location": "Waterloo, IA",
+   "url": "https://johndeere.eightfold.ai/careers/job/137478896949",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-02-09T15:13:57.000Z"
+  },
+  {
+   "company": "k-ID",
+   "title": "Product Intern",
+   "location": "United States",
+   "url": "https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-21T01:17:50.000Z"
+  },
+  {
+   "company": "Kantar",
+   "title": "Product Manager Associate",
+   "location": "NYC",
+   "url": "https://kantar.wd3.myworkdayjobs.com/kantar/job/New-York-World-Trade-Center/Associate-Product-Manager_R101614",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-14T00:00:00.000Z"
+  },
+  {
+   "company": "KLA",
+   "title": "Product Engineer",
+   "location": "Ann Arbor, MI",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Engineer_2635404",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-04-03T06:06:25.000Z"
+  },
+  {
+   "company": "KLA",
+   "title": "NPI Product Engineer - Linux",
+   "location": "Milpitas, CA",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/NPI-Product-Engineer--Linux-_2636600",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-05-20T22:06:12.000Z"
+  },
+  {
+   "company": "Leggett & Platt",
+   "title": "Product Manager Trainee",
+   "location": "Hickory, NC",
+   "url": "https://careers.leggett.com/job/Conover-Product-Manager-Trainee-NC/1345826500/?ats=successfactors",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-05-16T09:03:41.000Z"
+  },
+  {
+   "company": "Leidos",
+   "title": "Cybersecurity Product Engineer",
+   "location": "Huntsville, AL",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cybersecurity-Product-Engineer_R-00187602",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-17T00:00:00.000Z"
+  },
+  {
+   "company": "LexisNexis Legal & Professional",
+   "title": "Associate Product Manager",
+   "location": "Raleigh, NC",
+   "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Associate-Product-Mgr_R114877-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-08T14:10:10.000Z"
+  },
+  {
+   "company": "Litera",
+   "title": "Product Manager - Legal Management",
+   "location": "Toronto, ON, Canada; Denver, CO",
+   "url": "https://litera.wd12.myworkdayjobs.com/Litera_Careers/job/Denver-CO/Product-Manager---Legal-Management_R-501118",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-30T22:06:11.000Z"
+  },
+  {
+   "company": "Magna",
+   "title": "Product Engineering Engineer Intern",
+   "location": "Grand Rapids, MI",
+   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Grand-Rapids-Michigan-US/Product-Engineering-Intern_R00243272",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-05-28T14:09:02.000Z"
+  },
+  {
+   "company": "Magnite",
+   "title": "Associate Product Manager - Traffic Shaping",
+   "location": "Boston, MA",
+   "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/Massachusetts---Boston/Associate-Product-Manager--Traffic-Shaping_R-01360-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-20T00:00:00.000Z"
+  },
+  {
+   "company": "Maybell Quantum Industries",
+   "title": "Associate Product Engineer",
+   "location": "Denver, CO",
+   "url": "https://job-boards.greenhouse.io/maybellquantum/jobs/5345023008",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-13T22:34:58.000Z"
+  },
+  {
+   "company": "Micron Technology",
+   "title": "Design Validation Product Engineer - DEG Technology",
+   "location": "Boise, ID",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Validation-Product-Engineer--DEG-Technology_JR100261",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-05-06T01:05:19.000Z"
+  },
+  {
+   "company": "Micron Technology",
+   "title": "HBM Product Manager – New College Grad",
+   "location": "Boise, ID",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-04T11:55:53.000Z"
+  },
+  {
+   "company": "Morgan Stanley",
+   "title": "Product Manager - Financial Planning Platforms - Assistant Vice President",
+   "location": "NYC",
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Product-Manager---Financial-Planning-Platforms--Assistant-Vice-President_PT-JR035639",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-04T09:45:18.000Z"
+  },
+  {
+   "company": "MyEmployment",
+   "title": "AI Product Engineer Intern",
+   "location": "Remote in US",
+   "url": "https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-23T13:45:49.000Z"
+  },
+  {
+   "company": "NJM Insurance Group",
+   "title": "Insurance Product Management Analyst - Associate",
+   "location": "Trenton, NJ",
+   "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst--Associate---Hybrid_R2007869",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-23T22:05:22.000Z"
+  },
+  {
+   "company": "Northern Trust",
+   "title": "Associate Product Manager",
+   "location": "Chicago, IL",
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Associate-Product-Manager_R157655",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+   "company": "NOV",
+   "title": "Product Engineer 1",
+   "location": "Houston, TX",
+   "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/39682",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-02-12T15:04:25.000Z"
+  },
+  {
+   "company": "NOV",
+   "title": "Sustaining Product Engineer",
+   "location": "Tulsa, OK",
+   "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/42801",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-08T22:09:51.000Z"
+  },
+  {
+   "company": "Owens & Minor",
+   "title": "Associate Product Manager",
+   "location": "Alpharetta, GA",
+   "url": "https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/Alpharetta-GA/Product-Manager--Alpharetta--GA--ONSITE-_REQ_26_30401",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-08T14:11:31.000Z"
+  },
+  {
+   "company": "Pendulum Intelligence",
+   "title": "Product Manager Intern",
+   "location": "Remote in USA",
+   "url": "https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-21T01:17:34.000Z"
+  },
+  {
+   "company": "PHINIA",
+   "title": "Alternator Electronics Product Engineer",
+   "location": "Auburn Hills, MI; Anderson, IN",
+   "url": "https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Anderson---Indiana---USA/Alternator-Electronics-Product-Engineer_R2026-0336",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-05-13T22:07:11.000Z"
+  },
+  {
+   "company": "Polar Semiconductor",
+   "title": "Product Engineer",
+   "location": "Bloomington, MN",
+   "url": "https://polarsemi.wd501.myworkdayjobs.com/Polar/job/Bloomington-MN-USA/Product-Engineer_R3736",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-20T00:00:00.000Z"
+  },
+  {
+   "company": "Protolabs",
+   "title": "Associate Technical Product Manager",
+   "location": "Wayzata, MN",
+   "url": "https://jobs.lever.co/protolabs/83fa31f8-6d15-4a8c-bf69-e6c9ec1bbbbd/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-29T14:06:26.000Z"
+  },
+  {
+   "company": "Red Ventures",
+   "title": "Product Manager - Allconnect",
+   "location": "Fort Mill, SC",
+   "url": "https://www.redventures.com/careers/positions/open?gh_jid=8055255",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-21T14:28:53.000Z"
+  },
+  {
+   "company": "Relay",
+   "title": "Associate Product Manager-Internal Tools & Automation",
+   "location": "Raleigh, NC",
+   "url": "https://job-boards.greenhouse.io/relaypro/jobs/7698008",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-03-11T22:17:40.000Z"
+  },
+  {
+   "company": "Rise8",
+   "title": "Skillbridge Intern - Product Manager",
+   "location": "Remote in USA",
+   "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-29T22:24:12.000Z"
+  },
+  {
+   "company": "Routeware",
+   "title": "Product Manager - Customer Engagement & Education",
+   "location": "Remote in USA",
+   "url": "https://ats.rippling.com/routeware-careers/jobs/90022d85-760c-4641-b53b-cef108f79b58",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-05-29T22:10:14.000Z"
+  },
+  {
+   "company": "Salvo Health",
+   "title": "Product Manager",
+   "location": "NYC",
+   "url": "https://jobs.lever.co/salvohealth/3b327f35-1ba9-4ddf-bb18-7c3cce52ecfd/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-05-27T22:07:27.000Z"
+  },
+  {
+   "company": "Sharp Electronics",
+   "title": "Associate Product Manager",
+   "location": "Memphis, TN",
+   "url": "https://job-boards.greenhouse.io/sharpelectronics/jobs/4254963009",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-15T14:08:58.000Z"
+  },
+  {
+   "company": "Solar Turbines",
+   "title": "Entry Level Gas Turbine Product Engineer - Gtpe",
+   "location": "San Diego, CA",
+   "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-16T00:00:00.000Z"
+  },
+  {
+   "company": "Stanley Black & Decker",
+   "title": "Associate Product Manager - Expansion",
+   "location": "Towson, MD",
+   "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager---Expansion_REQ-1000049991",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-02T22:12:04.000Z"
+  },
+  {
+   "company": "T-Mobile",
+   "title": "Associate Product Manager",
+   "location": "Bellevue, WA",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager_REQ362128-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-04T12:01:46.000Z"
+  },
+  {
+   "company": "Teledyne",
+   "title": "Product Engineer",
+   "location": "Carson, CA",
+   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Torrance-CA/Product-Engineer_REQ35210",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-02T22:15:10.000Z"
+  },
+  {
+   "company": "Tesla",
+   "title": "Supercharger Product Engineer Intern - Supercharger Product Support Engineering",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/273531",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-11T01:07:34.000Z"
+  },
+  {
+   "company": "Tesla",
+   "title": "Product Management Intern - Product Engineer - Applications Engineering",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/274754",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-24T01:10:15.000Z"
+  },
+  {
+   "company": "Texas Instruments",
+   "title": "Career Accelerator Program - Product Engineer",
+   "location": "United States",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25003917",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-21T22:04:07.000Z"
+  },
+  {
+   "company": "The Home Depot",
+   "title": "Product Manager",
+   "location": "Atlanta, GA",
+   "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product-Manager_Req186958",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-16T00:00:00.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Graduate AI Product Manager",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7537485209698191623",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-03-02T07:15:39.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - TikTok Product Content Ecosystem - BS/MS",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7611679957136574773",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-03-02T23:17:20.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7613587198434855173",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-03-12T01:10:52.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Copyright Solution Product Manager Intern - Tiktok-Music",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7657541997725288757",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-03T01:13:41.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - TikTok Product Content Ecosystem",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7657778928769534213",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-03T01:13:41.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - TikTok Ads Agent-Scaled Growth",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7657728959042046213",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-07T01:13:38.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - Tiktok-Product-Search",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7663349357178620165",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-21T22:16:36.000Z"
+  },
+  {
+   "company": "Toshiba Global Commerce",
+   "title": "AI Product Management Intern",
+   "location": "Durham, NC",
+   "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-27T14:18:34.000Z"
+  },
+  {
+   "company": "Trane Technologies",
+   "title": "Associate Product Engineer",
+   "location": "Columbia, SC",
+   "url": "https://careers.tranetechnologies.com/global/en/job/JR-7562",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-12T22:08:56.000Z"
+  },
+  {
+   "company": "Uncountable",
+   "title": "Product Manager",
+   "location": "San Francisco; New York; London",
+   "url": "https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-01-28T05:56:58.000Z"
+  },
+  {
+   "company": "Uncountable",
+   "title": "Product Manager – New Grad",
+   "location": "SF; NYC",
+   "url": "https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc/application",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-03-25T09:15:44.000Z"
+  },
+  {
+   "company": "Veeva Systems",
+   "title": "Associate Product Manager - Vault CRM Suite",
+   "location": "Boston, MA",
+   "url": "https://jobs.lever.co/veeva/6bcc8228-5b43-43e5-b96b-d62679b8c64a/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-04-28T01:05:39.000Z"
+  },
+  {
+   "company": "Vertex",
+   "title": "AI Product Engineer",
+   "location": "Remote in USA",
+   "url": "https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/AI-Product-Engineer_JR102443-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-04T22:10:26.000Z"
+  },
+  {
+   "company": "Workday",
+   "title": "Product Manager",
+   "location": "Mason, OH",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Jobs/job/USA-OH-Mason/Product-Manager_JR-0108527",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-04T12:25:18.000Z"
+  }
+ ]
+}
