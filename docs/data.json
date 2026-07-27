@@ -1,9 +1,7 @@
 {
- "generatedAt": "2026-07-27T17:48:23.447Z",
+ "generatedAt": "2026-07-27T19:15:17.350Z",
  "companiesTracked": 93,
- "failures": [
-  "Verkada: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
   {
    "company": " Limble CMMS",
@@ -624,16 +622,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-05-29T22:10:14.000Z"
-  },
-  {
-   "company": "Salvo Health",
-   "title": "Product Manager",
-   "location": "NYC",
-   "url": "https://jobs.lever.co/salvohealth/3b327f35-1ba9-4ddf-bb18-7c3cce52ecfd/apply",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-05-27T22:07:27.000Z"
   },
   {
    "company": "Sharp Electronics",
