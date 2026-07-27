@@ -1,8 +1,48 @@
 {
- "generatedAt": "2026-07-27T22:54:01.368Z",
+ "generatedAt": "2026-07-27T23:56:24.722Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Goldman Sachs",
+   "title": "Transaction Banking Associate - Liquidity Solutions Product Manager",
+   "location": "Dallas, TX",
+   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/175378",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T23:56:24.722Z",
+   "postedAt": "2026-06-10T22:09:50.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Asset & Wealth Management - Product Management - Associate",
+   "location": "Dallas, TX",
+   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T23:56:24.722Z",
+   "postedAt": "2026-06-18T14:07:09.000Z"
+  },
+  {
+   "company": "Inclined Technologies",
+   "title": "Product Manager",
+   "location": "Denver, CO",
+   "url": "https://jobs.ashbyhq.com/Inclined/aefd18ae-8538-4eee-8fe2-7dc5dc405727/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T23:56:24.722Z",
+   "postedAt": "2026-07-27T22:23:56.000Z"
+  },
+  {
+   "company": "Phoenix Contact",
+   "title": "Product Manager 1 - Product Solutions",
+   "location": "Hershey, PA",
+   "url": "https://job-boards.greenhouse.io/phoenixcontact/jobs/7812658003",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T23:56:24.722Z",
+   "postedAt": "2026-07-27T22:13:15.000Z"
+  },
   {
    "company": "East Penn Manufacturing Company",
    "title": "Product Engineer Intern",
@@ -802,6 +842,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-21T22:16:36.000Z"
+  },
+  {
+   "company": "Toshiba Global Commerce",
+   "title": "AI Product Management Intern",
+   "location": "Durham, NC",
+   "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-27T14:18:34.000Z"
   },
   {
    "company": "Trane Technologies",
