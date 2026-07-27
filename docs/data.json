@@ -1,10 +1,28 @@
 {
- "generatedAt": "2026-07-27T21:48:44.060Z",
+ "generatedAt": "2026-07-27T22:54:01.368Z",
  "companiesTracked": 93,
- "failures": [
-  "Airtable: fetch failed"
- ],
+ "failures": [],
  "jobs": [
+  {
+   "company": "East Penn Manufacturing Company",
+   "title": "Product Engineer Intern",
+   "location": "Ann Arbor, MI",
+   "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T22:54:01.368Z",
+   "postedAt": "2026-07-27T22:05:28.000Z"
+  },
+  {
+   "company": "KLA Corporation",
+   "title": "Chemical Product Engineer - Process - Tool",
+   "location": "Paterson, NJ",
+   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Totowa-NJ/Product-Engineer_2636515",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T22:54:01.368Z",
+   "postedAt": "2026-06-05T01:06:47.000Z"
+  },
   {
    "company": " Limble CMMS",
    "title": "Product Manager",
@@ -784,16 +802,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-21T22:16:36.000Z"
-  },
-  {
-   "company": "Toshiba Global Commerce",
-   "title": "AI Product Management Intern",
-   "location": "Durham, NC",
-   "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-27T14:18:34.000Z"
   },
   {
    "company": "Trane Technologies",
