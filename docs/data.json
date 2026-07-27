@@ -1,7 +1,9 @@
 {
- "generatedAt": "2026-07-27T20:44:13.948Z",
+ "generatedAt": "2026-07-27T21:48:44.060Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Airtable: fetch failed"
+ ],
  "jobs": [
   {
    "company": " Limble CMMS",
