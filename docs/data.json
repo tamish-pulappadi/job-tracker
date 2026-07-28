@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28T12:24:42.287Z",
+ "generatedAt": "2026-07-28T14:57:20.749Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -22,26 +22,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-28T07:58:06.966Z",
    "postedAt": "2026-04-29T06:14:46.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Transaction Banking Associate - Liquidity Solutions Product Manager",
-   "location": "Dallas, TX",
-   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/175378",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T23:56:24.722Z",
-   "postedAt": "2026-06-10T22:09:50.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Asset & Wealth Management - Product Management - Associate",
-   "location": "Dallas, TX",
-   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T23:56:24.722Z",
-   "postedAt": "2026-06-18T14:07:09.000Z"
   },
   {
    "company": "Inclined Technologies",
@@ -472,16 +452,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-05-16T09:03:41.000Z"
-  },
-  {
-   "company": "Leidos",
-   "title": "Cybersecurity Product Engineer",
-   "location": "Huntsville, AL",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cybersecurity-Product-Engineer_R-00187602",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-17T00:00:00.000Z"
   },
   {
    "company": "LexisNexis Legal & Professional",
