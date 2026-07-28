@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28T07:58:06.966Z",
+ "generatedAt": "2026-07-28T10:34:18.861Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -52,16 +52,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T23:56:24.722Z",
    "postedAt": "2026-07-27T22:13:15.000Z"
-  },
-  {
-   "company": "East Penn Manufacturing Company",
-   "title": "Product Engineer Intern",
-   "location": "Ann Arbor, MI",
-   "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T22:54:01.368Z",
-   "postedAt": "2026-07-27T22:05:28.000Z"
   },
   {
    "company": "KLA Corporation",
@@ -674,16 +664,6 @@
    "postedAt": "2026-03-11T22:17:40.000Z"
   },
   {
-   "company": "Rise8",
-   "title": "Skillbridge Intern - Product Manager",
-   "location": "Remote in USA",
-   "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-06-29T22:24:12.000Z"
-  },
-  {
    "company": "Routeware",
    "title": "Product Manager - Customer Engagement & Education",
    "location": "Remote in USA",
@@ -792,16 +772,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-03-02T07:15:39.000Z"
-  },
-  {
-   "company": "TikTok",
-   "title": "Product Manager Intern - TikTok Product Content Ecosystem - BS/MS",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7611679957136574773",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-03-02T23:17:20.000Z"
   },
   {
    "company": "TikTok",
