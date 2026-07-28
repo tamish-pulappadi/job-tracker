@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28T16:39:02.825Z",
+ "generatedAt": "2026-07-28T18:02:37.184Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -132,16 +132,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-04T10:21:47.000Z"
-  },
-  {
-   "company": "BlackRock",
-   "title": "Global Product Intern",
-   "location": "NYC",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Early_Careers_Program/job/New-York-NY/XMLNAME-2027-Global-Product-Intern-New-York_R265170",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-15T00:00:00.000Z"
   },
   {
    "company": "BlackRock",
@@ -372,16 +362,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-21T01:15:45.000Z"
-  },
-  {
-   "company": "Hunter Douglas",
-   "title": "Associate Product Manager",
-   "location": "Broomfield, CO",
-   "url": "https://jobs.hunterdouglas.com/division/hunterdouglas/job/7807654003?gh_jid=7807654003",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-24T22:31:20.000Z"
   },
   {
    "company": "IXL Learning",
