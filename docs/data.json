@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-28T14:57:20.749Z",
+ "generatedAt": "2026-07-28T16:39:02.825Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -452,6 +452,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-05-16T09:03:41.000Z"
+  },
+  {
+   "company": "Leidos",
+   "title": "Cybersecurity Product Engineer",
+   "location": "Huntsville, AL",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cybersecurity-Product-Engineer_R-00187602",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-17T00:00:00.000Z"
   },
   {
    "company": "LexisNexis Legal & Professional",
