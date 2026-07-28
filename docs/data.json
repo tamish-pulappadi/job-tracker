@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-07-28T22:15:29.030Z",
+ "generatedAt": "2026-07-28T23:27:48.485Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Linamar",
+   "title": "Product Engineer",
+   "location": "Livonia, MI",
+   "url": "https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14006",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-28T23:27:48.485Z",
+   "postedAt": "2026-07-28T22:09:39.000Z"
+  },
+  {
+   "company": "Super Micro Computer",
+   "title": "Product Management Associate",
+   "location": "San Jose, CA",
+   "url": "https://jobs.supermicro.com/job/San-Jose-Associate-Product-Manager-Cali/1367984400/?ats=successfactors",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-28T23:27:48.485Z",
+   "postedAt": "2026-05-30T01:06:16.000Z"
+  },
   {
    "company": "RELX",
    "title": "Associate Product Manager",
