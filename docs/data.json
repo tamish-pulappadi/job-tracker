@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-07-29T22:37:14.868Z",
+ "generatedAt": "2026-07-29T23:39:58.736Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Stanley Black & Decker",
+   "title": "Associate Product Manager",
+   "location": "Towson, MD",
+   "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000050213",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-29T23:39:58.736Z",
+   "postedAt": "2026-07-29T00:00:00.000Z"
+  },
   {
    "company": "Cooper Companies",
    "title": "Product Engineer 1 - Research and Development",
@@ -132,6 +142,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-28T07:58:06.966Z",
    "postedAt": "2026-04-29T06:14:46.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Transaction Banking Associate - Liquidity Solutions Product Manager",
+   "location": "Dallas, TX",
+   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/175378",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T23:56:24.722Z",
+   "postedAt": "2026-06-10T22:09:50.000Z"
   },
   {
    "company": "Inclined Technologies",
@@ -574,16 +594,6 @@
    "postedAt": "2026-07-04T11:55:53.000Z"
   },
   {
-   "company": "Morgan Stanley",
-   "title": "Product Manager - Financial Planning Platforms - Assistant Vice President",
-   "location": "NYC",
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Product-Manager---Financial-Planning-Platforms--Assistant-Vice-President_PT-JR035639",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-04T09:45:18.000Z"
-  },
-  {
    "company": "MyEmployment",
    "title": "AI Product Engineer Intern",
    "location": "Remote in US",
@@ -592,6 +602,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-06-23T13:45:49.000Z"
+  },
+  {
+   "company": "NJM Insurance Group",
+   "title": "Insurance Product Management Analyst - Associate",
+   "location": "Trenton, NJ",
+   "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst--Associate---Hybrid_R2007869",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-23T22:05:22.000Z"
   },
   {
    "company": "Northern Trust",
