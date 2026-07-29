@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29T18:02:14.190Z",
+ "generatedAt": "2026-07-29T19:40:52.350Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -222,16 +222,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-23T00:00:00.000Z"
-  },
-  {
-   "company": "Bank of America",
-   "title": "Cashpro Service Product Manager 1",
-   "location": "Chicago, IL; Charlotte, NC; NYC",
-   "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/New-York/CashPro-Service-Product-Manager-I_26022011-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-04T10:21:47.000Z"
   },
   {
    "company": "BlackRock",
