@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-07-29T15:30:03.035Z",
+ "generatedAt": "2026-07-29T16:47:44.330Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Bosch Home Comfort",
+   "title": "Product Management Intern",
+   "location": "Southfield, MI",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140457960",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-29T16:47:44.330Z",
+   "postedAt": "2026-07-29T14:06:10.000Z"
+  },
   {
    "company": "RTX",
    "title": "Program/Product Engineer 2",
