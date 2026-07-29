@@ -1,11 +1,18 @@
 {
- "generatedAt": "2026-07-29T11:40:54.022Z",
+ "generatedAt": "2026-07-29T13:22:39.493Z",
  "companiesTracked": 93,
- "failures": [
-  "Twilio: The operation was aborted due to timeout",
-  "Webflow: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
+  {
+   "company": "KeyBank",
+   "title": "Consumer Deposit Product Manager",
+   "location": "Brooklyn, OH; Buffalo, NY",
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Product-Manager--Consumer-Deposit----Brooklyn--OH_R-40767",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-29T13:22:39.493Z",
+   "postedAt": "2026-07-15T00:00:00.000Z"
+  },
   {
    "company": "Free Market Health",
    "title": "Associate Product Manager",
@@ -245,16 +252,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-01T06:08:07.000Z"
-  },
-  {
-   "company": "CoStar Group",
-   "title": "Product Manager - Content Platforms",
-   "location": "Richmond, VA; Arlington, VA",
-   "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Product-Manager--Content-Platforms_R38907",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-05-12T14:05:51.000Z"
   },
   {
    "company": "Databricks",
@@ -685,16 +682,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-06-29T14:06:26.000Z"
-  },
-  {
-   "company": "Red Ventures",
-   "title": "Product Manager - Allconnect",
-   "location": "Fort Mill, SC",
-   "url": "https://www.redventures.com/careers/positions/open?gh_jid=8055255",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-21T14:28:53.000Z"
   },
   {
    "company": "Relay",
