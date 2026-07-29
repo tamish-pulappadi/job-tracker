@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-07-29T13:22:39.493Z",
+ "generatedAt": "2026-07-29T15:30:03.035Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "RTX",
+   "title": "Program/Product Engineer 2",
+   "location": "Pueblo, CO",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-PUEBLO-050--50-William-White-Blvd--BLDG-50/Program-Product-Engineer-II--Onsite-_01860288",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-29T15:30:03.035Z",
+   "postedAt": "2026-07-17T00:00:00.000Z"
+  },
+  {
+   "company": "Trane Technologies",
+   "title": "Product Manager - Smart Services",
+   "location": "Huntersville, NC; Winona, MN; St Paul, MN",
+   "url": "https://careers.tranetechnologies.com/global/en/job/JR-10538",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-29T15:30:03.035Z",
+   "postedAt": "2026-07-24T22:23:39.000Z"
+  },
   {
    "company": "KeyBank",
    "title": "Consumer Deposit Product Manager",
@@ -94,16 +114,6 @@
    "postedAt": "2026-04-29T06:14:46.000Z"
   },
   {
-   "company": "Goldman Sachs",
-   "title": "Transaction Banking Associate - Liquidity Solutions Product Manager",
-   "location": "Dallas, TX",
-   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/175378",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T23:56:24.722Z",
-   "postedAt": "2026-06-10T22:09:50.000Z"
-  },
-  {
    "company": "Inclined Technologies",
    "title": "Product Manager",
    "location": "Denver, CO",
@@ -122,6 +132,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T23:56:24.722Z",
    "postedAt": "2026-07-27T22:13:15.000Z"
+  },
+  {
+   "company": "East Penn Manufacturing Company",
+   "title": "Product Engineer Intern",
+   "location": "Ann Arbor, MI",
+   "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T22:54:01.368Z",
+   "postedAt": "2026-07-27T22:05:28.000Z"
   },
   {
    "company": "KLA Corporation",
@@ -354,16 +374,6 @@
    "postedAt": "2026-04-17T01:05:45.000Z"
   },
   {
-   "company": "GE Vernova",
-   "title": "GE Vernova Grid Automation Product Management Intern",
-   "location": "Rochester, NY",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Grid-Automation-Product-Management-Intern---Fall-2026_R5035460-3",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-04-07T14:07:09.000Z"
-  },
-  {
    "company": "Globus Medical",
    "title": "Associate Product Manager",
    "location": "King of Prussia, PA",
@@ -492,16 +502,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-05-16T09:03:41.000Z"
-  },
-  {
-   "company": "Leidos",
-   "title": "Cybersecurity Product Engineer",
-   "location": "Huntsville, AL",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cybersecurity-Product-Engineer_R-00187602",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-17T00:00:00.000Z"
   },
   {
    "company": "LexisNexis Legal & Professional",
