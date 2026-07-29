@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-07-29T04:09:15.355Z",
+ "generatedAt": "2026-07-29T06:43:11.622Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Procore Technologies",
+   "title": "Product Manager - Notifications",
+   "location": "Austin, TX",
+   "url": "https://procore.wd12.myworkdayjobs.com/Procore_External_Careers/job/US---Texas---Austin/Product-Manager--Notifications_R0018309",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-29T06:43:11.622Z",
+   "postedAt": "2026-07-22T00:00:00.000Z"
+  },
   {
    "company": "23andMe",
    "title": "Associate Product Manager / Product Manager",
@@ -62,6 +72,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-28T07:58:06.966Z",
    "postedAt": "2026-04-29T06:14:46.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Transaction Banking Associate - Liquidity Solutions Product Manager",
+   "location": "Dallas, TX",
+   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/175378",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T23:56:24.722Z",
+   "postedAt": "2026-06-10T22:09:50.000Z"
   },
   {
    "company": "Inclined Technologies",
