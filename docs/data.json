@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-07-29T06:43:11.622Z",
+ "generatedAt": "2026-07-29T09:28:58.434Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Free Market Health",
+   "title": "Associate Product Manager",
+   "location": "Pittsburgh, PA",
+   "url": "https://ats.rippling.com/free-market-health/jobs/984eb0a3-4c1f-425d-8431-a7bd600e668d",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-29T09:28:58.434Z",
+   "postedAt": "2026-07-22T22:13:22.000Z"
+  },
   {
    "company": "Procore Technologies",
    "title": "Product Manager - Notifications",
@@ -642,16 +652,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-08T14:11:31.000Z"
-  },
-  {
-   "company": "Pendulum Intelligence",
-   "title": "Product Manager Intern",
-   "location": "Remote in USA",
-   "url": "https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-21T01:17:34.000Z"
   },
   {
    "company": "PHINIA",
