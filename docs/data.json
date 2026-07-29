@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-07-29T21:34:01.662Z",
+ "generatedAt": "2026-07-29T22:37:14.868Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Cooper Companies",
+   "title": "Product Engineer 1 - Research and Development",
+   "location": "Bridgeport, CT",
+   "url": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12101",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-29T22:37:14.868Z",
+   "postedAt": "2026-07-29T22:05:46.000Z"
+  },
   {
    "company": "Bosch Home Comfort",
    "title": "Product Management Intern",
@@ -252,16 +262,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-05-22T22:06:34.000Z"
-  },
-  {
-   "company": "CDK Global",
-   "title": "Associate Product Manager",
-   "location": "Austin, TX; Portland, OR",
-   "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Portland-OR-USA/Associate-Product-Manager_JR8858-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-06-27T10:06:43.000Z"
   },
   {
    "company": "Clipboard Health",
@@ -592,16 +592,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-06-23T13:45:49.000Z"
-  },
-  {
-   "company": "NJM Insurance Group",
-   "title": "Insurance Product Management Analyst - Associate",
-   "location": "Trenton, NJ",
-   "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst--Associate---Hybrid_R2007869",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-06-23T22:05:22.000Z"
   },
   {
    "company": "Northern Trust",
