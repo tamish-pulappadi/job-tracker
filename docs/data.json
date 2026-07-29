@@ -1,7 +1,10 @@
 {
- "generatedAt": "2026-07-29T09:28:58.434Z",
+ "generatedAt": "2026-07-29T11:40:54.022Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Twilio: The operation was aborted due to timeout",
+  "Webflow: The operation was aborted due to timeout"
+ ],
  "jobs": [
   {
    "company": "Free Market Health",
@@ -112,16 +115,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T23:56:24.722Z",
    "postedAt": "2026-07-27T22:13:15.000Z"
-  },
-  {
-   "company": "East Penn Manufacturing Company",
-   "title": "Product Engineer Intern",
-   "location": "Ann Arbor, MI",
-   "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T22:54:01.368Z",
-   "postedAt": "2026-07-27T22:05:28.000Z"
   },
   {
    "company": "KLA Corporation",
@@ -654,6 +647,16 @@
    "postedAt": "2026-07-08T14:11:31.000Z"
   },
   {
+   "company": "Pendulum Intelligence",
+   "title": "Product Manager Intern",
+   "location": "Remote in USA",
+   "url": "https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-21T01:17:34.000Z"
+  },
+  {
    "company": "PHINIA",
    "title": "Alternator Electronics Product Engineer",
    "location": "Auburn Hills, MI; Anderson, IN",
@@ -712,16 +715,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-06-29T22:24:12.000Z"
-  },
-  {
-   "company": "Routeware",
-   "title": "Product Manager - Customer Engagement & Education",
-   "location": "Remote in USA",
-   "url": "https://ats.rippling.com/routeware-careers/jobs/90022d85-760c-4641-b53b-cef108f79b58",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-05-29T22:10:14.000Z"
   },
   {
    "company": "Sharp Electronics",
