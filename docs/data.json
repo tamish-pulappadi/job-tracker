@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-07-28T23:27:48.485Z",
+ "generatedAt": "2026-07-29T00:56:53.064Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "23andMe",
+   "title": "Associate Product Manager / Product Manager",
+   "location": "Palo Alto, CA",
+   "url": "https://23andme.wd5.myworkdayjobs.com/23/job/Palo-Alto-HQ/Associate-Product-Manager---Product-Manager--Member-Experience_2026037",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-29T00:56:53.064Z",
+   "postedAt": "2026-06-03T00:00:00.000Z"
+  },
+  {
+   "company": "KLA Corporation",
+   "title": "Product Engineer",
+   "location": "Ann Arbor, MI",
+   "url": "https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Product-Engineer_2635404-2",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-29T00:56:53.064Z",
+   "postedAt": "2026-07-28T00:00:00.000Z"
+  },
   {
    "company": "Linamar",
    "title": "Product Engineer",
