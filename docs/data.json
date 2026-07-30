@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30T13:13:49.851Z",
+ "generatedAt": "2026-07-30T15:23:45.623Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -132,16 +132,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-28T07:58:06.966Z",
    "postedAt": "2026-04-29T06:14:46.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Transaction Banking Associate - Liquidity Solutions Product Manager",
-   "location": "Dallas, TX",
-   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/175378",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T23:56:24.722Z",
-   "postedAt": "2026-06-10T22:09:50.000Z"
   },
   {
    "company": "Inclined Technologies",
