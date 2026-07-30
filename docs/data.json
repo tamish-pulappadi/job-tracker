@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30T09:39:46.198Z",
+ "generatedAt": "2026-07-30T11:32:24.389Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -872,16 +872,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-27T14:18:34.000Z"
-  },
-  {
-   "company": "Trane Technologies",
-   "title": "Associate Product Engineer",
-   "location": "Columbia, SC",
-   "url": "https://careers.tranetechnologies.com/global/en/job/JR-7562",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-06-12T22:08:56.000Z"
   },
   {
    "company": "Uncountable",
