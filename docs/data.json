@@ -1,8 +1,38 @@
 {
- "generatedAt": "2026-07-30T22:04:24.763Z",
+ "generatedAt": "2026-07-30T23:17:14.407Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Esri",
+   "title": "Product Engineer 1 - ArcGIS Maps SDKs",
+   "location": "West Redlands, Redlands, CA",
+   "url": "https://www.esri.com/careers/5198108007?gh_jid=5198108007",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-30T23:17:14.407Z",
+   "postedAt": "2026-07-30T22:33:31.000Z"
+  },
+  {
+   "company": "Macy's",
+   "title": "Product Management Assistant",
+   "location": "NYC",
+   "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/90246",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-30T23:17:14.407Z",
+   "postedAt": "2026-07-30T22:06:05.000Z"
+  },
+  {
+   "company": "The Home Depot",
+   "title": "Associate Product Manager",
+   "location": "Houston, TX",
+   "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GLOBAL-CUSTOM-COMMERCEBLINDS-OFFICE-HOUSTON---2140/Associate-Product-Manager_Req187999",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-30T23:17:14.407Z",
+   "postedAt": "2026-07-30T00:00:00.000Z"
+  },
   {
    "company": "Stanley Black & Decker",
    "title": "Associate Product Manager",
