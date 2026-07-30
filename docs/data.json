@@ -1,18 +1,8 @@
 {
- "generatedAt": "2026-07-30T04:17:43.295Z",
+ "generatedAt": "2026-07-30T07:08:28.466Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
-  {
-   "company": "WGU",
-   "title": "Software Product Manager Associate",
-   "location": "Salt Lake City, UT",
-   "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Software-Product-Manager_JR-025513",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-30T04:17:43.295Z",
-   "postedAt": "2026-06-26T22:06:19.000Z"
-  },
   {
    "company": "Stanley Black & Decker",
    "title": "Associate Product Manager",
@@ -152,6 +142,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-28T07:58:06.966Z",
    "postedAt": "2026-04-29T06:14:46.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Transaction Banking Associate - Liquidity Solutions Product Manager",
+   "location": "Dallas, TX",
+   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/175378",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T23:56:24.722Z",
+   "postedAt": "2026-06-10T22:09:50.000Z"
   },
   {
    "company": "Inclined Technologies",
