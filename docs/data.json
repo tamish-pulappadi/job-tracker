@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-30T15:23:45.623Z",
+ "generatedAt": "2026-07-30T16:57:47.292Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -662,16 +662,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-20T00:00:00.000Z"
-  },
-  {
-   "company": "Protolabs",
-   "title": "Associate Technical Product Manager",
-   "location": "Wayzata, MN",
-   "url": "https://jobs.lever.co/protolabs/83fa31f8-6d15-4a8c-bf69-e6c9ec1bbbbd/apply",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-06-29T14:06:26.000Z"
   },
   {
    "company": "Relay",
