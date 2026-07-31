@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T12:17:48.438Z",
+ "generatedAt": "2026-07-31T14:55:17.186Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -102,16 +102,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-29T15:30:03.035Z",
    "postedAt": "2026-07-17T00:00:00.000Z"
-  },
-  {
-   "company": "Trane Technologies",
-   "title": "Product Manager - Smart Services",
-   "location": "Huntersville, NC; Winona, MN; St Paul, MN",
-   "url": "https://careers.tranetechnologies.com/global/en/job/JR-10538",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-29T15:30:03.035Z",
-   "postedAt": "2026-07-24T22:23:39.000Z"
   },
   {
    "company": "KeyBank",
@@ -262,16 +252,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-01T22:03:38.000Z"
-  },
-  {
-   "company": "Altasciences",
-   "title": "Process Innovation Product Management Intern",
-   "location": "Laval, QC, Canada; Overland Park, KS",
-   "url": "https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-04T10:09:53.000Z"
   },
   {
    "company": "Appian",
