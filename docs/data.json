@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T16:40:23.219Z",
+ "generatedAt": "2026-07-31T18:09:08.648Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -52,16 +52,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-30T23:17:14.407Z",
    "postedAt": "2026-07-30T22:06:05.000Z"
-  },
-  {
-   "company": "The Home Depot",
-   "title": "Associate Product Manager",
-   "location": "Houston, TX",
-   "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GLOBAL-CUSTOM-COMMERCEBLINDS-OFFICE-HOUSTON---2140/Associate-Product-Manager_Req187999",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-30T23:17:14.407Z",
-   "postedAt": "2026-07-30T00:00:00.000Z"
   },
   {
    "company": "Stanley Black & Decker",
