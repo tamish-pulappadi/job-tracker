@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-07-31T01:01:42.498Z",
+ "generatedAt": "2026-07-31T04:36:35.121Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Armada",
+   "title": "Product Manager Associate - Aep Sff",
+   "location": "Bellevue, WA",
+   "url": "https://job-boards.greenhouse.io/armada/jobs/5371838008",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-31T04:36:35.121Z",
+   "postedAt": "2026-07-31T01:10:10.000Z"
+  },
   {
    "company": "Esri",
    "title": "Product Engineer 1 - ArcGIS Maps SDKs",
