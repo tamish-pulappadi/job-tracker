@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-07-31T04:36:35.121Z",
+ "generatedAt": "2026-07-31T07:33:22.841Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Herald",
+   "title": "Product Manager - Workflows",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/heraldapi/jobs/5269932008",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-31T07:33:22.841Z",
+   "postedAt": "2026-06-18T22:09:49.000Z"
+  },
   {
    "company": "Armada",
    "title": "Product Manager Associate - Aep Sff",
