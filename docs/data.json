@@ -1,17 +1,17 @@
 {
- "generatedAt": "2026-07-31T07:33:22.841Z",
+ "generatedAt": "2026-07-31T10:14:21.250Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
   {
-   "company": "Herald",
-   "title": "Product Manager - Workflows",
+   "company": "Advocate Technologies Inc.",
+   "title": "Product Engineer",
    "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/heraldapi/jobs/5269932008",
+   "url": "https://ats.rippling.com/advocate-technologies-inc/jobs/50d16a20-4191-4bac-8915-230f81df29b3",
    "kind": "newgrad",
    "source": "Simplify New Grad",
-   "firstSeen": "2026-07-31T07:33:22.841Z",
-   "postedAt": "2026-06-18T22:09:49.000Z"
+   "firstSeen": "2026-07-31T10:14:21.250Z",
+   "postedAt": "2026-07-21T01:11:52.000Z"
   },
   {
    "company": "Armada",
@@ -722,16 +722,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-03-11T22:17:40.000Z"
-  },
-  {
-   "company": "Rise8",
-   "title": "Skillbridge Intern - Product Manager",
-   "location": "Remote in USA",
-   "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-06-29T22:24:12.000Z"
   },
   {
    "company": "Sharp Electronics",
