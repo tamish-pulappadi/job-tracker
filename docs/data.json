@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T14:55:17.186Z",
+ "generatedAt": "2026-07-31T16:40:23.219Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -372,16 +372,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-02-23T07:16:37.000Z"
-  },
-  {
-   "company": "DTCC",
-   "title": "Product Management Intern",
-   "location": "Tampa, FL; NYC",
-   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-08T22:06:34.000Z"
   },
   {
    "company": "Entrust",
