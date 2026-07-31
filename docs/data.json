@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-31T21:59:04.080Z",
+ "generatedAt": "2026-07-31T23:03:06.589Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -184,16 +184,6 @@
    "postedAt": "2026-07-08T14:13:06.000Z"
   },
   {
-   "company": "Fireworks AI",
-   "title": "Associate Product Manager",
-   "location": "San Mateo, CA",
-   "url": "https://job-boards.greenhouse.io/fireworksai/jobs/4235059009",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-28T07:58:06.966Z",
-   "postedAt": "2026-04-29T06:14:46.000Z"
-  },
-  {
    "company": "Inclined Technologies",
    "title": "Product Manager",
    "location": "Denver, CO",
@@ -222,16 +212,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T22:54:01.368Z",
    "postedAt": "2026-07-27T22:05:28.000Z"
-  },
-  {
-   "company": "KLA Corporation",
-   "title": "Chemical Product Engineer - Process - Tool",
-   "location": "Paterson, NJ",
-   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Totowa-NJ/Product-Engineer_2636515",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T22:54:01.368Z",
-   "postedAt": "2026-06-05T01:06:47.000Z"
   },
   {
    "company": " Limble CMMS",
@@ -522,16 +502,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-04-03T06:06:25.000Z"
-  },
-  {
-   "company": "KLA",
-   "title": "NPI Product Engineer - Linux",
-   "location": "Milpitas, CA",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/NPI-Product-Engineer--Linux-_2636600",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-05-20T22:06:12.000Z"
   },
   {
    "company": "Leggett & Platt",
