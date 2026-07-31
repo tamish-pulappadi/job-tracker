@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-07-31T10:14:21.250Z",
+ "generatedAt": "2026-07-31T12:17:48.438Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Gemini",
+   "title": "Product Management Intern",
+   "location": "NYC",
+   "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8041452&gh_jid=8041452",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-31T12:17:48.438Z",
+   "postedAt": "2026-07-01T22:06:14.000Z"
+  },
   {
    "company": "Advocate Technologies Inc.",
    "title": "Product Engineer",
@@ -102,6 +112,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-29T15:30:03.035Z",
    "postedAt": "2026-07-24T22:23:39.000Z"
+  },
+  {
+   "company": "KeyBank",
+   "title": "Consumer Deposit Product Manager",
+   "location": "Brooklyn, OH; Buffalo, NY",
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Product-Manager--Consumer-Deposit----Brooklyn--OH_R-40767",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-29T13:22:39.493Z",
+   "postedAt": "2026-07-15T00:00:00.000Z"
   },
   {
    "company": "Free Market Health",
@@ -724,6 +744,16 @@
    "postedAt": "2026-03-11T22:17:40.000Z"
   },
   {
+   "company": "Rise8",
+   "title": "Skillbridge Intern - Product Manager",
+   "location": "Remote in USA",
+   "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-29T22:24:12.000Z"
+  },
+  {
    "company": "Sharp Electronics",
    "title": "Associate Product Manager",
    "location": "Memphis, TN",
@@ -864,16 +894,6 @@
    "postedAt": "2026-07-07T01:13:38.000Z"
   },
   {
-   "company": "TikTok",
-   "title": "Product Manager Intern - Tiktok-Product-Search",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7663349357178620165",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-21T22:16:36.000Z"
-  },
-  {
    "company": "Toshiba Global Commerce",
    "title": "AI Product Management Intern",
    "location": "Durham, NC",
@@ -882,6 +902,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-27T14:18:34.000Z"
+  },
+  {
+   "company": "Trane Technologies",
+   "title": "Associate Product Engineer",
+   "location": "Columbia, SC",
+   "url": "https://careers.tranetechnologies.com/global/en/job/JR-7562",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-06-12T22:08:56.000Z"
   },
   {
    "company": "Uncountable",
