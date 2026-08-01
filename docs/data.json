@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-01T18:38:02.229Z",
+ "generatedAt": "2026-08-01T19:52:10.439Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Signify",
+   "title": "Product Management Intern",
+   "location": "Menlo Park, CA",
+   "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Menlo-Park/Product-Management-Intern---Fall-2026_365521",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-01T19:52:10.439Z",
+   "postedAt": "2026-07-16T00:00:00.000Z"
+  },
   {
    "company": "Northern Trust",
    "title": "Associate Product Manager",
@@ -182,16 +192,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-29T15:30:03.035Z",
    "postedAt": "2026-07-17T00:00:00.000Z"
-  },
-  {
-   "company": "KeyBank",
-   "title": "Consumer Deposit Product Manager",
-   "location": "Brooklyn, OH; Buffalo, NY",
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Product-Manager--Consumer-Deposit----Brooklyn--OH_R-40767",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-29T13:22:39.493Z",
-   "postedAt": "2026-07-15T00:00:00.000Z"
   },
   {
    "company": "Procore Technologies",
@@ -722,16 +722,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-21T22:04:07.000Z"
-  },
-  {
-   "company": "The Home Depot",
-   "title": "Product Manager",
-   "location": "Atlanta, GA",
-   "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product-Manager_Req186958",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-16T00:00:00.000Z"
   },
   {
    "company": "TikTok",
