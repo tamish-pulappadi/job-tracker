@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-01T12:37:53.441Z",
+ "generatedAt": "2026-08-01T14:10:38.339Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Globus Medical",
+   "title": "Product Manager",
+   "location": "King of Prussia, PA",
+   "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Manager_JR106319",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-01T14:10:38.339Z",
+   "postedAt": "2026-03-31T22:08:12.000Z"
+  },
   {
    "company": "Creatify Lab ",
    "title": "Product Manager",
@@ -412,16 +422,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-04T11:49:12.000Z"
-  },
-  {
-   "company": "GAP",
-   "title": "Product Manager 1 - App Wayfinding",
-   "location": "NYC; SF",
-   "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Product-Manager-I---App-Wayfinding_R207923-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-03-03T00:09:39.000Z"
   },
   {
    "company": "GCI",
@@ -872,16 +872,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-04-28T01:05:39.000Z"
-  },
-  {
-   "company": "Vertex",
-   "title": "AI Product Engineer",
-   "location": "Remote in USA",
-   "url": "https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/AI-Product-Engineer_JR102443-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-06-04T22:10:26.000Z"
   },
   {
    "company": "Workday",
