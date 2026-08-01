@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-07-31T23:03:06.589Z",
+ "generatedAt": "2026-08-01T00:10:10.440Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "New York Post Holdings",
+   "title": "Product Intern",
+   "location": "NYC",
+   "url": "https://dowjones.wd1.myworkdayjobs.com/New_York_Post_Careers/job/NYC---1211-Ave-of-the-Americas/Product-Intern--Fall-2026--10-weeks--24-hours-a-week-_Job_Req_54488",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-01T00:10:10.440Z",
+   "postedAt": "2026-07-31T00:00:00.000Z"
+  },
+  {
+   "company": "Skydio",
+   "title": "Product Management Intern",
+   "location": "San Mateo, CA",
+   "url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-01T00:10:10.440Z",
+   "postedAt": "2026-07-31T22:25:00.000Z"
+  },
   {
    "company": "Skydio",
    "title": "Product Management Intern",
@@ -682,16 +702,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-03-11T22:17:40.000Z"
-  },
-  {
-   "company": "Rise8",
-   "title": "Skillbridge Intern - Product Manager",
-   "location": "Remote in USA",
-   "url": "https://job-boards.greenhouse.io/rise8/jobs/4359627007",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-06-29T22:24:12.000Z"
   },
   {
    "company": "Sharp Electronics",
