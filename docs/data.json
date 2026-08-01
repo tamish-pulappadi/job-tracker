@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-01T11:38:56.260Z",
+ "generatedAt": "2026-08-01T12:37:53.441Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -582,16 +582,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-13T22:34:58.000Z"
-  },
-  {
-   "company": "Micron Technology",
-   "title": "Design Validation Product Engineer - DEG Technology",
-   "location": "Boise, ID",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Design-Validation-Product-Engineer--DEG-Technology_JR100261",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-05-06T01:05:19.000Z"
   },
   {
    "company": "Micron Technology",
