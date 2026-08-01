@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-01T10:20:11.730Z",
+ "generatedAt": "2026-08-01T11:38:56.260Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Creatify Lab ",
+   "title": "Product Manager",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/creatify/4da91083-999a-4bf8-b53d-92a179073af2/application",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-01T11:38:56.260Z",
+   "postedAt": "2026-03-05T02:24:37.000Z"
+  },
   {
    "company": "Sweatpals",
    "title": "Product Manager Intern - Host Squad",
@@ -244,16 +254,6 @@
    "postedAt": "2026-07-27T22:13:15.000Z"
   },
   {
-   "company": "East Penn Manufacturing Company",
-   "title": "Product Engineer Intern",
-   "location": "Ann Arbor, MI",
-   "url": "https://careers-eastpennmanufacturing.icims.com/jobs/30021/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T22:54:01.368Z",
-   "postedAt": "2026-07-27T22:05:28.000Z"
-  },
-  {
    "company": " Limble CMMS",
    "title": "Product Manager",
    "location": "Charlotte, NC",
@@ -445,16 +445,6 @@
   },
   {
    "company": "Globus Medical",
-   "title": "Product Manager",
-   "location": "King of Prussia, PA",
-   "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Manager_JR104165",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-05-16T15:11:50.000Z"
-  },
-  {
-   "company": "Globus Medical",
    "title": "Product Manager Associate",
    "location": "King of Prussia, PA",
    "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR107337",
@@ -562,16 +552,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-08T14:10:10.000Z"
-  },
-  {
-   "company": "Litera",
-   "title": "Product Manager - Legal Management",
-   "location": "Toronto, ON, Canada; Denver, CO",
-   "url": "https://litera.wd12.myworkdayjobs.com/Litera_Careers/job/Denver-CO/Product-Manager---Legal-Management_R-501118",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-06-30T22:06:11.000Z"
   },
   {
    "company": "Magna",
