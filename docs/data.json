@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-01T19:52:10.439Z",
+ "generatedAt": "2026-08-01T20:41:09.969Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Dome Systems Inc",
+   "title": "Product Engineer",
+   "location": "Redwood City, CA",
+   "url": "https://jobs.ashbyhq.com/dome-systems-inc/573303b2-efe1-409d-bf58-968a6a2f82a0/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-01T20:41:09.969Z",
+   "postedAt": "2026-07-21T01:15:07.000Z"
+  },
   {
    "company": "Signify",
    "title": "Product Management Intern",
@@ -12,16 +22,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-01T19:52:10.439Z",
    "postedAt": "2026-07-16T00:00:00.000Z"
-  },
-  {
-   "company": "Northern Trust",
-   "title": "Associate Product Manager",
-   "location": "Chicago, IL",
-   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Associate-Product-Manager_R157971",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-01T18:38:02.229Z",
-   "postedAt": "2026-07-21T00:00:00.000Z"
   },
   {
    "company": "Globus Medical",
@@ -114,16 +114,6 @@
    "postedAt": "2026-07-01T22:06:14.000Z"
   },
   {
-   "company": "Advocate Technologies Inc.",
-   "title": "Product Engineer",
-   "location": "NYC",
-   "url": "https://ats.rippling.com/advocate-technologies-inc/jobs/50d16a20-4191-4bac-8915-230f81df29b3",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-31T10:14:21.250Z",
-   "postedAt": "2026-07-21T01:11:52.000Z"
-  },
-  {
    "company": "Armada",
    "title": "Product Manager Associate - Aep Sff",
    "location": "Bellevue, WA",
@@ -182,16 +172,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-29T16:47:44.330Z",
    "postedAt": "2026-07-29T14:06:10.000Z"
-  },
-  {
-   "company": "RTX",
-   "title": "Program/Product Engineer 2",
-   "location": "Pueblo, CO",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-PUEBLO-050--50-William-White-Blvd--BLDG-50/Program-Product-Engineer-II--Onsite-_01860288",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-29T15:30:03.035Z",
-   "postedAt": "2026-07-17T00:00:00.000Z"
   },
   {
    "company": "Procore Technologies",
@@ -622,6 +602,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-08T14:11:31.000Z"
+  },
+  {
+   "company": "Pendulum Intelligence",
+   "title": "Product Manager Intern",
+   "location": "Remote in USA",
+   "url": "https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-21T01:17:34.000Z"
   },
   {
    "company": "PHINIA",
