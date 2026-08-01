@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-01T17:30:12.743Z",
+ "generatedAt": "2026-08-01T18:38:02.229Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Northern Trust",
+   "title": "Associate Product Manager",
+   "location": "Chicago, IL",
+   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Associate-Product-Manager_R157971",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-01T18:38:02.229Z",
+   "postedAt": "2026-07-21T00:00:00.000Z"
+  },
   {
    "company": "Globus Medical",
    "title": "Product Manager",
@@ -582,16 +592,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-06-23T13:45:49.000Z"
-  },
-  {
-   "company": "Northern Trust",
-   "title": "Associate Product Manager",
-   "location": "Chicago, IL",
-   "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Associate-Product-Manager_R157655",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-13T00:00:00.000Z"
   },
   {
    "company": "NOV",
