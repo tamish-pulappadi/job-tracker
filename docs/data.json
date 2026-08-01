@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-01T00:10:10.440Z",
+ "generatedAt": "2026-08-01T03:47:06.115Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Microchip Technology",
+   "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
+   "location": "Chandler, AZ",
+   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-01T03:47:06.115Z",
+   "postedAt": "2026-07-31T00:00:00.000Z"
+  },
   {
    "company": "New York Post Holdings",
    "title": "Product Intern",
