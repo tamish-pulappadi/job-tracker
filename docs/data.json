@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-01T15:16:38.669Z",
+ "generatedAt": "2026-08-01T16:27:28.451Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -344,16 +344,6 @@
    "postedAt": "2026-05-22T22:06:34.000Z"
   },
   {
-   "company": "Clipboard Health",
-   "title": "Product Manager",
-   "location": "SF; NYC",
-   "url": "https://jobs.ashbyhq.com/clipboard/1e6c34a4-26a2-4b71-b210-0ce4f951e3ec/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-01T06:08:07.000Z"
-  },
-  {
    "company": "Databricks",
    "title": "Associate Product Manager, New Grad (2027 Start)",
    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
@@ -412,16 +402,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-06-17T22:09:00.000Z"
-  },
-  {
-   "company": "Frost",
-   "title": "Product Manager 1 - Salesforce",
-   "location": "San Antonio, TX",
-   "url": "https://frostbank.wd5.myworkdayjobs.com/External/job/San-Antonio-TX---One-Frost/Product-Manager-I---Salesforce_R261125",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-04T11:49:12.000Z"
   },
   {
    "company": "GCI",
@@ -602,16 +582,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-06-23T13:45:49.000Z"
-  },
-  {
-   "company": "NJM Insurance Group",
-   "title": "Insurance Product Management Analyst - Associate",
-   "location": "Trenton, NJ",
-   "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst--Associate---Hybrid_R2007869",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-06-23T22:05:22.000Z"
   },
   {
    "company": "Northern Trust",
@@ -832,16 +802,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-27T14:18:34.000Z"
-  },
-  {
-   "company": "Trane Technologies",
-   "title": "Associate Product Engineer",
-   "location": "Columbia, SC",
-   "url": "https://careers.tranetechnologies.com/global/en/job/JR-7562",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-06-12T22:08:56.000Z"
   },
   {
    "company": "Uncountable",
