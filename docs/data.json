@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-08-01T08:37:55.402Z",
+ "generatedAt": "2026-08-01T10:20:11.730Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Sweatpals",
+   "title": "Product Manager Intern - Host Squad",
+   "location": "Remote in USA",
+   "url": "https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-01T10:20:11.730Z",
+   "postedAt": "2026-06-09T22:08:46.000Z"
+  },
+  {
+   "company": "Tessera Labs",
+   "title": "Product Manager Intern",
+   "location": "San Jose, CA; Remote in USA; NYC",
+   "url": "https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-01T10:20:11.730Z",
+   "postedAt": "2026-06-08T06:08:01.000Z"
+  },
   {
    "company": "Microchip Technology",
    "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
@@ -142,16 +162,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-29T13:22:39.493Z",
    "postedAt": "2026-07-15T00:00:00.000Z"
-  },
-  {
-   "company": "Free Market Health",
-   "title": "Associate Product Manager",
-   "location": "Pittsburgh, PA",
-   "url": "https://ats.rippling.com/free-market-health/jobs/984eb0a3-4c1f-425d-8431-a7bd600e668d",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-29T09:28:58.434Z",
-   "postedAt": "2026-07-22T22:13:22.000Z"
   },
   {
    "company": "Procore Technologies",
@@ -672,16 +682,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-08T14:11:31.000Z"
-  },
-  {
-   "company": "Pendulum Intelligence",
-   "title": "Product Manager Intern",
-   "location": "Remote in USA",
-   "url": "https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-21T01:17:34.000Z"
   },
   {
    "company": "PHINIA",
