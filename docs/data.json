@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-02T11:01:47.788Z",
+ "generatedAt": "2026-08-02T12:13:33.694Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -492,6 +492,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-05-16T09:03:41.000Z"
+  },
+  {
+   "company": "LexisNexis Legal & Professional",
+   "title": "Associate Product Manager",
+   "location": "Raleigh, NC",
+   "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Associate-Product-Mgr_R114877-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-08T14:10:10.000Z"
   },
   {
    "company": "Magna",
