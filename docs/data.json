@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-02T13:55:00.943Z",
+ "generatedAt": "2026-08-02T14:54:43.661Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "ABEC",
+   "title": "Product Engineer",
+   "location": "Bethlehem, PA",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372257",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-02T14:54:43.661Z",
+   "postedAt": "2026-07-31T17:09:45.000Z"
+  },
   {
    "company": "Dome Systems Inc",
    "title": "Product Engineer",
