@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-03T18:03:09.268Z",
+ "generatedAt": "2026-08-03T19:55:01.993Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -182,16 +182,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-29T23:39:58.736Z",
    "postedAt": "2026-07-29T00:00:00.000Z"
-  },
-  {
-   "company": "Cooper Companies",
-   "title": "Product Engineer 1 - Research and Development",
-   "location": "Bridgeport, CT",
-   "url": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12101",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-29T22:37:14.868Z",
-   "postedAt": "2026-07-29T22:05:46.000Z"
   },
   {
    "company": "Bosch Home Comfort",
@@ -742,16 +732,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-07T01:13:38.000Z"
-  },
-  {
-   "company": "Toshiba Global Commerce",
-   "title": "AI Product Management Intern",
-   "location": "Durham, NC",
-   "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5195826007",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-27T14:18:34.000Z"
   },
   {
    "company": "Uncountable",
