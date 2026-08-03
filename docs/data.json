@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-03T06:52:49.188Z",
+ "generatedAt": "2026-08-03T10:34:02.131Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Naver U.Hub INC",
+   "title": "Product Management Intern",
+   "location": "Redwood City, CA",
+   "url": "https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-03T10:34:02.131Z",
+   "postedAt": "2026-08-03T06:15:19.000Z"
+  },
   {
    "company": "American Express",
    "title": "Product Management Intern - Product Innovation - Credit & Fraud Risk",
@@ -712,16 +722,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-21T22:04:07.000Z"
-  },
-  {
-   "company": "TikTok",
-   "title": "Product Manager Intern",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7613587198434855173",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-03-12T01:10:52.000Z"
   },
   {
    "company": "TikTok",
