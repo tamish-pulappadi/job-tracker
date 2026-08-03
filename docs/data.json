@@ -1,8 +1,48 @@
 {
- "generatedAt": "2026-08-03T22:04:00.530Z",
+ "generatedAt": "2026-08-03T23:17:45.744Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Always Compassionate Home Care",
+   "title": "Associate Technical Product Manager",
+   "location": "Melville, NY",
+   "url": "https://alwayscompassionate.wd1.myworkdayjobs.com/achomecare/job/Melville-NY/Associate-Technical-Product-Manager_JR102829",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-03T23:17:45.744Z",
+   "postedAt": "2026-07-24T00:00:00.000Z"
+  },
+  {
+   "company": "Amazon",
+   "title": "Product Manager",
+   "location": "Seattle, WA",
+   "url": "https://amazon.jobs/en/jobs/10490981/2027-amazon-leadership-accelerator-ala-product-manager-full-time",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-03T23:17:45.744Z",
+   "postedAt": "2026-08-03T22:13:41.000Z"
+  },
+  {
+   "company": "Pentair",
+   "title": "Product Management Internship",
+   "location": "Apex, NC; Brookfield, WI; Delavan, WI; North Aurora, IL; New Brighton, MN; Golden Valley, MN",
+   "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-03T23:17:45.744Z",
+   "postedAt": "2026-08-03T00:00:00.000Z"
+  },
+  {
+   "company": "StudyFetch",
+   "title": "Product Intern",
+   "location": "Beverly Hills, CA",
+   "url": "https://ats.rippling.com/studyfetch/jobs/45f16361-69b0-4e74-8cc3-d2574336c76f",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-03T23:17:45.744Z",
+   "postedAt": "2026-08-03T22:19:20.000Z"
+  },
   {
    "company": "Naver U.Hub INC",
    "title": "Product Management Intern",
