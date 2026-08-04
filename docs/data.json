@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-08-03T23:17:45.744Z",
+ "generatedAt": "2026-08-04T00:57:57.580Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Analog Devices",
+   "title": "Product Engineer - Design Evaluation",
+   "location": "Wilmington, MA",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-04T00:57:57.580Z",
+   "postedAt": "2026-08-03T00:00:00.000Z"
+  },
+  {
+   "company": "Uline",
+   "title": "Product Management Intern",
+   "location": "Waukegan, IL; Milwaukee, WI; Glenview, IL; Pleasant Prairie, WI; Kenosha, WI",
+   "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-04T00:57:57.580Z",
+   "postedAt": "2026-08-03T00:00:00.000Z"
+  },
   {
    "company": "Always Compassionate Home Care",
    "title": "Associate Technical Product Manager",
