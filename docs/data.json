@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-08-04T21:54:56.288Z",
+ "generatedAt": "2026-08-04T22:53:52.952Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Ancestry",
+   "title": "Associate Technical Product Manager",
+   "location": "Draper, UT",
+   "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Associate-Technical-Product-Manager_R003418",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-04T22:53:52.952Z",
+   "postedAt": "2026-08-04T00:00:00.000Z"
+  },
+  {
+   "company": "Ancestry",
+   "title": "Associate Technical Product Manager - Data, AI & Analytics Platforms",
+   "location": "Draper, UT",
+   "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Draper-UT/Associate-Technical-Product-Manager_R003422-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-04T22:53:52.952Z",
+   "postedAt": "2026-08-04T00:00:00.000Z"
+  },
   {
    "company": "TikTok",
    "title": "Recommendation Product Manager Intern - Content Ecosystem",
@@ -252,16 +272,6 @@
    "source": "Company board",
    "firstSeen": "2026-07-31T19:49:54.251Z",
    "postedAt": "2026-07-31T18:17:29.917+00:00"
-  },
-  {
-   "company": "Gemini",
-   "title": "Product Management Intern",
-   "location": "NYC",
-   "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8041452&gh_jid=8041452",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-31T12:17:48.438Z",
-   "postedAt": "2026-07-01T22:06:14.000Z"
   },
   {
    "company": "Armada",
