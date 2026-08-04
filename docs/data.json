@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-04T00:57:57.580Z",
+ "generatedAt": "2026-08-04T04:12:49.592Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "American Express",
+   "title": "Product Management Intern",
+   "location": "NYC",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-04T04:12:49.592Z",
+   "postedAt": "2026-08-04T01:13:43.000Z"
+  },
   {
    "company": "Analog Devices",
    "title": "Product Engineer - Design Evaluation",
@@ -512,6 +522,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-21T01:15:45.000Z"
+  },
+  {
+   "company": "Hunter Douglas",
+   "title": "Associate Product Manager",
+   "location": "Broomfield, CO",
+   "url": "https://jobs.hunterdouglas.com/division/hunterdouglas/job/7807654003?gh_jid=7807654003",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-24T22:31:20.000Z"
   },
   {
    "company": "IXL Learning",
