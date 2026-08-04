@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-04T22:53:52.952Z",
+ "generatedAt": "2026-08-04T23:56:25.657Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Allstate Insurance Company",
+   "title": "Insurance Product Management Consultant 1",
+   "location": "Remote in USA",
+   "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Remote---Remote/Insurance-Product-Management-Consultant-I_R33266",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-04T23:56:25.657Z",
+   "postedAt": "2026-08-04T00:00:00.000Z"
+  },
   {
    "company": "Ancestry",
    "title": "Associate Technical Product Manager",
