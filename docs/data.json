@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-08-04T04:12:49.592Z",
+ "generatedAt": "2026-08-04T06:40:33.839Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Microsoft",
+   "title": "Full-Stack Product Engineer Intern - Web + Services",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-04T06:40:33.839Z",
+   "postedAt": "2026-08-04T06:09:43.000Z"
+  },
+  {
+   "company": "SynQor",
+   "title": "Electrical Product Engineer",
+   "location": "Salem, NH",
+   "url": "https://jobs.jobvite.com/synqor-careers/job/o2EKxfwH?nl=1&nl=1&fr=false",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-04T06:40:33.839Z",
+   "postedAt": "2026-08-04T06:14:42.000Z"
+  },
   {
    "company": "American Express",
    "title": "Product Management Intern",
