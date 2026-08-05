@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05T07:59:51.606Z",
+ "generatedAt": "2026-08-05T10:40:02.023Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -294,16 +294,6 @@
    "postedAt": "2026-06-08T06:08:01.000Z"
   },
   {
-   "company": "Microchip Technology",
-   "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
-   "location": "Chandler, AZ",
-   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-01T03:47:06.115Z",
-   "postedAt": "2026-07-31T00:00:00.000Z"
-  },
-  {
    "company": "New York Post Holdings",
    "title": "Product Intern",
    "location": "NYC",
@@ -352,16 +342,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-30T23:17:14.407Z",
    "postedAt": "2026-07-30T22:06:05.000Z"
-  },
-  {
-   "company": "Stanley Black & Decker",
-   "title": "Associate Product Manager",
-   "location": "Towson, MD",
-   "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000050213",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-29T23:39:58.736Z",
-   "postedAt": "2026-07-29T00:00:00.000Z"
   },
   {
    "company": "Bosch Home Comfort",
