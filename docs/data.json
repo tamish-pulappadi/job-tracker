@@ -1,8 +1,58 @@
 {
- "generatedAt": "2026-08-05T05:23:58.067Z",
+ "generatedAt": "2026-08-05T07:59:51.606Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "John Deere",
+   "title": "Part-Time Student - Product Engineering",
+   "location": "Moline, IL",
+   "url": "https://johndeere.eightfold.ai/careers/job/137481425666",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-05T07:59:51.606Z",
+   "postedAt": "2026-08-05T06:15:46.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Engine Lab Support Part-Time Student - Product Engineering",
+   "location": "Waterloo, IA",
+   "url": "https://johndeere.eightfold.ai/careers/job/137482177469",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-05T07:59:51.606Z",
+   "postedAt": "2026-08-05T06:15:44.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Advanced Engineering Student Intern - Product Engineering",
+   "location": "Fargo, ND",
+   "url": "https://johndeere.eightfold.ai/careers/job/137481393611",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-05T07:59:51.606Z",
+   "postedAt": "2026-08-05T06:15:46.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Sensor Software Design Student - Product Engineering",
+   "location": "Fargo, ND",
+   "url": "https://johndeere.eightfold.ai/careers/job/137481396869",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-05T07:59:51.606Z",
+   "postedAt": "2026-08-05T06:15:46.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Electrical Systems Engineer Part-Time Student - Product Engineering",
+   "location": "Silvis, IL",
+   "url": "https://johndeere.eightfold.ai/careers/job/137482489158",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-05T07:59:51.606Z",
+   "postedAt": "2026-08-05T06:15:43.000Z"
+  },
   {
    "company": "Allstate Insurance Company",
    "title": "Insurance Product Management Consultant 1",
