@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05T20:59:03.201Z",
+ "generatedAt": "2026-08-05T22:13:22.543Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -532,16 +532,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-16T22:19:18.000Z"
-  },
-  {
-   "company": "Entrust",
-   "title": "Associate Product Manager",
-   "location": "Shakopee, MN",
-   "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Associate-Product-Manager_R003951",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-06-17T22:09:00.000Z"
   },
   {
    "company": "GCI",
