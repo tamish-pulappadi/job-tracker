@@ -1,7 +1,9 @@
 {
- "generatedAt": "2026-08-05T18:02:48.189Z",
+ "generatedAt": "2026-08-05T19:52:29.552Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Amplitude: The operation was aborted due to timeout"
+ ],
  "jobs": [
   {
    "company": "John Deere",
@@ -732,16 +734,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-21T01:17:34.000Z"
-  },
-  {
-   "company": "PHINIA",
-   "title": "Alternator Electronics Product Engineer",
-   "location": "Auburn Hills, MI; Anderson, IN",
-   "url": "https://phinia.wd5.myworkdayjobs.com/PHINIA_Careers/job/Anderson---Indiana---USA/Alternator-Electronics-Product-Engineer_R2026-0336",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-05-13T22:07:11.000Z"
   },
   {
    "company": "Polar Semiconductor",
