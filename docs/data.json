@@ -1,9 +1,7 @@
 {
- "generatedAt": "2026-08-05T19:52:29.552Z",
+ "generatedAt": "2026-08-05T20:59:03.201Z",
  "companiesTracked": 93,
- "failures": [
-  "Amplitude: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
   {
    "company": "John Deere",
