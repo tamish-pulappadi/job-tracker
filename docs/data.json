@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05T16:27:14.843Z",
+ "generatedAt": "2026-08-05T18:02:48.189Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -532,16 +532,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-16T22:19:18.000Z"
-  },
-  {
-   "company": "Direct Staffing",
-   "title": "Product Engineer",
-   "location": "Perrysburg, OH",
-   "url": "https://jobs.smartrecruiters.com/dstaff/80162129",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-02-23T07:16:37.000Z"
   },
   {
    "company": "Entrust",
