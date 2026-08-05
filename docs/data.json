@@ -1,8 +1,38 @@
 {
- "generatedAt": "2026-08-05T22:13:22.543Z",
+ "generatedAt": "2026-08-05T23:18:07.770Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "American Express",
+   "title": "Product Management Intern - Global Merchant & Network Services",
+   "location": "NYC",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-05T23:18:07.770Z",
+   "postedAt": "2026-08-05T22:15:36.000Z"
+  },
+  {
+   "company": "American Express",
+   "title": "Product Management Intern - Global Merchant & Network Services",
+   "location": "Phoenix, AZ",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-05T23:18:07.770Z",
+   "postedAt": "2026-08-05T22:15:36.000Z"
+  },
+  {
+   "company": "Gilbane Building Company",
+   "title": "Product Management Specialist 1",
+   "location": "Boston, MA; Providence, RI; Glastonbury, CT",
+   "url": "https://careers-gilbaneco.icims.com/jobs/13115/job?mobile=true&needsRedirect=false",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-05T23:18:07.770Z",
+   "postedAt": "2026-08-05T22:14:35.000Z"
+  },
   {
    "company": "John Deere",
    "title": "Part-Time Student - Product Engineering",
