@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-05T02:00:31.066Z",
+ "generatedAt": "2026-08-05T05:23:58.067Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -592,16 +592,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-02T22:10:58.000Z"
-  },
-  {
-   "company": "John Deere",
-   "title": "Part-Time Student - Continuous Improvement - Waterloo IA Product Engineering (CA)",
-   "location": "Waterloo, IA",
-   "url": "https://johndeere.eightfold.ai/careers/job/137478896949",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-02-09T15:13:57.000Z"
   },
   {
    "company": "k-ID",
