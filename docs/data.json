@@ -1,8 +1,21 @@
 {
- "generatedAt": "2026-08-06T13:18:57.019Z",
+ "generatedAt": "2026-08-06T15:40:34.208Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Lattice: The operation was aborted due to timeout",
+  "Reddit: The operation was aborted due to timeout"
+ ],
  "jobs": [
+  {
+   "company": "Amplify",
+   "title": "Associate Product Manager",
+   "location": "Remote in USA",
+   "url": "https://jobs.ashbyhq.com/amplify/cbe758ef-1a66-4513-a263-e83b0d445c82/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-06T15:40:34.208Z",
+   "postedAt": "2026-08-06T14:15:47.000Z"
+  },
   {
    "company": "TikTok",
    "title": "Product Manager Intern - Product Infrastructure - Account",
