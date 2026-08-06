@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-08-06T00:49:27.603Z",
+ "generatedAt": "2026-08-06T03:58:47.370Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - Product Infrastructure - Account",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7670009830602721589",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-06T03:58:47.370Z",
+   "postedAt": "2026-08-06T01:18:25.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Strategy Product Manager Intern - Platform Responsibility",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7670420287191517493",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-06T03:58:47.370Z",
+   "postedAt": "2026-08-06T01:18:23.000Z"
+  },
   {
    "company": "American Express",
    "title": "Product Management Intern - Global Merchant & Network Services",
@@ -82,16 +102,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-05T07:59:51.606Z",
    "postedAt": "2026-08-05T06:15:43.000Z"
-  },
-  {
-   "company": "Allstate Insurance Company",
-   "title": "Insurance Product Management Consultant 1",
-   "location": "Remote in USA",
-   "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Remote---Remote/Insurance-Product-Management-Consultant-I_R33266",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-04T23:56:25.657Z",
-   "postedAt": "2026-08-04T00:00:00.000Z"
   },
   {
    "company": "Ancestry",
