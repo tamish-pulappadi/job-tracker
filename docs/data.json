@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06T11:41:07.231Z",
+ "generatedAt": "2026-08-06T13:18:57.019Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -382,6 +382,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-30T23:17:14.407Z",
    "postedAt": "2026-07-30T22:06:05.000Z"
+  },
+  {
+   "company": "Stanley Black & Decker",
+   "title": "Associate Product Manager",
+   "location": "Towson, MD",
+   "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000050213",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-29T23:39:58.736Z",
+   "postedAt": "2026-07-29T00:00:00.000Z"
   },
   {
    "company": "Bosch Home Comfort",
