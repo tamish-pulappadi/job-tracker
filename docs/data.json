@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-06T09:28:59.879Z",
+ "generatedAt": "2026-08-06T11:41:07.231Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -652,6 +652,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-21T01:17:50.000Z"
+  },
+  {
+   "company": "Kantar",
+   "title": "Product Manager Associate",
+   "location": "NYC",
+   "url": "https://kantar.wd3.myworkdayjobs.com/kantar/job/New-York-World-Trade-Center/Associate-Product-Manager_R101614",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-14T00:00:00.000Z"
   },
   {
    "company": "KLA",
