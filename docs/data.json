@@ -1,11 +1,48 @@
 {
- "generatedAt": "2026-08-06T15:40:34.208Z",
+ "generatedAt": "2026-08-07T00:36:19.535Z",
  "companiesTracked": 93,
- "failures": [
-  "Lattice: The operation was aborted due to timeout",
-  "Reddit: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
+  {
+   "company": "IXL Learning",
+   "title": "Associate Product Manager New Grad",
+   "location": "San Mateo, CA",
+   "url": "https://www.ixl.com/company/jobs?gh_jid=8663710002",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-07T00:36:19.535Z",
+   "postedAt": "2026-08-06T22:21:06.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Display Software Development Student - Product Engineering",
+   "location": "Dubuque, IA",
+   "url": "https://johndeere.eightfold.ai/careers/job/137482576578",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-07T00:36:19.535Z",
+   "postedAt": "2026-08-06T22:20:07.000Z"
+  },
+  {
+   "company": "Solace Health",
+   "title": "Associate Product Engineer",
+   "location": "Redwood City, CA",
+   "url": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-07T00:36:19.535Z",
+   "postedAt": "2026-08-06T22:17:41.000Z"
+  },
+  {
+   "company": "Solace Health",
+   "title": "Associate Product Manager",
+   "location": "Redwood City, CA",
+   "url": "https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-07T00:36:19.535Z",
+   "postedAt": "2026-08-06T22:17:40.000Z"
+  },
   {
    "company": "Amplify",
    "title": "Associate Product Manager",
@@ -115,6 +152,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-05T07:59:51.606Z",
    "postedAt": "2026-08-05T06:15:43.000Z"
+  },
+  {
+   "company": "Allstate Insurance Company",
+   "title": "Insurance Product Management Consultant 1",
+   "location": "Remote in USA",
+   "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Remote---Remote/Insurance-Product-Management-Consultant-I_R33266",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-04T23:56:25.657Z",
+   "postedAt": "2026-08-04T00:00:00.000Z"
   },
   {
    "company": "Ancestry",
@@ -657,16 +704,6 @@
    "postedAt": "2026-07-24T22:31:20.000Z"
   },
   {
-   "company": "IXL Learning",
-   "title": "Associate Product Manager New Grad",
-   "location": "San Mateo, CA",
-   "url": "https://www.ixl.com/company/jobs?gh_jid=8615730002",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-02T22:10:58.000Z"
-  },
-  {
    "company": "k-ID",
    "title": "Product Intern",
    "location": "United States",
@@ -765,16 +802,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-02-12T15:04:25.000Z"
-  },
-  {
-   "company": "NOV",
-   "title": "Sustaining Product Engineer",
-   "location": "Tulsa, OK",
-   "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/42801",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-08T22:09:51.000Z"
   },
   {
    "company": "Owens & Minor",
