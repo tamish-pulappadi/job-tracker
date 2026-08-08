@@ -1,8 +1,68 @@
 {
- "generatedAt": "2026-08-07T22:16:55.207Z",
+ "generatedAt": "2026-08-08T06:00:41.238Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Alto-Shaam",
+   "title": "Associate Product Manager - Pricing",
+   "location": "Menomonee Falls, WI",
+   "url": "https://jobs.smartrecruiters.com/Alto-Shaam/744000142148579",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-08T06:00:41.238Z",
+   "postedAt": "2026-08-07T22:06:10.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Part-Time Student - Dynamic Systems Modeling - Product Engineering",
+   "location": "Dubuque, IA",
+   "url": "https://johndeere.eightfold.ai/careers/job/137482642817",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-08T06:00:41.238Z",
+   "postedAt": "2026-08-07T22:20:01.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Product Engineer Student - Product Engineering",
+   "location": "Fuquay-Varina, NC",
+   "url": "https://johndeere.eightfold.ai/careers/job/137482643871",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-08T06:00:41.238Z",
+   "postedAt": "2026-08-07T22:20:01.000Z"
+  },
+  {
+   "company": "Medline",
+   "title": "MBA Intern - Product Management",
+   "location": "Chicago, IL; Northfield, IL",
+   "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-08T06:00:41.238Z",
+   "postedAt": "2026-08-07T00:00:00.000Z"
+  },
+  {
+   "company": "NXP Semiconductors",
+   "title": "Software Product Manager",
+   "location": "Austin, TX",
+   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Product-Manager_R-10064599",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-08T06:00:41.238Z",
+   "postedAt": "2026-08-07T00:00:00.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7670010726514493749",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-08T06:00:41.238Z",
+   "postedAt": "2026-08-07T22:19:25.000Z"
+  },
   {
    "company": "IXL Learning",
    "title": "Associate Product Manager New Grad",
@@ -12,16 +72,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-07T00:36:19.535Z",
    "postedAt": "2026-08-06T22:21:06.000Z"
-  },
-  {
-   "company": "John Deere",
-   "title": "Display Software Development Student - Product Engineering",
-   "location": "Dubuque, IA",
-   "url": "https://johndeere.eightfold.ai/careers/job/137482576578",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-07T00:36:19.535Z",
-   "postedAt": "2026-08-06T22:20:07.000Z"
   },
   {
    "company": "Solace Health",
@@ -152,16 +202,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-05T07:59:51.606Z",
    "postedAt": "2026-08-05T06:15:43.000Z"
-  },
-  {
-   "company": "Ancestry",
-   "title": "Associate Technical Product Manager",
-   "location": "Draper, UT",
-   "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Associate-Technical-Product-Manager_R003418",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-04T22:53:52.952Z",
-   "postedAt": "2026-08-04T00:00:00.000Z"
   },
   {
    "company": "Ancestry",
