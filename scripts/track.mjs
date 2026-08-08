@@ -270,15 +270,18 @@ async function notify(job) {
     console.log(`[dry-run notify] ${title} | ${body} | ${job.url}`);
     return;
   }
-  const res = await fetch(`${server}/${topic}`, {
+  // publish via the JSON endpoint: HTTP headers only allow Latin-1, and
+  // titles/URLs can contain arbitrary Unicode (em dashes, accents, ...)
+  const res = await fetch(server, {
     method: "POST",
-    body,
-    headers: {
-      Title: title,
-      Click: job.url,
-      Tags: jobKind(job.title) === "intern" ? "mortar_board" : "briefcase",
-      Priority: "high",
-    },
+    body: JSON.stringify({
+      topic,
+      title,
+      message: body,
+      click: job.url,
+      tags: [jobKind(job.title) === "intern" ? "mortar_board" : "briefcase"],
+      priority: 4,
+    }),
     signal: AbortSignal.timeout(15000),
   });
   if (!res.ok) console.error(`ntfy failed (${res.status}) for ${title}`);
@@ -287,7 +290,13 @@ async function notify(job) {
 if (firstRun) {
   console.log(`first run: seeded ${jobs.length} jobs without notifying`);
 } else {
-  for (const j of newJobs) await notify(j);
+  for (const j of newJobs) {
+    try {
+      await notify(j);
+    } catch (err) {
+      console.error(`notify failed for ${j.company} ${j.title}: ${err.message}`);
+    }
+  }
   console.log(`${newJobs.length} new job(s) of ${jobs.length} tracked`);
 }
 
