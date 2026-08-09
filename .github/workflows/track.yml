@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
+    inputs:
+      test:
+        description: "Send a test notification to verify ntfy delivery"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -22,7 +27,19 @@ jobs:
         with:
           node-version: 24
 
+      - name: Send test notification
+        if: inputs.test
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ vars.NTFY_SERVER || 'https://ntfy.sh' }}
+        run: |
+          curl -fsS -X POST "$NTFY_SERVER" \
+            -d "{\"topic\":\"$NTFY_TOPIC\",\"title\":\"job-tracker test\",\"message\":\"If you can read this, ntfy delivery works end to end.\",\"priority\":4}" \
+            > /dev/null
+          echo "test notification accepted by $NTFY_SERVER"
+
       - name: Run tracker
+        if: ${{ !inputs.test }}
         run: node scripts/track.mjs
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
