@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10T20:59:47.278Z",
+ "generatedAt": "2026-08-10T21:44:14.947Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -572,16 +572,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-29T00:56:53.064Z",
    "postedAt": "2026-07-28T00:00:00.000Z"
-  },
-  {
-   "company": "Linamar",
-   "title": "Product Engineer",
-   "location": "Livonia, MI",
-   "url": "https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14006",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-28T23:27:48.485Z",
-   "postedAt": "2026-07-28T22:09:39.000Z"
   },
   {
    "company": "Super Micro Computer",
