@@ -1,8 +1,48 @@
 {
- "generatedAt": "2026-08-10T06:21:19.220Z",
+ "generatedAt": "2026-08-10T08:12:04.104Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Cummins",
+   "title": "Electronic Systems Product Engineer",
+   "location": "Seymour, IN",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2432793",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-10T08:12:04.104Z",
+   "postedAt": "2026-08-10T06:15:32.000Z"
+  },
+  {
+   "company": "Cummins",
+   "title": "Product Engineer",
+   "location": "Columbus, IN",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434797",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-10T08:12:04.104Z",
+   "postedAt": "2026-08-10T06:15:34.000Z"
+  },
+  {
+   "company": "Cummins",
+   "title": "Product Engineer - Turbo Platform Product Engineering",
+   "location": "Columbus, IN",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434284",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-10T08:12:04.104Z",
+   "postedAt": "2026-08-10T06:15:34.000Z"
+  },
+  {
+   "company": "Cummins",
+   "title": "Electronic Systems Product Engineer - Electronic Systems",
+   "location": "Columbus, IN",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434498",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-10T08:12:04.104Z",
+   "postedAt": "2026-08-10T06:15:34.000Z"
+  },
   {
    "company": "Alto-Shaam",
    "title": "Associate Product Manager - Pricing",
