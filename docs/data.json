@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-10T19:14:23.142Z",
+ "generatedAt": "2026-08-10T20:02:52.766Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "LPL Financial Holdings",
+   "title": "Product Management New Grad - Product",
+   "location": "Austin, TX; Fort Mill, SC; Charlotte, NC",
+   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-10T20:02:52.766Z",
+   "postedAt": "2026-08-10T00:00:00.000Z"
+  },
   {
    "company": "Capital One",
    "title": "Product Manager - MBA",
@@ -742,16 +752,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-24T00:00:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Foundation Engineering Product Management Associate",
-   "location": "Salt Lake City, UT",
-   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176110",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-01T14:07:41.000Z"
   },
   {
    "company": "Hubs.is",
