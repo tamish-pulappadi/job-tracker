@@ -1,8 +1,38 @@
 {
- "generatedAt": "2026-08-10T22:20:28.126Z",
+ "generatedAt": "2026-08-10T23:04:24.264Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Chamberlain Group",
+   "title": "Community Product Management Intern - Summer 2027",
+   "location": "Oak Brook, IL",
+   "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-10T23:04:24.264Z",
+   "postedAt": "2026-08-10T00:00:00.000Z"
+  },
+  {
+   "company": "EaglePicher Technologies",
+   "title": "Product Engineer - Energetics",
+   "location": "Joplin, MO",
+   "url": "https://careers-eaglepicher.icims.com/jobs/3135/job?mobile=true&needsRedirect=false",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-10T23:04:24.264Z",
+   "postedAt": "2026-08-10T22:24:53.000Z"
+  },
+  {
+   "company": "RLI",
+   "title": "Product Management Intern",
+   "location": "Honolulu, HI",
+   "url": "https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-10T23:04:24.264Z",
+   "postedAt": "2026-08-10T00:00:00.000Z"
+  },
   {
    "company": "LPL Financial Holdings",
    "title": "Product Management New Grad - Product",
