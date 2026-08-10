@@ -1,7 +1,9 @@
 {
- "generatedAt": "2026-08-10T12:48:16.550Z",
+ "generatedAt": "2026-08-10T14:15:21.119Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Vercel: The operation was aborted due to timeout"
+ ],
  "jobs": [
   {
    "company": "Cummins",
