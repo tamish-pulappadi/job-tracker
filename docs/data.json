@@ -1,10 +1,18 @@
 {
- "generatedAt": "2026-08-10T14:15:21.119Z",
+ "generatedAt": "2026-08-10T15:18:12.122Z",
  "companiesTracked": 93,
- "failures": [
-  "Vercel: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
+  {
+   "company": "Vertiv",
+   "title": "Product Management Intern",
+   "location": "Westerville, OH",
+   "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-10T15:18:12.122Z",
+   "postedAt": "2026-08-10T14:09:38.000Z"
+  },
   {
    "company": "Cummins",
    "title": "Electronic Systems Product Engineer",
