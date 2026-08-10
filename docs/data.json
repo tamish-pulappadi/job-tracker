@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-10T20:02:52.766Z",
+ "generatedAt": "2026-08-10T20:59:47.278Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -592,16 +592,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-28T23:27:48.485Z",
    "postedAt": "2026-05-30T01:06:16.000Z"
-  },
-  {
-   "company": "Phoenix Contact",
-   "title": "Product Manager 1 - Product Solutions",
-   "location": "Hershey, PA",
-   "url": "https://job-boards.greenhouse.io/phoenixcontact/jobs/7812658003",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T23:56:24.722Z",
-   "postedAt": "2026-07-27T22:13:15.000Z"
   },
   {
    "company": "East Penn Manufacturing Company",
