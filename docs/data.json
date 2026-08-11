@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-11T06:35:04.755Z",
+ "generatedAt": "2026-08-11T07:52:09.948Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Moog ",
+   "title": "Product Engineering Intern",
+   "location": "Buffalo, NY",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-11T07:52:09.948Z",
+   "postedAt": "2026-08-10T00:00:00.000Z"
+  },
   {
    "company": "CWILL",
    "title": "Product Management Trainee - Bilingual Mandarin Required",
@@ -362,16 +372,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-04T11:38:57.247Z",
    "postedAt": "2026-08-04T09:20:11.000Z"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Full-Stack Product Engineer Intern - Web + Services",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-04T06:40:33.839Z",
-   "postedAt": "2026-08-04T06:09:43.000Z"
   },
   {
    "company": "SynQor",
