@@ -1,8 +1,41 @@
 {
- "generatedAt": "2026-08-11T22:04:13.445Z",
+ "generatedAt": "2026-08-11T23:00:51.981Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Carta: The operation was aborted due to timeout",
+  "Dropbox: The operation was aborted due to timeout"
+ ],
  "jobs": [
+  {
+   "company": "ASSA ABLOY",
+   "title": "Product Engineer 1",
+   "location": "Mason City, IA",
+   "url": "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-I-IA-50401/1425404233/?ats=successfactors",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-11T23:00:51.981Z",
+   "postedAt": "2026-08-11T22:02:31.000Z"
+  },
+  {
+   "company": "Red Ventures",
+   "title": "Associate Product Manager - AI",
+   "location": "Charlotte, NC",
+   "url": "https://www.redventures.com/careers/positions/open?gh_jid=8092530",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-11T23:00:51.981Z",
+   "postedAt": "2026-08-11T22:17:45.000Z"
+  },
+  {
+   "company": "Red Ventures",
+   "title": "Associate Product Manager - AI",
+   "location": "NYC",
+   "url": "https://www.redventures.com/careers/positions/open?gh_jid=8121430",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-11T23:00:51.981Z",
+   "postedAt": "2026-08-11T22:17:48.000Z"
+  },
   {
    "company": "TikTok",
    "title": "AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams",
