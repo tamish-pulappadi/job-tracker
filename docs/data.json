@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-11T18:33:32.084Z",
+ "generatedAt": "2026-08-11T19:44:26.602Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -81,16 +81,6 @@
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-08-10T23:04:24.264Z",
-   "postedAt": "2026-08-10T00:00:00.000Z"
-  },
-  {
-   "company": "LPL Financial Holdings",
-   "title": "Product Management New Grad - Product",
-   "location": "Austin, TX; Fort Mill, SC; Charlotte, NC",
-   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-10T20:02:52.766Z",
    "postedAt": "2026-08-10T00:00:00.000Z"
   },
   {
@@ -212,16 +202,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-07T00:36:19.535Z",
    "postedAt": "2026-08-06T22:21:06.000Z"
-  },
-  {
-   "company": "Solace Health",
-   "title": "Associate Product Engineer",
-   "location": "Redwood City, CA",
-   "url": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-07T00:36:19.535Z",
-   "postedAt": "2026-08-06T22:17:41.000Z"
   },
   {
    "company": "Solace Health",
