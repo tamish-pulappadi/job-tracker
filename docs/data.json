@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-12T03:50:11.571Z",
+ "generatedAt": "2026-08-12T05:24:33.486Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -242,16 +242,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-07T00:36:19.535Z",
    "postedAt": "2026-08-06T22:21:06.000Z"
-  },
-  {
-   "company": "Solace Health",
-   "title": "Associate Product Manager",
-   "location": "Redwood City, CA",
-   "url": "https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-07T00:36:19.535Z",
-   "postedAt": "2026-08-06T22:17:40.000Z"
   },
   {
    "company": "Amplify",
