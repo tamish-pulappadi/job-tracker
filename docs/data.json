@@ -1,8 +1,48 @@
 {
- "generatedAt": "2026-08-12T14:44:18.347Z",
+ "generatedAt": "2026-08-12T15:39:34.850Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - Signal and Identity Product",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7672554809555192117",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-12T15:39:34.850Z",
+   "postedAt": "2026-08-12T14:35:09.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - Ads Interface and Platform",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7672562486917286149",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-12T15:39:34.850Z",
+   "postedAt": "2026-08-12T14:32:02.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - Ads Interface and Platform",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7672569081632229685",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-12T15:39:34.850Z",
+   "postedAt": "2026-08-12T14:32:02.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - Commerce Ads",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7672557943224961333",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-12T15:39:34.850Z",
+   "postedAt": "2026-08-12T14:32:03.000Z"
+  },
   {
    "company": "ASSA ABLOY",
    "title": "Product Engineer 1",
