@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-12T22:09:03.087Z",
+ "generatedAt": "2026-08-12T22:58:20.660Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "TikTok",
+   "title": "AI Product Manager Graduate - Content Ecosystem",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7667472978298767621",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-12T22:58:20.660Z",
+   "postedAt": "2026-08-12T22:08:44.000Z"
+  },
   {
    "company": "Vertiv",
    "title": "IT Systems Product Management Intern - Summer 2027",
