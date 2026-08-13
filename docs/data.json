@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-13T11:28:01.586Z",
+ "generatedAt": "2026-08-13T12:09:14.304Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Tesla",
+   "title": "Product Manager Intern - Residential Energy Engineering",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/275178",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-13T12:09:14.304Z",
+   "postedAt": "2026-06-27T01:11:00.000Z"
+  },
   {
    "company": "Tuckernuck",
    "title": "Product Management Intern",
