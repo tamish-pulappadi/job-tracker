@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-13T05:06:06.139Z",
+ "generatedAt": "2026-08-13T06:43:00.128Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -342,16 +342,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-07T00:36:19.535Z",
    "postedAt": "2026-08-06T22:21:06.000Z"
-  },
-  {
-   "company": "Amplify",
-   "title": "Associate Product Manager",
-   "location": "Remote in USA",
-   "url": "https://jobs.ashbyhq.com/amplify/cbe758ef-1a66-4513-a263-e83b0d445c82/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-06T15:40:34.208Z",
-   "postedAt": "2026-08-06T14:15:47.000Z"
   },
   {
    "company": "TikTok",
