@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-13T22:59:33.914Z",
+ "generatedAt": "2026-08-13T23:44:45.181Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Newell Brands",
+   "title": "Associate Product Engineer - Home Fragrance",
+   "location": "Amherst, MA",
+   "url": "https://jobs.newellbrands.com/job/South-Deerfield-Associate-Product-Engineer,-Home-Fragrance-Mass/1400762300/?ats=successfactors",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-13T23:44:45.181Z",
+   "postedAt": "2026-06-17T22:10:31.000Z"
+  },
   {
    "company": "Tesla",
    "title": "Product Manager Intern - Residential Energy Engineering",
@@ -1072,16 +1082,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-02T22:15:10.000Z"
-  },
-  {
-   "company": "Tesla",
-   "title": "Supercharger Product Engineer Intern - Supercharger Product Support Engineering",
-   "location": "Palo Alto, CA",
-   "url": "https://www.tesla.com/careers/search/job/273531",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-06-11T01:07:34.000Z"
   },
   {
    "company": "Tesla",
