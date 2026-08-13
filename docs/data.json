@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-13T06:43:00.128Z",
+ "generatedAt": "2026-08-13T08:05:12.846Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Tuckernuck",
+   "title": "Product Management Intern",
+   "location": "Washington, DC",
+   "url": "https://tnuck.bamboohr.com/careers/273/",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-13T08:05:12.846Z",
+   "postedAt": "2026-08-13T06:25:15.000Z"
+  },
   {
    "company": "Resmed",
    "title": "Associate Software Engineer - Digital Product Engineering - Internet-of-Things",
