@@ -1,8 +1,88 @@
 {
- "generatedAt": "2026-08-14T03:13:02.270Z",
+ "generatedAt": "2026-08-14T05:02:35.156Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "International Motors, LLC",
+   "title": "Product Engineer - Electrical",
+   "location": "San Antonio, TX",
+   "url": "https://careers.navistar.com/jobs/59530?icims=1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-14T05:02:35.156Z",
+   "postedAt": "2026-08-14T04:04:23.000Z"
+  },
+  {
+   "company": "PlanetArt",
+   "title": "Associate Product Manager - Mobile",
+   "location": "Calabasas, CA",
+   "url": "https://apply.workable.com/planetart/j/D7E3095657/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-14T05:02:35.156Z",
+   "postedAt": "2026-08-14T03:49:01.000Z"
+  },
+  {
+   "company": "PlanetArt",
+   "title": "Associate Product Manager - Web",
+   "location": "Calabasas, CA",
+   "url": "https://apply.workable.com/planetart/j/2B193B2C30/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-14T05:02:35.156Z",
+   "postedAt": "2026-08-14T03:48:59.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Graduate - Ads Interface Platform - 2027 Start",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7673198824630077701",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-14T05:02:35.156Z",
+   "postedAt": "2026-08-14T03:57:21.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Graduate - Sales and Operations Management Platform",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7673331530758228229",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-14T05:02:35.156Z",
+   "postedAt": "2026-08-14T03:57:21.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Graduate - Content and Service Ads",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7673333697095469317",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-14T05:02:35.156Z",
+   "postedAt": "2026-08-14T03:57:22.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Graduate - Ads Interface Platform",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7673194618236078341",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-14T05:02:35.156Z",
+   "postedAt": "2026-08-14T03:57:22.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Graduate - Signal and Identity Product",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7673330687380490501",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-14T05:02:35.156Z",
+   "postedAt": "2026-08-14T03:57:22.000Z"
+  },
   {
    "company": "Newell Brands",
    "title": "Associate Product Engineer - Home Fragrance",
