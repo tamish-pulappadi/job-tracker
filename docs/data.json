@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-14T05:02:35.156Z",
+ "generatedAt": "2026-08-14T06:40:27.472Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "John Deere",
+   "title": "Product Engineering Student - Product Engineering",
+   "location": "Silvis, IL; Ames, IA",
+   "url": "https://johndeere.eightfold.ai/careers/job/137482724189",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-14T06:40:27.472Z",
+   "postedAt": "2026-08-14T05:52:01.000Z"
+  },
   {
    "company": "International Motors, LLC",
    "title": "Product Engineer - Electrical",
