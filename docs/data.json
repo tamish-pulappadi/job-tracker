@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-14T22:13:50.702Z",
+ "generatedAt": "2026-08-14T22:41:30.535Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Renesas Electronics",
+   "title": "Product Engineer",
+   "location": "Austin, TX",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143593035",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-14T22:41:30.535Z",
+   "postedAt": "2026-08-14T22:07:04.000Z"
+  },
   {
    "company": "L3Harris Technologies",
    "title": "Associate Product Management",
