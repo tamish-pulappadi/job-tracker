@@ -1,7 +1,9 @@
 {
- "generatedAt": "2026-08-14T19:56:16.195Z",
+ "generatedAt": "2026-08-14T20:25:10.499Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Amplitude: The operation was aborted due to timeout"
+ ],
  "jobs": [
   {
    "company": "L3Harris Technologies",
