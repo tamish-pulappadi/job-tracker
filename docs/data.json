@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-14T17:24:22.549Z",
+ "generatedAt": "2026-08-14T18:13:19.588Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "L3Harris Technologies",
+   "title": "Associate Product Management",
+   "location": "Rochester, NY",
+   "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1419595300/?ats=successfactors",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-14T18:13:19.588Z",
+   "postedAt": "2026-08-14T17:24:46.000Z"
+  },
   {
    "company": "TikTok",
    "title": "Product Manager Intern - Content and Services",
@@ -432,16 +442,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-08T06:00:41.238Z",
    "postedAt": "2026-08-07T22:06:10.000Z"
-  },
-  {
-   "company": "John Deere",
-   "title": "Part-Time Student - Dynamic Systems Modeling - Product Engineering",
-   "location": "Dubuque, IA",
-   "url": "https://johndeere.eightfold.ai/careers/job/137482642817",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-08T06:00:41.238Z",
-   "postedAt": "2026-08-07T22:20:01.000Z"
   },
   {
    "company": "Medline",
