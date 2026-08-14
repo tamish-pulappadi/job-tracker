@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-08-14T09:18:45.851Z",
+ "generatedAt": "2026-08-14T10:30:54.806Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - Content and Services",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7673337777708550405",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-14T10:30:54.806Z",
+   "postedAt": "2026-08-14T09:10:08.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - Scaled Growth",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7673559305519794437",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-14T10:30:54.806Z",
+   "postedAt": "2026-08-14T09:10:06.000Z"
+  },
   {
    "company": "John Deere",
    "title": "Product Engineering Student - Product Engineering",
