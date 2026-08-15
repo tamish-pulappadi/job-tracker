@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-15T00:00:28.719Z",
+ "generatedAt": "2026-08-15T01:47:41.965Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Capital Health",
+   "title": "Product Engineer 1",
+   "location": "Pennington, NJ",
+   "url": "https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Product-Engineer-I_JR110768",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-15T01:47:41.965Z",
+   "postedAt": "2026-08-14T00:00:00.000Z"
+  },
   {
    "company": "Renesas Electronics",
    "title": "Product Engineer",
