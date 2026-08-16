@@ -1,7 +1,9 @@
 {
- "generatedAt": "2026-08-16T13:07:38.723Z",
+ "generatedAt": "2026-08-16T13:43:38.297Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Shield AI: The operation was aborted due to timeout"
+ ],
  "jobs": [
   {
    "company": "Capital Health",
