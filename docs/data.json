@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-17T11:17:39.931Z",
+ "generatedAt": "2026-08-17T11:47:45.080Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -12,16 +12,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-15T01:47:41.965Z",
    "postedAt": "2026-08-14T00:00:00.000Z"
-  },
-  {
-   "company": "Renesas Electronics",
-   "title": "Product Engineer",
-   "location": "Austin, TX",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143593035",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-14T22:41:30.535Z",
-   "postedAt": "2026-08-14T22:07:04.000Z"
   },
   {
    "company": "L3Harris Technologies",
