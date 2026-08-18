@@ -1,7 +1,9 @@
 {
- "generatedAt": "2026-08-18T05:43:04.996Z",
+ "generatedAt": "2026-08-18T06:02:12.587Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Twilio: The operation was aborted due to timeout"
+ ],
  "jobs": [
   {
    "company": "Datadog",
