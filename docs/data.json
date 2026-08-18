@@ -1,7 +1,10 @@
 {
- "generatedAt": "2026-08-18T09:47:07.694Z",
+ "generatedAt": "2026-08-18T10:19:24.317Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Instacart: The operation was aborted due to timeout",
+  "PagerDuty: The operation was aborted due to timeout"
+ ],
  "jobs": [
   {
    "company": "TikTok",
