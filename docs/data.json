@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-18T09:01:42.804Z",
+ "generatedAt": "2026-08-18T09:47:07.694Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - Business Integrity",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7673895973460576517",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-18T09:47:07.694Z",
+   "postedAt": "2026-08-18T09:22:32.000Z"
+  },
   {
    "company": "Physicians Mutual",
    "title": "Actuarial Opportunities - Pet Insurance Product Management",
