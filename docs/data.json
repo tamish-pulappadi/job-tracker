@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-18T08:25:17.897Z",
+ "generatedAt": "2026-08-18T09:01:42.804Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Physicians Mutual",
+   "title": "Actuarial Opportunities - Pet Insurance Product Management",
+   "location": "Omaha, NE",
+   "url": "https://careers-physiciansmutual.icims.com/jobs/2065/job?mobile=true&needsRedirect=false",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-18T09:01:42.804Z",
+   "postedAt": "2026-08-18T07:55:59.000Z"
+  },
   {
    "company": "John Deere",
    "title": "Product Engineering Student - Product Engineering",
