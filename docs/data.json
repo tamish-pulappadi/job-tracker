@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19T04:05:30.639Z",
+ "generatedAt": "2026-08-19T04:49:41.928Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -882,16 +882,6 @@
    "source": "Company board",
    "firstSeen": "2026-07-31T19:49:54.251Z",
    "postedAt": "2026-07-31T18:17:29.917+00:00"
-  },
-  {
-   "company": "Armada",
-   "title": "Product Manager Associate - Aep Sff",
-   "location": "Bellevue, WA",
-   "url": "https://job-boards.greenhouse.io/armada/jobs/5371838008",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-31T04:36:35.121Z",
-   "postedAt": "2026-07-31T01:10:10.000Z"
   },
   {
    "company": "Macy's",
