@@ -1,9 +1,7 @@
 {
- "generatedAt": "2026-08-19T07:20:44.030Z",
+ "generatedAt": "2026-08-19T08:00:06.174Z",
  "companiesTracked": 93,
- "failures": [
-  "Nuro: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
   {
    "company": "TikTok",
