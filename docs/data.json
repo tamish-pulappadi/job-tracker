@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-08-19T22:15:37.521Z",
+ "generatedAt": "2026-08-19T22:48:08.297Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "IDeaS",
+   "title": "Associate Product Manager - Commercial Capabilities",
+   "location": "Bloomington, MN",
+   "url": "https://ideas-sas.icims.com/jobs/42560/job?mobile=true&needsRedirect=false",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-19T22:48:08.297Z",
+   "postedAt": "2026-08-19T22:15:06.000Z"
+  },
+  {
+   "company": "Procter & Gamble",
+   "title": "Digital Product Manager",
+   "location": "Cincinnati, OH",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Digital-Product-Manager_R000155779",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-19T22:48:08.297Z",
+   "postedAt": "2026-08-19T00:00:00.000Z"
+  },
   {
    "company": "EBSCO",
    "title": "Product Manager - AI Exchange",
