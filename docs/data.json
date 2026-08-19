@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-19T10:22:51.476Z",
+ "generatedAt": "2026-08-19T10:52:53.594Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "EBSCO",
+   "title": "Product Manager - AI Exchange",
+   "location": "Remote in USA",
+   "url": "https://careers-ebscoind.icims.com/jobs/2065/job?mobile=true&needsRedirect=false",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-19T10:52:53.594Z",
+   "postedAt": "2026-08-18T22:54:28.000Z"
+  },
   {
    "company": "TikTok",
    "title": "Product Manager Graduate - Scaled Growth",
