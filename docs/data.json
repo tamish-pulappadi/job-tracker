@@ -1,7 +1,9 @@
 {
- "generatedAt": "2026-08-19T23:15:07.424Z",
+ "generatedAt": "2026-08-19T23:38:50.513Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Squarespace: The operation was aborted due to timeout"
+ ],
  "jobs": [
   {
    "company": "IDeaS",
