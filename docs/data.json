@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19T02:16:42.884Z",
+ "generatedAt": "2026-08-19T03:23:17.154Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -1012,16 +1012,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-23T22:22:43.000Z"
-  },
-  {
-   "company": "Cadence Design Systems",
-   "title": "Product Engineering Intern - Simulation and Verification",
-   "location": "Burlington, MA",
-   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Summer-2026-_R53475",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-05-22T22:06:34.000Z"
   },
   {
    "company": "Databricks",
