@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-08-19T00:57:01.039Z",
+ "generatedAt": "2026-08-19T02:16:42.884Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "TikTok",
+   "title": "Product Manager Graduate - Scaled Growth",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7675439423287314693",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-19T02:16:42.884Z",
+   "postedAt": "2026-08-19T01:14:50.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Graduate - Content and Service - Search Ads",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7675440171819960629",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-19T02:16:42.884Z",
+   "postedAt": "2026-08-19T01:14:49.000Z"
+  },
   {
    "company": "Samsung",
    "title": "Product Management Specialist - Smartphones - A&S",
