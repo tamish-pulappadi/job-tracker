@@ -1,7 +1,11 @@
 {
- "generatedAt": "2026-08-19T15:54:56.571Z",
+ "generatedAt": "2026-08-19T16:21:21.625Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Airtable: The operation was aborted due to timeout",
+  "Intercom: The operation was aborted due to timeout",
+  "Outreach: The operation was aborted due to timeout"
+ ],
  "jobs": [
   {
    "company": "EBSCO",
