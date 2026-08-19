@@ -1,9 +1,7 @@
 {
- "generatedAt": "2026-08-19T19:00:55.177Z",
+ "generatedAt": "2026-08-19T19:36:03.087Z",
  "companiesTracked": 93,
- "failures": [
-  "Squarespace: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
   {
    "company": "EBSCO",
