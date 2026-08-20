@@ -1,27 +1,17 @@
 {
- "generatedAt": "2026-08-20T22:18:30.641Z",
+ "generatedAt": "2026-08-20T22:52:12.723Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
   {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
+   "company": "Renesas Electronics",
+   "title": "Product Engineer",
+   "location": "Austin, TX",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000144599384",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-20T22:52:12.723Z",
+   "postedAt": "2026-08-20T22:05:00.000Z"
   },
   {
    "company": "IDeaS",
@@ -1212,16 +1202,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-03-11T22:17:40.000Z"
-  },
-  {
-   "company": "Sharp Electronics",
-   "title": "Associate Product Manager",
-   "location": "Memphis, TN",
-   "url": "https://job-boards.greenhouse.io/sharpelectronics/jobs/4254963009",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-15T14:08:58.000Z"
   },
   {
    "company": "Solar Turbines",
