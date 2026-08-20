@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20T05:22:33.215Z",
+ "generatedAt": "2026-08-20T05:54:22.691Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -422,16 +422,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-11T09:43:29.406Z",
    "postedAt": "2026-08-11T09:14:17.000Z"
-  },
-  {
-   "company": "Moog ",
-   "title": "Product Engineering Intern",
-   "location": "Buffalo, NY",
-   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Product-Engineering_R-26-19224",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-11T07:52:09.948Z",
-   "postedAt": "2026-08-10T00:00:00.000Z"
   },
   {
    "company": "CWILL",
