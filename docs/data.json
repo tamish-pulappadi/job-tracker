@@ -1,7 +1,9 @@
 {
- "generatedAt": "2026-08-20T08:02:59.339Z",
+ "generatedAt": "2026-08-20T08:54:06.840Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Spotify: The operation was aborted due to timeout"
+ ],
  "jobs": [
   {
    "company": "IDeaS",
@@ -132,16 +134,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-15T01:47:41.965Z",
    "postedAt": "2026-08-14T00:00:00.000Z"
-  },
-  {
-   "company": "L3Harris Technologies",
-   "title": "Associate Product Management",
-   "location": "Rochester, NY",
-   "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1419595300/?ats=successfactors",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-14T18:13:19.588Z",
-   "postedAt": "2026-08-14T17:24:46.000Z"
   },
   {
    "company": "TikTok",
