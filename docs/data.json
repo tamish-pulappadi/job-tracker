@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-20T09:24:52.251Z",
+ "generatedAt": "2026-08-20T09:57:39.808Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -1082,6 +1082,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-21T01:15:45.000Z"
+  },
+  {
+   "company": "k-ID",
+   "title": "Product Intern",
+   "location": "United States",
+   "url": "https://jobs.ashbyhq.com/k-id/35d45263-db3b-4553-b017-b4b1bbd0570d/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-21T01:17:50.000Z"
   },
   {
    "company": "KLA",
