@@ -1,10 +1,7 @@
 {
- "generatedAt": "2026-08-21T18:01:36.089Z",
+ "generatedAt": "2026-08-21T18:53:17.428Z",
  "companiesTracked": 93,
- "failures": [
-  "Shield AI: The operation was aborted due to timeout",
-  "Typeface: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
   {
    "company": "EBSCO",
@@ -25,6 +22,26 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
