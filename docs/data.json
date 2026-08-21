@@ -1,7 +1,10 @@
 {
- "generatedAt": "2026-08-21T17:31:01.979Z",
+ "generatedAt": "2026-08-21T18:01:36.089Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Shield AI: The operation was aborted due to timeout",
+  "Typeface: The operation was aborted due to timeout"
+ ],
  "jobs": [
   {
    "company": "EBSCO",
