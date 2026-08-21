@@ -1,11 +1,7 @@
 {
- "generatedAt": "2026-08-21T20:46:53.292Z",
+ "generatedAt": "2026-08-21T21:15:30.746Z",
  "companiesTracked": 93,
- "failures": [
-  "Brex: The operation was aborted due to timeout",
-  "Mercury: The operation was aborted due to timeout",
-  "Nuro: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
   {
    "company": "John Deere",
