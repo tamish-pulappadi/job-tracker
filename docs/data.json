@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-21T10:00:44.244Z",
+ "generatedAt": "2026-08-21T10:44:56.120Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "EBSCO",
+   "title": "Product Manager - AI Research Companion",
+   "location": "Remote in USA",
+   "url": "https://careers-ebscoind.icims.com/jobs/2069/job?mobile=true&needsRedirect=false",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-21T10:44:56.120Z",
+   "postedAt": "2026-08-21T01:15:15.000Z"
+  },
   {
    "company": "Renesas Electronics",
    "title": "Product Engineer",
@@ -42,6 +52,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-19T22:48:08.297Z",
    "postedAt": "2026-08-19T00:00:00.000Z"
+  },
+  {
+   "company": "EBSCO",
+   "title": "Product Manager - AI Exchange",
+   "location": "Remote in USA",
+   "url": "https://careers-ebscoind.icims.com/jobs/2065/job?mobile=true&needsRedirect=false",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-19T10:52:53.594Z",
+   "postedAt": "2026-08-18T22:54:28.000Z"
   },
   {
    "company": "TikTok",
