@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-21T22:14:43.465Z",
+ "generatedAt": "2026-08-21T22:43:05.594Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Analog Devices",
+   "title": "Product Engineer - Product Development",
+   "location": "Wilmington, MA; Durham, NC",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-21T22:43:05.594Z",
+   "postedAt": "2026-08-21T00:00:00.000Z"
+  },
   {
    "company": "John Deere",
    "title": "Product Engineering Student - Product Engineering",
@@ -32,26 +42,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
