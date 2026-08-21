@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21T12:53:33.680Z",
+ "generatedAt": "2026-08-21T13:38:25.538Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -472,16 +472,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-10T23:04:24.264Z",
    "postedAt": "2026-08-10T00:00:00.000Z"
-  },
-  {
-   "company": "EaglePicher Technologies",
-   "title": "Product Engineer - Energetics",
-   "location": "Joplin, MO",
-   "url": "https://careers-eaglepicher.icims.com/jobs/3135/job?mobile=true&needsRedirect=false",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-10T23:04:24.264Z",
-   "postedAt": "2026-08-10T22:24:53.000Z"
   },
   {
    "company": "LPL Financial Holdings",
