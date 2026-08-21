@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-21T08:04:56.013Z",
+ "generatedAt": "2026-08-21T08:55:41.561Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -12,6 +12,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
   },
   {
    "company": "IDeaS",
