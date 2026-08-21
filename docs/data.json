@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-08-21T23:00:17.830Z",
+ "generatedAt": "2026-08-21T23:35:47.856Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Eudia",
+   "title": "Product Intern",
+   "location": "Palo Alto, CA",
+   "url": "https://job-boards.greenhouse.io/eudia/jobs/4379570009",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-21T23:35:47.856Z",
+   "postedAt": "2026-08-21T22:52:45.000Z"
+  },
+  {
+   "company": "Solid Power",
+   "title": "Product Engineer Intern",
+   "location": "Thornton, CO",
+   "url": "https://job-boards.greenhouse.io/solidpower/jobs/6150710004",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-21T23:35:47.856Z",
+   "postedAt": "2026-08-21T22:42:55.000Z"
+  },
   {
    "company": "Analog Devices",
    "title": "Product Engineer - Product Development",
