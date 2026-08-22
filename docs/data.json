@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-22T10:14:05.533Z",
+ "generatedAt": "2026-08-22T10:41:09.712Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -72,16 +72,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-21T20:46:53.292Z",
    "postedAt": "2026-08-21T20:18:08.000Z"
-  },
-  {
-   "company": "EBSCO",
-   "title": "Product Manager - AI Research Companion",
-   "location": "Remote in USA",
-   "url": "https://careers-ebscoind.icims.com/jobs/2069/job?mobile=true&needsRedirect=false",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-21T10:44:56.120Z",
-   "postedAt": "2026-08-21T01:15:15.000Z"
   },
   {
    "company": "Renesas Electronics",
