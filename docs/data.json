@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-22T02:20:18.205Z",
+ "generatedAt": "2026-08-22T03:12:50.694Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Elevate Semiconductor",
+   "title": "Product Engineering Intern",
+   "location": "San Diego, CA",
+   "url": "https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-22T03:12:50.694Z",
+   "postedAt": "2026-08-22T02:33:44.000Z"
+  },
   {
    "company": "TikTok",
    "title": "AI Product Manager Intern - Product Social",
