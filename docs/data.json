@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-08-24T20:20:20.709Z",
+ "generatedAt": "2026-08-24T20:56:11.170Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "BNY",
+   "title": "Product Management Intern - Product Management",
+   "location": "NYC",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81345",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-24T20:56:11.170Z",
+   "postedAt": "2026-08-24T20:14:34.000Z"
+  },
+  {
+   "company": "Procter & Gamble",
+   "title": "IT Project & Product Manager Intern",
+   "location": "Cincinnati, OH",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager-Internship_R000157500",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-24T20:56:11.170Z",
+   "postedAt": "2026-08-24T00:00:00.000Z"
+  },
   {
    "company": "Analog Devices",
    "title": "Product Engineer Intern - Product Development",
@@ -132,6 +152,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
   },
   {
    "company": "IDeaS",
