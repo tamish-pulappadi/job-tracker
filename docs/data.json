@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-24T18:57:20.425Z",
+ "generatedAt": "2026-08-24T19:26:34.136Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -581,16 +581,6 @@
    "kind": "newgrad",
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-10T20:02:52.766Z",
-   "postedAt": "2026-08-10T00:00:00.000Z"
-  },
-  {
-   "company": "Capital One",
-   "title": "Product Manager - MBA",
-   "location": "McLean, VA; Richmond, VA; Chicago, IL; NYC",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Manager---2027_R244814-2",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-10T19:14:23.142Z",
    "postedAt": "2026-08-10T00:00:00.000Z"
   },
   {
