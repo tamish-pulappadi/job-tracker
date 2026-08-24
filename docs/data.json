@@ -1,9 +1,7 @@
 {
- "generatedAt": "2026-08-24T12:30:15.103Z",
+ "generatedAt": "2026-08-24T13:31:33.366Z",
  "companiesTracked": 93,
- "failures": [
-  "Airbnb: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
   {
    "company": "Springs Window Fashions",
