@@ -1,9 +1,7 @@
 {
- "generatedAt": "2026-08-24T22:50:47.731Z",
+ "generatedAt": "2026-08-24T23:15:36.985Z",
  "companiesTracked": 93,
- "failures": [
-  "Abridge: fetch failed"
- ],
+ "failures": [],
  "jobs": [
   {
    "company": "Procter & Gamble",
