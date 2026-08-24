@@ -1,8 +1,20 @@
 {
- "generatedAt": "2026-08-24T22:17:06.571Z",
+ "generatedAt": "2026-08-24T22:50:47.731Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Abridge: fetch failed"
+ ],
  "jobs": [
+  {
+   "company": "Procter & Gamble",
+   "title": "IT Project & Product Manager",
+   "location": "Cincinnati, OH",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager--2027-Grads-_R000157914",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-24T22:50:47.731Z",
+   "postedAt": "2026-08-24T00:00:00.000Z"
+  },
   {
    "company": "BNY",
    "title": "Product Management Intern - Product Management",
