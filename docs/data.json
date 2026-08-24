@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-08-24T14:24:10.882Z",
+ "generatedAt": "2026-08-24T15:08:20.869Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Analog Devices",
+   "title": "Product Engineer Intern - Product Development",
+   "location": "Wilmington, MA; Durham, NC",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-24T15:08:20.869Z",
+   "postedAt": "2026-08-24T00:00:00.000Z"
+  },
+  {
+   "company": "Tesla",
+   "title": "Commercial Charging Product Management Intern - Energy Engineering",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/272322",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-24T15:08:20.869Z",
+   "postedAt": "2026-06-07T06:36:28.000Z"
+  },
   {
    "company": "Springs Window Fashions",
    "title": "Product Management Intern",
