@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-25T11:19:01.142Z",
+ "generatedAt": "2026-08-25T11:51:55.190Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Cadence Design Systems",
+   "title": "Product Engineering Intern - Electronics Hardware Design",
+   "location": "Burlington, MA",
+   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-25T11:51:55.190Z",
+   "postedAt": "2026-08-25T00:00:00.000Z"
+  },
   {
    "company": "John Deere",
    "title": "Robotics Engineer Part-Time Student - Product Engineering",
