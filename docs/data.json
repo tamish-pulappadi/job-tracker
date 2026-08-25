@@ -1,8 +1,30 @@
 {
- "generatedAt": "2026-08-24T23:58:23.523Z",
+ "generatedAt": "2026-08-25T01:15:18.830Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Scale AI: The operation was aborted due to timeout"
+ ],
  "jobs": [
+  {
+   "company": "John Deere",
+   "title": "Robotics Engineer Part-Time Student - Product Engineering",
+   "location": "Urbandale, IA; Ames, IA",
+   "url": "https://johndeere.eightfold.ai/careers/job/137482782400",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-25T01:15:18.830Z",
+   "postedAt": "2026-08-25T00:05:19.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - Pgc",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7673365923163638069",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-25T01:15:18.830Z",
+   "postedAt": "2026-08-24T23:37:36.000Z"
+  },
   {
    "company": "Procter & Gamble",
    "title": "IT Project & Product Manager",
