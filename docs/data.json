@@ -1,8 +1,68 @@
 {
- "generatedAt": "2026-08-25T18:26:10.852Z",
+ "generatedAt": "2026-08-25T19:07:26.923Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Apex Fintech Solutions",
+   "title": "Technology Fintern - Software Engineering - Product Management",
+   "location": "Austin, TX; Dallas, TX; Chicago, IL; NYC",
+   "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/XMLNAME-2026-AFS-Technology-Internship-Program_JR103660",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-25T19:07:26.923Z",
+   "postedAt": "2026-08-25T18:12:25.000Z"
+  },
+  {
+   "company": "Brunswick",
+   "title": "Product Management Intern - Oils & Lubricants",
+   "location": "Fond du Lac, WI",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-25T19:07:26.923Z",
+   "postedAt": "2026-08-25T00:00:00.000Z"
+  },
+  {
+   "company": "Brunswick",
+   "title": "Product Management Intern - Parts & Accessories",
+   "location": "Fond du Lac, WI",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-25T19:07:26.923Z",
+   "postedAt": "2026-08-25T00:00:00.000Z"
+  },
+  {
+   "company": "GE Vernova",
+   "title": "Controls Product Management Intern - Summer 2027",
+   "location": "Longmont, CO; Greenville, SC",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-25T19:07:26.923Z",
+   "postedAt": "2026-08-25T00:00:00.000Z"
+  },
+  {
+   "company": "GE Vernova",
+   "title": "Controls Product Management Intern",
+   "location": "Longmont, CO; Greenville, SC",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-25T19:07:26.923Z",
+   "postedAt": "2026-08-25T00:00:00.000Z"
+  },
+  {
+   "company": "Vertiv",
+   "title": "DC Power Product Management Intern - Summer 2027",
+   "location": "Delaware, OH",
+   "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-25T19:07:26.923Z",
+   "postedAt": "2026-08-25T18:16:29.000Z"
+  },
   {
    "company": "Cadence Design Systems",
    "title": "Product Engineering Intern - Electronics Hardware Design",
@@ -182,26 +242,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
