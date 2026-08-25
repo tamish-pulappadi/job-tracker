@@ -1,9 +1,7 @@
 {
- "generatedAt": "2026-08-25T01:15:18.830Z",
+ "generatedAt": "2026-08-25T02:31:27.068Z",
  "companiesTracked": 93,
- "failures": [
-  "Scale AI: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
   {
    "company": "John Deere",
@@ -104,16 +102,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-22T14:37:44.670Z",
    "postedAt": "2026-08-22T14:06:22.000Z"
-  },
-  {
-   "company": "Elevate Semiconductor",
-   "title": "Product Engineering Intern",
-   "location": "San Diego, CA",
-   "url": "https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-22T03:12:50.694Z",
-   "postedAt": "2026-08-22T02:33:44.000Z"
   },
   {
    "company": "TikTok",
