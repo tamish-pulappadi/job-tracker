@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-25T21:03:53.724Z",
+ "generatedAt": "2026-08-25T21:41:33.017Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "Xpansiv",
+   "title": "Product Management Intern - AI Products",
+   "location": "NYC",
+   "url": "https://jobs.lever.co/Xpansiv%20/8a1649ec-ef5f-425d-8a36-34f28d67e8a7/apply",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-25T21:41:33.017Z",
+   "postedAt": "2026-08-25T21:04:09.000Z"
+  },
   {
    "company": "Apex Fintech Solutions",
    "title": "Technology Fintern - Software Engineering - Product Management",
