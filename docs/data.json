@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25T08:07:29.884Z",
+ "generatedAt": "2026-08-25T08:57:31.826Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -1092,16 +1092,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T22:54:01.368Z",
    "postedAt": "2026-07-27T22:05:28.000Z"
-  },
-  {
-   "company": "Alarm.com",
-   "title": "Product Manager",
-   "location": "Vienna, VA",
-   "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8612482002",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-01T22:03:38.000Z"
   },
   {
    "company": "Appian",
