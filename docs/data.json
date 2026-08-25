@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25T08:57:31.826Z",
+ "generatedAt": "2026-08-25T09:32:59.263Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -85,16 +85,6 @@
   },
   {
    "company": "Springs Window Fashions",
-   "title": "Product Management Competitive Product Assessment Intern - Summer 2027",
-   "location": "Middleton, WI",
-   "url": "https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-22T14:37:44.670Z",
-   "postedAt": "2026-08-22T14:06:23.000Z"
-  },
-  {
-   "company": "Springs Window Fashions",
    "title": "Product Management Dashboard Analytics Intern",
    "location": "Middleton, WI",
    "url": "https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false",
@@ -172,26 +162,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
@@ -272,16 +242,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-18T07:01:33.826Z",
    "postedAt": "2026-08-18T06:15:36.000Z"
-  },
-  {
-   "company": "Datadog",
-   "title": "Product Management Intern",
-   "location": "NYC",
-   "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-17T15:47:12.039Z",
-   "postedAt": "2026-08-17T14:35:38.000Z"
   },
   {
    "company": "CSI",
@@ -1162,16 +1122,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-16T22:18:51.000Z"
-  },
-  {
-   "company": "Databricks",
-   "title": "Product Management Intern",
-   "location": "SF; Bellevue, WA; Mountain View, CA",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=6883068002",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-16T22:19:18.000Z"
   },
   {
    "company": "GCI",
