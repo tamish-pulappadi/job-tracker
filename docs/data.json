@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25T09:32:59.263Z",
+ "generatedAt": "2026-08-25T10:04:45.588Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -1122,6 +1122,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-16T22:18:51.000Z"
+  },
+  {
+   "company": "Databricks",
+   "title": "Product Management Intern",
+   "location": "SF; Bellevue, WA; Mountain View, CA",
+   "url": "https://boards.greenhouse.io/embed/job_app?token=6883068002",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2026-07-16T22:19:18.000Z"
   },
   {
    "company": "GCI",
