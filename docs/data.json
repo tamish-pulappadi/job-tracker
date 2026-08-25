@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25T10:04:45.588Z",
+ "generatedAt": "2026-08-25T10:47:27.925Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -242,6 +242,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-18T07:01:33.826Z",
    "postedAt": "2026-08-18T06:15:36.000Z"
+  },
+  {
+   "company": "Datadog",
+   "title": "Product Management Intern",
+   "location": "NYC",
+   "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-17T15:47:12.039Z",
+   "postedAt": "2026-08-17T14:35:38.000Z"
   },
   {
    "company": "CSI",
