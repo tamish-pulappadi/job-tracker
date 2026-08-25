@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25T04:08:57.797Z",
+ "generatedAt": "2026-08-25T04:51:27.142Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -1022,16 +1022,6 @@
    "source": "Company board",
    "firstSeen": "2026-07-31T19:49:54.251Z",
    "postedAt": "2026-07-31T18:17:29.917+00:00"
-  },
-  {
-   "company": "Macy's",
-   "title": "Product Management Assistant",
-   "location": "NYC",
-   "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/90246",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-30T23:17:14.407Z",
-   "postedAt": "2026-07-30T22:06:05.000Z"
   },
   {
    "company": "Bosch Home Comfort",
