@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-25T10:47:27.925Z",
+ "generatedAt": "2026-08-25T11:19:01.142Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -85,6 +85,16 @@
   },
   {
    "company": "Springs Window Fashions",
+   "title": "Product Management Competitive Product Assessment Intern - Summer 2027",
+   "location": "Middleton, WI",
+   "url": "https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-22T14:37:44.670Z",
+   "postedAt": "2026-08-22T14:06:23.000Z"
+  },
+  {
+   "company": "Springs Window Fashions",
    "title": "Product Management Dashboard Analytics Intern",
    "location": "Middleton, WI",
    "url": "https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false",
@@ -162,6 +172,26 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
