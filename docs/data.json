@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-25T23:46:15.265Z",
+ "generatedAt": "2026-08-26T00:46:30.373Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
+  {
+   "company": "DTCC",
+   "title": "Product Management Intern - 2027 Internship Program",
+   "location": "Tampa, FL; Jersey City, NJ",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-26T00:46:30.373Z",
+   "postedAt": "2026-08-25T23:50:24.000Z"
+  },
   {
    "company": "Xpansiv",
    "title": "Product Management Intern - AI Products",
@@ -242,26 +252,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
