@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-26T13:13:59.482Z",
+ "generatedAt": "2026-08-26T14:04:21.462Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Cummins",
+   "title": "Product Engineer - Product Engineering",
+   "location": "Rocky Mount, NC",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435550",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-26T14:04:21.462Z",
+   "postedAt": "2026-08-26T13:46:32.000Z"
+  },
   {
    "company": "Dedalus Labs",
    "title": "Product Manager Intern",
@@ -312,26 +322,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
