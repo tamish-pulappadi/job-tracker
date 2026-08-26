@@ -58,7 +58,7 @@ const NON_US_RE =
 const US_STATES =
   "AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC";
 const US_RE = new RegExp(
-  `\\b(united states|usa|u\\.s\\.|america)\\b|,\\s*(${US_STATES})\\b|\\b(san francisco|sf bay|bay area|new york|nyc|seattle|austin|boston|chicago|denver|los angeles|san diego|palo alto|mountain view|menlo park|sunnyvale|san jose|santa clara|redwood city|san mateo|oakland|bellevue|redmond|kirkland|portland|atlanta|miami|dallas|houston|phoenix|philadelphia|pittsburgh|washington,? d\\.?c\\.?|salt lake|nashville|charlotte|minneapolis|detroit|columbus|raleigh|durham|boulder|irvine|cupertino|burlingame|foster city|cambridge)\\b`,
+  `\\b(united states|usa|u\\.s\\.|america)\\b|,\\s*(${US_STATES})\\b|\\b(san francisco|sf bay|bay area|sf|new york|nyc|seattle|austin|boston|chicago|denver|los angeles|san diego|palo alto|mountain view|menlo park|sunnyvale|san jose|santa clara|redwood city|san mateo|oakland|bellevue|redmond|kirkland|portland|atlanta|miami|dallas|houston|phoenix|philadelphia|pittsburgh|washington,? d\\.?c\\.?|salt lake|nashville|charlotte|minneapolis|detroit|columbus|raleigh|durham|boulder|irvine|cupertino|burlingame|foster city|cambridge)\\b`,
   "i"
 );
 
@@ -96,7 +96,21 @@ async function getJSON(url) {
   return res.json();
 }
 
-async function fetchCompany({ name, ats, slug }) {
+// Workday boards paginate 20 at a time (larger limits are rejected) and report
+// recency as prose ("Posted Today"), so dates are approximated from that text.
+const WD_PAGE = 20;
+const WD_MAX_PAGES = 60;
+
+function workdayPostedAt(text, now = Date.now()) {
+  const t = (text || "").trim();
+  if (/posted today/i.test(t)) return new Date(now).toISOString();
+  if (/posted yesterday/i.test(t)) return new Date(now - 864e5).toISOString();
+  const m = t.match(/posted\s+(\d+)\+?\s*days?\s+ago/i);
+  if (m) return new Date(now - Number(m[1]) * 864e5).toISOString();
+  return null;
+}
+
+async function fetchCompany({ name, ats, slug, host, site }) {
   if (ats === "greenhouse") {
     const j = await getJSON(`https://boards-api.greenhouse.io/v1/boards/${slug}/jobs`);
     return (j.jobs || []).map((job) => ({
@@ -140,6 +154,51 @@ async function fetchCompany({ name, ats, slug }) {
       postedAt: job.publishedAt || null,
       source: "ats",
     }));
+  }
+  if (ats === "workday") {
+    const endpoint = `https://${host}/wday/cxs/${slug}/${site}/jobs`;
+    const page = async (offset) => {
+      const res = await fetch(endpoint, {
+        method: "POST",
+        headers: {
+          "content-type": "application/json",
+          accept: "application/json",
+          "user-agent": "job-tracker (github.com/tamish-pulappadi/job-tracker)",
+        },
+        body: JSON.stringify({ appliedFacets: {}, limit: WD_PAGE, offset, searchText: "" }),
+        signal: AbortSignal.timeout(20000),
+      });
+      if (!res.ok) throw new Error(`${res.status} ${endpoint} offset=${offset}`);
+      return res.json();
+    };
+
+    const first = await page(0);
+    const postings = [...(first.jobPostings || [])];
+    const total = Math.min(first.total || 0, WD_PAGE * WD_MAX_PAGES);
+    const offsets = [];
+    for (let o = WD_PAGE; o < total; o += WD_PAGE) offsets.push(o);
+    await Promise.all(
+      Array.from({ length: 4 }, async () => {
+        while (offsets.length) {
+          const j = await page(offsets.shift());
+          postings.push(...(j.jobPostings || []));
+        }
+      })
+    );
+
+    return postings.map((job) => {
+      const loc = (job.locationsText || "").trim();
+      return {
+        id: `wd:${slug}:${job.bulletFields?.[0] || job.externalPath}`,
+        company: name,
+        title: job.title || "",
+        // "4 Locations" carries no geography - blank it so locationOk keeps it
+        location: /^\d+\s+locations$/i.test(loc) ? "" : loc,
+        url: `https://${host}/en-US/${site}${job.externalPath}`,
+        postedAt: workdayPostedAt(job.postedOn),
+        source: "ats",
+      };
+    });
   }
   throw new Error(`unknown ats ${ats}`);
 }

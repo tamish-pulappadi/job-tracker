@@ -87,6 +87,7 @@
   { "name": "Vanta", "ats": "ashby", "slug": "vanta" },
   { "name": "Vercel", "ats": "greenhouse", "slug": "vercel" },
   { "name": "Verkada", "ats": "greenhouse", "slug": "verkada" },
+  { "name": "Visa", "ats": "workday", "slug": "visa", "host": "visa.wd5.myworkdayjobs.com", "site": "Visa" },
   { "name": "Waymo", "ats": "greenhouse", "slug": "waymo" },
   { "name": "Webflow", "ats": "greenhouse", "slug": "webflow" },
   { "name": "Writer", "ats": "ashby", "slug": "writer" },
