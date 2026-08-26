@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26T20:24:23.352Z",
+ "generatedAt": "2026-08-26T23:53:05.904Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
@@ -392,6 +392,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-19T02:16:42.884Z",
    "postedAt": "2026-08-19T01:14:49.000Z"
+  },
+  {
+   "company": "Samsung",
+   "title": "Product Management Specialist - Smartphones - A&S",
+   "location": "Plano, TX",
+   "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Product-Management-Specialist--Smartphones--A-S-_R119563",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-18T22:47:47.972Z",
+   "postedAt": "2026-08-18T00:00:00.000Z"
   },
   {
    "company": "TikTok",
