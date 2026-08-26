@@ -1,7 +1,9 @@
 {
- "generatedAt": "2026-08-26T03:30:47.391Z",
+ "generatedAt": "2026-08-26T04:22:26.360Z",
  "companiesTracked": 93,
- "failures": [],
+ "failures": [
+  "Stripe: The operation was aborted due to timeout"
+ ],
  "jobs": [
   {
    "company": "DTCC",
@@ -1458,16 +1460,6 @@
    "title": "Copyright Solution Product Manager Intern - Tiktok-Music",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7657541997725288757",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-03T01:13:41.000Z"
-  },
-  {
-   "company": "TikTok",
-   "title": "Product Manager Intern - TikTok Product Content Ecosystem",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7657778928769534213",
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
