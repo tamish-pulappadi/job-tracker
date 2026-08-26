@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-26T00:46:30.373Z",
+ "generatedAt": "2026-08-26T02:20:10.587Z",
  "companiesTracked": 93,
  "failures": [],
  "jobs": [
@@ -252,6 +252,26 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
@@ -802,6 +822,26 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-07T00:36:19.535Z",
    "postedAt": "2026-08-06T22:21:06.000Z"
+  },
+  {
+   "company": "Solace Health",
+   "title": "Associate Product Engineer",
+   "location": "Redwood City, CA",
+   "url": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-07T00:36:19.535Z",
+   "postedAt": "2026-08-06T22:17:41.000Z"
+  },
+  {
+   "company": "Solace Health",
+   "title": "Associate Product Manager",
+   "location": "Redwood City, CA",
+   "url": "https://jobs.ashbyhq.com/solace/ee8ee239-ad20-4c1e-868d-3357799589ea/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-07T00:36:19.535Z",
+   "postedAt": "2026-08-06T22:17:40.000Z"
   },
   {
    "company": "TikTok",
