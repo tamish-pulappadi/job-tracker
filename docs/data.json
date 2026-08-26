@@ -1,10 +1,68 @@
 {
- "generatedAt": "2026-08-26T04:22:26.360Z",
- "companiesTracked": 93,
- "failures": [
-  "Stripe: The operation was aborted due to timeout"
- ],
+ "generatedAt": "2026-08-26T05:02:55.710Z",
+ "companiesTracked": 94,
+ "failures": [],
  "jobs": [
+  {
+   "company": "Dedalus Labs",
+   "title": "Product Manager Intern",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-26T05:02:55.710Z",
+   "postedAt": "2026-08-15T07:11:18.000Z"
+  },
+  {
+   "company": "Firetiger",
+   "title": "Product Engineer New Grad",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-26T05:02:55.710Z",
+   "postedAt": "2026-07-21T01:15:20.000Z"
+  },
+  {
+   "company": "Firetiger",
+   "title": "Product Engineer Intern/Co-op",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-26T05:02:55.710Z",
+   "postedAt": "2026-07-21T01:15:22.000Z"
+  },
+  {
+   "company": "Harper Group",
+   "title": "Product Manager",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/harperinsure/4d603511-cb01-4203-a184-13fe60aed9ee/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-26T05:02:55.710Z",
+   "postedAt": "2026-06-29T22:08:56.000Z"
+  },
+  {
+   "company": "Hive",
+   "title": "Associate Product Manager - Hive Models",
+   "location": "SF",
+   "url": "https://jobs.lever.co/hive/c9da614c-7ebe-493f-a770-b79b711fd7df/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-26T05:02:55.710Z",
+   "postedAt": "2026-07-23T22:03:29.000Z"
+  },
+  {
+   "company": "Parkdepot",
+   "title": "Associate Product Manager",
+   "location": "SF",
+   "url": "https://jobs.lever.co/salesdemo-jr/b2b796b7-cc11-4456-bb00-a2a72fa11f09/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-26T05:02:55.710Z",
+   "postedAt": "2026-07-07T09:06:08.000Z"
+  },
   {
    "company": "DTCC",
    "title": "Product Management Intern - 2027 Internship Program",
