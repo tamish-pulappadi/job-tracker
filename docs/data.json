@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-08-27T05:57:28.284Z",
+ "generatedAt": "2026-08-27T17:18:59.799Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Cummins",
+   "title": "Product Powertrain Product Engineer - Current Product Powertrain Hardware System",
+   "location": "Columbus, IN",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435319",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-27T17:18:59.799Z",
+   "postedAt": "2026-08-27T14:39:12.000Z"
+  },
+  {
+   "company": "Vertiv",
+   "title": "Services Product Management Intern - Summer 2027",
+   "location": "Westerville, OH",
+   "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278667",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-27T17:18:59.799Z",
+   "postedAt": "2026-08-27T14:33:08.000Z"
+  },
   {
    "company": "Cummins",
    "title": "Product Engineer - Product Engineering",
