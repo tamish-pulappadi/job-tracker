@@ -1,8 +1,38 @@
 {
- "generatedAt": "2026-08-27T17:18:59.799Z",
+ "generatedAt": "2026-08-28T01:34:52.194Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Booz Allen",
+   "title": "Product Engineer",
+   "location": "McLean, VA",
+   "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Product-Engineer_R0248101",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-28T01:34:52.194Z",
+   "postedAt": "2026-08-27T00:00:00.000Z"
+  },
+  {
+   "company": "Johns Manville",
+   "title": "Product Management Intern",
+   "location": "Denver, CO",
+   "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-28T01:34:52.194Z",
+   "postedAt": "2026-08-27T00:00:00.000Z"
+  },
+  {
+   "company": "ROCKWOOL Group",
+   "title": "Product Management Intern",
+   "location": "Chicago, IL",
+   "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-28T01:34:52.194Z",
+   "postedAt": "2026-07-21T00:00:00.000Z"
+  },
   {
    "company": "Cummins",
    "title": "Product Powertrain Product Engineer - Current Product Powertrain Hardware System",
@@ -502,16 +532,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-14T06:40:27.472Z",
    "postedAt": "2026-08-14T05:52:01.000Z"
-  },
-  {
-   "company": "International Motors, LLC",
-   "title": "Product Engineer - Electrical",
-   "location": "San Antonio, TX",
-   "url": "https://careers.navistar.com/jobs/59530?icims=1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-14T05:02:35.156Z",
-   "postedAt": "2026-08-14T04:04:23.000Z"
   },
   {
    "company": "PlanetArt",
