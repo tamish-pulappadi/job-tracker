@@ -1,8 +1,38 @@
 {
- "generatedAt": "2026-08-28T13:21:03.696Z",
+ "generatedAt": "2026-08-28T23:07:16.978Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Cummins",
+   "title": "Electronic Systems Product Engineer",
+   "location": "Columbus, IN",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434235",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-28T23:07:16.978Z",
+   "postedAt": "2026-08-28T21:28:18.000Z"
+  },
+  {
+   "company": "DefenseStorm",
+   "title": "Junior Product Engineer - Software Engineer 1",
+   "location": "Alpharetta, GA; Atlanta, GA",
+   "url": "https://defensestorm.applytojob.com/apply/VI1cWuBKQ3/Junior-Product-Engineer-Software-Engineer-I",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-28T23:07:16.978Z",
+   "postedAt": "2026-08-28T22:42:58.000Z"
+  },
+  {
+   "company": "Hewlett Packard Enterprise",
+   "title": "Product Management Graduate - Master's/MBA",
+   "location": "Andover, MA; Bloomington, MN; San Jose, CA; Spring, TX; Durham, NC; Westford, MA; Chippewa Falls, WI; Fort Collins, CO; Sunnyvale, CA; Roseville, CA",
+   "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-28T23:07:16.978Z",
+   "postedAt": "2026-08-28T00:00:00.000Z"
+  },
   {
    "company": "Booz Allen",
    "title": "Product Engineer",
@@ -372,6 +402,26 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
@@ -1482,16 +1532,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-08T14:11:31.000Z"
-  },
-  {
-   "company": "Polar Semiconductor",
-   "title": "Product Engineer",
-   "location": "Bloomington, MN",
-   "url": "https://polarsemi.wd501.myworkdayjobs.com/Polar/job/Bloomington-MN-USA/Product-Engineer_R3736",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-20T00:00:00.000Z"
   },
   {
    "company": "Relay",
