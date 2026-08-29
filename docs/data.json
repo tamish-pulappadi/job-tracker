@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-08-28T23:07:16.978Z",
+ "generatedAt": "2026-08-29T04:08:43.194Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "TikTok",
+   "title": "AI Product Manager Graduate - Product Social",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7675616322118584629",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-29T04:08:43.194Z",
+   "postedAt": "2026-08-29T00:30:47.000Z"
+  },
   {
    "company": "Cummins",
    "title": "Electronic Systems Product Engineer",
@@ -382,16 +392,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
-  },
-  {
-   "company": "John Deere",
-   "title": "Product Engineering Student - Product Engineering",
-   "location": "Urbandale, IA",
-   "url": "https://johndeere.eightfold.ai/careers/job/137482894611",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-21T20:46:53.292Z",
-   "postedAt": "2026-08-21T20:18:08.000Z"
   },
   {
    "company": "Renesas Electronics",
