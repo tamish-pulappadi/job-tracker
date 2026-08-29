@@ -1,7 +1,9 @@
 {
- "generatedAt": "2026-08-29T11:02:31.382Z",
+ "generatedAt": "2026-08-29T15:36:31.419Z",
  "companiesTracked": 94,
- "failures": [],
+ "failures": [
+  "Figma: The operation was aborted due to timeout"
+ ],
  "jobs": [
   {
    "company": "TikTok",
