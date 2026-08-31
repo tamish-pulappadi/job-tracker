@@ -1,8 +1,78 @@
 {
- "generatedAt": "2026-08-31T19:41:57.516Z",
+ "generatedAt": "2026-08-31T23:24:35.217Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Blackhawk Network Holdings",
+   "title": "Product Management Intern",
+   "location": "Coppell, TX",
+   "url": "https://careers-blackhawknetwork.icims.com/jobs/26868/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T23:24:35.217Z",
+   "postedAt": "2026-08-31T19:08:32.000Z"
+  },
+  {
+   "company": "Blackhawk Network Holdings",
+   "title": "Product Management Intern",
+   "location": "Pleasanton, CA",
+   "url": "https://careers-blackhawknetwork.icims.com/jobs/26869/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T23:24:35.217Z",
+   "postedAt": "2026-08-31T19:08:32.000Z"
+  },
+  {
+   "company": "EaglePicher Technologies",
+   "title": "Product Engineer - Energetics",
+   "location": "Joplin, MO",
+   "url": "https://careers-eaglepicher.icims.com/jobs/3146/job?mobile=true&needsRedirect=false",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-31T23:24:35.217Z",
+   "postedAt": "2026-08-31T19:10:16.000Z"
+  },
+  {
+   "company": "Oshkosh",
+   "title": "Product Management Intern - Summer 2027",
+   "location": "Dodge Center, MN",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T23:24:35.217Z",
+   "postedAt": "2026-08-31T00:00:00.000Z"
+  },
+  {
+   "company": "Oshkosh",
+   "title": "Product Management Intern",
+   "location": "Appleton, WI",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T23:24:35.217Z",
+   "postedAt": "2026-08-31T00:00:00.000Z"
+  },
+  {
+   "company": "PricewaterhouseCoopers (PwC)",
+   "title": "Tax Innovation Delivery Experience Intern - Product Management",
+   "location": "Rosemont, IL",
+   "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Product-Management---Intern---Summer-2027_756419WD",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T23:24:35.217Z",
+   "postedAt": "2026-08-31T00:00:00.000Z"
+  },
+  {
+   "company": "Upbring",
+   "title": "Product Manager Intern",
+   "location": "Austin, TX",
+   "url": "https://careers-upbring.icims.com/jobs/7139/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T23:24:35.217Z",
+   "postedAt": "2026-08-31T19:08:57.000Z"
+  },
   {
    "company": "Medline",
    "title": "Product Management Intern - Summer 2027",
@@ -522,16 +592,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
@@ -1062,16 +1122,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-08T06:00:41.238Z",
    "postedAt": "2026-08-07T22:19:25.000Z"
-  },
-  {
-   "company": "IXL Learning",
-   "title": "Associate Product Manager New Grad",
-   "location": "San Mateo, CA",
-   "url": "https://www.ixl.com/company/jobs?gh_jid=8663710002",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-07T00:36:19.535Z",
-   "postedAt": "2026-08-06T22:21:06.000Z"
   },
   {
    "company": "Solace Health",
