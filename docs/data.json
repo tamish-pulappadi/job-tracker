@@ -1,8 +1,78 @@
 {
- "generatedAt": "2026-08-31T00:41:21.313Z",
+ "generatedAt": "2026-08-31T06:11:12.240Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "American Express",
+   "title": "Product Management Intern - Global Commercial Services",
+   "location": "NYC",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T06:11:12.240Z",
+   "postedAt": "2026-08-31T05:26:48.000Z"
+  },
+  {
+   "company": "Qorvo",
+   "title": "Product Management Intern",
+   "location": "Greensboro, NC",
+   "url": "https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421954200/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T06:11:12.240Z",
+   "postedAt": "2026-08-31T05:25:10.000Z"
+  },
+  {
+   "company": "Qorvo",
+   "title": "Product Engineering Intern",
+   "location": "Greensboro, NC",
+   "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1421976000/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T06:11:12.240Z",
+   "postedAt": "2026-08-31T05:25:12.000Z"
+  },
+  {
+   "company": "Qorvo",
+   "title": "Product Management Intern - Advanced Cellular",
+   "location": "Greensboro, NC",
+   "url": "https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421973000/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T06:11:12.240Z",
+   "postedAt": "2026-08-31T05:25:19.000Z"
+  },
+  {
+   "company": "Qorvo",
+   "title": "Product Engineering Intern",
+   "location": "Hillsboro, OR",
+   "url": "https://careers.qorvo.com/job/Hillsboro-Product-Engineering-Intern-OR-97124/1421976600/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T06:11:12.240Z",
+   "postedAt": "2026-08-31T05:25:10.000Z"
+  },
+  {
+   "company": "Qorvo",
+   "title": "Product Management Engineer Intern - High Performance Analog",
+   "location": "Richardson, TX",
+   "url": "https://careers.qorvo.com/job/Richardson-Product-Management-Engineering-Intern-TX-75081/1424705200/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T06:11:12.240Z",
+   "postedAt": "2026-08-31T05:25:11.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - Business Integrity",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7679147369590737205",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T06:11:12.240Z",
+   "postedAt": "2026-08-31T05:07:21.000Z"
+  },
   {
    "company": "GE Vernova",
    "title": "Product Management Intern - Controls Lifecare Services",
@@ -412,26 +482,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
