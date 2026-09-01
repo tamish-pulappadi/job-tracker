@@ -1,8 +1,138 @@
 {
- "generatedAt": "2026-09-01T01:55:43.489Z",
+ "generatedAt": "2026-09-01T07:03:45.869Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "American Express",
+   "title": "Digital Product Management Intern - Enterprise Technology Services",
+   "location": "Sunrise, FL",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T07:03:45.869Z",
+   "postedAt": "2026-09-01T04:52:48.000Z"
+  },
+  {
+   "company": "American Express",
+   "title": "Digital Product Management Intern - Enterprise Technology Services",
+   "location": "NYC",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T07:03:45.869Z",
+   "postedAt": "2026-09-01T04:52:48.000Z"
+  },
+  {
+   "company": "American Express",
+   "title": "Digital Product Management Intern - Enterprise Technology Services",
+   "location": "Phoenix, AZ",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T07:03:45.869Z",
+   "postedAt": "2026-09-01T04:52:49.000Z"
+  },
+  {
+   "company": "Eaton",
+   "title": "Product Engineer - Engineering",
+   "location": "Asheville, NC",
+   "url": "https://eaton.eightfold.ai/careers/job/687238080082",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-01T07:03:45.869Z",
+   "postedAt": "2026-09-01T01:01:26.000Z"
+  },
+  {
+   "company": "Emerson Electric",
+   "title": "Product Management Engineer Intern",
+   "location": "Boulder, CO",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009685",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T07:03:45.869Z",
+   "postedAt": "2026-09-01T04:51:27.000Z"
+  },
+  {
+   "company": "Emerson Electric",
+   "title": "Product Management Engineer Co-op",
+   "location": "Shakopee, MN",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009610",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T07:03:45.869Z",
+   "postedAt": "2026-09-01T04:51:25.000Z"
+  },
+  {
+   "company": "Emerson Electric",
+   "title": "Product Management Engineering Intern",
+   "location": "Houston, TX",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009499",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T07:03:45.869Z",
+   "postedAt": "2026-09-01T04:51:26.000Z"
+  },
+  {
+   "company": "Emerson Electric",
+   "title": "Product Management Engineering Intern",
+   "location": "Shakopee, MN; Chanhassen, MN",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009634",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T07:03:45.869Z",
+   "postedAt": "2026-09-01T04:51:28.000Z"
+  },
+  {
+   "company": "Emerson Electric",
+   "title": "Product Engineer Co-op",
+   "location": "Marshalltown, IA",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008445",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T07:03:45.869Z",
+   "postedAt": "2026-09-01T04:51:23.000Z"
+  },
+  {
+   "company": "IXL Learning",
+   "title": "Associate Product Manager New Grad",
+   "location": "San Mateo, CA",
+   "url": "https://www.ixl.com/company/jobs?gh_jid=8765765002",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-01T07:03:45.869Z",
+   "postedAt": "2026-09-01T04:49:36.000Z"
+  },
+  {
+   "company": "Machina Labs",
+   "title": "Product Manager Intern",
+   "location": "Chatsworth, LA",
+   "url": "https://jobs.lever.co/MachinaLabs/c54d0857-09f3-479c-8d8d-cfa55d358be6/apply",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T07:03:45.869Z",
+   "postedAt": "2026-09-01T04:51:50.000Z"
+  },
+  {
+   "company": "Travelers",
+   "title": "Product Management Development Program - Pricing Analyst",
+   "location": "Hartford, CT",
+   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Pricing-Analyst_R-52314-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-01T07:03:45.869Z",
+   "postedAt": "2026-09-01T00:00:00.000Z"
+  },
+  {
+   "company": "Travelers",
+   "title": "Product Management Intern - Pmdp",
+   "location": "Hartford, CT",
+   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Intern_R-52317",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T07:03:45.869Z",
+   "postedAt": "2026-09-01T00:00:00.000Z"
+  },
   {
    "company": "Blackhawk Network Holdings",
    "title": "Product Management Intern",
@@ -592,26 +722,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
