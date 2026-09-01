@@ -1,8 +1,58 @@
 {
- "generatedAt": "2026-09-01T16:54:42.188Z",
+ "generatedAt": "2026-09-01T19:42:05.568Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Ensign-Bickford Industries",
+   "title": "Product Engineer",
+   "location": "Moorpark, CA",
+   "url": "https://ebi.wd5.myworkdayjobs.com/ebicareers/job/Moorpark-CA/Product-Engineer_REQ107626-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-01T19:42:05.568Z",
+   "postedAt": "2026-09-01T00:00:00.000Z"
+  },
+  {
+   "company": "L3Harris Technologies",
+   "title": "Associate Product Management",
+   "location": "Rochester, NY",
+   "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1425467400/?ats=successfactors",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-01T19:42:05.568Z",
+   "postedAt": "2026-09-01T19:01:44.000Z"
+  },
+  {
+   "company": "Pella",
+   "title": "Product Engineer Intern - Summer 2027",
+   "location": "Macomb, IL",
+   "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253231",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T19:42:05.568Z",
+   "postedAt": "2026-09-01T18:08:50.000Z"
+  },
+  {
+   "company": "Pella",
+   "title": "Product Engineer Intern - Summer 2027",
+   "location": "Ocala, FL",
+   "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/252714",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T19:42:05.568Z",
+   "postedAt": "2026-09-01T18:08:36.000Z"
+  },
+  {
+   "company": "Tencent",
+   "title": "Communications Platform as a Service Product Management Intern",
+   "location": "Palo Alto, CA",
+   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T19:42:05.568Z",
+   "postedAt": "2026-09-01T00:00:00.000Z"
+  },
   {
    "company": "Ensign-Bickford Aerospace & Defense Company",
    "title": "Product Engineer",
@@ -732,16 +782,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
   },
   {
    "company": "IDeaS",
