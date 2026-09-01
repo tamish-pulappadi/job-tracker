@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-09-01T19:42:05.568Z",
+ "generatedAt": "2026-09-01T22:02:53.381Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "United Airlines",
+   "title": "Sales Product Intern",
+   "location": "Chicago, IL",
+   "url": "https://careers.united.com/us/en/job/WHQ00026558",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T22:02:53.381Z",
+   "postedAt": "2026-09-01T19:33:10.000Z"
+  },
+  {
+   "company": "Vanguard",
+   "title": "Technical Product Manager Intern",
+   "location": "Dallas, TX; Malvern, PA; Charlotte, NC",
+   "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T22:02:53.381Z",
+   "postedAt": "2026-09-01T00:00:00.000Z"
+  },
   {
    "company": "Ensign-Bickford Industries",
    "title": "Product Engineer",
@@ -842,16 +862,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-18T09:47:07.694Z",
    "postedAt": "2026-08-18T09:22:32.000Z"
-  },
-  {
-   "company": "Physicians Mutual",
-   "title": "Actuarial Opportunities - Pet Insurance Product Management",
-   "location": "Omaha, NE",
-   "url": "https://careers-physiciansmutual.icims.com/jobs/2065/job?mobile=true&needsRedirect=false",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-18T09:01:42.804Z",
-   "postedAt": "2026-08-18T07:55:59.000Z"
   },
   {
    "company": "John Deere",
