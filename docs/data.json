@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-09-01T12:33:22.287Z",
+ "generatedAt": "2026-09-01T16:54:42.188Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Ensign-Bickford Aerospace & Defense Company",
+   "title": "Product Engineer",
+   "location": "Moorpark, CA",
+   "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Moorpark-CA/Product-Engineer_REQ107626",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-01T16:54:42.188Z",
+   "postedAt": "2026-09-01T00:00:00.000Z"
+  },
   {
    "company": "American Express",
    "title": "Digital Product Management Intern - Enterprise Technology Services",
@@ -724,6 +734,16 @@
    "postedAt": "2026-08-20T22:05:00.000Z"
   },
   {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
+  },
+  {
    "company": "IDeaS",
    "title": "Associate Product Manager - Commercial Capabilities",
    "location": "Bloomington, MN",
@@ -1392,6 +1412,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-04T11:38:57.247Z",
    "postedAt": "2026-08-04T09:20:11.000Z"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Full-Stack Product Engineer Intern - Web + Services",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-04T06:40:33.839Z",
+   "postedAt": "2026-08-04T06:09:43.000Z"
   },
   {
    "company": "SynQor",
