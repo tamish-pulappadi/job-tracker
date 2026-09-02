@@ -1,7 +1,9 @@
 {
- "generatedAt": "2026-09-02T08:56:17.735Z",
+ "generatedAt": "2026-09-02T13:09:43.761Z",
  "companiesTracked": 94,
- "failures": [],
+ "failures": [
+  "Visa: 502 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=80"
+ ],
  "jobs": [
   {
    "company": "Atlassian",
@@ -882,16 +884,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-20T14:52:44.593Z",
    "postedAt": "2026-08-19T20:44:37.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
