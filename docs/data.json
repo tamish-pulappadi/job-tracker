@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-09-02T17:09:02.814Z",
+ "generatedAt": "2026-09-02T19:46:36.163Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Qorvo",
+   "title": "Product Engineer Intern",
+   "location": "Chelmsford, MA",
+   "url": "https://careers.qorvo.com/job/Chelmsford-Product-Engineer-Intern-MA-1824/1425880400/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-02T19:46:36.163Z",
+   "postedAt": "2026-09-02T19:24:00.000Z"
+  },
   {
    "company": "Roblox",
    "title": "[2027] Associate Product Manager, Early Career",
