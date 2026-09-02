@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-02T19:46:36.163Z",
+ "generatedAt": "2026-09-02T22:12:08.436Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
@@ -1652,16 +1652,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-03T23:17:45.744Z",
    "postedAt": "2026-08-03T00:00:00.000Z"
-  },
-  {
-   "company": "StudyFetch",
-   "title": "Product Intern",
-   "location": "Beverly Hills, CA",
-   "url": "https://ats.rippling.com/studyfetch/jobs/45f16361-69b0-4e74-8cc3-d2574336c76f",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-03T23:17:45.744Z",
-   "postedAt": "2026-08-03T22:19:20.000Z"
   },
   {
    "company": "American Express",
