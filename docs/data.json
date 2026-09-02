@@ -1,8 +1,48 @@
 {
- "generatedAt": "2026-09-02T04:27:43.070Z",
+ "generatedAt": "2026-09-02T08:56:17.735Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Atlassian",
+   "title": "Product Management Intern",
+   "location": "SF",
+   "url": "https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-02T08:56:17.735Z",
+   "postedAt": "2026-09-02T06:12:35.000Z"
+  },
+  {
+   "company": "Clearwater Analytics",
+   "title": "Technical Product Management Intern",
+   "location": "NYC",
+   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Technical-Product-Management-Intern_R12198",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-02T08:56:17.735Z",
+   "postedAt": "2026-09-01T00:00:00.000Z"
+  },
+  {
+   "company": "Clearwater Analytics",
+   "title": "Technical Product Manager Intern",
+   "location": "NYC",
+   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12200",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-02T08:56:17.735Z",
+   "postedAt": "2026-09-01T00:00:00.000Z"
+  },
+  {
+   "company": "Clearwater Analytics",
+   "title": "Software Engineer Intern - Technical Product Management",
+   "location": "NYC",
+   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Technical-Product-Management-Intern_R12058",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-02T08:56:17.735Z",
+   "postedAt": "2026-09-01T00:00:00.000Z"
+  },
   {
    "company": "American Express",
    "title": "Digital Product Management Associate - Enterprise Technology Services",
@@ -832,6 +872,26 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
