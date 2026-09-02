@@ -1,10 +1,28 @@
 {
- "generatedAt": "2026-09-02T13:09:43.761Z",
+ "generatedAt": "2026-09-02T17:09:02.814Z",
  "companiesTracked": 94,
- "failures": [
-  "Visa: 502 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=80"
- ],
+ "failures": [],
  "jobs": [
+  {
+   "company": "Roblox",
+   "title": "[2027] Associate Product Manager, Early Career",
+   "location": "San Mateo, CA, United States",
+   "url": "https://careers.roblox.com/jobs/8143976?gh_jid=8143976",
+   "kind": "newgrad",
+   "source": "Company board",
+   "firstSeen": "2026-09-02T17:09:02.814Z",
+   "postedAt": "2026-09-02T12:41:02-04:00"
+  },
+  {
+   "company": "Roblox",
+   "title": "[Summer 2027] Product Management Intern",
+   "location": "San Mateo, CA, United States",
+   "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-09-02T17:09:02.814Z",
+   "postedAt": "2026-09-02T12:41:13-04:00"
+  },
   {
    "company": "Atlassian",
    "title": "Product Management Intern",
