@@ -1,8 +1,148 @@
 {
- "generatedAt": "2026-09-03T17:13:19.436Z",
+ "generatedAt": "2026-09-03T19:50:30.822Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Clerkie",
+   "title": "Associate Product Manager",
+   "location": "Remote in USA",
+   "url": "http://getfiber.ai/careers?gh_jid=5176565007",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-06-29T22:15:21.000Z"
+  },
+  {
+   "company": "Direct Staffing",
+   "title": "Product Engineer",
+   "location": "Orion Township, MI",
+   "url": "https://jobs.smartrecruiters.com/dstaff/82133512",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-02-23T07:15:56.000Z"
+  },
+  {
+   "company": "FourKites",
+   "title": "Product Manager - Inventory & Orders",
+   "location": "Remote in USA; Chicago, IL",
+   "url": "https://job-boards.greenhouse.io/fourkites/jobs/7984869",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-06-05T22:18:29.000Z"
+  },
+  {
+   "company": "Lila Sciences",
+   "title": "Software Product Management Co-op",
+   "location": "Cambridge, MA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4286512009",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-06-16T19:56:52.000Z"
+  },
+  {
+   "company": "MJH Life Sciences",
+   "title": "Associate Product Engineer",
+   "location": "Remote in USA",
+   "url": "https://mjhlifesciences.wd1.myworkdayjobs.com/Careers/job/United-States/Associate-Product-Engineer_JR102409-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-05-11T14:08:06.000Z"
+  },
+  {
+   "company": "Oracle",
+   "title": "Product Manager Intern - Ovip",
+   "location": "Kansas City, MO",
+   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-05-21T01:06:46.000Z"
+  },
+  {
+   "company": "Super Micro Computer",
+   "title": "Associate Product Manager",
+   "location": "San Jose, CA",
+   "url": "https://jobs.supermicro.com/job/San-Jose-Associate-Product-Manager-Cali/1402258700/?ats=successfactors",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-06-23T01:06:48.000Z"
+  },
+  {
+   "company": "Tesla",
+   "title": "Product Manager AI Adoption - AI Adoption - Megafactory",
+   "location": "Fulshear, TX",
+   "url": "https://www.tesla.com/careers/search/job/271820",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-06-07T09:10:42.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Project Intern - Tiktok LIVE-Ecosystem Governance - 2026 Start",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7598849238706735365",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-01-26T23:17:57.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Project Intern",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7620569902743406901",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-03-24T08:44:52.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Data Product Manager Project Intern - Monetization",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7631277919231625525",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-04-23T01:10:06.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Project Intern - Ads Interface and Platform",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7634027348048709941",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-04-30T06:09:58.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Shop Ads Creative Project Intern - Ads Interface and Platform - 2026 Start - BS/MS",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7644986569989032197",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-06-15T06:11:35.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Vertical Search Ads Mandarin Speaking Project intern - Content and Service Ads - 2026 Start - BS/MS",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7655410730217048373",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-07-02T01:36:57.000Z"
+  },
   {
    "company": "Allied Solutions",
    "title": "Product Management Intern - Risk Management",
@@ -1594,16 +1734,6 @@
    "postedAt": "2026-08-04T09:20:12.000Z"
   },
   {
-   "company": "TikTok",
-   "title": "AI Product Manager Intern - Content Ecosystem",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7667578131150506293",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-04T11:38:57.247Z",
-   "postedAt": "2026-08-04T09:20:11.000Z"
-  },
-  {
    "company": "Microsoft",
    "title": "Full-Stack Product Engineer Intern - Web + Services",
    "location": "Redmond, WA",
@@ -1755,7 +1885,7 @@
   },
   {
    "company": "Skydio",
-   "title": "Hardware Product Management Intern",
+   "title": "Hardware Product Management Intern - Fall 2026/Winter 2027",
    "location": "San Mateo, California, United States; Remote",
    "url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf",
    "kind": "intern",
@@ -1884,16 +2014,6 @@
    "postedAt": "2026-07-16T22:19:18.000Z"
   },
   {
-   "company": "GCI",
-   "title": "Product Manager 1 - Future Opening",
-   "location": "Anchorage, AK",
-   "url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003471",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-04-17T01:05:45.000Z"
-  },
-  {
    "company": "Globus Medical",
    "title": "Associate Product Manager",
    "location": "King of Prussia, PA",
@@ -1942,16 +2062,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-04-03T06:06:25.000Z"
-  },
-  {
-   "company": "Leggett & Platt",
-   "title": "Product Manager Trainee",
-   "location": "Hickory, NC",
-   "url": "https://careers.leggett.com/job/Conover-Product-Manager-Trainee-NC/1345826500/?ats=successfactors",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-05-16T09:03:41.000Z"
   },
   {
    "company": "Magna",
@@ -2062,16 +2172,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-21T22:04:07.000Z"
-  },
-  {
-   "company": "TikTok",
-   "title": "Copyright Solution Product Manager Intern - Tiktok-Music",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7657541997725288757",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-03T01:13:41.000Z"
   },
   {
    "company": "TikTok",
