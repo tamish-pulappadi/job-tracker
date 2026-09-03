@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T00:14:44.670Z",
+ "generatedAt": "2026-09-03T04:35:40.252Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
@@ -92,26 +92,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-02T04:27:43.070Z",
    "postedAt": "2026-09-02T02:00:43.000Z"
-  },
-  {
-   "company": "NJM Insurance Group",
-   "title": "Insurance Product Management Analyst Intern 3",
-   "location": "Trenton, NJ",
-   "url": "https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-02T04:27:43.070Z",
-   "postedAt": "2026-09-01T00:00:00.000Z"
-  },
-  {
-   "company": "United Airlines",
-   "title": "Sales Product Intern",
-   "location": "Chicago, IL",
-   "url": "https://careers.united.com/us/en/job/WHQ00026558",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-01T22:02:53.381Z",
-   "postedAt": "2026-09-01T19:33:10.000Z"
   },
   {
    "company": "Vanguard",
@@ -292,16 +272,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-01T07:03:45.869Z",
    "postedAt": "2026-09-01T04:51:50.000Z"
-  },
-  {
-   "company": "Travelers",
-   "title": "Product Management Development Program - Pricing Analyst",
-   "location": "Hartford, CT",
-   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Pricing-Analyst_R-52314-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-01T07:03:45.869Z",
-   "postedAt": "2026-09-01T00:00:00.000Z"
   },
   {
    "company": "Travelers",
@@ -902,16 +872,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
   },
   {
    "company": "IDeaS",
@@ -1529,16 +1489,6 @@
    "location": "Fargo, ND",
    "url": "https://johndeere.eightfold.ai/careers/job/137481393611",
    "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-05T07:59:51.606Z",
-   "postedAt": "2026-08-05T06:15:46.000Z"
-  },
-  {
-   "company": "John Deere",
-   "title": "Sensor Software Design Student - Product Engineering",
-   "location": "Fargo, ND",
-   "url": "https://johndeere.eightfold.ai/careers/job/137481396869",
-   "kind": "newgrad",
    "source": "Simplify Internships",
    "firstSeen": "2026-08-05T07:59:51.606Z",
    "postedAt": "2026-08-05T06:15:46.000Z"
