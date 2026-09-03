@@ -1,8 +1,118 @@
 {
- "generatedAt": "2026-09-03T04:35:40.252Z",
+ "generatedAt": "2026-09-03T09:11:25.581Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Allied Solutions",
+   "title": "Product Management Intern - Risk Management",
+   "location": "St Paul, MN",
+   "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+   "company": "Hewlett Packard",
+   "title": "Personal Systems Product Management Intern",
+   "location": "Austin, TX",
+   "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Application Engineering Intern - JDPS Application Engineering - Product Engineering",
+   "location": "Waterloo, IA",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483157846",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-03T03:53:15.000Z"
+  },
+  {
+   "company": "Mastercard",
+   "title": "Technical Product Management Intern - Switching Solutions",
+   "location": "O'Fallon, MO",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+   "company": "Newrez",
+   "title": "Data Product Engineering Operations Specialist - Multiple Teams",
+   "location": "Coppell, TX",
+   "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/TRAIL-Rising-Leaders-Program---Data-Product-Engineering_R10364",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+   "company": "Roblox",
+   "title": "Associate Product Manager - Early Career",
+   "location": "San Mateo, CA",
+   "url": "https://careers.roblox.com/jobs/8143976?gh_jid=8143976",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-03T02:46:18.000Z"
+  },
+  {
+   "company": "Roblox",
+   "title": "Product Management Intern",
+   "location": "San Mateo, CA",
+   "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-03T02:47:49.000Z"
+  },
+  {
+   "company": "Shure",
+   "title": "Global Product Management Intern - Conferencing",
+   "location": "Niles, IL",
+   "url": "https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-03T02:05:20.000Z"
+  },
+  {
+   "company": "Shure",
+   "title": "Global Product Management Data Intern",
+   "location": "Niles, IL",
+   "url": "https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-03T02:05:19.000Z"
+  },
+  {
+   "company": "Texas Instruments",
+   "title": "Product Engineer Intern - Test Engineering",
+   "location": "Dallas, TX",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017571",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-03T02:35:48.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7677493272788683013",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-03T02:13:59.000Z"
+  },
   {
    "company": "Qorvo",
    "title": "Product Engineer Intern",
@@ -554,16 +664,6 @@
    "postedAt": "2026-08-27T14:39:12.000Z"
   },
   {
-   "company": "Vertiv",
-   "title": "Services Product Management Intern - Summer 2027",
-   "location": "Westerville, OH",
-   "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278667",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-27T17:18:59.799Z",
-   "postedAt": "2026-08-27T14:33:08.000Z"
-  },
-  {
    "company": "Cummins",
    "title": "Product Engineer - Product Engineering",
    "location": "Rocky Mount, NC",
@@ -872,6 +972,26 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-20T22:52:12.723Z",
    "postedAt": "2026-08-20T22:05:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
