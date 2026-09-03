@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-03T19:50:30.822Z",
+ "generatedAt": "2026-09-03T22:02:54.099Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
@@ -1872,16 +1872,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-01T10:20:11.730Z",
    "postedAt": "2026-06-08T06:08:01.000Z"
-  },
-  {
-   "company": "Skydio",
-   "title": "Product Management Intern",
-   "location": "San Mateo, CA",
-   "url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-01T00:10:10.440Z",
-   "postedAt": "2026-07-31T22:25:00.000Z"
   },
   {
    "company": "Skydio",
