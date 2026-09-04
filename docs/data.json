@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-09-03T22:02:54.099Z",
+ "generatedAt": "2026-09-04T00:03:22.772Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Instacart",
+   "title": "Associate Product Manager",
+   "location": "United States - Remote",
+   "url": "https://instacart.careers/job/?gh_jid=8175807",
+   "kind": "newgrad",
+   "source": "Company board",
+   "firstSeen": "2026-09-04T00:03:22.772Z",
+   "postedAt": "2026-09-03T19:15:32-04:00"
+  },
   {
    "company": "Clerkie",
    "title": "Associate Product Manager",
