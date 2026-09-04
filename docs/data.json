@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-04T16:51:16.237Z",
+ "generatedAt": "2026-09-04T19:13:58.487Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
@@ -72,16 +72,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-04T04:26:55.257Z",
    "postedAt": "2026-09-03T00:00:00.000Z"
-  },
-  {
-   "company": "Instacart",
-   "title": "Associate Product Manager",
-   "location": "United States - Remote",
-   "url": "https://instacart.careers/job/?gh_jid=8175807",
-   "kind": "newgrad",
-   "source": "Company board",
-   "firstSeen": "2026-09-04T00:03:22.772Z",
-   "postedAt": "2026-09-03T19:15:32-04:00"
   },
   {
    "company": "Clerkie",
@@ -1672,16 +1662,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-29T00:56:53.064Z",
    "postedAt": "2026-06-03T00:00:00.000Z"
-  },
-  {
-   "company": "Appian",
-   "title": "Product Manager",
-   "location": "McLean, VA",
-   "url": "https://job-boards.greenhouse.io/appian/jobs/8069612",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-23T22:35:19.000Z"
   },
   {
    "company": "Appian",
