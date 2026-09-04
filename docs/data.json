@@ -1,8 +1,78 @@
 {
- "generatedAt": "2026-09-04T00:03:22.772Z",
+ "generatedAt": "2026-09-04T04:26:55.257Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Aptiv",
+   "title": "Product Manager ADAS - Advanced Safety Software and Systems",
+   "location": "Boston, MA",
+   "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Boston-MA---USA/Product-Manager-ADAS_J000703323",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-04T04:26:55.257Z",
+   "postedAt": "2026-09-03T00:00:00.000Z"
+  },
+  {
+   "company": "Cummins",
+   "title": "Product Engineer",
+   "location": "Columbus, IN",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434598",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-04T04:26:55.257Z",
+   "postedAt": "2026-08-27T14:39:13.000Z"
+  },
+  {
+   "company": "Emerson Electric",
+   "title": "Product Engineer Intern",
+   "location": "Round Rock, TX",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009194",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-04T04:26:55.257Z",
+   "postedAt": "2026-09-04T01:18:35.000Z"
+  },
+  {
+   "company": "Side",
+   "title": "Associate Product Manager - Transaction & Compliance Management",
+   "location": "SF",
+   "url": "https://jobs.lever.co/sideinc/6c86d143-9c9f-44e0-bb37-90ad5d592a62/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-04T04:26:55.257Z",
+   "postedAt": "2026-09-03T22:23:48.000Z"
+  },
+  {
+   "company": "Stanley Black & Decker",
+   "title": "Associate Product Manager - Tools & Outdoor",
+   "location": "Towson, MD",
+   "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000051914",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-04T04:26:55.257Z",
+   "postedAt": "2026-09-03T00:00:00.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - TikTok LIVE-AI & Ecosystem Governance",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7680555984532982069",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-04T04:26:55.257Z",
+   "postedAt": "2026-09-04T01:21:10.000Z"
+  },
+  {
+   "company": "Venerable",
+   "title": "Product Management Co-op",
+   "location": "West Chester, PA",
+   "url": "https://venerable.wd5.myworkdayjobs.com/venerablecareers/job/PA-West-Chester---Dunwoody-Dr/Product-Management-Co-op_REQ763",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-04T04:26:55.257Z",
+   "postedAt": "2026-09-03T00:00:00.000Z"
+  },
   {
    "company": "Instacart",
    "title": "Associate Product Manager",
@@ -1104,6 +1174,26 @@
    "postedAt": "2026-08-20T22:05:00.000Z"
   },
   {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
+  },
+  {
    "company": "IDeaS",
    "title": "Associate Product Manager - Commercial Capabilities",
    "location": "Bloomington, MN",
@@ -1444,16 +1534,6 @@
    "postedAt": "2026-08-12T14:32:03.000Z"
   },
   {
-   "company": "ASSA ABLOY",
-   "title": "Product Engineer 1",
-   "location": "Mason City, IA",
-   "url": "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-I-IA-50401/1425404233/?ats=successfactors",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-11T23:00:51.981Z",
-   "postedAt": "2026-08-11T22:02:31.000Z"
-  },
-  {
    "company": "Red Ventures",
    "title": "Associate Product Manager - AI",
    "location": "Charlotte, NC",
@@ -1542,46 +1622,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-10T15:18:12.122Z",
    "postedAt": "2026-08-10T14:09:38.000Z"
-  },
-  {
-   "company": "Cummins",
-   "title": "Electronic Systems Product Engineer",
-   "location": "Seymour, IN",
-   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2432793",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-10T08:12:04.104Z",
-   "postedAt": "2026-08-10T06:15:32.000Z"
-  },
-  {
-   "company": "Cummins",
-   "title": "Product Engineer",
-   "location": "Columbus, IN",
-   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434797",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-10T08:12:04.104Z",
-   "postedAt": "2026-08-10T06:15:34.000Z"
-  },
-  {
-   "company": "Cummins",
-   "title": "Product Engineer - Turbo Platform Product Engineering",
-   "location": "Columbus, IN",
-   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434284",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-10T08:12:04.104Z",
-   "postedAt": "2026-08-10T06:15:34.000Z"
-  },
-  {
-   "company": "Cummins",
-   "title": "Electronic Systems Product Engineer - Electronic Systems",
-   "location": "Columbus, IN",
-   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434498",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-10T08:12:04.104Z",
-   "postedAt": "2026-08-10T06:15:34.000Z"
   },
   {
    "company": "Alto-Shaam",
@@ -1692,46 +1732,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-05T23:18:07.770Z",
    "postedAt": "2026-08-05T22:14:35.000Z"
-  },
-  {
-   "company": "John Deere",
-   "title": "Part-Time Student - Product Engineering",
-   "location": "Moline, IL",
-   "url": "https://johndeere.eightfold.ai/careers/job/137481425666",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-05T07:59:51.606Z",
-   "postedAt": "2026-08-05T06:15:46.000Z"
-  },
-  {
-   "company": "John Deere",
-   "title": "Engine Lab Support Part-Time Student - Product Engineering",
-   "location": "Waterloo, IA",
-   "url": "https://johndeere.eightfold.ai/careers/job/137482177469",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-05T07:59:51.606Z",
-   "postedAt": "2026-08-05T06:15:44.000Z"
-  },
-  {
-   "company": "John Deere",
-   "title": "Advanced Engineering Student Intern - Product Engineering",
-   "location": "Fargo, ND",
-   "url": "https://johndeere.eightfold.ai/careers/job/137481393611",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-05T07:59:51.606Z",
-   "postedAt": "2026-08-05T06:15:46.000Z"
-  },
-  {
-   "company": "John Deere",
-   "title": "Electrical Systems Engineer Part-Time Student - Product Engineering",
-   "location": "Silvis, IL",
-   "url": "https://johndeere.eightfold.ai/careers/job/137482489158",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-05T07:59:51.606Z",
-   "postedAt": "2026-08-05T06:15:43.000Z"
   },
   {
    "company": "TikTok",
