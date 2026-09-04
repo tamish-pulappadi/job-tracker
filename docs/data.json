@@ -1,8 +1,68 @@
 {
- "generatedAt": "2026-09-04T21:29:41.937Z",
+ "generatedAt": "2026-09-04T23:12:09.984Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Ernst & Young",
+   "title": "Product Manager Analyst - Other Tax - EY Foundry",
+   "location": "NYC",
+   "url": "https://eyglobal.yello.co/jobs/d_KrVLa1N9S02xxd891qIw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-04T23:12:09.984Z",
+   "postedAt": "2026-09-04T22:06:23.000Z"
+  },
+  {
+   "company": "Ernst & Young",
+   "title": "Product Manager Intern - Tax - Other Tax",
+   "location": "NYC",
+   "url": "https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-04T23:12:09.984Z",
+   "postedAt": "2026-09-04T22:06:23.000Z"
+  },
+  {
+   "company": "FieldPulse",
+   "title": "Product Manager - Core Product",
+   "location": "Dallas, TX",
+   "url": "https://ats.rippling.com/fieldpulse/jobs/efebb108-3d13-4024-803f-0b991c0c6c08",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-04T23:12:09.984Z",
+   "postedAt": "2026-09-04T22:43:17.000Z"
+  },
+  {
+   "company": "Halma",
+   "title": "Product Manager",
+   "location": "Scottsdale, AZ",
+   "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Scottsdale/Product-Manager_JR26_001013",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-04T23:12:09.984Z",
+   "postedAt": "2026-09-04T00:00:00.000Z"
+  },
+  {
+   "company": "Mastercard",
+   "title": "Associate Product Specialist - Product Management",
+   "location": "O'Fallon, MO",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Associate-Product-Specialist--Product-Management_R-277014",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-04T23:12:09.984Z",
+   "postedAt": "2026-09-04T00:00:00.000Z"
+  },
+  {
+   "company": "Renesas Electronics",
+   "title": "Associate Product Engineer - Hi-Reliability",
+   "location": "Palm Bay, FL",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000147562349",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-04T23:12:09.984Z",
+   "postedAt": "2026-09-04T22:07:35.000Z"
+  },
   {
    "company": "Qorvo",
    "title": "Product Engineering Intern",
@@ -1622,16 +1682,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-01T10:20:11.730Z",
    "postedAt": "2026-06-08T06:08:01.000Z"
-  },
-  {
-   "company": "Skydio",
-   "title": "Product Management Intern",
-   "location": "San Mateo, CA",
-   "url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-01T00:10:10.440Z",
-   "postedAt": "2026-07-31T22:25:00.000Z"
   },
   {
    "company": "Bosch Home Comfort",
