@@ -1,8 +1,68 @@
 {
- "generatedAt": "2026-09-08T13:44:24.952Z",
+ "generatedAt": "2026-09-08T17:32:16.896Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Aptean",
+   "title": "Associate Product Engineer",
+   "location": "Alpharetta, GA",
+   "url": "https://careers.aptean.com/jobs/7054?icims=1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-08T17:32:16.896Z",
+   "postedAt": "2026-09-08T16:16:04.000Z"
+  },
+  {
+   "company": "ID.me",
+   "title": "Associate Product Manager New Grad",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-08T17:32:16.896Z",
+   "postedAt": "2026-09-08T14:10:24.000Z"
+  },
+  {
+   "company": "ID.me",
+   "title": "Product Intern",
+   "location": "Mountain View, CA",
+   "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-08T17:32:16.896Z",
+   "postedAt": "2026-09-08T14:10:29.000Z"
+  },
+  {
+   "company": "Texas Instruments",
+   "title": "Product Engineer",
+   "location": "Knoxville, TN; Dallas, TX; Phoenix, AZ; Tucson, AZ",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017581",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-08T17:32:16.896Z",
+   "postedAt": "2026-09-08T16:16:25.000Z"
+  },
+  {
+   "company": "Texas Instruments",
+   "title": "Test & Validation Engineer - Product Engineering",
+   "location": "Knoxville, TN; Dallas, TX; Phoenix, AZ; Tucson, AZ",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017580",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-08T17:32:16.896Z",
+   "postedAt": "2026-09-08T16:16:25.000Z"
+  },
+  {
+   "company": "Texas Instruments",
+   "title": "Product Engineering Intern",
+   "location": "Knoxville, TN; Dallas, TX; Phoenix, AZ; Tucson, AZ",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017579",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-08T17:32:16.896Z",
+   "postedAt": "2026-09-08T16:16:24.000Z"
+  },
   {
    "company": "Cox",
    "title": "Product Management Intern - Summer 2027",
@@ -1082,6 +1142,26 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
