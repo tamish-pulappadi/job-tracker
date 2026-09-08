@@ -1,10 +1,28 @@
 {
- "generatedAt": "2026-09-08T20:17:18.873Z",
+ "generatedAt": "2026-09-08T22:49:24.765Z",
  "companiesTracked": 94,
- "failures": [
-  "Figma: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
+  {
+   "company": "Coinbase",
+   "title": "Associate Product Manager Intern",
+   "location": "Hybrid - San Francisco, CA",
+   "url": "https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-09-08T22:49:24.765Z",
+   "postedAt": "2026-09-08T18:13:14-04:00"
+  },
+  {
+   "company": "Coinbase",
+   "title": "Product Manager (HR Technology) Intern",
+   "location": "Hybrid - New York, NY",
+   "url": "https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-09-08T22:49:24.765Z",
+   "postedAt": "2026-09-08T18:19:39-04:00"
+  },
   {
    "company": "Aptean",
    "title": "Associate Product Engineer",
@@ -1704,16 +1722,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-04T00:57:57.580Z",
    "postedAt": "2026-08-03T00:00:00.000Z"
-  },
-  {
-   "company": "Always Compassionate Home Care",
-   "title": "Associate Technical Product Manager",
-   "location": "Melville, NY",
-   "url": "https://alwayscompassionate.wd1.myworkdayjobs.com/achomecare/job/Melville-NY/Associate-Technical-Product-Manager_JR102829",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-03T23:17:45.744Z",
-   "postedAt": "2026-07-24T00:00:00.000Z"
   },
   {
    "company": "Amazon",
