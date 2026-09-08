@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-08T09:18:15.835Z",
+ "generatedAt": "2026-09-08T13:44:24.952Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
@@ -492,6 +492,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-02T04:27:43.070Z",
    "postedAt": "2026-09-01T00:00:00.000Z"
+  },
+  {
+   "company": "United Airlines",
+   "title": "Sales Product Intern",
+   "location": "Chicago, IL",
+   "url": "https://careers.united.com/us/en/job/WHQ00026558",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T22:02:53.381Z",
+   "postedAt": "2026-09-01T19:33:10.000Z"
   },
   {
    "company": "Vanguard",
@@ -1592,16 +1602,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-04T11:38:57.247Z",
    "postedAt": "2026-08-04T09:20:12.000Z"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Full-Stack Product Engineer Intern - Web + Services",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-04T06:40:33.839Z",
-   "postedAt": "2026-08-04T06:09:43.000Z"
   },
   {
    "company": "American Express",
