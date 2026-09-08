@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-07T22:09:12.231Z",
+ "generatedAt": "2026-09-08T00:22:11.825Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
@@ -1022,16 +1022,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
