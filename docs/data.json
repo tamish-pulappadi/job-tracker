@@ -1,8 +1,58 @@
 {
- "generatedAt": "2026-09-08T04:56:10.021Z",
+ "generatedAt": "2026-09-08T09:18:15.835Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Cox",
+   "title": "Product Management Intern - Summer 2027",
+   "location": "Long Island, New York",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-08T09:18:15.835Z",
+   "postedAt": "2026-09-08T00:00:00.000Z"
+  },
+  {
+   "company": "Cox",
+   "title": "Product Management Intern - Summer 2027",
+   "location": "Atlanta, GA",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-08T09:18:15.835Z",
+   "postedAt": "2026-09-08T00:00:00.000Z"
+  },
+  {
+   "company": "Cox",
+   "title": "Product Management Intern - Summer 2027",
+   "location": "Draper, UT",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Product-Management-Intern---Summer-2027--Draper--UT-_R202682188",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-08T09:18:15.835Z",
+   "postedAt": "2026-09-08T00:00:00.000Z"
+  },
+  {
+   "company": "Cox",
+   "title": "Product Management Intern - Summer 2027",
+   "location": "Burlington, VT",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-08T09:18:15.835Z",
+   "postedAt": "2026-09-08T00:00:00.000Z"
+  },
+  {
+   "company": "Dick's Sporting Goods",
+   "title": "Product Management Intern - Corporate Internship",
+   "location": "Pittsburgh, PA",
+   "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-08T09:18:15.835Z",
+   "postedAt": "2026-09-08T00:00:00.000Z"
+  },
   {
    "company": "Solidigm",
    "title": "Hardware, Electrical Validation and Product Engineering Intern - Validation",
@@ -1022,26 +1072,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
