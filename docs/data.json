@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-09-09T00:54:21.561Z",
+ "generatedAt": "2026-09-09T05:36:15.172Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Coinbase",
+   "title": "Product Manager Intern - HR Technology",
+   "location": "NYC",
+   "url": "https://boards.greenhouse.io/embed/job_app?token=8175504",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-09T05:36:15.172Z",
+   "postedAt": "2026-09-09T01:21:05.000Z"
+  },
+  {
+   "company": "Coinbase",
+   "title": "Associate Product Manager Intern - Multiple Teams",
+   "location": "SF",
+   "url": "https://boards.greenhouse.io/embed/job_app?token=8168322",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-09T05:36:15.172Z",
+   "postedAt": "2026-09-09T01:20:40.000Z"
+  },
   {
    "company": "Allegion",
    "title": "Product Manager Intern",
@@ -1202,6 +1222,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
   },
   {
    "company": "IDeaS",
