@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-09-09T05:36:15.172Z",
+ "generatedAt": "2026-09-09T10:07:24.946Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Hex Technologies",
+   "title": "Product Engineer Intern",
+   "location": "SF",
+   "url": "https://boards.greenhouse.io/embed/job_app?token=6186215004",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-09T10:07:24.946Z",
+   "postedAt": "2026-09-09T06:08:26.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7649673091993454853",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-09T10:07:24.946Z",
+   "postedAt": "2026-09-09T06:20:19.000Z"
+  },
   {
    "company": "Coinbase",
    "title": "Product Manager Intern - HR Technology",
@@ -1222,16 +1242,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
   },
   {
    "company": "IDeaS",
