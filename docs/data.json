@@ -1,8 +1,58 @@
 {
- "generatedAt": "2026-09-08T22:49:24.765Z",
+ "generatedAt": "2026-09-09T00:54:21.561Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Allegion",
+   "title": "Product Manager Intern",
+   "location": "Carmel, IN",
+   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Product-Manager-for-Allegion-Home_JR37493-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-09T00:54:21.561Z",
+   "postedAt": "2026-09-08T00:00:00.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Embedded Robotics Engineering Student - Product Engineering",
+   "location": "Ames, IA",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483302646",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-09T00:54:21.561Z",
+   "postedAt": "2026-09-08T22:32:47.000Z"
+  },
+  {
+   "company": "Red Hat",
+   "title": "Product Manager Intern",
+   "location": "Boston, MA; Raleigh, NC",
+   "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Product-Manager-Intern_R-059060",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-09T00:54:21.561Z",
+   "postedAt": "2026-09-08T00:00:00.000Z"
+  },
+  {
+   "company": "Trimble",
+   "title": "Product Management Intern",
+   "location": "Westminster, CO; San Diego, CA",
+   "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-09T00:54:21.561Z",
+   "postedAt": "2026-09-08T00:00:00.000Z"
+  },
+  {
+   "company": "U.S. Bank",
+   "title": "Product Management Intern",
+   "location": "Minneapolis, MN",
+   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-09T00:54:21.561Z",
+   "postedAt": "2026-09-08T00:00:00.000Z"
+  },
   {
    "company": "Coinbase",
    "title": "Associate Product Manager Intern",
@@ -1152,26 +1202,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
