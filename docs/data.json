@@ -1,8 +1,48 @@
 {
- "generatedAt": "2026-09-09T22:44:50.562Z",
+ "generatedAt": "2026-09-10T00:37:39.480Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Immuta",
+   "title": "Product Engineering Intern",
+   "location": "College Park, MD",
+   "url": "https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4/apply",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-10T00:37:39.480Z",
+   "postedAt": "2026-09-09T22:29:29.000Z"
+  },
+  {
+   "company": "ITT",
+   "title": "Product Management Co-op - Spring/Summer 2027",
+   "location": "Seneca Falls, NY",
+   "url": "https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-10T00:37:39.480Z",
+   "postedAt": "2026-09-09T22:21:31.000Z"
+  },
+  {
+   "company": "USAA",
+   "title": "Digital Technical Product Management Intern",
+   "location": "San Antonio, TX",
+   "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Management-Intern_R0120759",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-10T00:37:39.480Z",
+   "postedAt": "2026-09-09T00:00:00.000Z"
+  },
+  {
+   "company": "WorldStrides",
+   "title": "Product Engineer",
+   "location": "United States",
+   "url": "https://job-boards.greenhouse.io/world4822stri986des/jobs/5351873008",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-10T00:37:39.480Z",
+   "postedAt": "2026-09-09T22:41:05.000Z"
+  },
   {
    "company": "Robert Bosch Venture Capital",
    "title": "Product Management AI-Tool Intern - 8 months/40hrs per week",
@@ -1232,6 +1272,26 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
