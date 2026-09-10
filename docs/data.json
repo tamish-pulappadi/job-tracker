@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-09-10T00:37:39.480Z",
+ "generatedAt": "2026-09-10T05:16:18.610Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Charles Schwab",
+   "title": "Product Management Intern - Thinkorswim",
+   "location": "Austin, TX",
+   "url": "https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-10T05:16:18.610Z",
+   "postedAt": "2026-09-10T01:05:41.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Project Intern - Business Integrity - MBA",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7683651421602433333",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-10T05:16:18.610Z",
+   "postedAt": "2026-09-10T01:30:21.000Z"
+  },
   {
    "company": "Immuta",
    "title": "Product Engineering Intern",
