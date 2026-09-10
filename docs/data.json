@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-09-10T13:58:02.259Z",
+ "generatedAt": "2026-09-10T17:29:45.969Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Hudl",
+   "title": "Product Management Intern",
+   "location": "Lincoln, NE",
+   "url": "https://job-boards.greenhouse.io/hudl/jobs/8155103",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-10T17:29:45.969Z",
+   "postedAt": "2026-09-10T14:39:33.000Z"
+  },
+  {
+   "company": "L3Harris Technologies",
+   "title": "Product Management Intern",
+   "location": "Lynchburg, VA",
+   "url": "https://jobs.l3harris.com/job/Lynchburg-Product-Management-Intern-VA-24501-6952/1414571100/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-10T17:29:45.969Z",
+   "postedAt": "2026-09-10T14:16:22.000Z"
+  },
   {
    "company": "Charles Schwab",
    "title": "Product Management Intern - Thinkorswim",
@@ -338,16 +358,6 @@
    "title": "Product Manager",
    "location": "Scottsdale, AZ",
    "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Scottsdale/Product-Manager_JR26_001013",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-04T23:12:09.984Z",
-   "postedAt": "2026-09-04T00:00:00.000Z"
-  },
-  {
-   "company": "Mastercard",
-   "title": "Associate Product Specialist - Product Management",
-   "location": "O'Fallon, MO",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Associate-Product-Specialist--Product-Management_R-277014",
    "kind": "newgrad",
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-04T23:12:09.984Z",
@@ -1292,6 +1302,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
   },
   {
    "company": "IDeaS",
