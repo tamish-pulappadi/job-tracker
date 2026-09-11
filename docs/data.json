@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-09-11T00:18:23.575Z",
+ "generatedAt": "2026-09-11T04:56:18.441Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Super Micro Computer",
+   "title": "Product Engineer",
+   "location": "San Jose, CA",
+   "url": "https://jobs.supermicro.com/job/San-Jose-Product-Engineer-Cali/1428832700/?ats=successfactors",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-11T04:56:18.441Z",
+   "postedAt": "2026-09-11T01:09:25.000Z"
+  },
   {
    "company": "John Deere",
    "title": "Product Engineering Student - Product Engineering",
@@ -92,16 +102,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-10T00:37:39.480Z",
    "postedAt": "2026-09-09T00:00:00.000Z"
-  },
-  {
-   "company": "WorldStrides",
-   "title": "Product Engineer",
-   "location": "United States",
-   "url": "https://job-boards.greenhouse.io/world4822stri986des/jobs/5351873008",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-10T00:37:39.480Z",
-   "postedAt": "2026-09-09T22:41:05.000Z"
   },
   {
    "company": "Robert Bosch Venture Capital",
