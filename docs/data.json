@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-09-11T13:41:21.687Z",
+ "generatedAt": "2026-09-11T17:14:06.632Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Kyndryl",
+   "title": "Associate Product Manager - Agentic Modernization",
+   "location": "Dallas, TX",
+   "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/CIO-KPop-Dallas-US152527/Associate-Product-Manager---Agentic-Modernization_R-67492-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-11T17:14:06.632Z",
+   "postedAt": "2026-09-11T00:00:00.000Z"
+  },
+  {
+   "company": "Tesla",
+   "title": "Vehicle Accessories & Merchandise Product Intern - Global Merchandise",
+   "location": "Hawthorne, CA",
+   "url": "https://www.tesla.com/careers/search/job/283137",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-11T17:14:06.632Z",
+   "postedAt": "2026-09-11T14:34:50.000Z"
+  },
   {
    "company": "Texas Instruments",
    "title": "Career Accelerator Program - Product Engineer",
@@ -1332,6 +1352,26 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
