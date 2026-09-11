@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-09-11T09:18:38.465Z",
+ "generatedAt": "2026-09-11T13:41:21.687Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Texas Instruments",
+   "title": "Career Accelerator Program - Product Engineer",
+   "location": "United States",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016672",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-11T13:41:21.687Z",
+   "postedAt": "2026-07-22T22:04:32.000Z"
+  },
   {
    "company": "Super Micro Computer",
    "title": "Product Engineer",
@@ -2112,16 +2122,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-03-11T22:17:40.000Z"
-  },
-  {
-   "company": "Texas Instruments",
-   "title": "Career Accelerator Program - Product Engineer",
-   "location": "United States",
-   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25003917",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-21T22:04:07.000Z"
   },
   {
    "company": "TikTok",
