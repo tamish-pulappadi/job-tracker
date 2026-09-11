@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-09-10T22:16:55.114Z",
+ "generatedAt": "2026-09-11T00:18:23.575Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "John Deere",
+   "title": "Product Engineering Student - Product Engineering",
+   "location": "Urbandale, IL",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483278414",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-11T00:18:23.575Z",
+   "postedAt": "2026-09-10T22:32:45.000Z"
+  },
+  {
+   "company": "RF-SMART",
+   "title": "Software Developer Intern - Product Engineering",
+   "location": "Jacksonville, FL",
+   "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-11T00:18:23.575Z",
+   "postedAt": "2026-09-10T22:38:41.000Z"
+  },
   {
    "company": "Hudl",
    "title": "Product Management Intern",
@@ -1302,16 +1322,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
   },
   {
    "company": "IDeaS",
