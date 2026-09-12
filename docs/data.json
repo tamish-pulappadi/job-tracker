@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-09-11T23:52:00.894Z",
+ "generatedAt": "2026-09-12T02:19:46.221Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Acuity",
+   "title": "AI Product Management Specialist - Business Analyst",
+   "location": "Atlanta, GA",
+   "url": "https://careers.acuityinc.com/job/Atlanta-BUILD-Leadership-Program-Business-Analyst-Tech-Product-Management-Specialist-GA-30309/1429284000/?ats=successfactors",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-12T02:19:46.221Z",
+   "postedAt": "2026-09-12T01:11:28.000Z"
+  },
   {
    "company": "Amgen",
    "title": "Digital Product Intern",
@@ -1432,6 +1442,26 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
