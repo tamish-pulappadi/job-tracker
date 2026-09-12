@@ -1,10 +1,18 @@
 {
- "generatedAt": "2026-09-12T07:15:22.277Z",
+ "generatedAt": "2026-09-12T11:40:18.521Z",
  "companiesTracked": 94,
- "failures": [
-  "Visa: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
- ],
+ "failures": [],
  "jobs": [
+  {
+   "company": "USAA",
+   "title": "Product Management Analyst Intern - Property and Casualty",
+   "location": "San Antonio, TX",
+   "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-12T11:40:18.521Z",
+   "postedAt": "2026-09-11T00:00:00.000Z"
+  },
   {
    "company": "Acuity",
    "title": "AI Product Management Specialist - Business Analyst",
@@ -174,16 +182,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-10T17:29:45.969Z",
    "postedAt": "2026-09-10T14:16:22.000Z"
-  },
-  {
-   "company": "Charles Schwab",
-   "title": "Product Management Intern - Thinkorswim",
-   "location": "Austin, TX",
-   "url": "https://career-schwab.icims.com/jobs/126266/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-10T05:16:18.610Z",
-   "postedAt": "2026-09-10T01:05:41.000Z"
   },
   {
    "company": "TikTok",
