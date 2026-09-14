@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T05:35:49.761Z",
+ "generatedAt": "2026-09-14T10:58:04.593Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
@@ -1444,26 +1444,6 @@
    "postedAt": "2026-08-21T00:00:00.000Z"
   },
   {
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
-  },
-  {
    "company": "IDeaS",
    "title": "Associate Product Manager - Commercial Capabilities",
    "location": "Bloomington, MN",
@@ -1821,16 +1801,6 @@
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-08-10T23:04:24.264Z",
-   "postedAt": "2026-08-10T00:00:00.000Z"
-  },
-  {
-   "company": "LPL Financial Holdings",
-   "title": "Product Management New Grad - Product",
-   "location": "Austin, TX; Fort Mill, SC; Charlotte, NC",
-   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-10T20:02:52.766Z",
    "postedAt": "2026-08-10T00:00:00.000Z"
   },
   {
