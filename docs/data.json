@@ -1,8 +1,48 @@
 {
- "generatedAt": "2026-09-14T20:41:41.722Z",
+ "generatedAt": "2026-09-14T23:28:51.351Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Intuit",
+   "title": "Product Manager Intern",
+   "location": "Mountain View, CA; San Diego, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-14T23:28:51.351Z",
+   "postedAt": "2026-09-14T21:08:06.000Z"
+  },
+  {
+   "company": "OpenGov",
+   "title": "Product Intern",
+   "location": "Atlanta, GA",
+   "url": "https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-14T23:28:51.351Z",
+   "postedAt": "2026-09-14T22:44:00.000Z"
+  },
+  {
+   "company": "OpenGov",
+   "title": "Product Intern",
+   "location": "Boston, MA",
+   "url": "https://jobs.ashbyhq.com/opengov/163f2c69-851d-4215-ae4b-bb717b2e66d6/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-14T23:28:51.351Z",
+   "postedAt": "2026-09-14T22:44:01.000Z"
+  },
+  {
+   "company": "Tesla",
+   "title": "Product Engineer Intern - Applications Engineering",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/283298",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-14T23:28:51.351Z",
+   "postedAt": "2026-09-14T21:08:13.000Z"
+  },
   {
    "company": "Lowe's",
    "title": "Associate Product Manager - Launchpad",
@@ -612,16 +652,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-04T04:26:55.257Z",
    "postedAt": "2026-09-03T22:23:48.000Z"
-  },
-  {
-   "company": "Stanley Black & Decker",
-   "title": "Associate Product Manager - Tools & Outdoor",
-   "location": "Towson, MD",
-   "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager_REQ-1000051914",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-04T04:26:55.257Z",
-   "postedAt": "2026-09-03T00:00:00.000Z"
   },
   {
    "company": "Clerkie",
