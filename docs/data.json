@@ -1,8 +1,38 @@
 {
- "generatedAt": "2026-09-14T10:58:04.593Z",
+ "generatedAt": "2026-09-14T16:47:15.310Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Oshkosh",
+   "title": "Product Intern",
+   "location": "New Hudson, MI",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-14T16:47:15.310Z",
+   "postedAt": "2026-09-14T00:00:00.000Z"
+  },
+  {
+   "company": "Robinhood",
+   "title": "Associate Product Manager (New Grad)",
+   "location": "Menlo Park, CA; New York, NY",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973",
+   "kind": "newgrad",
+   "source": "Company board",
+   "firstSeen": "2026-09-14T16:47:15.310Z",
+   "postedAt": "2026-09-14T08:00:08-04:00"
+  },
+  {
+   "company": "Robinhood",
+   "title": "Associate Product Manager New Grad",
+   "location": "Menlo Park, CA; NYC",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8199973",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-14T16:47:15.310Z",
+   "postedAt": "2026-09-14T14:42:23.000Z"
+  },
   {
    "company": "USAA",
    "title": "Product Management Analyst Intern - Property and Casualty",
@@ -102,16 +132,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-11T23:52:00.894Z",
    "postedAt": "2026-09-11T22:27:52.000Z"
-  },
-  {
-   "company": "Kyndryl",
-   "title": "Associate Product Manager - Agentic Modernization",
-   "location": "Dallas, TX",
-   "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/CIO-KPop-Dallas-US152527/Associate-Product-Manager---Agentic-Modernization_R-67492-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-11T17:14:06.632Z",
-   "postedAt": "2026-09-11T00:00:00.000Z"
   },
   {
    "company": "Tesla",
@@ -1444,6 +1464,16 @@
    "postedAt": "2026-08-21T00:00:00.000Z"
   },
   {
+   "company": "Goldman Sachs",
+   "title": "Summer Analyst Intern - Americas - AWM Product Management",
+   "location": "NYC",
+   "url": "https://higher.gs.com/roles/182389?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:37.000Z"
+  },
+  {
    "company": "IDeaS",
    "title": "Associate Product Manager - Commercial Capabilities",
    "location": "Bloomington, MN",
@@ -1801,6 +1831,16 @@
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-08-10T23:04:24.264Z",
+   "postedAt": "2026-08-10T00:00:00.000Z"
+  },
+  {
+   "company": "LPL Financial Holdings",
+   "title": "Product Management New Grad - Product",
+   "location": "Austin, TX; Fort Mill, SC; Charlotte, NC",
+   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Product_R-052468-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-10T20:02:52.766Z",
    "postedAt": "2026-08-10T00:00:00.000Z"
   },
   {
