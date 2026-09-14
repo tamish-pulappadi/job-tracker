@@ -1,8 +1,48 @@
 {
- "generatedAt": "2026-09-14T16:47:15.310Z",
+ "generatedAt": "2026-09-14T20:41:41.722Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Lowe's",
+   "title": "Associate Product Manager - Launchpad",
+   "location": "Charlotte, NC",
+   "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Product-Manager---Launchpad_JR-02641560",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-14T20:41:41.722Z",
+   "postedAt": "2026-09-14T00:00:00.000Z"
+  },
+  {
+   "company": "Lowe's",
+   "title": "Digital Product Management Intern",
+   "location": "Charlotte, NC",
+   "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Digital-Product-Management---Undergrad-Internship---Summer-2027_JR-02645845",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-14T20:41:41.722Z",
+   "postedAt": "2026-09-14T00:00:00.000Z"
+  },
+  {
+   "company": "Oshkosh",
+   "title": "Product Management Intern",
+   "location": "Hagerstown, MD",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-14T20:41:41.722Z",
+   "postedAt": "2026-09-14T00:00:00.000Z"
+  },
+  {
+   "company": "Ulta Beauty",
+   "title": "Digital Product Management Intern",
+   "location": "Bolingbrook, IL",
+   "url": "https://careers.ulta.com/jobs/423575?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-14T20:41:41.722Z",
+   "postedAt": "2026-09-14T17:40:05.000Z"
+  },
   {
    "company": "Oshkosh",
    "title": "Product Intern",
@@ -1465,13 +1505,13 @@
   },
   {
    "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - AWM Product Management",
-   "location": "NYC",
-   "url": "https://higher.gs.com/roles/182389?type=students",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:37.000Z"
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
@@ -1662,16 +1702,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-14T05:02:35.156Z",
    "postedAt": "2026-08-14T03:57:22.000Z"
-  },
-  {
-   "company": "Tuckernuck",
-   "title": "Product Management Intern",
-   "location": "Washington, DC",
-   "url": "https://tnuck.bamboohr.com/careers/273/",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-13T08:05:12.846Z",
-   "postedAt": "2026-08-13T06:25:15.000Z"
   },
   {
    "company": "TikTok",
