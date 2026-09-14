@@ -1,7 +1,9 @@
 {
- "generatedAt": "2026-09-13T22:59:37.842Z",
+ "generatedAt": "2026-09-14T00:50:00.348Z",
  "companiesTracked": 94,
- "failures": [],
+ "failures": [
+  "Visa: 520 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
+ ],
  "jobs": [
   {
    "company": "USAA",
