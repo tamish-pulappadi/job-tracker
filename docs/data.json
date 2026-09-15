@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-09-15T06:45:22.885Z",
+ "generatedAt": "2026-09-15T12:22:44.890Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "The Walt Disney Company",
+   "title": "Associate Product Manager - APM Program",
+   "location": "Glendale, CA; NYC",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-15T12:22:44.890Z",
+   "postedAt": "2026-09-15T00:00:00.000Z"
+  },
+  {
+   "company": "The Walt Disney Company",
+   "title": "Associate Product Manager - Program",
+   "location": "Glendale, CA; NYC",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-15T12:22:44.890Z",
+   "postedAt": "2026-09-15T00:00:00.000Z"
+  },
   {
    "company": "LabCorp",
    "title": "IT Product Manager Intern - Payer Team",
