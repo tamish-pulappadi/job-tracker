@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-09-15T01:44:44.317Z",
+ "generatedAt": "2026-09-15T06:45:22.885Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "LabCorp",
+   "title": "IT Product Manager Intern - Payer Team",
+   "location": "Durham, NC",
+   "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-15T06:45:22.885Z",
+   "postedAt": "2026-09-14T00:00:00.000Z"
+  },
   {
    "company": "Intuit",
    "title": "Product Manager Intern",
