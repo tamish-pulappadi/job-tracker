@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-09-15T12:22:44.890Z",
+ "generatedAt": "2026-09-15T17:10:27.203Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Duolingo",
+   "title": "Associate Product Manager, Intern",
+   "location": "Pittsburgh, PA",
+   "url": "https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-09-15T17:10:27.203Z",
+   "postedAt": "2026-09-15T12:00:00-04:00"
+  },
   {
    "company": "The Walt Disney Company",
    "title": "Associate Product Manager - APM Program",
@@ -272,16 +282,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-11T04:56:18.441Z",
    "postedAt": "2026-09-11T01:09:25.000Z"
-  },
-  {
-   "company": "John Deere",
-   "title": "Product Engineering Student - Product Engineering",
-   "location": "Urbandale, IL",
-   "url": "https://johndeere.eightfold.ai/careers/job/137483278414",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-11T00:18:23.575Z",
-   "postedAt": "2026-09-10T22:32:45.000Z"
   },
   {
    "company": "RF-SMART",
@@ -702,16 +702,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-03T19:50:30.822Z",
    "postedAt": "2026-06-05T22:18:29.000Z"
-  },
-  {
-   "company": "Lila Sciences",
-   "title": "Software Product Management Co-op",
-   "location": "Cambridge, MA",
-   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4286512009",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-03T19:50:30.822Z",
-   "postedAt": "2026-06-16T19:56:52.000Z"
   },
   {
    "company": "MJH Life Sciences",
@@ -1562,6 +1552,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
