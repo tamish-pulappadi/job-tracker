@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-09-16T05:31:12.043Z",
+ "generatedAt": "2026-09-16T10:17:04.347Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Cheiron",
+   "title": "Associate Product Manager - Technical",
+   "location": "Los Altos, CA",
+   "url": "https://jobs.ashbyhq.com/cheiron/a8514f9b-17d9-40a0-8674-a07543bb86d0/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-16T10:17:04.347Z",
+   "postedAt": "2026-09-16T06:15:37.000Z"
+  },
+  {
+   "company": "Illinois Tool Works",
+   "title": "Product Management Intern",
+   "location": "San Luis Obispo, CA",
+   "url": "https://careers.itw.com/global/en/job/JR10112",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-16T10:17:04.347Z",
+   "postedAt": "2026-09-16T09:42:06.000Z"
+  },
   {
    "company": "Cheiron",
    "title": "Technical Product Management Intern",
@@ -1084,16 +1104,6 @@
    "postedAt": "2026-09-01T00:00:00.000Z"
   },
   {
-   "company": "United Airlines",
-   "title": "Sales Product Intern",
-   "location": "Chicago, IL",
-   "url": "https://careers.united.com/us/en/job/WHQ00026558",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-01T22:02:53.381Z",
-   "postedAt": "2026-09-01T19:33:10.000Z"
-  },
-  {
    "company": "Vanguard",
    "title": "Technical Product Manager Intern",
    "location": "Dallas, TX; Malvern, PA; Charlotte, NC",
@@ -1594,6 +1604,16 @@
    "postedAt": "2026-08-24T20:14:34.000Z"
   },
   {
+   "company": "Analog Devices",
+   "title": "Product Engineer Intern - Product Development",
+   "location": "Wilmington, MA; Durham, NC",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-24T15:08:20.869Z",
+   "postedAt": "2026-08-24T00:00:00.000Z"
+  },
+  {
    "company": "Springs Window Fashions",
    "title": "Product Management Intern",
    "location": "Long Island City, Queens, NY",
@@ -1652,16 +1672,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
