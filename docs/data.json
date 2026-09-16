@@ -1,8 +1,48 @@
 {
- "generatedAt": "2026-09-16T00:54:48.541Z",
+ "generatedAt": "2026-09-16T05:31:12.043Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Cheiron",
+   "title": "Technical Product Management Intern",
+   "location": "Los Altos, CA",
+   "url": "https://jobs.ashbyhq.com/cheiron/e193c411-f175-480e-a341-72e7131e009a/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-16T05:31:12.043Z",
+   "postedAt": "2026-09-16T01:19:37.000Z"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Product Management MBA Intern - Data Center GPU",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-16T05:31:12.043Z",
+   "postedAt": "2026-09-15T00:00:00.000Z"
+  },
+  {
+   "company": "PricewaterhouseCoopers (PwC)",
+   "title": "Product Management Intern - Commercial Tech & Innovation",
+   "location": "Rosemont, IL",
+   "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-16T05:31:12.043Z",
+   "postedAt": "2026-09-15T00:00:00.000Z"
+  },
+  {
+   "company": "Stripe",
+   "title": "Product Manager",
+   "location": "Seattle, WA; SF; NYC",
+   "url": "https://stripe.com/jobs/search?gh_jid=7737124",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-16T05:31:12.043Z",
+   "postedAt": "2026-03-21T01:07:28.000Z"
+  },
   {
    "company": "Acxiom",
    "title": "Product Manager Intern - Real Identity Product Team",
@@ -1554,16 +1594,6 @@
    "postedAt": "2026-08-24T20:14:34.000Z"
   },
   {
-   "company": "Analog Devices",
-   "title": "Product Engineer Intern - Product Development",
-   "location": "Wilmington, MA; Durham, NC",
-   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer--Product-Development--Intern_R265302",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-24T15:08:20.869Z",
-   "postedAt": "2026-08-24T00:00:00.000Z"
-  },
-  {
    "company": "Springs Window Fashions",
    "title": "Product Management Intern",
    "location": "Long Island City, Queens, NY",
@@ -1622,6 +1652,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
