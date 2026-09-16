@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T18:52:33.465Z",
+ "generatedAt": "2026-09-16T21:48:45.512Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
@@ -202,16 +202,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-14T23:28:51.351Z",
    "postedAt": "2026-09-14T22:44:00.000Z"
-  },
-  {
-   "company": "OpenGov",
-   "title": "Product Intern",
-   "location": "Boston, MA",
-   "url": "https://jobs.ashbyhq.com/opengov/163f2c69-851d-4215-ae4b-bb717b2e66d6/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-14T23:28:51.351Z",
-   "postedAt": "2026-09-14T22:44:01.000Z"
   },
   {
    "company": "Tesla",
