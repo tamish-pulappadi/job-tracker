@@ -1,8 +1,18 @@
 {
- "generatedAt": "2026-09-16T10:17:04.347Z",
+ "generatedAt": "2026-09-16T15:05:49.239Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "BNY",
+   "title": "Product Management Analyst Program - Product Management",
+   "location": "Boston, MA; Pittsburgh, PA; Lake Mary, FL; Jersey City, NJ; NYC",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80895",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-16T15:05:49.239Z",
+   "postedAt": "2026-09-16T14:17:13.000Z"
+  },
   {
    "company": "Cheiron",
    "title": "Associate Product Manager - Technical",
@@ -1672,6 +1682,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
