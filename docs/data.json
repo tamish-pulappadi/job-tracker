@@ -1,10 +1,78 @@
 {
- "generatedAt": "2026-09-15T22:54:13.937Z",
+ "generatedAt": "2026-09-16T00:54:48.541Z",
  "companiesTracked": 94,
- "failures": [
-  "Instacart: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
+  {
+   "company": "Acxiom",
+   "title": "Product Manager Intern - Real Identity Product Team",
+   "location": "Conway, AR",
+   "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-16T00:54:48.541Z",
+   "postedAt": "2026-09-15T00:00:00.000Z"
+  },
+  {
+   "company": "Duolingo",
+   "title": "Associate Product Manager Intern",
+   "location": "Pittsburgh, PA",
+   "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-16T00:54:48.541Z",
+   "postedAt": "2026-09-15T22:38:43.000Z"
+  },
+  {
+   "company": "Illinois Tool Works",
+   "title": "Product Management Intern",
+   "location": "Troy, OH",
+   "url": "https://careers.itw.com/global/en/job/JR10105",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-16T00:54:48.541Z",
+   "postedAt": "2026-09-15T22:22:22.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Software Architecture Engineer - Product Engineering",
+   "location": "Waterloo, IA",
+   "url": "https://johndeere.eightfold.ai/careers/job/137481439862",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-16T00:54:48.541Z",
+   "postedAt": "2026-09-15T22:23:03.000Z"
+  },
+  {
+   "company": "Micron Technology",
+   "title": "Product Engineer Intern - DRAM Technology - Node Development",
+   "location": "Boise, ID",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Node-Development-Product-Engineer---DRAM-Technology_JR111846",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-16T00:54:48.541Z",
+   "postedAt": "2026-09-15T00:00:00.000Z"
+  },
+  {
+   "company": "Stanley Black & Decker",
+   "title": "Associate Product Manager - Combo Kits - Craftsman",
+   "location": "Towson, MD",
+   "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager--Combo-Kits---CRAFTSMAN-_REQ-1000052282",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-16T00:54:48.541Z",
+   "postedAt": "2026-09-15T00:00:00.000Z"
+  },
+  {
+   "company": "Stripe",
+   "title": "Product Manager: New Grad Accelerator",
+   "location": "San Francisco, New York City, Seattle",
+   "url": "https://stripe.com/jobs/search?gh_jid=7737124",
+   "kind": "newgrad",
+   "source": "Company board",
+   "firstSeen": "2026-09-16T00:54:48.541Z",
+   "postedAt": "2026-03-20T18:26:06-04:00"
+  },
   {
    "company": "Duolingo",
    "title": "Associate Product Manager, Intern",
