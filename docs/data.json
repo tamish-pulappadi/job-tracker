@@ -1,8 +1,58 @@
 {
- "generatedAt": "2026-09-17T21:33:38.559Z",
+ "generatedAt": "2026-09-17T23:40:17.876Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Fidelity National Information Services",
+   "title": "Product Manager - FIS University Program",
+   "location": "Milwaukee, WI; Jacksonville, FL; Atlanta, GA",
+   "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Product-Management--FIS-University-Program_JR0309693",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-17T23:40:17.876Z",
+   "postedAt": "2026-09-17T00:00:00.000Z"
+  },
+  {
+   "company": "Fidelity National Information Services",
+   "title": "Product Management Intern - FIS University Program",
+   "location": "Milwaukee, WI; Jacksonville, FL; Atlanta, GA",
+   "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Product-Management--FIS-University-Program_JR0309691",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-17T23:40:17.876Z",
+   "postedAt": "2026-09-17T00:00:00.000Z"
+  },
+  {
+   "company": "Gordon Food Service",
+   "title": "Digital Product Management Intern",
+   "location": "Wyoming, MI",
+   "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-17T23:40:17.876Z",
+   "postedAt": "2026-09-17T00:00:00.000Z"
+  },
+  {
+   "company": "W.R. Berkley",
+   "title": "Product Management Analyst Intern - Claims",
+   "location": "Manassas, VA",
+   "url": "https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-17T23:40:17.876Z",
+   "postedAt": "2026-09-17T22:05:22.000Z"
+  },
+  {
+   "company": "Zurn Elkay Water Solutions",
+   "title": "Product Management Intern",
+   "location": "Paso Robles, CA",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-17T23:40:17.876Z",
+   "postedAt": "2026-09-17T00:00:00.000Z"
+  },
   {
    "company": "Visa",
    "title": "Associate Product Manager",
@@ -25,13 +75,23 @@
   },
   {
    "company": "Visa",
+   "title": "Associate Product Manager (APM) Intern - Summer 2027",
+   "location": "US - Austin, TX",
+   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-09-17T09:15:24.032Z",
+   "postedAt": "2026-09-17T23:40:17.617Z"
+  },
+  {
+   "company": "Visa",
    "title": "Associate Product Manager (APM), New College Graduate Rotational Program, 2027",
    "location": "US - Foster City, CA",
    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088600W",
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T21:33:32.713Z"
+   "postedAt": "2026-09-17T23:40:17.617Z"
   },
   {
    "company": "Visa",
@@ -41,17 +101,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T21:33:32.713Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager (APM) Intern - Summer 2027",
-   "location": "US - Austin, TX",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T21:33:32.713Z"
+   "postedAt": "2026-09-17T23:40:17.617Z"
   },
   {
    "company": "Visa",
@@ -101,7 +151,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T21:33:32.712Z"
+   "postedAt": "2026-09-16T23:40:17.617Z"
   },
   {
    "company": "BNY",
@@ -582,6 +632,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-10T00:37:39.480Z",
    "postedAt": "2026-09-09T00:00:00.000Z"
+  },
+  {
+   "company": "WorldStrides",
+   "title": "Product Engineer",
+   "location": "United States",
+   "url": "https://job-boards.greenhouse.io/world4822stri986des/jobs/5351873008",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-10T00:37:39.480Z",
+   "postedAt": "2026-09-09T22:41:05.000Z"
   },
   {
    "company": "Robert Bosch Venture Capital",
@@ -1204,14 +1264,14 @@
    "postedAt": "2026-09-01T00:00:00.000Z"
   },
   {
-   "company": "Vanguard",
-   "title": "Technical Product Manager Intern",
-   "location": "Dallas, TX; Malvern, PA; Charlotte, NC",
-   "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Technical-Product-Manager_181969",
+   "company": "United Airlines",
+   "title": "Sales Product Intern",
+   "location": "Chicago, IL",
+   "url": "https://careers.united.com/us/en/job/WHQ00026558",
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-09-01T22:02:53.381Z",
-   "postedAt": "2026-09-01T00:00:00.000Z"
+   "postedAt": "2026-09-01T19:33:10.000Z"
   },
   {
    "company": "L3Harris Technologies",
@@ -1772,16 +1832,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
@@ -2382,6 +2432,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-01T10:20:11.730Z",
    "postedAt": "2026-06-08T06:08:01.000Z"
+  },
+  {
+   "company": "Skydio",
+   "title": "Product Management Intern",
+   "location": "San Mateo, CA",
+   "url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-01T00:10:10.440Z",
+   "postedAt": "2026-07-31T22:25:00.000Z"
   },
   {
    "company": "Skydio",
