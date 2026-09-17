@@ -1,8 +1,28 @@
 {
- "generatedAt": "2026-09-17T09:15:24.032Z",
+ "generatedAt": "2026-09-17T14:21:55.595Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
+  {
+   "company": "Visa",
+   "title": "Associate Product Manager",
+   "location": "Foster City, CA",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088600W",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-17T14:21:55.595Z",
+   "postedAt": "2026-09-17T00:00:00.000Z"
+  },
+  {
+   "company": "Visa",
+   "title": "Associate Product Manager Intern - APM",
+   "location": "Foster City, CA",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-17T14:21:55.595Z",
+   "postedAt": "2026-09-17T00:00:00.000Z"
+  },
   {
    "company": "Visa",
    "title": "Associate Product Manager (APM), New College Graduate Rotational Program, 2027",
@@ -11,7 +31,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T09:15:23.714Z"
+   "postedAt": "2026-09-17T14:21:55.159Z"
   },
   {
    "company": "Visa",
@@ -21,7 +41,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T09:15:23.714Z"
+   "postedAt": "2026-09-17T14:21:55.159Z"
   },
   {
    "company": "Visa",
@@ -31,7 +51,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T09:15:23.714Z"
+   "postedAt": "2026-09-17T14:21:55.159Z"
   },
   {
    "company": "Visa",
@@ -81,7 +101,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T09:15:23.714Z"
+   "postedAt": "2026-09-16T14:21:55.159Z"
   },
   {
    "company": "BNY",
@@ -512,6 +532,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-10T17:29:45.969Z",
    "postedAt": "2026-09-10T14:39:33.000Z"
+  },
+  {
+   "company": "L3Harris Technologies",
+   "title": "Product Management Intern",
+   "location": "Lynchburg, VA",
+   "url": "https://jobs.l3harris.com/job/Lynchburg-Product-Management-Intern-VA-24501-6952/1414571100/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-10T17:29:45.969Z",
+   "postedAt": "2026-09-10T14:16:22.000Z"
   },
   {
    "company": "TikTok",
