@@ -1,9 +1,7 @@
 {
- "generatedAt": "2026-09-17T18:24:12.460Z",
+ "generatedAt": "2026-09-17T21:33:38.559Z",
  "companiesTracked": 94,
- "failures": [
-  "Discord: The operation was aborted due to timeout"
- ],
+ "failures": [],
  "jobs": [
   {
    "company": "Visa",
@@ -33,7 +31,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T18:24:05.931Z"
+   "postedAt": "2026-09-17T21:33:32.713Z"
   },
   {
    "company": "Visa",
@@ -43,7 +41,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T18:24:05.931Z"
+   "postedAt": "2026-09-17T21:33:32.713Z"
   },
   {
    "company": "Visa",
@@ -53,7 +51,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T18:24:05.931Z"
+   "postedAt": "2026-09-17T21:33:32.713Z"
   },
   {
    "company": "Visa",
@@ -103,7 +101,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T18:24:05.931Z"
+   "postedAt": "2026-09-16T21:33:32.712Z"
   },
   {
    "company": "BNY",
