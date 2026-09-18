@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-17T23:40:17.876Z",
+ "generatedAt": "2026-09-18T01:28:36.381Z",
  "companiesTracked": 94,
  "failures": [],
  "jobs": [
@@ -76,12 +76,22 @@
   {
    "company": "Visa",
    "title": "Associate Product Manager (APM) Intern - Summer 2027",
+   "location": "US - Foster City, CA",
+   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-09-17T09:15:24.032Z",
+   "postedAt": "2026-09-18T01:28:36.077Z"
+  },
+  {
+   "company": "Visa",
+   "title": "Associate Product Manager (APM) Intern - Summer 2027",
    "location": "US - Austin, TX",
    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W",
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:40:17.617Z"
+   "postedAt": "2026-09-18T01:28:36.077Z"
   },
   {
    "company": "Visa",
@@ -91,17 +101,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:40:17.617Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager (APM) Intern - Summer 2027",
-   "location": "US - Foster City, CA",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:40:17.617Z"
+   "postedAt": "2026-09-18T01:28:36.077Z"
   },
   {
    "company": "Visa",
@@ -151,7 +151,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T23:40:17.617Z"
+   "postedAt": "2026-09-17T01:28:36.077Z"
   },
   {
    "company": "BNY",
