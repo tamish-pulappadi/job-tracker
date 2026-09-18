@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-18T21:04:03.225Z",
+ "generatedAt": "2026-09-18T23:16:43.578Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
@@ -107,13 +107,23 @@
   },
   {
    "company": "Visa",
+   "title": "Associate Product Manager (APM), New College Graduate Rotational Program, 2027",
+   "location": "US - Foster City, CA",
+   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088600W",
+   "kind": "newgrad",
+   "source": "Company board",
+   "firstSeen": "2026-09-17T09:15:24.032Z",
+   "postedAt": "2026-09-17T23:16:38.508Z"
+  },
+  {
+   "company": "Visa",
    "title": "Associate Product Manager (APM) Intern - Summer 2027",
    "location": "US - Foster City, CA",
    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1",
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T21:04:02.506Z"
+   "postedAt": "2026-09-17T23:16:38.508Z"
   },
   {
    "company": "Visa",
@@ -123,17 +133,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T21:04:02.506Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager (APM), New College Graduate Rotational Program, 2027",
-   "location": "US - Foster City, CA",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088600W",
-   "kind": "newgrad",
-   "source": "Company board",
-   "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T21:04:02.506Z"
+   "postedAt": "2026-09-17T23:16:38.508Z"
   },
   {
    "company": "Visa",
@@ -173,7 +173,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T21:04:02.506Z"
+   "postedAt": "2026-09-16T23:16:38.508Z"
   },
   {
    "company": "BNY",
@@ -554,6 +554,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-11T23:52:00.894Z",
    "postedAt": "2026-09-11T22:27:52.000Z"
+  },
+  {
+   "company": "Kyndryl",
+   "title": "Associate Product Manager - Agentic Modernization",
+   "location": "Dallas, TX",
+   "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/CIO-KPop-Dallas-US152527/Associate-Product-Manager---Agentic-Modernization_R-67492-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-11T17:14:06.632Z",
+   "postedAt": "2026-09-11T00:00:00.000Z"
   },
   {
    "company": "Tesla",
@@ -1436,16 +1446,6 @@
    "postedAt": "2026-08-31T00:00:00.000Z"
   },
   {
-   "company": "PricewaterhouseCoopers (PwC)",
-   "title": "Tax Innovation Delivery Experience Intern - Product Management",
-   "location": "Rosemont, IL",
-   "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Product-Management---Intern---Summer-2027_756419WD",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-31T23:24:35.217Z",
-   "postedAt": "2026-08-31T00:00:00.000Z"
-  },
-  {
    "company": "Upbring",
    "title": "Product Manager Intern",
    "location": "Austin, TX",
@@ -1844,16 +1844,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
