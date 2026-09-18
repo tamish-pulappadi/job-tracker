@@ -1,19 +1,19 @@
 {
- "generatedAt": "2026-09-18T06:22:20.973Z",
+ "generatedAt": "2026-09-18T11:33:05.433Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
   {
-   "company": "Rockwell Automation",
-   "title": "Product Management Intern",
-   "location": "Mequon, WI",
-   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Product-Management_R26-6971",
+   "company": "Tesla",
+   "title": "Product Manager Intern - Residential Energy Engineering",
+   "location": "Palo Alto, CA",
+   "url": "https://www.tesla.com/careers/search/job/283841",
    "kind": "intern",
    "source": "Simplify Internships",
-   "firstSeen": "2026-09-18T06:22:20.973Z",
-   "postedAt": "2026-09-16T00:00:00.000Z"
+   "firstSeen": "2026-09-18T11:33:05.433Z",
+   "postedAt": "2026-09-18T06:11:57.000Z"
   },
   {
    "company": "Rundoo",
@@ -103,7 +103,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T06:22:20.702Z"
+   "postedAt": "2026-09-17T11:33:05.185Z"
   },
   {
    "company": "Visa",
@@ -113,7 +113,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T06:22:20.702Z"
+   "postedAt": "2026-09-17T11:33:05.185Z"
   },
   {
    "company": "Visa",
@@ -123,7 +123,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T06:22:20.702Z"
+   "postedAt": "2026-09-17T11:33:05.185Z"
   },
   {
    "company": "Visa",
@@ -163,7 +163,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-17T06:22:20.702Z"
+   "postedAt": "2026-09-16T11:33:05.185Z"
   },
   {
    "company": "BNY",
@@ -1047,16 +1047,6 @@
   },
   {
    "company": "TikTok",
-   "title": "Product Manager Project Intern",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7620569902743406901",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-03T19:50:30.822Z",
-   "postedAt": "2026-03-24T08:44:52.000Z"
-  },
-  {
-   "company": "TikTok",
    "title": "Data Product Manager Project Intern - Monetization",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7631277919231625525",
@@ -1274,16 +1264,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-02T04:27:43.070Z",
    "postedAt": "2026-09-01T00:00:00.000Z"
-  },
-  {
-   "company": "United Airlines",
-   "title": "Sales Product Intern",
-   "location": "Chicago, IL",
-   "url": "https://careers.united.com/us/en/job/WHQ00026558",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-01T22:02:53.381Z",
-   "postedAt": "2026-09-01T19:33:10.000Z"
   },
   {
    "company": "L3Harris Technologies",
@@ -1844,16 +1824,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
-  },
-  {
-   "company": "Goldman Sachs",
-   "title": "AWM Product Management Analyst Intern",
-   "location": "Dallas, TX",
-   "url": "https://higher.gs.com/roles/171513?type=students",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-20T14:52:44.593Z",
-   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
