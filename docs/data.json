@@ -1,10 +1,41 @@
 {
- "generatedAt": "2026-09-19T01:20:38.555Z",
+ "generatedAt": "2026-09-19T06:09:15.496Z",
  "companiesTracked": 94,
  "failures": [
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Visa: 500 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "Johnson & Johnson",
+   "title": "Product Management Co-op - Patient Management Solutions",
+   "location": "Danvers, MA",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-19T06:09:15.496Z",
+   "postedAt": "2026-09-18T00:00:00.000Z"
+  },
+  {
+   "company": "Tint",
+   "title": "Associate Product Manager",
+   "location": "Remote in USA",
+   "url": "https://job-boards.greenhouse.io/tintai/jobs/4736081005",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-19T06:09:15.496Z",
+   "postedAt": "2026-09-19T01:24:45.000Z"
+  },
+  {
+   "company": "USAA",
+   "title": "Digital/Technical Product Manager Intern - Digital and Omnichannel Servicing",
+   "location": "San Antonio, TX",
+   "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-19T06:09:15.496Z",
+   "postedAt": "2026-09-18T00:00:00.000Z"
+  },
   {
    "company": "ASUS USA",
    "title": "Product Manager Assistant",
@@ -167,36 +198,6 @@
   },
   {
    "company": "Visa",
-   "title": "Associate Product Manager (APM), New College Graduate Rotational Program, 2027",
-   "location": "US - Foster City, CA",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088600W",
-   "kind": "newgrad",
-   "source": "Company board",
-   "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T01:20:30.171Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager (APM) Intern - Summer 2027",
-   "location": "US - Foster City, CA",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T01:20:30.171Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager (APM) Intern - Summer 2027",
-   "location": "US - Austin, TX",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T01:20:30.171Z"
-  },
-  {
-   "company": "Visa",
    "title": "Associate Product Manager Intern - APM",
    "location": "Austin, TX",
    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W",
@@ -224,16 +225,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-16T23:59:08.799Z",
    "postedAt": "2026-09-16T00:00:00.000Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager (APM), New College Graduate Rotational Program, 2027",
-   "location": "US - Austin, TX",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088601W-1",
-   "kind": "newgrad",
-   "source": "Company board",
-   "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-17T01:20:30.171Z"
   },
   {
    "company": "BNY",
@@ -1904,6 +1895,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
