@@ -1,10 +1,70 @@
 {
- "generatedAt": "2026-09-18T23:16:43.578Z",
+ "generatedAt": "2026-09-19T01:20:38.555Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "ASUS USA",
+   "title": "Product Manager Assistant",
+   "location": "City of Industry, CA",
+   "url": "https://jobs.jobvite.com/asus/job/oi7PAfwy?nl=1&nl=1&fr=false",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-19T01:20:38.555Z",
+   "postedAt": "2026-09-18T22:20:33.000Z"
+  },
+  {
+   "company": "Gemini",
+   "title": "Product Management Intern",
+   "location": "NYC",
+   "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214332&gh_jid=8214332",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-19T01:20:38.555Z",
+   "postedAt": "2026-09-18T22:09:37.000Z"
+  },
+  {
+   "company": "General Motors",
+   "title": "Product Management Intern - Digital Product",
+   "location": "Austin, TX; Warren, MI",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-19T01:20:38.555Z",
+   "postedAt": "2026-09-18T00:00:00.000Z"
+  },
+  {
+   "company": "Guardian Life",
+   "title": "Summer Intern - Group Benefits Product Management",
+   "location": "Boston, MA",
+   "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-19T01:20:38.555Z",
+   "postedAt": "2026-09-18T00:00:00.000Z"
+  },
+  {
+   "company": "Klaviyo",
+   "title": "Product Manager Co-op - Spring 2027",
+   "location": "Boston, MA",
+   "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7990059003",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-19T01:20:38.555Z",
+   "postedAt": "2026-09-18T22:09:42.000Z"
+  },
+  {
+   "company": "Publicis Groupe",
+   "title": "Product Manager Intern - Class of 2028",
+   "location": "Chicago, IL",
+   "url": "https://careers.publicisgroupe.com/jobs/172574?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-19T01:20:38.555Z",
+   "postedAt": "2026-09-18T22:13:48.000Z"
+  },
   {
    "company": "Invesco",
    "title": "ETF Product Intern",
@@ -113,7 +173,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:16:38.508Z"
+   "postedAt": "2026-09-18T01:20:30.171Z"
   },
   {
    "company": "Visa",
@@ -123,7 +183,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:16:38.508Z"
+   "postedAt": "2026-09-18T01:20:30.171Z"
   },
   {
    "company": "Visa",
@@ -133,7 +193,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:16:38.508Z"
+   "postedAt": "2026-09-18T01:20:30.171Z"
   },
   {
    "company": "Visa",
@@ -173,7 +233,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T23:16:38.508Z"
+   "postedAt": "2026-09-17T01:20:30.171Z"
   },
   {
    "company": "BNY",
@@ -2474,16 +2534,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-29T16:47:44.330Z",
    "postedAt": "2026-07-29T14:06:10.000Z"
-  },
-  {
-   "company": "23andMe",
-   "title": "Associate Product Manager / Product Manager",
-   "location": "Palo Alto, CA",
-   "url": "https://23andme.wd5.myworkdayjobs.com/23/job/Palo-Alto-HQ/Associate-Product-Manager---Product-Manager--Member-Experience_2026037",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-29T00:56:53.064Z",
-   "postedAt": "2026-06-03T00:00:00.000Z"
   },
   {
    "company": "Appian",
