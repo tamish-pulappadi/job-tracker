@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19T23:32:05.784Z",
+ "generatedAt": "2026-09-20T01:37:50.113Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
@@ -203,7 +203,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:32:05.526Z"
+   "postedAt": "2026-09-18T01:37:48.513Z"
   },
   {
    "company": "Visa",
@@ -213,7 +213,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:32:05.526Z"
+   "postedAt": "2026-09-18T01:37:48.513Z"
   },
   {
    "company": "Visa",
@@ -223,7 +223,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:32:05.526Z"
+   "postedAt": "2026-09-18T01:37:48.513Z"
   },
   {
    "company": "Visa",
@@ -263,7 +263,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T23:32:05.526Z"
+   "postedAt": "2026-09-17T01:37:48.513Z"
   },
   {
    "company": "BNY",
@@ -1924,6 +1924,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+   "company": "Goldman Sachs",
+   "title": "AWM Product Management Analyst Intern",
+   "location": "Dallas, TX",
+   "url": "https://higher.gs.com/roles/171513?type=students",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-20T14:52:44.593Z",
+   "postedAt": "2026-08-19T20:44:36.000Z"
   },
   {
    "company": "IDeaS",
