@@ -1,9 +1,8 @@
 {
- "generatedAt": "2026-09-21T18:39:39.185Z",
+ "generatedAt": "2026-09-21T22:12:42.197Z",
  "companiesTracked": 94,
  "failures": [
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "MongoDB: The operation was aborted due to timeout"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
   {
@@ -214,7 +213,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T18:39:33.694Z"
+   "postedAt": "2026-09-17T22:12:41.906Z"
   },
   {
    "company": "Visa",
@@ -224,7 +223,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T18:39:33.694Z"
+   "postedAt": "2026-09-17T22:12:41.906Z"
   },
   {
    "company": "Visa",
@@ -234,7 +233,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T18:39:33.694Z"
+   "postedAt": "2026-09-17T22:12:41.906Z"
   },
   {
    "company": "Visa",
@@ -274,7 +273,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T18:39:33.694Z"
+   "postedAt": "2026-09-16T22:12:41.906Z"
   },
   {
    "company": "BNY",
@@ -825,16 +824,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-09T00:54:21.561Z",
    "postedAt": "2026-09-08T00:00:00.000Z"
-  },
-  {
-   "company": "John Deere",
-   "title": "Embedded Robotics Engineering Student - Product Engineering",
-   "location": "Ames, IA",
-   "url": "https://johndeere.eightfold.ai/careers/job/137483302646",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-09T00:54:21.561Z",
-   "postedAt": "2026-09-08T22:32:47.000Z"
   },
   {
    "company": "Red Hat",
@@ -1545,16 +1534,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-31T19:41:57.516Z",
    "postedAt": "2026-08-31T14:35:00.000Z"
-  },
-  {
-   "company": "The Home Depot",
-   "title": "Associate Product Manager - Product Management Program",
-   "location": "Atlanta, GA",
-   "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Product-Manager-Program--Summer-2027-_Req192004",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-31T19:41:57.516Z",
-   "postedAt": "2026-08-31T00:00:00.000Z"
   },
   {
    "company": "The Home Depot",
