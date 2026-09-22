@@ -1,10 +1,22 @@
 {
- "generatedAt": "2026-09-22T10:19:30.869Z",
+ "generatedAt": "2026-09-22T15:05:06.841Z",
  "companiesTracked": 94,
  "failures": [
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Lattice: The operation was aborted due to timeout",
+  "Waymo: The operation was aborted due to timeout"
  ],
  "jobs": [
+  {
+   "company": "Google",
+   "title": "Product Manager Intern - Summer 2027",
+   "location": "SF; San Bruno, CA; NYC; Mountain View, CA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-22T15:05:06.841Z",
+   "postedAt": "2026-09-22T14:15:11.000Z"
+  },
   {
    "company": "ByteDance",
    "title": "Product Management Project Intern - Global Payment",
@@ -273,7 +285,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T10:19:30.494Z"
+   "postedAt": "2026-09-17T15:04:57.233Z"
   },
   {
    "company": "Visa",
@@ -283,7 +295,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T10:19:30.494Z"
+   "postedAt": "2026-09-17T15:04:57.233Z"
   },
   {
    "company": "Visa",
@@ -293,7 +305,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T10:19:30.494Z"
+   "postedAt": "2026-09-17T15:04:57.233Z"
   },
   {
    "company": "Visa",
@@ -333,7 +345,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T10:19:30.494Z"
+   "postedAt": "2026-09-16T15:04:57.233Z"
   },
   {
    "company": "BNY",
