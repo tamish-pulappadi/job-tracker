@@ -1,10 +1,11 @@
 {
- "generatedAt": "2026-09-22T15:05:06.841Z",
+ "generatedAt": "2026-09-22T18:51:27.355Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Lattice: The operation was aborted due to timeout",
-  "Waymo: The operation was aborted due to timeout"
+  "Affirm: The operation was aborted due to timeout",
+  "Chime: The operation was aborted due to timeout",
+  "Discord: The operation was aborted due to timeout"
  ],
  "jobs": [
   {
@@ -285,7 +286,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T15:04:57.233Z"
+   "postedAt": "2026-09-17T18:51:20.081Z"
   },
   {
    "company": "Visa",
@@ -295,7 +296,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T15:04:57.233Z"
+   "postedAt": "2026-09-17T18:51:20.081Z"
   },
   {
    "company": "Visa",
@@ -305,7 +306,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T15:04:57.233Z"
+   "postedAt": "2026-09-17T18:51:20.081Z"
   },
   {
    "company": "Visa",
@@ -345,7 +346,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T15:04:57.233Z"
+   "postedAt": "2026-09-16T18:51:20.081Z"
   },
   {
    "company": "BNY",
