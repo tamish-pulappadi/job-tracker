@@ -1,10 +1,50 @@
 {
- "generatedAt": "2026-09-22T00:49:46.593Z",
+ "generatedAt": "2026-09-22T05:39:39.890Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "ByteDance",
+   "title": "Product Management Project Intern - Global Payment",
+   "location": "San Jose, CA",
+   "url": "https://jobs.bytedance.com/en/position/7686394581777631541/detail",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-22T05:39:39.890Z",
+   "postedAt": "2026-09-22T01:17:50.000Z"
+  },
+  {
+   "company": "ONE Finance",
+   "title": "Product Intern",
+   "location": "NYC",
+   "url": "https://jobs.ashbyhq.com/oneapp/901eab26-08e3-4e6c-ad3d-c4acef4662c8/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-22T05:39:39.890Z",
+   "postedAt": "2026-09-22T01:19:27.000Z"
+  },
+  {
+   "company": "Rivian",
+   "title": "MBA Intern Co-op - Product Management Product Development",
+   "location": "Palo Alto, CA",
+   "url": "https://careers.rivian.com/jobs/33793?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-22T05:39:39.890Z",
+   "postedAt": "2026-09-22T01:14:13.000Z"
+  },
+  {
+   "company": "Rockwell Automation",
+   "title": "Leadership Development Program - Product Engineering & Development",
+   "location": "Mayfield Heights, OH",
+   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-22T05:39:39.890Z",
+   "postedAt": "2026-09-21T00:00:00.000Z"
+  },
   {
    "company": "Mastercard",
    "title": "Product Management Intern",
@@ -233,7 +273,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T00:49:46.229Z"
+   "postedAt": "2026-09-18T05:39:35.962Z"
   },
   {
    "company": "Visa",
@@ -243,7 +283,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T00:49:46.229Z"
+   "postedAt": "2026-09-18T05:39:35.962Z"
   },
   {
    "company": "Visa",
@@ -253,7 +293,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T00:49:46.229Z"
+   "postedAt": "2026-09-18T05:39:35.962Z"
   },
   {
    "company": "Visa",
@@ -293,7 +333,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-17T00:49:46.229Z"
+   "postedAt": "2026-09-17T05:39:35.962Z"
   },
   {
    "company": "BNY",
