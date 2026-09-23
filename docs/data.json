@@ -1,10 +1,30 @@
 {
- "generatedAt": "2026-09-22T23:50:50.285Z",
+ "generatedAt": "2026-09-23T02:35:08.781Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Adobe",
+   "title": "Product Manager MBA Graduate",
+   "location": "SF; San Jose, CA",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-23T02:35:08.781Z",
+   "postedAt": "2026-09-22T00:00:00.000Z"
+  },
+  {
+   "company": "The Walt Disney Company",
+   "title": "Associate Product Manager",
+   "location": "Orlando, FL",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Associate-Product-Manager--Project-Hire-_10159844",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-23T02:35:08.781Z",
+   "postedAt": "2026-09-22T00:00:00.000Z"
+  },
   {
    "company": "Mastercard",
    "title": "Product Management Intern - Summer 2027",
@@ -303,7 +323,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:50:50.060Z"
+   "postedAt": "2026-09-18T02:35:08.039Z"
   },
   {
    "company": "Visa",
@@ -313,7 +333,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:50:50.060Z"
+   "postedAt": "2026-09-18T02:35:08.039Z"
   },
   {
    "company": "Visa",
@@ -323,7 +343,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:50:50.060Z"
+   "postedAt": "2026-09-18T02:35:08.039Z"
   },
   {
    "company": "Visa",
@@ -363,7 +383,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T23:50:50.060Z"
+   "postedAt": "2026-09-17T02:35:08.039Z"
   },
   {
    "company": "BNY",
