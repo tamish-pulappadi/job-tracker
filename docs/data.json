@@ -1,10 +1,21 @@
 {
- "generatedAt": "2026-09-23T13:22:25.959Z",
+ "generatedAt": "2026-09-23T17:53:50.505Z",
  "companiesTracked": 94,
  "failures": [
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Databricks: The operation was aborted due to timeout"
  ],
  "jobs": [
+  {
+   "company": "Google",
+   "title": "Associate Product Manager - University Graduate",
+   "location": "San Jose, CA; San Bruno, CA; NYC; Mountain View, CA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/107272685397910214",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-23T17:53:50.505Z",
+   "postedAt": "2026-09-15T09:13:25.000Z"
+  },
   {
    "company": "Adobe",
    "title": "Product Manager MBA Graduate",
@@ -323,7 +334,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T13:22:24.504Z"
+   "postedAt": "2026-09-17T17:53:40.784Z"
   },
   {
    "company": "Visa",
@@ -333,7 +344,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T13:22:24.504Z"
+   "postedAt": "2026-09-17T17:53:40.784Z"
   },
   {
    "company": "Visa",
@@ -343,7 +354,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T13:22:24.504Z"
+   "postedAt": "2026-09-17T17:53:40.784Z"
   },
   {
    "company": "Visa",
@@ -383,7 +394,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T13:22:24.504Z"
+   "postedAt": "2026-09-16T17:53:40.784Z"
   },
   {
    "company": "BNY",
@@ -2667,26 +2678,6 @@
   },
   {
    "company": "Databricks",
-   "title": "Associate Product Manager, New Grad (2027 Start)",
-   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002",
-   "kind": "newgrad",
-   "source": "Company board",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2024-08-08T18:52:06-04:00"
-  },
-  {
-   "company": "Databricks",
-   "title": "Product Management Intern (Summer 2027)",
-   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2023-08-17T17:27:27-04:00"
-  },
-  {
-   "company": "Databricks",
    "title": "Associate Product Manager New Grad",
    "location": "SF; Bellevue, WA; Mountain View, CA",
    "url": "https://boards.greenhouse.io/embed/job_app?token=7586263002",
@@ -2784,16 +2775,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-08T14:11:31.000Z"
-  },
-  {
-   "company": "Relay",
-   "title": "Associate Product Manager-Internal Tools & Automation",
-   "location": "Raleigh, NC",
-   "url": "https://job-boards.greenhouse.io/relaypro/jobs/7698008",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-03-11T22:17:40.000Z"
   },
   {
    "company": "TikTok",
