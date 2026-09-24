@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23T23:21:42.962Z",
+ "generatedAt": "2026-09-24T01:32:55.663Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
@@ -174,16 +174,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-19T06:09:15.496Z",
    "postedAt": "2026-09-18T00:00:00.000Z"
-  },
-  {
-   "company": "Tint",
-   "title": "Associate Product Manager",
-   "location": "Remote in USA",
-   "url": "https://job-boards.greenhouse.io/tintai/jobs/4736081005",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-19T06:09:15.496Z",
-   "postedAt": "2026-09-19T01:24:45.000Z"
   },
   {
    "company": "USAA",
@@ -363,7 +353,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:21:42.770Z"
+   "postedAt": "2026-09-18T01:32:54.593Z"
   },
   {
    "company": "Visa",
@@ -373,7 +363,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:21:42.770Z"
+   "postedAt": "2026-09-18T01:32:54.593Z"
   },
   {
    "company": "Visa",
@@ -383,7 +373,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:21:42.770Z"
+   "postedAt": "2026-09-18T01:32:54.593Z"
   },
   {
    "company": "Visa",
@@ -423,7 +413,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T23:21:42.770Z"
+   "postedAt": "2026-09-17T01:32:54.593Z"
   },
   {
    "company": "BNY",
@@ -1236,16 +1226,6 @@
    "postedAt": "2026-09-04T01:18:35.000Z"
   },
   {
-   "company": "Side",
-   "title": "Associate Product Manager - Transaction & Compliance Management",
-   "location": "SF",
-   "url": "https://jobs.lever.co/sideinc/6c86d143-9c9f-44e0-bb37-90ad5d592a62/apply",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-04T04:26:55.257Z",
-   "postedAt": "2026-09-03T22:23:48.000Z"
-  },
-  {
    "company": "Clerkie",
    "title": "Associate Product Manager",
    "location": "Remote in USA",
@@ -1297,16 +1277,6 @@
   },
   {
    "company": "TikTok",
-   "title": "Product Manager Project Intern - Tiktok LIVE-Ecosystem Governance - 2026 Start",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7598849238706735365",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-03T19:50:30.822Z",
-   "postedAt": "2026-01-26T23:17:57.000Z"
-  },
-  {
-   "company": "TikTok",
    "title": "Data Product Manager Project Intern - Monetization",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7631277919231625525",
@@ -1344,6 +1314,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-03T19:50:30.822Z",
    "postedAt": "2026-07-02T01:36:57.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "AI Product Manager Intern - Tiktok LIVE-Ecosystem Governance",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7598849238706735365",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-06-15T06:11:51.000Z"
   },
   {
    "company": "Allied Solutions",
