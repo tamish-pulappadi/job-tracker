@@ -1,10 +1,30 @@
 {
- "generatedAt": "2026-09-24T23:19:55.570Z",
+ "generatedAt": "2026-09-25T01:40:39.418Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "84.51 Degrees",
+   "title": "Product Manager - Data Domain",
+   "location": "Chicago, IL; Cincinnati, OH",
+   "url": "https://job-boards.greenhouse.io/8451/jobs/8843248002",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-25T01:40:39.418Z",
+   "postedAt": "2026-09-24T22:41:34.000Z"
+  },
+  {
+   "company": "Best Friend Finance",
+   "title": "Associate Product Manager - New Products",
+   "location": "SF",
+   "url": "https://apply.workable.com/bff/j/758B8CE1EB/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-25T01:40:39.418Z",
+   "postedAt": "2026-09-25T01:17:14.000Z"
+  },
   {
    "company": "ABB",
    "title": "Product Management Intern",
@@ -413,7 +433,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:19:54.795Z"
+   "postedAt": "2026-09-18T01:40:39.157Z"
   },
   {
    "company": "Visa",
@@ -423,7 +443,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:19:54.795Z"
+   "postedAt": "2026-09-18T01:40:39.157Z"
   },
   {
    "company": "Visa",
@@ -433,7 +453,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T23:19:54.795Z"
+   "postedAt": "2026-09-18T01:40:39.157Z"
   },
   {
    "company": "Visa",
@@ -473,7 +493,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-16T23:19:54.795Z"
+   "postedAt": "2026-09-17T01:40:39.157Z"
   },
   {
    "company": "BNY",
