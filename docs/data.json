@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-25T01:40:39.418Z",
+ "generatedAt": "2026-09-25T06:36:20.869Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
@@ -433,7 +433,7 @@
    "kind": "newgrad",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T01:40:39.157Z"
+   "postedAt": "2026-09-18T06:36:13.977Z"
   },
   {
    "company": "Visa",
@@ -443,37 +443,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T01:40:39.157Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager (APM) Intern - Summer 2027",
-   "location": "US - Austin, TX",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T01:40:39.157Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager Intern - APM",
-   "location": "Austin, TX",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Job-Posting-Title-Associate-Product-Manager--APM--Intern---Summer-2027_REF088604W",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-17T00:00:00.000Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager New Grad - Multiple Teams",
-   "location": "Austin, TX",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088601W-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-17T03:58:30.613Z",
-   "postedAt": "2026-09-16T00:00:00.000Z"
+   "postedAt": "2026-09-18T06:36:13.977Z"
   },
   {
    "company": "AspenTech",
@@ -484,16 +454,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-16T23:59:08.799Z",
    "postedAt": "2026-09-16T00:00:00.000Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager (APM), New College Graduate Rotational Program, 2027",
-   "location": "US - Austin, TX",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088601W-1",
-   "kind": "newgrad",
-   "source": "Company board",
-   "firstSeen": "2026-09-16T23:59:08.799Z",
-   "postedAt": "2026-09-17T01:40:39.157Z"
   },
   {
    "company": "BNY",
@@ -534,16 +494,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-16T05:31:12.043Z",
    "postedAt": "2026-09-16T01:19:37.000Z"
-  },
-  {
-   "company": "PricewaterhouseCoopers (PwC)",
-   "title": "Product Management Intern - Commercial Tech & Innovation",
-   "location": "Rosemont, IL",
-   "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Advisory-National---Commercial-Tech---Innovation---Product-Management-Intern---Summer-2027_760527WD",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-16T05:31:12.043Z",
-   "postedAt": "2026-09-15T00:00:00.000Z"
   },
   {
    "company": "Stripe",
@@ -2874,16 +2824,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-07T01:13:38.000Z"
-  },
-  {
-   "company": "Uncountable",
-   "title": "Product Manager",
-   "location": "San Francisco; New York; London",
-   "url": "https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-01-28T05:56:58.000Z"
   },
   {
    "company": "Uncountable",
