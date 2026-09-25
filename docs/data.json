@@ -1,9 +1,10 @@
 {
- "generatedAt": "2026-09-25T17:10:52.204Z",
+ "generatedAt": "2026-09-25T20:28:34.933Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "LaunchDarkly: The operation was aborted due to timeout"
+  "Affirm: The operation was aborted due to timeout",
+  "Squarespace: The operation was aborted due to timeout"
  ],
  "jobs": [
   {
@@ -785,16 +786,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-11T23:52:00.894Z",
    "postedAt": "2026-09-11T22:27:52.000Z"
-  },
-  {
-   "company": "Kyndryl",
-   "title": "Associate Product Manager - Agentic Modernization",
-   "location": "Dallas, TX",
-   "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/CIO-KPop-Dallas-US152527/Associate-Product-Manager---Agentic-Modernization_R-67492-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-11T17:14:06.632Z",
-   "postedAt": "2026-09-11T00:00:00.000Z"
   },
   {
    "company": "Tesla",
