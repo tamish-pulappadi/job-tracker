@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-25T06:36:20.869Z",
+ "generatedAt": "2026-09-25T12:13:06.234Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
@@ -404,46 +404,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-17T23:40:17.876Z",
    "postedAt": "2026-09-17T00:00:00.000Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager",
-   "location": "Foster City, CA",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088600W",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-17T14:21:55.595Z",
-   "postedAt": "2026-09-17T00:00:00.000Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager Intern - APM",
-   "location": "Foster City, CA",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-17T14:21:55.595Z",
-   "postedAt": "2026-09-17T00:00:00.000Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager (APM), New College Graduate Rotational Program, 2027",
-   "location": "US - Foster City, CA",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM---New-College-Graduate-Rotational-Program--2027_REF088600W",
-   "kind": "newgrad",
-   "source": "Company board",
-   "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T06:36:13.977Z"
-  },
-  {
-   "company": "Visa",
-   "title": "Associate Product Manager (APM) Intern - Summer 2027",
-   "location": "US - Foster City, CA",
-   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-09-17T09:15:24.032Z",
-   "postedAt": "2026-09-18T06:36:13.977Z"
   },
   {
    "company": "AspenTech",
