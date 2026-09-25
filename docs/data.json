@@ -1,12 +1,31 @@
 {
- "generatedAt": "2026-09-25T20:28:34.933Z",
+ "generatedAt": "2026-09-25T23:24:27.222Z",
  "companiesTracked": 94,
  "failures": [
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
   "Affirm: The operation was aborted due to timeout",
-  "Squarespace: The operation was aborted due to timeout"
+  "Instabase: The operation was aborted due to timeout"
  ],
  "jobs": [
+  {
+   "company": "Pebl",
+   "title": "Associate Product Manager Intern",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.ashbyhq.com/pebl/84ec9ce2-7e48-4ad1-8e1d-fb63583e81c4/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-25T23:24:27.222Z",
+   "postedAt": "2026-09-25T22:15:56.000Z"
+  },
+  {
+   "company": "W.R. Berkley",
+   "title": "Product Management Analyst Intern",
+   "location": "Urbandale, IA",
+   "url": "https://careers-berkley.icims.com/jobs/14461/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-25T23:24:27.222Z",
+   "postedAt": "2026-09-25T22:06:18.000Z"
+  },
   {
    "company": "84.51 Degrees",
    "title": "Product Manager - Data Domain",
@@ -96,16 +115,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-23T23:21:42.962Z",
    "postedAt": "2026-09-23T22:04:44.000Z"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Product Manager Intern",
-   "location": "Mountain View, CA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-23T23:21:42.962Z",
-   "postedAt": "2026-09-23T22:06:20.000Z"
   },
   {
    "company": "Vertiv",
@@ -266,16 +275,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-19T06:09:15.496Z",
    "postedAt": "2026-09-18T00:00:00.000Z"
-  },
-  {
-   "company": "ASUS USA",
-   "title": "Product Manager Assistant",
-   "location": "City of Industry, CA",
-   "url": "https://jobs.jobvite.com/asus/job/oi7PAfwy?nl=1&nl=1&fr=false",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-19T01:20:38.555Z",
-   "postedAt": "2026-09-18T22:20:33.000Z"
   },
   {
    "company": "Gemini",
@@ -2126,16 +2125,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-14T10:30:54.806Z",
    "postedAt": "2026-08-14T09:10:06.000Z"
-  },
-  {
-   "company": "PlanetArt",
-   "title": "Associate Product Manager - Web",
-   "location": "Calabasas, CA",
-   "url": "https://apply.workable.com/planetart/j/2B193B2C30/apply",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-14T05:02:35.156Z",
-   "postedAt": "2026-08-14T03:48:59.000Z"
   },
   {
    "company": "TikTok",
