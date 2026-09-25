@@ -1,8 +1,9 @@
 {
- "generatedAt": "2026-09-25T12:13:06.234Z",
+ "generatedAt": "2026-09-25T17:10:52.204Z",
  "companiesTracked": 94,
  "failures": [
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "LaunchDarkly: The operation was aborted due to timeout"
  ],
  "jobs": [
   {
