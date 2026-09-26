@@ -1,9 +1,9 @@
 {
- "generatedAt": "2026-09-26T01:45:50.909Z",
+ "generatedAt": "2026-09-26T06:53:54.732Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Sigma Computing: The operation was aborted due to timeout"
+  "Visa: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
  ],
  "jobs": [
   {
