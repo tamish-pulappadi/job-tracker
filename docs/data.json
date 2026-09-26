@@ -1,9 +1,8 @@
 {
- "generatedAt": "2026-09-26T06:53:54.732Z",
+ "generatedAt": "2026-09-26T11:58:55.191Z",
  "companiesTracked": 94,
  "failures": [
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Visa: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
   {
@@ -631,16 +630,6 @@
    "title": "Digital Product Management Intern",
    "location": "Charlotte, NC",
    "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Digital-Product-Management---Undergrad-Internship---Summer-2027_JR-02645845",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-14T20:41:41.722Z",
-   "postedAt": "2026-09-14T00:00:00.000Z"
-  },
-  {
-   "company": "Oshkosh",
-   "title": "Product Management Intern",
-   "location": "Hagerstown, MD",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414",
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-09-14T20:41:41.722Z",
