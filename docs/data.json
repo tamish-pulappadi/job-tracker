@@ -1,7 +1,8 @@
 {
- "generatedAt": "2026-09-28T12:27:13.516Z",
+ "generatedAt": "2026-09-28T19:46:37.431Z",
  "companiesTracked": 94,
  "failures": [
+  "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
@@ -140,16 +141,6 @@
    "title": "Product Manager MBA Graduate",
    "location": "SF; San Jose, CA",
    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-23T02:35:08.781Z",
-   "postedAt": "2026-09-22T00:00:00.000Z"
-  },
-  {
-   "company": "The Walt Disney Company",
-   "title": "Associate Product Manager",
-   "location": "Orlando, FL",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Associate-Product-Manager--Project-Hire-_10159844",
    "kind": "newgrad",
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-23T02:35:08.781Z",
@@ -492,16 +483,6 @@
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Node-Development-Product-Engineer---DRAM-Technology_JR111846",
    "kind": "intern",
    "source": "Simplify Internships",
-   "firstSeen": "2026-09-16T00:54:48.541Z",
-   "postedAt": "2026-09-15T00:00:00.000Z"
-  },
-  {
-   "company": "Stanley Black & Decker",
-   "title": "Associate Product Manager - Combo Kits - Craftsman",
-   "location": "Towson, MD",
-   "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager--Combo-Kits---CRAFTSMAN-_REQ-1000052282",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
    "firstSeen": "2026-09-16T00:54:48.541Z",
    "postedAt": "2026-09-15T00:00:00.000Z"
   },
@@ -2704,16 +2685,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-02-12T15:04:25.000Z"
-  },
-  {
-   "company": "TikTok",
-   "title": "Copyright Solution Product Manager Intern - Tiktok-Music",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7657541997725288757",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-03T01:13:41.000Z"
   },
   {
    "company": "Uncountable",
