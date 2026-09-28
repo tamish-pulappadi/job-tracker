@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T00:42:02.755Z",
+ "generatedAt": "2026-09-28T05:53:02.857Z",
  "companiesTracked": 94,
  "failures": [
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
@@ -214,26 +214,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-22T05:39:39.890Z",
    "postedAt": "2026-09-22T01:14:13.000Z"
-  },
-  {
-   "company": "Rockwell Automation",
-   "title": "Leadership Development Program - Product Engineering & Development",
-   "location": "Mayfield Heights, OH",
-   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-22T05:39:39.890Z",
-   "postedAt": "2026-09-21T00:00:00.000Z"
-  },
-  {
-   "company": "Mastercard",
-   "title": "Product Management Intern",
-   "location": "Harrison, NY; Arlington County, Arlington, VA",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624-1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-22T00:49:46.593Z",
-   "postedAt": "2026-09-21T00:00:00.000Z"
   },
   {
    "company": "Zimmer Biomet Holdings",
