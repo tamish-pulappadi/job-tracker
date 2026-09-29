@@ -1,12 +1,21 @@
 {
- "generatedAt": "2026-09-29T00:04:49.562Z",
+ "generatedAt": "2026-09-29T05:39:26.967Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Intercom: The operation was aborted due to timeout"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Goldman Sachs",
+   "title": "Product Manager Analyst - Transaction Banking - API",
+   "location": "Dallas, TX",
+   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/185198",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-29T05:39:26.967Z",
+   "postedAt": "2026-09-28T14:20:06.000Z"
+  },
   {
    "company": "Pebl",
    "title": "Associate Product Manager Intern",
