@@ -1,12 +1,31 @@
 {
- "generatedAt": "2026-09-29T17:01:04.783Z",
+ "generatedAt": "2026-09-29T21:23:10.512Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Zoox: The operation was aborted due to timeout"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Altice USA",
+   "title": "Mobile Device Product Management Intern",
+   "location": "Bethpage, NY",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Mobile-Device-Product-Management-NY-11714/1434760800/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-29T21:23:10.512Z",
+   "postedAt": "2026-09-29T14:20:05.000Z"
+  },
+  {
+   "company": "Epic Games",
+   "title": "Product Management Intern",
+   "location": "Cary,North Carolina,United States",
+   "url": "https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-09-29T21:23:10.512Z",
+   "postedAt": "2026-09-29T13:22:52-04:00"
+  },
   {
    "company": "Zurn Elkay Water Solutions",
    "title": "Product Management Intern - Summer 2027",
@@ -268,6 +287,16 @@
    "postedAt": "2026-09-18T22:09:37.000Z"
   },
   {
+   "company": "General Motors",
+   "title": "Product Management Intern - Digital Product",
+   "location": "Austin, TX; Warren, MI",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-19T01:20:38.555Z",
+   "postedAt": "2026-09-18T00:00:00.000Z"
+  },
+  {
    "company": "Guardian Life",
    "title": "Summer Intern - Group Benefits Product Management",
    "location": "Boston, MA",
@@ -346,6 +375,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-17T23:40:17.876Z",
    "postedAt": "2026-09-17T22:05:22.000Z"
+  },
+  {
+   "company": "Zurn Elkay Water Solutions",
+   "title": "Product Management Intern",
+   "location": "Paso Robles, CA",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-17T23:40:17.876Z",
+   "postedAt": "2026-09-17T00:00:00.000Z"
   },
   {
    "company": "AspenTech",
@@ -616,6 +655,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-12T02:19:46.221Z",
    "postedAt": "2026-09-12T01:11:28.000Z"
+  },
+  {
+   "company": "Amgen",
+   "title": "Digital Product Intern",
+   "location": "Remote in USA",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-11T23:52:00.894Z",
+   "postedAt": "2026-09-11T00:00:00.000Z"
   },
   {
    "company": "Amgen",
@@ -1228,16 +1277,6 @@
    "postedAt": "2026-09-02T00:00:00.000Z"
   },
   {
-   "company": "Mastercard",
-   "title": "Technical Product Management Intern - Switching Solutions",
-   "location": "O'Fallon, MO",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-03T09:11:25.581Z",
-   "postedAt": "2026-09-02T00:00:00.000Z"
-  },
-  {
    "company": "Newrez",
    "title": "Data Product Engineering Operations Specialist - Multiple Teams",
    "location": "Coppell, TX",
@@ -1396,6 +1435,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-01T19:42:05.568Z",
    "postedAt": "2026-09-01T19:01:44.000Z"
+  },
+  {
+   "company": "Tencent",
+   "title": "Communications Platform as a Service Product Management Intern",
+   "location": "Palo Alto, CA",
+   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-01T19:42:05.568Z",
+   "postedAt": "2026-09-01T00:00:00.000Z"
   },
   {
    "company": "American Express",
@@ -1736,6 +1785,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-26T05:02:55.710Z",
    "postedAt": "2026-07-07T09:06:08.000Z"
+  },
+  {
+   "company": "Brunswick",
+   "title": "Product Management Intern - Oils & Lubricants",
+   "location": "Fond du Lac, WI",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-25T19:07:26.923Z",
+   "postedAt": "2026-08-25T00:00:00.000Z"
   },
   {
    "company": "Brunswick",
