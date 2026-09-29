@@ -1,9 +1,10 @@
 {
- "generatedAt": "2026-09-28T19:46:37.431Z",
+ "generatedAt": "2026-09-29T00:04:49.562Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Intercom: The operation was aborted due to timeout"
  ],
  "jobs": [
   {
@@ -2307,16 +2308,6 @@
    "postedAt": "2026-08-10T14:09:38.000Z"
   },
   {
-   "company": "Alto-Shaam",
-   "title": "Associate Product Manager - Pricing",
-   "location": "Menomonee Falls, WI",
-   "url": "https://jobs.smartrecruiters.com/Alto-Shaam/744000142148579",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-08T06:00:41.238Z",
-   "postedAt": "2026-08-07T22:06:10.000Z"
-  },
-  {
    "company": "Medline",
    "title": "MBA Intern - Product Management",
    "location": "Chicago, IL; Northfield, IL",
@@ -2555,16 +2546,6 @@
    "source": "Company board",
    "firstSeen": "2026-07-31T19:49:54.251Z",
    "postedAt": "2026-09-17T17:59:25.596+00:00"
-  },
-  {
-   "company": "Appian",
-   "title": "Product Manager Intern",
-   "location": "McLean, VA",
-   "url": "https://job-boards.greenhouse.io/appian/jobs/8041243",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-23T22:35:21.000Z"
   },
   {
    "company": "Bridger",
