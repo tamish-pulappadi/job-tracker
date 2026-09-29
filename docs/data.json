@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-09-29T05:39:26.967Z",
+ "generatedAt": "2026-09-29T11:33:52.145Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Marvell",
+   "title": "Board Product Engineer Intern - BS",
+   "location": "Santa Clara, CA",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Board-Product-Engineer-Intern--BS---Summer-2027_2603833",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-29T11:33:52.145Z",
+   "postedAt": "2026-09-21T00:00:00.000Z"
+  },
   {
    "company": "Goldman Sachs",
    "title": "Product Manager Analyst - Transaction Banking - API",
@@ -545,16 +555,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-15T06:45:22.885Z",
    "postedAt": "2026-09-14T00:00:00.000Z"
-  },
-  {
-   "company": "Intuit",
-   "title": "Product Manager Intern",
-   "location": "Mountain View, CA; San Diego, CA",
-   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-14T23:28:51.351Z",
-   "postedAt": "2026-09-14T21:08:06.000Z"
   },
   {
    "company": "OpenGov",
@@ -1805,16 +1805,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-26T05:02:55.710Z",
    "postedAt": "2026-07-07T09:06:08.000Z"
-  },
-  {
-   "company": "Brunswick",
-   "title": "Product Management Intern - Oils & Lubricants",
-   "location": "Fond du Lac, WI",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-25T19:07:26.923Z",
-   "postedAt": "2026-08-25T00:00:00.000Z"
   },
   {
    "company": "Brunswick",
