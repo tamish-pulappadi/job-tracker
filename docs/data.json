@@ -1,12 +1,21 @@
 {
- "generatedAt": "2026-09-30T11:58:45.756Z",
+ "generatedAt": "2026-09-30T17:42:09.508Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Faire: The operation was aborted due to timeout"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "L3Harris Technologies",
+   "title": "Product Management Intern",
+   "location": "Rochester, NY",
+   "url": "https://jobs.l3harris.com/job/Rochester-Product-Management-Intern-(Rochester,-NY)-NY-14610-1839/1433689700/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-30T17:42:09.508Z",
+   "postedAt": "2026-09-30T14:07:37.000Z"
+  },
   {
    "company": "AHEAD",
    "title": "Launch Associate - Product Engineer",
