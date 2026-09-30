@@ -1,11 +1,42 @@
 {
- "generatedAt": "2026-09-30T05:58:06.884Z",
+ "generatedAt": "2026-09-30T11:58:45.756Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Faire: The operation was aborted due to timeout"
  ],
  "jobs": [
+  {
+   "company": "AHEAD",
+   "title": "Launch Associate - Product Engineer",
+   "location": "Libertyville, IL",
+   "url": "https://jobs.lever.co/thinkahead/e38c7c5d-83f3-4873-91bb-bfe50239280e/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-30T11:58:45.756Z",
+   "postedAt": "2026-09-18T22:19:21.000Z"
+  },
+  {
+   "company": "Aurelian",
+   "title": "Product Engineer New Grad",
+   "location": "Seattle, WA",
+   "url": "https://jobs.ashbyhq.com/aurelian/216c8538-1778-4aa4-bcce-21ebf1149734/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-30T11:58:45.756Z",
+   "postedAt": "2026-07-14T22:13:44.000Z"
+  },
+  {
+   "company": "UL Solutions",
+   "title": "Product Management Intern",
+   "location": "Northbrook, IL; Chicago, IL",
+   "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-30T11:58:45.756Z",
+   "postedAt": "2026-09-28T22:06:10.000Z"
+  },
   {
    "company": "Acuity",
    "title": "Product Management Technology Intern",
@@ -375,16 +406,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-18T06:22:20.973Z",
    "postedAt": "2026-09-18T01:20:44.000Z"
-  },
-  {
-   "company": "Fidelity National Information Services",
-   "title": "Product Manager - FIS University Program",
-   "location": "Milwaukee, WI; Jacksonville, FL; Atlanta, GA",
-   "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Product-Management--FIS-University-Program_JR0309693",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-17T23:40:17.876Z",
-   "postedAt": "2026-09-17T00:00:00.000Z"
   },
   {
    "company": "Gordon Food Service",
@@ -2487,14 +2508,14 @@
    "postedAt": "2026-08-03T00:00:00.000Z"
   },
   {
-   "company": "American Express",
-   "title": "Product Management Intern - Product Innovation - Credit & Fraud Risk",
-   "location": "NYC",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011992",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-03T06:52:49.188Z",
-   "postedAt": "2026-08-03T06:11:08.000Z"
+   "company": "ABEC",
+   "title": "Product Engineer",
+   "location": "Bethlehem, PA",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372257",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-02T14:54:43.661Z",
+   "postedAt": "2026-07-31T17:09:45.000Z"
   },
   {
    "company": "Dome Systems Inc",
