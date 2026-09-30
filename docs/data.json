@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T00:37:26.593Z",
+ "generatedAt": "2026-09-30T05:58:06.884Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -505,16 +505,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-16T00:54:48.541Z",
    "postedAt": "2026-09-15T22:22:22.000Z"
-  },
-  {
-   "company": "John Deere",
-   "title": "Software Architecture Engineer - Product Engineering",
-   "location": "Waterloo, IA",
-   "url": "https://johndeere.eightfold.ai/careers/job/137481439862",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-16T00:54:48.541Z",
-   "postedAt": "2026-09-15T22:23:03.000Z"
   },
   {
    "company": "Micron Technology",
