@@ -1,11 +1,41 @@
 {
- "generatedAt": "2026-09-29T21:23:10.512Z",
+ "generatedAt": "2026-09-30T00:37:26.593Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Acuity",
+   "title": "Product Management Technology Intern",
+   "location": "Conyers, GA",
+   "url": "https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-30T00:37:26.593Z",
+   "postedAt": "2026-09-29T22:17:17.000Z"
+  },
+  {
+   "company": "Acuity",
+   "title": "Finance AI Product Management Intern",
+   "location": "Atlanta, GA",
+   "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-30T00:37:26.593Z",
+   "postedAt": "2026-09-29T22:17:17.000Z"
+  },
+  {
+   "company": "Epic Games",
+   "title": "Product Management Intern",
+   "location": "Cary, NC",
+   "url": "https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-30T00:37:26.593Z",
+   "postedAt": "2026-09-29T22:27:49.000Z"
+  },
   {
    "company": "Altice USA",
    "title": "Mobile Device Product Management Intern",
@@ -545,6 +575,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-15T06:45:22.885Z",
    "postedAt": "2026-09-14T00:00:00.000Z"
+  },
+  {
+   "company": "Intuit",
+   "title": "Product Manager Intern",
+   "location": "Mountain View, CA; San Diego, CA",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-14T23:28:51.351Z",
+   "postedAt": "2026-09-14T21:08:06.000Z"
   },
   {
    "company": "OpenGov",
