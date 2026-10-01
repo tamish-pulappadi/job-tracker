@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-01T13:54:47.798Z",
+ "generatedAt": "2026-10-01T19:10:18.630Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Capital One",
+   "title": "MBA Product Intern",
+   "location": "McLean, VA; Richmond, VA; Chicago, IL; NYC",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T19:10:18.630Z",
+   "postedAt": "2026-10-01T00:00:00.000Z"
+  },
   {
    "company": "American Express",
    "title": "Digital Product Management Intern - Enterprise Technology Services",
@@ -857,16 +867,6 @@
    "postedAt": "2026-09-11T22:06:37.000Z"
   },
   {
-   "company": "L3Harris Technologies",
-   "title": "Associate Product Manager",
-   "location": "Rochester, NY",
-   "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1429087200/?ats=successfactors",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-11T23:52:00.894Z",
-   "postedAt": "2026-09-11T22:16:00.000Z"
-  },
-  {
    "company": "Microsoft",
    "title": "Product Manager Intern - Specialized Cloud",
    "location": "Redmond, WA",
@@ -995,16 +995,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-10T00:37:39.480Z",
    "postedAt": "2026-09-09T00:00:00.000Z"
-  },
-  {
-   "company": "WorldStrides",
-   "title": "Product Engineer",
-   "location": "United States",
-   "url": "https://job-boards.greenhouse.io/world4822stri986des/jobs/5351873008",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-10T00:37:39.480Z",
-   "postedAt": "2026-09-09T22:41:05.000Z"
   },
   {
    "company": "Robert Bosch Venture Capital",
