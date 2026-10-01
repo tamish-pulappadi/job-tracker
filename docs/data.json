@@ -1,11 +1,81 @@
 {
- "generatedAt": "2026-10-01T19:10:18.630Z",
+ "generatedAt": "2026-10-01T23:09:56.334Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Attentive",
+   "title": "Product Management Intern, Agentic Integrations",
+   "location": "United States",
+   "url": "https://job-boards.greenhouse.io/attentive/jobs/4429880009",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-10-01T23:09:56.334Z",
+   "postedAt": "2026-10-01T16:48:30-04:00"
+  },
+  {
+   "company": "Attentive",
+   "title": "Product Management Intern - Agentic Integrations",
+   "location": "United States",
+   "url": "https://job-boards.greenhouse.io/attentive/jobs/4429880009",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T23:09:56.334Z",
+   "postedAt": "2026-10-01T22:16:28.000Z"
+  },
+  {
+   "company": "Bedrock Robotics",
+   "title": "Product Intern",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/e199e72a-0361-40dc-8fd3-e02e534af85a/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T23:09:56.334Z",
+   "postedAt": "2026-10-01T22:19:29.000Z"
+  },
+  {
+   "company": "BNY",
+   "title": "Product Management Intern - Program Management",
+   "location": "Pittsburgh, PA",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82782",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T23:09:56.334Z",
+   "postedAt": "2026-10-01T22:08:08.000Z"
+  },
+  {
+   "company": "BNY",
+   "title": "Product Management Intern",
+   "location": "Lake Mary, FL",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82784",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T23:09:56.334Z",
+   "postedAt": "2026-10-01T22:08:03.000Z"
+  },
+  {
+   "company": "CoStar Group",
+   "title": "Associate Product Manager",
+   "location": "Sunnyvale, CA",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Product-Manager---Sunnyvale--CA_R39946",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T23:09:56.334Z",
+   "postedAt": "2026-10-01T00:00:00.000Z"
+  },
+  {
+   "company": "The Walt Disney Company",
+   "title": "Decision Science Product Engineering Graduate Associate",
+   "location": "Lake Buena Vista, FL",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Decision-Science-Product-Engineering-Graduate-Associate--Spring-2027_10160002",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T23:09:56.334Z",
+   "postedAt": "2026-10-01T00:00:00.000Z"
+  },
   {
    "company": "Capital One",
    "title": "MBA Product Intern",
