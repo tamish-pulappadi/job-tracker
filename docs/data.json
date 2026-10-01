@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-01T06:42:32.725Z",
+ "generatedAt": "2026-10-01T13:54:47.798Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -325,16 +325,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-23T23:21:42.962Z",
    "postedAt": "2026-09-23T22:04:44.000Z"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Product Manager Intern",
-   "location": "Mountain View, CA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557004836",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-23T23:21:42.962Z",
-   "postedAt": "2026-09-23T22:06:20.000Z"
   },
   {
    "company": "Google",
@@ -2007,6 +1997,16 @@
    "postedAt": "2026-08-24T23:37:36.000Z"
   },
   {
+   "company": "Procter & Gamble",
+   "title": "IT Project & Product Manager",
+   "location": "Cincinnati, OH",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager--2027-Grads-_R000157914",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-24T22:50:47.731Z",
+   "postedAt": "2026-08-24T00:00:00.000Z"
+  },
+  {
    "company": "BNY",
    "title": "Product Management Intern - Product Management",
    "location": "NYC",
@@ -2125,16 +2125,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-19T02:16:42.884Z",
    "postedAt": "2026-08-19T01:14:49.000Z"
-  },
-  {
-   "company": "TikTok",
-   "title": "Product Manager Intern - Business Integrity",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7673895973460576517",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-18T09:47:07.694Z",
-   "postedAt": "2026-08-18T09:22:32.000Z"
   },
   {
    "company": "Datadog",
@@ -2537,14 +2527,14 @@
    "postedAt": "2026-08-04T09:20:12.000Z"
   },
   {
-   "company": "American Express",
-   "title": "Product Management Intern",
-   "location": "NYC",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916",
+   "company": "Microsoft",
+   "title": "Full-Stack Product Engineer Intern - Web + Services",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
    "kind": "intern",
    "source": "Simplify Internships",
-   "firstSeen": "2026-08-04T04:12:49.592Z",
-   "postedAt": "2026-08-04T01:13:43.000Z"
+   "firstSeen": "2026-08-04T06:40:33.839Z",
+   "postedAt": "2026-08-04T06:09:43.000Z"
   },
   {
    "company": "Analog Devices",
