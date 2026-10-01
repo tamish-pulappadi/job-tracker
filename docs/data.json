@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-10-01T00:49:44.761Z",
+ "generatedAt": "2026-10-01T06:42:32.725Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "American Express",
+   "title": "Digital Product Management Intern - Enterprise Technology Services",
+   "location": "Sunrise, FL",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012145",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T06:42:32.725Z",
+   "postedAt": "2026-09-01T04:52:49.000Z"
+  },
+  {
+   "company": "Southwest Airlines",
+   "title": "Digital Product Intern",
+   "location": "Dallas, TX",
+   "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Product-Internship_R-2026-73049",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T06:42:32.725Z",
+   "postedAt": "2026-10-01T00:00:00.000Z"
+  },
   {
    "company": "Adobe",
    "title": "MBA Intern - Product Manager",
@@ -1589,16 +1609,6 @@
   {
    "company": "American Express",
    "title": "Digital Product Management Intern - Enterprise Technology Services",
-   "location": "Sunrise, FL",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-01T07:03:45.869Z",
-   "postedAt": "2026-09-01T04:52:48.000Z"
-  },
-  {
-   "company": "American Express",
-   "title": "Digital Product Management Intern - Enterprise Technology Services",
    "location": "NYC",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057",
    "kind": "intern",
@@ -1795,16 +1805,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-31T06:11:12.240Z",
    "postedAt": "2026-08-31T05:25:11.000Z"
-  },
-  {
-   "company": "TikTok",
-   "title": "Product Manager Intern - Business Integrity",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7679147369590737205",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-31T06:11:12.240Z",
-   "postedAt": "2026-08-31T05:07:21.000Z"
   },
   {
    "company": "GE Vernova",
@@ -2585,6 +2585,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-03T23:17:45.744Z",
    "postedAt": "2026-08-03T00:00:00.000Z"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Product Manager Intern",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-03T06:52:49.188Z",
+   "postedAt": "2026-08-03T06:08:21.000Z"
   },
   {
    "company": "ABEC",
