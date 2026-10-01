@@ -1,13 +1,91 @@
 {
- "generatedAt": "2026-09-30T21:32:31.492Z",
+ "generatedAt": "2026-10-01T00:49:44.761Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Databricks: The operation was aborted due to timeout",
-  "Pinterest: The operation was aborted due to timeout"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Adobe",
+   "title": "MBA Intern - Product Manager",
+   "location": "SF; San Jose, CA",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T00:49:44.761Z",
+   "postedAt": "2026-09-30T00:00:00.000Z"
+  },
+  {
+   "company": "Booz Allen",
+   "title": "Product Engineer Intern",
+   "location": "McLean, VA",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Product-Engineering-Intern_R0250655",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T00:49:44.761Z",
+   "postedAt": "2026-09-30T00:00:00.000Z"
+  },
+  {
+   "company": "Epic Games",
+   "title": "Technical Product Management Intern",
+   "location": "Cary, NC",
+   "url": "https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T00:49:44.761Z",
+   "postedAt": "2026-09-30T22:25:41.000Z"
+  },
+  {
+   "company": "Marvell",
+   "title": "Product Engineer Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T00:49:44.761Z",
+   "postedAt": "2026-09-30T00:00:00.000Z"
+  },
+  {
+   "company": "Micron Technology",
+   "title": "Design Validation Product Engineer New Grad - Engineering - HIG HBM PSE Design Validation",
+   "location": "Boise, ID",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---ENG--HIG-HBM-PSE-Design-Validation_JR112995",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-01T00:49:44.761Z",
+   "postedAt": "2026-09-30T00:00:00.000Z"
+  },
+  {
+   "company": "PG&E",
+   "title": "Product Engineer Associate",
+   "location": "Oakland, CA",
+   "url": "https://careers.pge.com/job/Oakland-Product-Engineer,-Associate-CA-94612/1435363700/?ats=successfactors",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-01T00:49:44.761Z",
+   "postedAt": "2026-09-30T22:05:35.000Z"
+  },
+  {
+   "company": "Rockwell Automation",
+   "title": "Product Management Intern - Digital Client",
+   "location": "Mequon, WI",
+   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-01T00:49:44.761Z",
+   "postedAt": "2026-09-30T00:00:00.000Z"
+  },
+  {
+   "company": "Texas Instruments",
+   "title": "ATD QEV Product Engineer",
+   "location": "Dallas, TX",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015860",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-01T00:49:44.761Z",
+   "postedAt": "2026-09-30T22:08:30.000Z"
+  },
   {
    "company": "Epic Games",
    "title": "Technical Product Management Intern",
@@ -1329,16 +1407,6 @@
    "postedAt": "2026-06-15T06:11:51.000Z"
   },
   {
-   "company": "Allied Solutions",
-   "title": "Product Management Intern - Risk Management",
-   "location": "St Paul, MN",
-   "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-03T09:11:25.581Z",
-   "postedAt": "2026-09-02T00:00:00.000Z"
-  },
-  {
    "company": "Hewlett Packard",
    "title": "Personal Systems Product Management Intern",
    "location": "Austin, TX",
@@ -2019,16 +2087,6 @@
    "postedAt": "2026-08-21T00:00:00.000Z"
   },
   {
-   "company": "IDeaS",
-   "title": "Associate Product Manager - Commercial Capabilities",
-   "location": "Bloomington, MN",
-   "url": "https://ideas-sas.icims.com/jobs/42560/job?mobile=true&needsRedirect=false",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-19T22:48:08.297Z",
-   "postedAt": "2026-08-19T22:15:06.000Z"
-  },
-  {
    "company": "Procter & Gamble",
    "title": "Digital Product Manager",
    "location": "Cincinnati, OH",
@@ -2617,6 +2675,26 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-23T22:22:43.000Z"
+  },
+  {
+   "company": "Databricks",
+   "title": "Associate Product Manager, New Grad (2027 Start)",
+   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002",
+   "kind": "newgrad",
+   "source": "Company board",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2024-08-08T18:52:06-04:00"
+  },
+  {
+   "company": "Databricks",
+   "title": "Product Management Intern (Summer 2027)",
+   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-07-27T17:46:09.090Z",
+   "postedAt": "2023-08-17T17:27:27-04:00"
   },
   {
    "company": "Databricks",
