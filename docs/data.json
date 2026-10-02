@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-02T08:30:43.848Z",
+ "generatedAt": "2026-10-02T14:59:13.908Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "IDeaS",
+   "title": "Product Management Intern",
+   "location": "Bloomington, MN",
+   "url": "https://ideas-sas.icims.com/jobs/42648/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-02T14:59:13.908Z",
+   "postedAt": "2026-10-02T14:18:58.000Z"
+  },
   {
    "company": "Attentive",
    "title": "Product Management Intern, Agentic Integrations",
