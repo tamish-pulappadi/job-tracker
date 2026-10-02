@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-02T02:12:23.578Z",
+ "generatedAt": "2026-10-02T08:30:43.848Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -1005,16 +1005,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-11T00:18:23.575Z",
    "postedAt": "2026-09-10T22:38:41.000Z"
-  },
-  {
-   "company": "Hudl",
-   "title": "Product Management Intern",
-   "location": "Lincoln, NE",
-   "url": "https://job-boards.greenhouse.io/hudl/jobs/8155103",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-10T17:29:45.969Z",
-   "postedAt": "2026-09-10T14:39:33.000Z"
   },
   {
    "company": "L3Harris Technologies",
