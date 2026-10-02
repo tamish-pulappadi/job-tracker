@@ -1,11 +1,41 @@
 {
- "generatedAt": "2026-10-02T19:47:59.285Z",
+ "generatedAt": "2026-10-02T23:27:22.706Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "C3.ai",
+   "title": "AI Product Manager Intern - Summer 2027",
+   "location": "Redwood City, CA",
+   "url": "https://c3.ai/job-description/8860563002?gh_jid=8860563002",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-02T23:27:22.706Z",
+   "postedAt": "2026-10-02T22:10:38.000Z"
+  },
+  {
+   "company": "Salesforce",
+   "title": "Associate Product Manager",
+   "location": "SF",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-02T23:27:22.706Z",
+   "postedAt": "2026-08-03T00:00:00.000Z"
+  },
+  {
+   "company": "Trimble",
+   "title": "Product Management Intern",
+   "location": "Westminster, CO",
+   "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-02T23:27:22.706Z",
+   "postedAt": "2026-10-02T00:00:00.000Z"
+  },
   {
    "company": "IDeaS",
    "title": "Product Management Intern",
@@ -2127,16 +2157,6 @@
    "postedAt": "2026-08-19T00:00:00.000Z"
   },
   {
-   "company": "EBSCO",
-   "title": "Product Manager - AI Exchange",
-   "location": "Remote in USA",
-   "url": "https://careers-ebscoind.icims.com/jobs/2065/job?mobile=true&needsRedirect=false",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-19T10:52:53.594Z",
-   "postedAt": "2026-08-18T22:54:28.000Z"
-  },
-  {
    "company": "TikTok",
    "title": "Product Manager Graduate - Scaled Growth",
    "location": "San Jose, CA",
@@ -2435,16 +2455,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-10T20:02:52.766Z",
    "postedAt": "2026-08-10T00:00:00.000Z"
-  },
-  {
-   "company": "Vertiv",
-   "title": "Product Management Intern",
-   "location": "Westerville, OH",
-   "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278933",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-10T15:18:12.122Z",
-   "postedAt": "2026-08-10T14:09:38.000Z"
   },
   {
    "company": "Medline",
