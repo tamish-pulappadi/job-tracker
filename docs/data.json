@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-02T14:59:13.908Z",
+ "generatedAt": "2026-10-02T19:47:59.285Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -275,16 +275,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-30T00:37:26.593Z",
    "postedAt": "2026-09-29T22:27:49.000Z"
-  },
-  {
-   "company": "Altice USA",
-   "title": "Mobile Device Product Management Intern",
-   "location": "Bethpage, NY",
-   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Mobile-Device-Product-Management-NY-11714/1434760800/?ats=successfactors",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-29T21:23:10.512Z",
-   "postedAt": "2026-09-29T14:20:05.000Z"
   },
   {
    "company": "Epic Games",
@@ -807,16 +797,6 @@
    "postedAt": "2026-09-14T22:44:00.000Z"
   },
   {
-   "company": "OpenGov",
-   "title": "Product Intern",
-   "location": "Boston, MA",
-   "url": "https://jobs.ashbyhq.com/opengov/163f2c69-851d-4215-ae4b-bb717b2e66d6/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-14T23:28:51.351Z",
-   "postedAt": "2026-09-14T22:44:01.000Z"
-  },
-  {
    "company": "Tesla",
    "title": "Product Engineer Intern - Applications Engineering",
    "location": "Fremont, CA",
@@ -1075,16 +1055,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-09T22:44:50.562Z",
    "postedAt": "2026-09-09T22:11:10.000Z"
-  },
-  {
-   "company": "Hex Technologies",
-   "title": "Product Engineer Intern",
-   "location": "SF",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=6186215004",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-09T10:07:24.946Z",
-   "postedAt": "2026-09-09T06:08:26.000Z"
   },
   {
    "company": "TikTok",
