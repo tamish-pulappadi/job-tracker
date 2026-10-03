@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-03T20:05:27.576Z",
+ "generatedAt": "2026-10-03T22:59:48.753Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -1097,26 +1097,6 @@
    "postedAt": "2026-09-09T06:20:19.000Z"
   },
   {
-   "company": "Coinbase",
-   "title": "Product Manager Intern - HR Technology",
-   "location": "NYC",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=8175504",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-09T05:36:15.172Z",
-   "postedAt": "2026-09-09T01:21:05.000Z"
-  },
-  {
-   "company": "Coinbase",
-   "title": "Associate Product Manager Intern - Multiple Teams",
-   "location": "SF",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=8168322",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-09T05:36:15.172Z",
-   "postedAt": "2026-09-09T01:20:40.000Z"
-  },
-  {
    "company": "Allegion",
    "title": "Product Manager Intern",
    "location": "Carmel, IN",
@@ -1385,16 +1365,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-03T19:50:30.822Z",
    "postedAt": "2026-06-29T22:15:21.000Z"
-  },
-  {
-   "company": "FourKites",
-   "title": "Product Manager - Inventory & Orders",
-   "location": "Remote in USA; Chicago, IL",
-   "url": "https://job-boards.greenhouse.io/fourkites/jobs/7984869",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-03T19:50:30.822Z",
-   "postedAt": "2026-06-05T22:18:29.000Z"
   },
   {
    "company": "MJH Life Sciences",
@@ -2785,16 +2755,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-07-21T01:15:45.000Z"
-  },
-  {
-   "company": "Maybell Quantum Industries",
-   "title": "Associate Product Engineer",
-   "location": "Denver, CO",
-   "url": "https://job-boards.greenhouse.io/maybellquantum/jobs/5345023008",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-13T22:34:58.000Z"
   },
   {
    "company": "Micron Technology",
