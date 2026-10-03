@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-02T23:27:22.706Z",
+ "generatedAt": "2026-10-03T02:12:20.951Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Koch Industries",
+   "title": "Product Management Intern",
+   "location": "Eden Prairie, MN; Lisle, IL",
+   "url": "https://koch.avature.net/en_US/careers/JobDetail/195099",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-03T02:12:20.951Z",
+   "postedAt": "2026-10-03T01:17:12.000Z"
+  },
   {
    "company": "C3.ai",
    "title": "AI Product Manager Intern - Summer 2027",
@@ -855,16 +865,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-14T20:41:41.722Z",
    "postedAt": "2026-09-14T00:00:00.000Z"
-  },
-  {
-   "company": "Ulta Beauty",
-   "title": "Digital Product Management Intern",
-   "location": "Bolingbrook, IL",
-   "url": "https://careers.ulta.com/jobs/423575?icims=1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-14T20:41:41.722Z",
-   "postedAt": "2026-09-14T17:40:05.000Z"
   },
   {
    "company": "Oshkosh",
