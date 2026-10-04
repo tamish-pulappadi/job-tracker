@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-04T02:27:54.495Z",
+ "generatedAt": "2026-10-04T08:39:11.225Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -975,16 +975,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-11T23:52:00.894Z",
    "postedAt": "2026-09-11T22:23:55.000Z"
-  },
-  {
-   "company": "Momentive",
-   "title": "Product Management Intern - Specialty Additives",
-   "location": "Friendly, WV",
-   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-11T23:52:00.894Z",
-   "postedAt": "2026-09-11T00:00:00.000Z"
   },
   {
    "company": "Tesla",
@@ -2351,16 +2341,6 @@
    "title": "Product Manager Intern - Ads Interface and Platform",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7672562486917286149",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-12T15:39:34.850Z",
-   "postedAt": "2026-08-12T14:32:02.000Z"
-  },
-  {
-   "company": "TikTok",
-   "title": "Product Manager Intern - Ads Interface and Platform",
-   "location": "Seattle, WA",
-   "url": "https://lifeattiktok.com/search/7672569081632229685",
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-08-12T15:39:34.850Z",
