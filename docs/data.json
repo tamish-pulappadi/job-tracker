@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-10-05T05:32:51.787Z",
+ "generatedAt": "2026-10-05T12:38:01.214Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Mohawk",
+   "title": "Product Management Intern",
+   "location": "Calhoun, GA",
+   "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-05T12:38:01.214Z",
+   "postedAt": "2026-10-05T06:12:38.000Z"
+  },
+  {
+   "company": "The Walt Disney Company",
+   "title": "Decision Science Product Engineering Graduate Associate",
+   "location": "Lake Buena Vista, FL",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Product-Engineering-Graduate-Associate--Spring-2027_10160002-2",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-05T12:38:01.214Z",
+   "postedAt": "2026-10-01T00:00:00.000Z"
+  },
   {
    "company": "BlackRock",
    "title": "Technical Product Manager - Aladdin Next - Analyst",
@@ -201,16 +221,6 @@
    "title": "Associate Product Manager",
    "location": "Sunnyvale, CA",
    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Product-Manager---Sunnyvale--CA_R39946",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-01T23:09:56.334Z",
-   "postedAt": "2026-10-01T00:00:00.000Z"
-  },
-  {
-   "company": "The Walt Disney Company",
-   "title": "Decision Science Product Engineering Graduate Associate",
-   "location": "Lake Buena Vista, FL",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Decision-Science-Product-Engineering-Graduate-Associate--Spring-2027_10160002",
    "kind": "newgrad",
    "source": "Simplify Internships",
    "firstSeen": "2026-10-01T23:09:56.334Z",
@@ -895,16 +905,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-15T12:22:44.890Z",
    "postedAt": "2026-09-15T00:00:00.000Z"
-  },
-  {
-   "company": "LabCorp",
-   "title": "IT Product Manager Intern - Payer Team",
-   "location": "Durham, NC",
-   "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-15T06:45:22.885Z",
-   "postedAt": "2026-09-14T00:00:00.000Z"
   },
   {
    "company": "Intuit",
