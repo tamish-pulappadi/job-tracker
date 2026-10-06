@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-10-06T14:54:21.044Z",
+ "generatedAt": "2026-10-06T19:55:16.883Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Allegion",
+   "title": "Product Management Intern",
+   "location": "Carmel, IN",
+   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Product-Management_JR37369-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T19:55:16.883Z",
+   "postedAt": "2026-10-06T00:00:00.000Z"
+  },
+  {
+   "company": "Nuro",
+   "title": "New Grad Software Engineer, Product Engineering",
+   "location": "Mountain View, California (HQ)",
+   "url": "https://nuro.ai/careersitem?gh_jid=8248317",
+   "kind": "newgrad",
+   "source": "Company board",
+   "firstSeen": "2026-10-06T19:55:16.883Z",
+   "postedAt": "2026-10-05T15:14:38-04:00"
+  },
   {
    "company": "Astera Labs",
    "title": "Platform Solutions Product Management Intern",
@@ -655,16 +675,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-23T02:35:08.781Z",
    "postedAt": "2026-09-22T00:00:00.000Z"
-  },
-  {
-   "company": "Rhoda AI",
-   "title": "Engineer Product Manager Intern - Robot Data Systems",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.ashbyhq.com/rhoda-ai/ecadb13f-b6cd-4070-9a31-80c9fa355fe4/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-22T23:50:50.285Z",
-   "postedAt": "2026-09-22T22:24:00.000Z"
   },
   {
    "company": "Google",
@@ -2265,16 +2275,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-21T22:43:05.594Z",
    "postedAt": "2026-08-21T00:00:00.000Z"
-  },
-  {
-   "company": "Procter & Gamble",
-   "title": "Digital Product Manager",
-   "location": "Cincinnati, OH",
-   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Digital-Product-Manager_R000155779",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-19T22:48:08.297Z",
-   "postedAt": "2026-08-19T00:00:00.000Z"
   },
   {
    "company": "TikTok",
