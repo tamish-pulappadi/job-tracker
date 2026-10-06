@@ -1,11 +1,101 @@
 {
- "generatedAt": "2026-10-06T19:55:16.883Z",
+ "generatedAt": "2026-10-06T23:28:01.911Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Capital One",
+   "title": "Manager – Product Management - Customer Core & Identity",
+   "location": "McLean, VA; Richmond, VA; Chicago, IL; NYC",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Management--Customer-Core---Identity_R1001934-2",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-06T23:28:01.911Z",
+   "postedAt": "2026-10-06T00:00:00.000Z"
+  },
+  {
+   "company": "Electronic Arts",
+   "title": "Product Management Intern",
+   "location": "Austin, TX",
+   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T23:28:01.911Z",
+   "postedAt": "2026-10-06T22:20:51.000Z"
+  },
+  {
+   "company": "First Citizens BancShares",
+   "title": "Summer Intern - Card Product Management - Business to Business Payments",
+   "location": "NYC",
+   "url": "https://firstcitizens.jibeapply.com/jobs/35886?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T23:28:01.911Z",
+   "postedAt": "2026-10-06T22:04:54.000Z"
+  },
+  {
+   "company": "HeartFlow",
+   "title": "Product Manager",
+   "location": "SF; Rohnert Park, CA",
+   "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6218478004",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-06T23:28:01.911Z",
+   "postedAt": "2026-10-06T22:18:30.000Z"
+  },
+  {
+   "company": "impact.com",
+   "title": "Associate Product Manager - Contracting/Action Processing",
+   "location": "Seattle, WA; Santa Barbara, CA",
+   "url": "https://job-boards.greenhouse.io/impact/jobs/8871230002",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-06T23:28:01.911Z",
+   "postedAt": "2026-10-06T22:06:42.000Z"
+  },
+  {
+   "company": "Jerry",
+   "title": "Product Manager-in-Training",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.ashbyhq.com/jerry.ai/7c3853bc-070f-4be4-b0a8-983459f1dee0/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-06T23:28:01.911Z",
+   "postedAt": "2026-10-06T22:29:43.000Z"
+  },
+  {
+   "company": "KnowBe4",
+   "title": "Associate Product Manager Intern",
+   "location": "Clearwater, FL",
+   "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8871835002",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T23:28:01.911Z",
+   "postedAt": "2026-10-06T22:15:50.000Z"
+  },
+  {
+   "company": "Rhoda AI",
+   "title": "Associate Engineering Product Manager-Robot Data Systems",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/rhoda-ai/8646ec23-1900-409b-8d09-81d7e41fb5d7/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-06T23:28:01.911Z",
+   "postedAt": "2026-10-06T22:31:19.000Z"
+  },
+  {
+   "company": "Rockwell Automation",
+   "title": "Leadership Development Program - Product Engineering & Development",
+   "location": "Mayfield Heights, OH",
+   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-06T23:28:01.911Z",
+   "postedAt": "2026-09-21T00:00:00.000Z"
+  },
   {
    "company": "Allegion",
    "title": "Product Management Intern",
