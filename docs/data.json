@@ -1,11 +1,111 @@
 {
- "generatedAt": "2026-10-06T01:30:10.086Z",
+ "generatedAt": "2026-10-06T07:59:49.839Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Astera Labs",
+   "title": "Platform Solutions Product Management Intern",
+   "location": "Cary, NC",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731590005",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-10-06T06:17:34.000Z"
+  },
+  {
+   "company": "Astera Labs",
+   "title": "Product Engineering Intern",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731410005",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-10-06T06:17:28.000Z"
+  },
+  {
+   "company": "Axos Bank",
+   "title": "Product Intern",
+   "location": "LA; Omaha, NE; Edison, NJ; San Diego, CA",
+   "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Edison-NJ/Product-Intern_JR5663",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-10-05T00:00:00.000Z"
+  },
+  {
+   "company": "Cadence Solutions",
+   "title": "Product Management Intern",
+   "location": "Remote in USA",
+   "url": "https://job-boards.greenhouse.io/solutions/jobs/4715294006",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-10-06T06:40:52.000Z"
+  },
+  {
+   "company": "Fireworks AI",
+   "title": "Associate Product Manager",
+   "location": "San Mateo, CA",
+   "url": "https://jobs.ashbyhq.com/fireworks/69375f41-258a-4c25-ad78-5985606c438a/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-10-06T06:23:46.000Z"
+  },
+  {
+   "company": "Hewlett Packard Enterprise",
+   "title": "Product Management Graduate",
+   "location": "Andover, MA; Bloomington, MN; San Jose, CA; Spring, TX; Durham, NC; Westford, MA; Chippewa Falls, WI; Fort Collins, CO; Sunnyvale, CA; Roseville, CA",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-08-28T00:00:00.000Z"
+  },
+  {
+   "company": "Hewlett Packard Enterprise",
+   "title": "Product Management Intern",
+   "location": "Andover, MA; Bloomington, MN; San Jose, CA; Spring, TX; Durham, NC; Westford, MA; Chippewa Falls, WI; Fort Collins, CO; Sunnyvale, CA; Roseville, CA",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-08-28T00:00:00.000Z"
+  },
+  {
+   "company": "West Monroe",
+   "title": "Product Management Consultant",
+   "location": "NYC",
+   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183043004",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-10-06T06:46:47.000Z"
+  },
+  {
+   "company": "West Monroe",
+   "title": "Product Management Consultant",
+   "location": "Chicago, IL",
+   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6182632004",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-10-06T06:46:47.000Z"
+  },
+  {
+   "company": "West Monroe",
+   "title": "Product Management Consulting Intern",
+   "location": "SF",
+   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6172718004",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-10-06T06:46:47.000Z"
+  },
   {
    "company": "Gallup",
    "title": "Product Manager - Digital Commerce",
@@ -564,16 +664,6 @@
    "kind": "newgrad",
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-23T02:35:08.781Z",
-   "postedAt": "2026-09-22T00:00:00.000Z"
-  },
-  {
-   "company": "Mastercard",
-   "title": "Product Management Intern - Summer 2027",
-   "location": "O'Fallon, MO",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-22T23:50:50.285Z",
    "postedAt": "2026-09-22T00:00:00.000Z"
   },
   {
