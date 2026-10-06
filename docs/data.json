@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05T20:55:27.182Z",
+ "generatedAt": "2026-10-06T01:30:10.086Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,14 +7,14 @@
  ],
  "jobs": [
   {
-   "company": "Salesforce",
-   "title": "Associate Product Manager",
-   "location": "SF",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508",
+   "company": "Gallup",
+   "title": "Product Manager - Digital Commerce",
+   "location": "Omaha, NE",
+   "url": "https://job-boards.greenhouse.io/gallup/jobs/4433447009",
    "kind": "newgrad",
    "source": "Simplify New Grad",
-   "firstSeen": "2026-10-05T20:55:27.182Z",
-   "postedAt": "2026-08-03T00:00:00.000Z"
+   "firstSeen": "2026-10-06T01:30:10.086Z",
+   "postedAt": "2026-10-05T22:28:56.000Z"
   },
   {
    "company": "Mohawk",
