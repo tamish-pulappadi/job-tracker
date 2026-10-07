@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-07T02:36:02.786Z",
+ "generatedAt": "2026-10-07T09:14:58.797Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -515,16 +515,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-01T00:49:44.761Z",
    "postedAt": "2026-09-30T00:00:00.000Z"
-  },
-  {
-   "company": "PG&E",
-   "title": "Product Engineer Associate",
-   "location": "Oakland, CA",
-   "url": "https://careers.pge.com/job/Oakland-Product-Engineer,-Associate-CA-94612/1435363700/?ats=successfactors",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-01T00:49:44.761Z",
-   "postedAt": "2026-09-30T22:05:35.000Z"
   },
   {
    "company": "Rockwell Automation",
@@ -1587,16 +1577,6 @@
    "postedAt": "2026-09-04T00:00:00.000Z"
   },
   {
-   "company": "Renesas Electronics",
-   "title": "Associate Product Engineer - Hi-Reliability",
-   "location": "Palm Bay, FL",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000147562349",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-04T23:12:09.984Z",
-   "postedAt": "2026-09-04T22:07:35.000Z"
-  },
-  {
    "company": "Qorvo",
    "title": "Product Engineering Intern",
    "location": "Greensboro, NC",
@@ -1665,16 +1645,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-03T19:50:30.822Z",
    "postedAt": "2026-06-07T09:10:42.000Z"
-  },
-  {
-   "company": "TikTok",
-   "title": "Data Product Manager Project Intern - Monetization",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7631277919231625525",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-03T19:50:30.822Z",
-   "postedAt": "2026-04-23T01:10:06.000Z"
   },
   {
    "company": "TikTok",
@@ -2663,16 +2633,6 @@
    "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805",
    "kind": "intern",
    "source": "Simplify Internships",
-   "firstSeen": "2026-08-08T06:00:41.238Z",
-   "postedAt": "2026-08-07T00:00:00.000Z"
-  },
-  {
-   "company": "NXP Semiconductors",
-   "title": "Software Product Manager",
-   "location": "Austin, TX",
-   "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Software-Product-Manager_R-10064599",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
    "firstSeen": "2026-08-08T06:00:41.238Z",
    "postedAt": "2026-08-07T00:00:00.000Z"
   },
