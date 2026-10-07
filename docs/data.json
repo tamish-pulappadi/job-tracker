@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-07T16:31:21.058Z",
+ "generatedAt": "2026-10-07T21:33:56.441Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Figma",
+   "title": "Early Career, Associate Product Manager (2027)",
+   "location": "San Francisco, CA",
+   "url": "https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004",
+   "kind": "newgrad",
+   "source": "Company board",
+   "firstSeen": "2026-10-07T21:33:56.441Z",
+   "postedAt": "2026-10-07T14:36:45-04:00"
+  },
   {
    "company": "Capital One",
    "title": "Manager – Product Management - Customer Core & Identity",
@@ -737,16 +747,6 @@
    "postedAt": "2026-09-23T22:04:44.000Z"
   },
   {
-   "company": "Google",
-   "title": "Associate Product Manager - University Graduate",
-   "location": "San Jose, CA; San Bruno, CA; NYC; Mountain View, CA",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/107272685397910214",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-23T17:53:50.505Z",
-   "postedAt": "2026-09-15T09:13:25.000Z"
-  },
-  {
    "company": "Adobe",
    "title": "Product Manager MBA Graduate",
    "location": "SF; San Jose, CA",
@@ -755,16 +755,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-23T02:35:08.781Z",
    "postedAt": "2026-09-22T00:00:00.000Z"
-  },
-  {
-   "company": "Google",
-   "title": "Product Manager Intern - Summer 2027",
-   "location": "SF; San Bruno, CA; NYC; Mountain View, CA",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-22T15:05:06.841Z",
-   "postedAt": "2026-09-22T14:15:11.000Z"
   },
   {
    "company": "ByteDance",
@@ -1255,16 +1245,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-11T04:56:18.441Z",
    "postedAt": "2026-09-11T01:09:25.000Z"
-  },
-  {
-   "company": "RF-SMART",
-   "title": "Software Developer Intern - Product Engineering",
-   "location": "Jacksonville, FL",
-   "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5407206008",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-11T00:18:23.575Z",
-   "postedAt": "2026-09-10T22:38:41.000Z"
   },
   {
    "company": "L3Harris Technologies",
