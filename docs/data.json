@@ -1,11 +1,41 @@
 {
- "generatedAt": "2026-10-08T01:18:36.940Z",
+ "generatedAt": "2026-10-08T07:41:18.542Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Axos Bank",
+   "title": "Product Intern",
+   "location": "San Diego, CA",
+   "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Product-Intern_JR5664",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-08T07:41:18.542Z",
+   "postedAt": "2026-10-07T00:00:00.000Z"
+  },
+  {
+   "company": "Duolingo",
+   "title": "Associate Product Manager Intern",
+   "location": "Pittsburgh, PA",
+   "url": "https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-08T07:41:18.542Z",
+   "postedAt": "2026-09-15T22:38:43.000Z"
+  },
+  {
+   "company": "Philips",
+   "title": "Digital Healthtech Product Management Intern",
+   "location": "Bothell, WA",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-08T07:41:18.542Z",
+   "postedAt": "2026-09-28T00:00:00.000Z"
+  },
   {
    "company": "Figma",
    "title": "Associate Product Manager",
@@ -243,16 +273,6 @@
    "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6182632004",
    "kind": "newgrad",
    "source": "Simplify New Grad",
-   "firstSeen": "2026-10-06T07:59:49.839Z",
-   "postedAt": "2026-10-06T06:46:47.000Z"
-  },
-  {
-   "company": "West Monroe",
-   "title": "Product Management Consulting Intern",
-   "location": "SF",
-   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6172718004",
-   "kind": "intern",
-   "source": "Simplify Internships",
    "firstSeen": "2026-10-06T07:59:49.839Z",
    "postedAt": "2026-10-06T06:46:47.000Z"
   },
@@ -495,16 +515,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-01T06:42:32.725Z",
    "postedAt": "2026-09-01T04:52:49.000Z"
-  },
-  {
-   "company": "Southwest Airlines",
-   "title": "Digital Product Intern",
-   "location": "Dallas, TX",
-   "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Product-Internship_R-2026-73049",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-01T06:42:32.725Z",
-   "postedAt": "2026-10-01T00:00:00.000Z"
   },
   {
    "company": "Adobe",
@@ -1037,16 +1047,6 @@
    "postedAt": "2026-09-15T00:00:00.000Z"
   },
   {
-   "company": "Duolingo",
-   "title": "Associate Product Manager Intern",
-   "location": "Pittsburgh, PA",
-   "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-16T00:54:48.541Z",
-   "postedAt": "2026-09-15T22:38:43.000Z"
-  },
-  {
    "company": "Illinois Tool Works",
    "title": "Product Management Intern",
    "location": "Troy, OH",
@@ -1075,16 +1075,6 @@
    "source": "Company board",
    "firstSeen": "2026-09-16T00:54:48.541Z",
    "postedAt": "2026-03-20T18:26:06-04:00"
-  },
-  {
-   "company": "Duolingo",
-   "title": "Associate Product Manager, Intern",
-   "location": "Pittsburgh, PA",
-   "url": "https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-09-15T17:10:27.203Z",
-   "postedAt": "2026-09-15T12:00:00-04:00"
   },
   {
    "company": "The Walt Disney Company",
@@ -2775,16 +2765,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-03T23:17:45.744Z",
    "postedAt": "2026-08-03T00:00:00.000Z"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Product Manager Intern",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-03T06:52:49.188Z",
-   "postedAt": "2026-08-03T06:08:21.000Z"
   },
   {
    "company": "ABEC",
