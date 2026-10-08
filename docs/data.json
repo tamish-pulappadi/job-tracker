@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T14:56:50.351Z",
+ "generatedAt": "2026-10-08T20:28:08.878Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -85,16 +85,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-06T23:28:01.911Z",
    "postedAt": "2026-10-06T22:20:51.000Z"
-  },
-  {
-   "company": "First Citizens BancShares",
-   "title": "Summer Intern - Card Product Management - Business to Business Payments",
-   "location": "NYC",
-   "url": "https://firstcitizens.jibeapply.com/jobs/35886?icims=1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-06T23:28:01.911Z",
-   "postedAt": "2026-10-06T22:04:54.000Z"
   },
   {
    "company": "HeartFlow",
