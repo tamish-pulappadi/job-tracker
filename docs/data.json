@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-09T06:41:37.139Z",
+ "generatedAt": "2026-10-09T13:46:43.706Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -125,16 +125,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-06T23:28:01.911Z",
    "postedAt": "2026-10-06T00:00:00.000Z"
-  },
-  {
-   "company": "Electronic Arts",
-   "title": "Product Management Intern",
-   "location": "Austin, TX",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-06T23:28:01.911Z",
-   "postedAt": "2026-10-06T22:20:51.000Z"
   },
   {
    "company": "HeartFlow",
@@ -851,16 +841,6 @@
    "title": "Product Management Co-op - Patient Management Solutions",
    "location": "Danvers, MA",
    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-19T06:09:15.496Z",
-   "postedAt": "2026-09-18T00:00:00.000Z"
-  },
-  {
-   "company": "USAA",
-   "title": "Digital/Technical Product Manager Intern - Digital and Omnichannel Servicing",
-   "location": "San Antonio, TX",
-   "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Operations---Digital-Technical-Product-Manager-Intern_R0121101",
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-09-19T06:09:15.496Z",
