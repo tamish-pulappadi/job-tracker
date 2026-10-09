@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-10-09T19:09:42.544Z",
+ "generatedAt": "2026-10-09T23:14:42.554Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "SageSure",
+   "title": "Software Product Management Intern",
+   "location": "Chicago, IL; Jersey City, NJ; Mountain View, CA",
+   "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-09T23:14:42.554Z",
+   "postedAt": "2026-10-09T22:13:33.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Creative Product Manager Intern - Multiple Teams",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7693732178706974981",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-09T23:14:42.554Z",
+   "postedAt": "2026-10-09T22:16:42.000Z"
+  },
   {
    "company": "John Deere",
    "title": "Product Engineering Student Intern - Robotics",
