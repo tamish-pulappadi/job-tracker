@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-09T00:32:55.757Z",
+ "generatedAt": "2026-10-09T06:41:37.139Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "CWILL",
+   "title": "Order Tracking Product Management Trainee",
+   "location": "Cary, NC",
+   "url": "https://apply.workable.com/cwill-us/j/DD1A0BECB1/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-09T06:41:37.139Z",
+   "postedAt": "2026-10-09T01:18:39.000Z"
+  },
   {
    "company": "7-Eleven",
    "title": "Digital Product Manager Intern",
@@ -397,16 +407,6 @@
    "postedAt": "2026-05-05T01:19:43.000Z"
   },
   {
-   "company": "Koch Industries",
-   "title": "Product Management Intern",
-   "location": "Eden Prairie, MN; Lisle, IL",
-   "url": "https://koch.avature.net/en_US/careers/JobDetail/195099",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-03T02:12:20.951Z",
-   "postedAt": "2026-10-03T01:17:12.000Z"
-  },
-  {
    "company": "C3.ai",
    "title": "AI Product Manager Intern - Summer 2027",
    "location": "Redwood City, CA",
@@ -491,16 +491,6 @@
    "title": "Associate Product Manager",
    "location": "Sunnyvale, CA",
    "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Product-Manager---Sunnyvale--CA_R39946",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-01T23:09:56.334Z",
-   "postedAt": "2026-10-01T00:00:00.000Z"
-  },
-  {
-   "company": "The Walt Disney Company",
-   "title": "Decision Science Product Engineering Graduate Associate",
-   "location": "Lake Buena Vista, FL",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Decision-Science-Product-Engineering-Graduate-Associate--Spring-2027_10160002",
    "kind": "newgrad",
    "source": "Simplify Internships",
    "firstSeen": "2026-10-01T23:09:56.334Z",
@@ -1177,16 +1167,6 @@
    "postedAt": "2026-09-14T14:42:23.000Z"
   },
   {
-   "company": "USAA",
-   "title": "Product Management Analyst Intern - Property and Casualty",
-   "location": "San Antonio, TX",
-   "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-12T11:40:18.521Z",
-   "postedAt": "2026-09-11T00:00:00.000Z"
-  },
-  {
    "company": "Acuity",
    "title": "AI Product Management Specialist - Business Analyst",
    "location": "Atlanta, GA",
@@ -1325,16 +1305,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-10T00:37:39.480Z",
    "postedAt": "2026-09-09T22:21:31.000Z"
-  },
-  {
-   "company": "USAA",
-   "title": "Digital Technical Product Management Intern",
-   "location": "San Antonio, TX",
-   "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Management-Intern_R0120759",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-10T00:37:39.480Z",
-   "postedAt": "2026-09-09T00:00:00.000Z"
   },
   {
    "company": "Robert Bosch Venture Capital",
