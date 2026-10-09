@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-10-09T13:46:43.706Z",
+ "generatedAt": "2026-10-09T19:09:42.544Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "John Deere",
+   "title": "Product Engineering Student Intern - Robotics",
+   "location": "Champaign, IL",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483758357",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-09T19:09:42.544Z",
+   "postedAt": "2026-10-09T14:25:57.000Z"
+  },
+  {
+   "company": "Robert Bosch Venture Capital",
+   "title": "Product Management Co-op",
+   "location": "Fountain Inn, SC",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154671460",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-09T19:09:42.544Z",
+   "postedAt": "2026-10-09T14:09:22.000Z"
+  },
   {
    "company": "CWILL",
    "title": "Order Tracking Product Management Trainee",
@@ -23,16 +43,6 @@
    "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991",
    "kind": "intern",
    "source": "Simplify Internships",
-   "firstSeen": "2026-10-09T00:32:55.757Z",
-   "postedAt": "2026-10-08T00:00:00.000Z"
-  },
-  {
-   "company": "Allstate Insurance Company",
-   "title": "AI Product Engineer - Copilot & Power Platform",
-   "location": "Remote in USA",
-   "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/AI-Product-Engineer--Copilot---Power-Platform---Remote---US-_R35481-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
    "firstSeen": "2026-10-09T00:32:55.757Z",
    "postedAt": "2026-10-08T00:00:00.000Z"
   },
@@ -155,16 +165,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-06T23:28:01.911Z",
    "postedAt": "2026-10-06T22:29:43.000Z"
-  },
-  {
-   "company": "KnowBe4",
-   "title": "Associate Product Manager Intern",
-   "location": "Clearwater, FL",
-   "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8871835002",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-06T23:28:01.911Z",
-   "postedAt": "2026-10-06T22:15:50.000Z"
   },
   {
    "company": "Rhoda AI",
@@ -1308,16 +1308,6 @@
   },
   {
    "company": "Coinbase",
-   "title": "Product Manager Intern - HR Technology",
-   "location": "NYC",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=8175504",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-09T05:36:15.172Z",
-   "postedAt": "2026-09-09T01:21:05.000Z"
-  },
-  {
-   "company": "Coinbase",
    "title": "Associate Product Manager Intern - Multiple Teams",
    "location": "SF",
    "url": "https://boards.greenhouse.io/embed/job_app?token=8168322",
@@ -1365,16 +1355,6 @@
    "source": "Company board",
    "firstSeen": "2026-09-08T22:49:24.765Z",
    "postedAt": "2026-09-08T18:13:14-04:00"
-  },
-  {
-   "company": "Coinbase",
-   "title": "Product Manager (HR Technology) Intern",
-   "location": "Hybrid - New York, NY",
-   "url": "https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-09-08T22:49:24.765Z",
-   "postedAt": "2026-09-08T18:19:39-04:00"
   },
   {
    "company": "Aptean",
@@ -1915,16 +1895,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-31T19:41:57.516Z",
    "postedAt": "2026-08-31T00:00:00.000Z"
-  },
-  {
-   "company": "Qorvo",
-   "title": "Product Engineer Intern - Design and Applications",
-   "location": "Richardson, TX",
-   "url": "https://careers.qorvo.com/job/Richardson-Product-Engineer-D&A-Intern-TX-75081/1424806900/?ats=successfactors",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-31T19:41:57.516Z",
-   "postedAt": "2026-08-31T14:35:00.000Z"
   },
   {
    "company": "The Home Depot",
