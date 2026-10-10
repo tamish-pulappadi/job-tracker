@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-10T08:43:57.232Z",
+ "generatedAt": "2026-10-10T14:45:51.300Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Workday",
+   "title": "Product Manager Intern",
+   "location": "Pleasanton, CA",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-10T14:45:51.300Z",
+   "postedAt": "2026-10-09T00:00:00.000Z"
+  },
   {
    "company": "Vertiv",
    "title": "Energy Storage Product Management Intern",
@@ -797,16 +807,6 @@
    "postedAt": "2026-09-24T00:00:00.000Z"
   },
   {
-   "company": "Meta",
-   "title": "Rotational Product Manager",
-   "location": "Menlo Park, CA; NYC",
-   "url": "https://www.metacareers.com/jobs/1090585757172959",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-23T23:21:42.962Z",
-   "postedAt": "2026-09-23T22:04:44.000Z"
-  },
-  {
    "company": "Adobe",
    "title": "Product Manager MBA Graduate",
    "location": "SF; San Jose, CA",
@@ -965,16 +965,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-17T23:40:17.876Z",
    "postedAt": "2026-09-17T22:05:22.000Z"
-  },
-  {
-   "company": "Zurn Elkay Water Solutions",
-   "title": "Product Management Intern",
-   "location": "Paso Robles, CA",
-   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-17T23:40:17.876Z",
-   "postedAt": "2026-09-17T00:00:00.000Z"
   },
   {
    "company": "AspenTech",
