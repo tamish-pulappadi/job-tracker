@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-09T23:14:42.554Z",
+ "generatedAt": "2026-10-10T02:21:23.191Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Vertiv",
+   "title": "Energy Storage Product Management Intern",
+   "location": "Delaware, OH",
+   "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-10T02:21:23.191Z",
+   "postedAt": "2026-10-09T22:12:21.000Z"
+  },
   {
    "company": "SageSure",
    "title": "Software Product Management Intern",
@@ -2615,16 +2625,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-05T23:18:07.770Z",
    "postedAt": "2026-08-05T22:15:36.000Z"
-  },
-  {
-   "company": "TikTok",
-   "title": "Recommendation Product Manager Intern - Content Ecosystem",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7667874197682899205",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-04T11:38:57.247Z",
-   "postedAt": "2026-08-04T09:20:12.000Z"
   },
   {
    "company": "Analog Devices",
