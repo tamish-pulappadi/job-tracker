@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T14:45:51.300Z",
+ "generatedAt": "2026-10-10T19:04:18.803Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -965,6 +965,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-17T23:40:17.876Z",
    "postedAt": "2026-09-17T22:05:22.000Z"
+  },
+  {
+   "company": "Zurn Elkay Water Solutions",
+   "title": "Product Management Intern",
+   "location": "Paso Robles, CA",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-17T23:40:17.876Z",
+   "postedAt": "2026-09-17T00:00:00.000Z"
   },
   {
    "company": "AspenTech",
@@ -2825,16 +2835,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-06-23T13:45:49.000Z"
-  },
-  {
-   "company": "NOV",
-   "title": "Product Engineer 1",
-   "location": "Houston, TX",
-   "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/39682",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-02-12T15:04:25.000Z"
   },
   {
    "company": "Uncountable",
