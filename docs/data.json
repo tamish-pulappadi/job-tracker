@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-12T07:58:13.228Z",
+ "generatedAt": "2026-10-12T17:25:43.421Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Lance",
+   "title": "Product Engineer",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/Lance/294e2602-725c-4d84-a7a0-a1fc602acec8/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-12T17:25:43.421Z",
+   "postedAt": "2026-06-26T14:07:59.000Z"
+  },
   {
    "company": "Workday",
    "title": "Product Manager Intern",
