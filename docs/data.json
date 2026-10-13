@@ -1,11 +1,51 @@
 {
- "generatedAt": "2026-10-13T18:24:50.555Z",
+ "generatedAt": "2026-10-13T22:58:20.798Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Clairo",
+   "title": "Associate Product Manager",
+   "location": "Remote in USA; Remote in Canada",
+   "url": "https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/Canada-Remote/Associate-Product-Manager_R18374",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-13T22:58:20.798Z",
+   "postedAt": "2026-10-13T00:00:00.000Z"
+  },
+  {
+   "company": "CoStar Group",
+   "title": "Product Intern",
+   "location": "Richmond, VA",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-13T22:58:20.798Z",
+   "postedAt": "2026-10-13T00:00:00.000Z"
+  },
+  {
+   "company": "H&R Block",
+   "title": "Product Management Intern - S",
+   "location": "Kansas City, MO",
+   "url": "https://careers.hrblock.com/jobs/76986?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-13T22:58:20.798Z",
+   "postedAt": "2026-09-28T22:16:26.000Z"
+  },
+  {
+   "company": "Prologis",
+   "title": "AI Product Management Intern",
+   "location": "Denver, CO",
+   "url": "https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-13T22:58:20.798Z",
+   "postedAt": "2026-10-13T00:00:00.000Z"
+  },
   {
    "company": "ADT",
    "title": "Product Management & Product Operations Intern",
@@ -135,16 +175,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-09T06:41:37.139Z",
    "postedAt": "2026-10-09T01:18:39.000Z"
-  },
-  {
-   "company": "7-Eleven",
-   "title": "Digital Product Manager Intern",
-   "location": "Irving, TX",
-   "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Digital-Product-Manager-Intern_R26_5991",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-09T00:32:55.757Z",
-   "postedAt": "2026-10-08T00:00:00.000Z"
   },
   {
    "company": "USAA",
@@ -1067,6 +1097,16 @@
    "postedAt": "2026-09-16T01:19:37.000Z"
   },
   {
+   "company": "NVIDIA",
+   "title": "Product Management MBA Intern - Data Center GPU",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-16T05:31:12.043Z",
+   "postedAt": "2026-09-15T00:00:00.000Z"
+  },
+  {
    "company": "Stripe",
    "title": "Product Manager",
    "location": "Seattle, WA; SF; NYC",
@@ -1925,16 +1965,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-31T23:24:35.217Z",
    "postedAt": "2026-08-31T19:08:32.000Z"
-  },
-  {
-   "company": "Oshkosh",
-   "title": "Product Management Intern - Summer 2027",
-   "location": "Dodge Center, MN",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-31T23:24:35.217Z",
-   "postedAt": "2026-08-31T00:00:00.000Z"
   },
   {
    "company": "Oshkosh",
