@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T11:18:10.846Z",
+ "generatedAt": "2026-10-13T18:24:50.555Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -945,16 +945,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-19T01:20:38.555Z",
    "postedAt": "2026-09-18T00:00:00.000Z"
-  },
-  {
-   "company": "Klaviyo",
-   "title": "Product Manager Co-op - Spring 2027",
-   "location": "Boston, MA",
-   "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7990059003",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-19T01:20:38.555Z",
-   "postedAt": "2026-09-18T22:09:42.000Z"
   },
   {
    "company": "Publicis Groupe",
