@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-14T01:37:02.792Z",
+ "generatedAt": "2026-10-14T06:42:08.774Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Brain Co.",
+   "title": "AI Product Engineer Co-op Intern",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-14T06:42:08.774Z",
+   "postedAt": "2026-10-14T01:41:04.000Z"
+  },
   {
    "company": "CWILL",
    "title": "Product Management Trainee",
@@ -517,6 +527,16 @@
    "postedAt": "2026-05-05T01:19:43.000Z"
   },
   {
+   "company": "Koch Industries",
+   "title": "Product Management Intern",
+   "location": "Eden Prairie, MN; Lisle, IL",
+   "url": "https://koch.avature.net/en_US/careers/JobDetail/195099",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-03T02:12:20.951Z",
+   "postedAt": "2026-10-03T01:17:12.000Z"
+  },
+  {
    "company": "C3.ai",
    "title": "AI Product Manager Intern - Summer 2027",
    "location": "Redwood City, CA",
@@ -657,16 +677,6 @@
    "postedAt": "2026-09-30T22:25:41.000Z"
   },
   {
-   "company": "Marvell",
-   "title": "Product Engineer Intern",
-   "location": "Santa Clara, CA",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-01T00:49:44.761Z",
-   "postedAt": "2026-09-30T00:00:00.000Z"
-  },
-  {
    "company": "Micron Technology",
    "title": "Design Validation Product Engineer New Grad - Engineering - HIG HBM PSE Design Validation",
    "location": "Boise, ID",
@@ -785,16 +795,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-29T17:01:04.783Z",
    "postedAt": "2026-09-16T00:00:00.000Z"
-  },
-  {
-   "company": "Marvell",
-   "title": "Board Product Engineer Intern - BS",
-   "location": "Santa Clara, CA",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Board-Product-Engineer-Intern--BS---Summer-2027_2603833",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-29T11:33:52.145Z",
-   "postedAt": "2026-09-21T00:00:00.000Z"
   },
   {
    "company": "Goldman Sachs",
@@ -965,6 +965,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-19T01:20:38.555Z",
    "postedAt": "2026-09-18T22:09:37.000Z"
+  },
+  {
+   "company": "General Motors",
+   "title": "Product Management Intern - Digital Product",
+   "location": "Austin, TX; Warren, MI",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-19T01:20:38.555Z",
+   "postedAt": "2026-09-18T00:00:00.000Z"
   },
   {
    "company": "Guardian Life",
@@ -1225,26 +1235,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-14T20:41:41.722Z",
    "postedAt": "2026-09-14T00:00:00.000Z"
-  },
-  {
-   "company": "Robinhood",
-   "title": "Associate Product Manager (New Grad)",
-   "location": "New York, NY",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973",
-   "kind": "newgrad",
-   "source": "Company board",
-   "firstSeen": "2026-09-14T16:47:15.310Z",
-   "postedAt": "2026-09-14T08:00:08-04:00"
-  },
-  {
-   "company": "Robinhood",
-   "title": "Associate Product Manager New Grad",
-   "location": "Menlo Park, CA; NYC",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8199973",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-14T16:47:15.310Z",
-   "postedAt": "2026-09-14T14:42:23.000Z"
   },
   {
    "company": "Acuity",
