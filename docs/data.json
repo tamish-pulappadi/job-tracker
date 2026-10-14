@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-14T06:42:08.774Z",
+ "generatedAt": "2026-10-14T12:23:43.944Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "WisdomTree",
+   "title": "Product Manager - Digital Assets - Digital Investment Products",
+   "location": "NYC",
+   "url": "https://jobs.lever.co/wisdomtree/bc16f38e-8613-43b6-bb9b-33d24f2da299/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-14T12:23:43.944Z",
+   "postedAt": "2026-07-27T22:10:37.000Z"
+  },
   {
    "company": "Brain Co.",
    "title": "AI Product Engineer Co-op Intern",
