@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T12:23:43.944Z",
+ "generatedAt": "2026-10-14T17:24:55.920Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -175,16 +175,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-09T23:14:42.554Z",
    "postedAt": "2026-10-09T22:16:42.000Z"
-  },
-  {
-   "company": "John Deere",
-   "title": "Product Engineering Student Intern - Robotics",
-   "location": "Champaign, IL",
-   "url": "https://johndeere.eightfold.ai/careers/job/137483758357",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-09T19:09:42.544Z",
-   "postedAt": "2026-10-09T14:25:57.000Z"
   },
   {
    "company": "Robert Bosch Venture Capital",
@@ -575,26 +565,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-02T14:59:13.908Z",
    "postedAt": "2026-10-02T14:18:58.000Z"
-  },
-  {
-   "company": "Attentive",
-   "title": "Product Management Intern, Agentic Integrations",
-   "location": "United States",
-   "url": "https://job-boards.greenhouse.io/attentive/jobs/4429880009",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-10-01T23:09:56.334Z",
-   "postedAt": "2026-10-01T16:48:30-04:00"
-  },
-  {
-   "company": "Attentive",
-   "title": "Product Management Intern - Agentic Integrations",
-   "location": "United States",
-   "url": "https://job-boards.greenhouse.io/attentive/jobs/4429880009",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-01T23:09:56.334Z",
-   "postedAt": "2026-10-01T22:16:28.000Z"
   },
   {
    "company": "Bedrock Robotics",
