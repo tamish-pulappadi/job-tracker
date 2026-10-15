@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-15T06:46:09.121Z",
+ "generatedAt": "2026-10-15T12:19:41.241Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Microsoft",
+   "title": "Product Manager",
+   "location": "Remote in USA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027388",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-15T12:19:41.241Z",
+   "postedAt": "2026-10-15T09:04:23.000Z"
+  },
   {
    "company": "General Motors",
    "title": "Product Management Intern - Vehicle Autonomy",
@@ -1449,10 +1459,10 @@
   {
    "company": "ID.me",
    "title": "Associate Product Manager New Grad",
-   "location": "Mountain View, CA",
+   "location": "McLean, VA; Mountain View, CA",
    "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003",
    "kind": "newgrad",
-   "source": "Simplify Internships",
+   "source": "Simplify New Grad",
    "firstSeen": "2026-09-08T17:32:16.896Z",
    "postedAt": "2026-09-08T14:10:24.000Z"
   },
