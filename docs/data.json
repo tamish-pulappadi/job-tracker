@@ -1,11 +1,71 @@
 {
- "generatedAt": "2026-10-15T20:20:35.833Z",
+ "generatedAt": "2026-10-15T23:09:00.759Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Blue Origin",
+   "title": "Terawave Product Management Intern - MBA",
+   "location": "Kent, WA",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-15T23:09:00.759Z",
+   "postedAt": "2026-10-15T00:00:00.000Z"
+  },
+  {
+   "company": "Clearwater Analytics",
+   "title": "Technical Product Manager Intern",
+   "location": "NYC",
+   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12286",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-15T23:09:00.759Z",
+   "postedAt": "2026-09-18T00:00:00.000Z"
+  },
+  {
+   "company": "Duolingo",
+   "title": "Product Manager MBA Intern",
+   "location": "Pittsburgh, PA",
+   "url": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-15T23:09:00.759Z",
+   "postedAt": "2026-10-15T22:02:04.000Z"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Product Management MBA Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-15T23:09:00.759Z",
+   "postedAt": "2026-10-15T00:00:00.000Z"
+  },
+  {
+   "company": "ROCKWOOL Group",
+   "title": "Associate Product Management Intern",
+   "location": "Chicago, IL",
+   "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-15T23:09:00.759Z",
+   "postedAt": "2026-10-15T00:00:00.000Z"
+  },
+  {
+   "company": "Super Micro Computer",
+   "title": "Product Engineer",
+   "location": "San Jose, CA",
+   "url": "https://jobs.supermicro.com/job/San-Jose-Product-Engineer-Cali/1432791100/?ats=successfactors",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-15T23:09:00.759Z",
+   "postedAt": "2026-09-23T01:08:36.000Z"
+  },
   {
    "company": "Duolingo",
    "title": "Product Manager, MBA Intern",
@@ -315,16 +375,6 @@
    "source": "Company board",
    "firstSeen": "2026-10-07T21:33:56.441Z",
    "postedAt": "2026-10-07T14:36:45-04:00"
-  },
-  {
-   "company": "Capital One",
-   "title": "Manager – Product Management - Customer Core & Identity",
-   "location": "McLean, VA; Richmond, VA; Chicago, IL; NYC",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Management--Customer-Core---Identity_R1001934-2",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-06T23:28:01.911Z",
-   "postedAt": "2026-10-06T00:00:00.000Z"
   },
   {
    "company": "HeartFlow",
@@ -987,16 +1037,6 @@
    "postedAt": "2026-09-18T00:00:00.000Z"
   },
   {
-   "company": "Guardian Life",
-   "title": "Summer Intern - Group Benefits Product Management",
-   "location": "Boston, MA",
-   "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-19T01:20:38.555Z",
-   "postedAt": "2026-09-18T00:00:00.000Z"
-  },
-  {
    "company": "Publicis Groupe",
    "title": "Product Manager Intern - Class of 2028",
    "location": "Chicago, IL",
@@ -1217,6 +1257,16 @@
    "postedAt": "2026-09-14T22:44:00.000Z"
   },
   {
+   "company": "OpenGov",
+   "title": "Product Intern",
+   "location": "Boston, MA",
+   "url": "https://jobs.ashbyhq.com/opengov/163f2c69-851d-4215-ae4b-bb717b2e66d6/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-14T23:28:51.351Z",
+   "postedAt": "2026-09-14T22:44:01.000Z"
+  },
+  {
    "company": "Tesla",
    "title": "Product Engineer Intern - Applications Engineering",
    "location": "Fremont, CA",
@@ -1335,16 +1385,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-11T13:41:21.687Z",
    "postedAt": "2026-07-22T22:04:32.000Z"
-  },
-  {
-   "company": "Super Micro Computer",
-   "title": "Product Engineer",
-   "location": "San Jose, CA",
-   "url": "https://jobs.supermicro.com/job/San-Jose-Product-Engineer-Cali/1428832700/?ats=successfactors",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-11T04:56:18.441Z",
-   "postedAt": "2026-09-11T01:09:25.000Z"
   },
   {
    "company": "L3Harris Technologies",
@@ -1687,6 +1727,16 @@
    "postedAt": "2026-06-15T06:11:51.000Z"
   },
   {
+   "company": "Allied Solutions",
+   "title": "Product Management Intern - Risk Management",
+   "location": "St Paul, MN",
+   "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
    "company": "Hewlett Packard",
    "title": "Personal Systems Product Management Intern",
    "location": "Austin, TX",
@@ -1817,16 +1867,6 @@
    "postedAt": "2026-09-01T00:00:00.000Z"
   },
   {
-   "company": "Clearwater Analytics",
-   "title": "Technical Product Manager Intern",
-   "location": "NYC",
-   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12200",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-02T08:56:17.735Z",
-   "postedAt": "2026-09-01T00:00:00.000Z"
-  },
-  {
    "company": "American Express",
    "title": "Digital Product Management Associate - Enterprise Technology Services",
    "location": "NYC",
@@ -1934,16 +1974,6 @@
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-08-31T23:24:35.217Z",
-   "postedAt": "2026-08-31T00:00:00.000Z"
-  },
-  {
-   "company": "Medline",
-   "title": "Product Management Intern - Summer 2027",
-   "location": "Chicago, IL; Northfield, IL",
-   "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-31T19:41:57.516Z",
    "postedAt": "2026-08-31T00:00:00.000Z"
   },
   {
