@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-16T01:18:19.451Z",
+ "generatedAt": "2026-10-16T06:01:37.723Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Applied Materials",
+   "title": "Product Management 2 New Grad",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-16T06:01:37.723Z",
+   "postedAt": "2026-10-15T00:00:00.000Z"
+  },
   {
    "company": "Blue Origin",
    "title": "Terawave Product Management Intern - MBA",
