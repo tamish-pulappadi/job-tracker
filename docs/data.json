@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T23:09:00.759Z",
+ "generatedAt": "2026-10-16T01:18:19.451Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -1731,16 +1731,6 @@
    "title": "Product Management Intern - Risk Management",
    "location": "St Paul, MN",
    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-03T09:11:25.581Z",
-   "postedAt": "2026-09-02T00:00:00.000Z"
-  },
-  {
-   "company": "Hewlett Packard",
-   "title": "Personal Systems Product Management Intern",
-   "location": "Austin, TX",
-   "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1",
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-09-03T09:11:25.581Z",
