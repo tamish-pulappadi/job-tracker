@@ -1,12 +1,21 @@
 {
- "generatedAt": "2026-10-17T00:04:20.000Z",
+ "generatedAt": "2026-10-17T04:19:46.823Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Webflow: 404 https://boards-api.greenhouse.io/v1/boards/webflow/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "TikTok",
+   "title": "Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7697105572165519621",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-17T04:19:46.823Z",
+   "postedAt": "2026-10-17T01:36:10.000Z"
+  },
   {
    "company": "Book of the Month",
    "title": "Associate Product Engineer",
@@ -1876,16 +1885,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-01T07:03:45.869Z",
    "postedAt": "2026-09-01T04:52:49.000Z"
-  },
-  {
-   "company": "Machina Labs",
-   "title": "Product Manager Intern",
-   "location": "Chatsworth, LA",
-   "url": "https://jobs.lever.co/MachinaLabs/c54d0857-09f3-479c-8d8d-cfa55d358be6/apply",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-01T07:03:45.869Z",
-   "postedAt": "2026-09-01T04:51:50.000Z"
   },
   {
    "company": "Travelers",
