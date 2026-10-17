@@ -1,10 +1,9 @@
 {
- "generatedAt": "2026-10-17T08:41:59.783Z",
+ "generatedAt": "2026-10-17T12:25:19.814Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Visa: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
   {
