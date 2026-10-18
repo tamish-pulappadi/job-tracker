@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T09:15:01.800Z",
+ "generatedAt": "2026-10-18T13:19:34.078Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -627,16 +627,6 @@
    "postedAt": "2026-10-02T22:10:38.000Z"
   },
   {
-   "company": "Trimble",
-   "title": "Product Management Intern",
-   "location": "Westminster, CO",
-   "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-02T23:27:22.706Z",
-   "postedAt": "2026-10-02T00:00:00.000Z"
-  },
-  {
    "company": "IDeaS",
    "title": "Product Management Intern",
    "location": "Bloomington, MN",
@@ -1197,16 +1187,6 @@
    "postedAt": "2026-03-20T18:26:06-04:00"
   },
   {
-   "company": "The Walt Disney Company",
-   "title": "Associate Product Manager - APM Program",
-   "location": "Glendale, CA; NYC",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-15T12:22:44.890Z",
-   "postedAt": "2026-09-15T00:00:00.000Z"
-  },
-  {
    "company": "Intuit",
    "title": "Product Manager Intern",
    "location": "Mountain View, CA; San Diego, CA",
@@ -1411,16 +1391,6 @@
    "title": "Product Manager Intern",
    "location": "Boston, MA; Raleigh, NC",
    "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Product-Manager-Intern_R-059060",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-09T00:54:21.561Z",
-   "postedAt": "2026-09-08T00:00:00.000Z"
-  },
-  {
-   "company": "Trimble",
-   "title": "Product Management Intern",
-   "location": "Westminster, CO; San Diego, CA",
-   "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1",
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-09-09T00:54:21.561Z",
