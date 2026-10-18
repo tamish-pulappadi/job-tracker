@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T04:51:26.533Z",
+ "generatedAt": "2026-10-18T09:15:01.800Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -125,16 +125,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-15T01:50:18.175Z",
    "postedAt": "2026-10-14T00:00:00.000Z"
-  },
-  {
-   "company": "Normal Computing",
-   "title": "Product Manager",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/normalcomputing/acc80301-3574-4cc8-904a-fb66a346ebd4/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-14T23:33:46.945Z",
-   "postedAt": "2026-10-14T22:37:48.000Z"
   },
   {
    "company": "Salesforce",
@@ -1211,16 +1201,6 @@
    "title": "Associate Product Manager - APM Program",
    "location": "Glendale, CA; NYC",
    "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-15T12:22:44.890Z",
-   "postedAt": "2026-09-15T00:00:00.000Z"
-  },
-  {
-   "company": "The Walt Disney Company",
-   "title": "Associate Product Manager - Program",
-   "location": "Glendale, CA; NYC",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Associate-Product-Manager-Program_10160554",
    "kind": "newgrad",
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-15T12:22:44.890Z",
