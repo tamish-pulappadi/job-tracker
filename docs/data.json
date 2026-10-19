@@ -1,11 +1,61 @@
 {
- "generatedAt": "2026-10-19T19:34:44.420Z",
+ "generatedAt": "2026-10-19T23:04:48.544Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Amplify",
+   "title": "Product Management Intern",
+   "location": "Remote in USA",
+   "url": "https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-19T23:04:48.544Z",
+   "postedAt": "2026-10-19T22:03:56.000Z"
+  },
+  {
+   "company": "Applied Materials",
+   "title": "Service Product Manager New Grad - Product Line Management",
+   "location": "Austin, TX; Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Service-Product-Manager-Product-Line-Management-New-College-Grad--Master-s--Santa-Clara--CA-Austin--TX-_R2629842",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-19T23:04:48.544Z",
+   "postedAt": "2026-10-19T00:00:00.000Z"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Product Manager MBA Intern - Enterprise AI",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-19T23:04:48.544Z",
+   "postedAt": "2026-10-19T00:00:00.000Z"
+  },
+  {
+   "company": "Westinghouse Electric Company",
+   "title": "Product Engineer Intern",
+   "location": "Cranberry Township, PA",
+   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Product-Engineer-NC/1441276000/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-19T23:04:48.544Z",
+   "postedAt": "2026-10-19T22:33:25.000Z"
+  },
+  {
+   "company": "Zurn Elkay Water Solutions",
+   "title": "Product Management Intern",
+   "location": "Downers Grove, IL",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-19T23:04:48.544Z",
+   "postedAt": "2026-10-19T00:00:00.000Z"
+  },
   {
    "company": "TikTok",
    "title": "Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety",
