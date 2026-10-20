@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-10-20T01:47:28.680Z",
+ "generatedAt": "2026-10-20T06:54:19.738Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Clerkie",
+   "title": "Associate Product Manager",
+   "location": "Remote in USA",
+   "url": "http://getfiber.ai/careers?gh_jid=5269011007",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-20T06:54:19.738Z",
+   "postedAt": "2026-10-20T01:41:10.000Z"
+  },
+  {
+   "company": "Jerry",
+   "title": "Product Manager-in-Training",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.ashbyhq.com/jerry.ai/8ef6fafc-3527-42ff-86f8-5f087b4edc64/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-20T06:54:19.738Z",
+   "postedAt": "2026-10-20T01:22:48.000Z"
+  },
   {
    "company": "Kikoff",
    "title": "Product Manager - Retention & Monetization",
@@ -184,16 +204,6 @@
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-10-15T01:50:18.175Z",
-   "postedAt": "2026-10-14T00:00:00.000Z"
-  },
-  {
-   "company": "Salesforce",
-   "title": "Product Management Specialist Intern",
-   "location": "SF; NYC",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Product-Management-Specialist_JR363443",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-14T23:33:46.945Z",
    "postedAt": "2026-10-14T00:00:00.000Z"
   },
   {
@@ -465,16 +475,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-06T23:28:01.911Z",
    "postedAt": "2026-10-06T22:06:42.000Z"
-  },
-  {
-   "company": "Jerry",
-   "title": "Product Manager-in-Training",
-   "location": "Palo Alto, CA",
-   "url": "https://jobs.ashbyhq.com/jerry.ai/7c3853bc-070f-4be4-b0a8-983459f1dee0/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-06T23:28:01.911Z",
-   "postedAt": "2026-10-06T22:29:43.000Z"
   },
   {
    "company": "Rhoda AI",
@@ -835,16 +835,6 @@
    "source": "Company board",
    "firstSeen": "2026-09-30T21:32:31.492Z",
    "postedAt": "2026-09-30T15:01:10-04:00"
-  },
-  {
-   "company": "L3Harris Technologies",
-   "title": "Product Management Intern",
-   "location": "Rochester, NY",
-   "url": "https://jobs.l3harris.com/job/Rochester-Product-Management-Intern-(Rochester,-NY)-NY-14610-1839/1433689700/?ats=successfactors",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-30T17:42:09.508Z",
-   "postedAt": "2026-09-30T14:07:37.000Z"
   },
   {
    "company": "AHEAD",
