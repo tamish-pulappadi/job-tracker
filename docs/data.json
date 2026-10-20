@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T06:54:19.738Z",
+ "generatedAt": "2026-10-20T12:26:02.976Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -545,16 +545,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-06T07:59:49.839Z",
    "postedAt": "2026-10-06T06:40:52.000Z"
-  },
-  {
-   "company": "Fireworks AI",
-   "title": "Associate Product Manager",
-   "location": "San Mateo, CA",
-   "url": "https://jobs.ashbyhq.com/fireworks/69375f41-258a-4c25-ad78-5985606c438a/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-06T07:59:49.839Z",
-   "postedAt": "2026-10-06T06:23:46.000Z"
   },
   {
    "company": "Hewlett Packard Enterprise",
