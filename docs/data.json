@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-20T20:45:37.467Z",
+ "generatedAt": "2026-10-20T23:32:40.860Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Zebra Technologies",
+   "title": "Supplies & Sensors Product Manager Intern - US",
+   "location": "Lincolnshire, IL",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-20T23:32:40.860Z",
+   "postedAt": "2026-10-20T00:00:00.000Z"
+  },
   {
    "company": "Clerkie",
    "title": "Associate Product Manager",
@@ -1015,16 +1025,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-22T05:39:39.890Z",
    "postedAt": "2026-09-22T01:14:13.000Z"
-  },
-  {
-   "company": "Zimmer Biomet Holdings",
-   "title": "Product Management Intern - Artificial Intelligence Product Management",
-   "location": "Remote in USA",
-   "url": "https://careers.zimmerbiomet.com/us/en/job/12745",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-22T00:49:46.593Z",
-   "postedAt": "2026-09-21T22:22:50.000Z"
   },
   {
    "company": "Hard Rock Digital",
