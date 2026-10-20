@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T17:24:13.491Z",
+ "generatedAt": "2026-10-20T20:45:37.467Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -1005,16 +1005,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-22T05:39:39.890Z",
    "postedAt": "2026-09-22T01:17:50.000Z"
-  },
-  {
-   "company": "ONE Finance",
-   "title": "Product Intern",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/oneapp/901eab26-08e3-4e6c-ad3d-c4acef4662c8/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-22T05:39:39.890Z",
-   "postedAt": "2026-09-22T01:19:27.000Z"
   },
   {
    "company": "Rivian",
