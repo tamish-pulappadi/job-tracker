@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T12:26:02.976Z",
+ "generatedAt": "2026-10-20T17:24:13.491Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -2567,6 +2567,16 @@
    "postedAt": "2026-08-05T22:15:36.000Z"
   },
   {
+   "company": "TikTok",
+   "title": "Recommendation Product Manager Intern - Content Ecosystem",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7667874197682899205",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-04T11:38:57.247Z",
+   "postedAt": "2026-08-04T09:20:12.000Z"
+  },
+  {
    "company": "Analog Devices",
    "title": "Product Engineer - Design Evaluation",
    "location": "Wilmington, MA",
@@ -2645,16 +2655,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-01T11:38:56.260Z",
    "postedAt": "2026-03-05T02:24:37.000Z"
-  },
-  {
-   "company": "Sweatpals",
-   "title": "Product Manager Intern - Host Squad",
-   "location": "Remote in USA",
-   "url": "https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-01T10:20:11.730Z",
-   "postedAt": "2026-06-09T22:08:46.000Z"
   },
   {
    "company": "Skydio",
