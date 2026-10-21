@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-10-20T23:32:40.860Z",
+ "generatedAt": "2026-10-21T02:00:12.946Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Brain Co.",
+   "title": "AI Product Engineer New Grad",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-21T02:00:12.946Z",
+   "postedAt": "2026-10-21T01:09:19.000Z"
+  },
+  {
+   "company": "GoFundMe",
+   "title": "MBA Product Management Intern",
+   "location": "SF",
+   "url": "https://job-boards.greenhouse.io/gofundme/jobs/8304644",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-21T02:00:12.946Z",
+   "postedAt": "2026-10-21T01:20:47.000Z"
+  },
   {
    "company": "Zebra Technologies",
    "title": "Supplies & Sensors Product Manager Intern - US",
