@@ -1,9 +1,13 @@
 {
- "generatedAt": "2026-10-21T07:20:10.189Z",
+ "generatedAt": "2026-10-21T13:02:37.734Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Outreach: The operation was aborted due to timeout",
+  "Palantir: The operation was aborted due to timeout",
+  "Shield AI: The operation was aborted due to timeout",
+  "Zoox: The operation was aborted due to timeout"
  ],
  "jobs": [
   {
