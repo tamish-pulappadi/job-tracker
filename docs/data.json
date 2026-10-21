@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T18:00:16.950Z",
+ "generatedAt": "2026-10-21T21:27:00.328Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -2665,16 +2665,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-01T00:10:10.440Z",
    "postedAt": "2026-07-31T22:25:00.000Z"
-  },
-  {
-   "company": "Skydio",
-   "title": "Hardware Product Management Intern - Fall 2026/Winter 2027",
-   "location": "San Mateo, California, United States; Remote",
-   "url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-07-31T19:49:54.251Z",
-   "postedAt": "2026-09-17T17:59:25.596+00:00"
   },
   {
    "company": "Bridger",
