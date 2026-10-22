@@ -1,9 +1,10 @@
 {
- "generatedAt": "2026-10-22T14:39:24.285Z",
+ "generatedAt": "2026-10-22T18:47:55.736Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Palantir: The operation was aborted due to timeout"
  ],
  "jobs": [
   {
@@ -535,16 +536,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-06T19:55:16.883Z",
    "postedAt": "2026-10-06T00:00:00.000Z"
-  },
-  {
-   "company": "Nuro",
-   "title": "New Grad Software Engineer, Product Engineering",
-   "location": "Mountain View, California (HQ)",
-   "url": "https://nuro.ai/careersitem?gh_jid=8248317",
-   "kind": "newgrad",
-   "source": "Company board",
-   "firstSeen": "2026-10-06T19:55:16.883Z",
-   "postedAt": "2026-10-05T15:14:38-04:00"
   },
   {
    "company": "Astera Labs",
