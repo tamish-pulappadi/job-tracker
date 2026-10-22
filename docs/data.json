@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-10-21T21:27:00.328Z",
+ "generatedAt": "2026-10-22T00:05:47.195Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Facilities Management Express",
+   "title": "Technical Product Manager",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/fmx/j/D5C8EEABC3/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-22T00:05:47.195Z",
+   "postedAt": "2026-10-21T22:33:20.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Software Engineer Student Intern - Product Engineering",
+   "location": "Cary, NC",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483990019",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-22T00:05:47.195Z",
+   "postedAt": "2026-10-21T22:23:31.000Z"
+  },
   {
    "company": "Brain Co.",
    "title": "AI Product Engineer New Grad",
@@ -475,6 +495,16 @@
    "source": "Company board",
    "firstSeen": "2026-10-07T21:33:56.441Z",
    "postedAt": "2026-10-07T14:36:45-04:00"
+  },
+  {
+   "company": "Electronic Arts",
+   "title": "Product Management Intern",
+   "location": "Austin, TX",
+   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T23:28:01.911Z",
+   "postedAt": "2026-10-06T22:20:51.000Z"
   },
   {
    "company": "HeartFlow",
@@ -2007,16 +2037,6 @@
    "postedAt": "2026-08-27T00:00:00.000Z"
   },
   {
-   "company": "Johns Manville",
-   "title": "Product Management Intern",
-   "location": "Denver, CO",
-   "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-28T01:34:52.194Z",
-   "postedAt": "2026-08-27T00:00:00.000Z"
-  },
-  {
    "company": "Firetiger",
    "title": "Product Engineer New Grad",
    "location": "SF",
@@ -2655,16 +2675,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-01T11:38:56.260Z",
    "postedAt": "2026-03-05T02:24:37.000Z"
-  },
-  {
-   "company": "Skydio",
-   "title": "Product Management Intern",
-   "location": "San Mateo, CA",
-   "url": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-01T00:10:10.440Z",
-   "postedAt": "2026-07-31T22:25:00.000Z"
   },
   {
    "company": "Bridger",
