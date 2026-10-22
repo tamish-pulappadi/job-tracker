@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T04:37:11.438Z",
+ "generatedAt": "2026-10-22T09:37:46.854Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -267,16 +267,6 @@
    "postedAt": "2026-10-15T15:00:01-04:00"
   },
   {
-   "company": "Microsoft",
-   "title": "Product Manager",
-   "location": "Remote in USA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027388",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-15T12:19:41.241Z",
-   "postedAt": "2026-10-15T09:04:23.000Z"
-  },
-  {
    "company": "General Motors",
    "title": "Product Management Intern - Vehicle Autonomy",
    "location": "Sunnyvale, CA",
@@ -465,16 +455,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-09T06:41:37.139Z",
    "postedAt": "2026-10-09T01:18:39.000Z"
-  },
-  {
-   "company": "WSFS Bank",
-   "title": "Product Intern",
-   "location": "Wilmington, DE",
-   "url": "https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Wilmington-DE/XMLNAME-2027-Summer-Internship---Product_R-104113-2",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-09T00:32:55.757Z",
-   "postedAt": "2026-10-08T00:00:00.000Z"
   },
   {
    "company": "Axos Bank",
@@ -967,16 +947,6 @@
    "postedAt": "2026-09-28T14:20:06.000Z"
   },
   {
-   "company": "Pebl",
-   "title": "Associate Product Manager Intern",
-   "location": "Palo Alto, CA",
-   "url": "https://jobs.ashbyhq.com/pebl/84ec9ce2-7e48-4ad1-8e1d-fb63583e81c4/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-25T23:24:27.222Z",
-   "postedAt": "2026-09-25T22:15:56.000Z"
-  },
-  {
    "company": "W.R. Berkley",
    "title": "Product Management Analyst Intern",
    "location": "Urbandale, IA",
@@ -1405,16 +1375,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-11T13:41:21.687Z",
    "postedAt": "2026-07-22T22:04:32.000Z"
-  },
-  {
-   "company": "L3Harris Technologies",
-   "title": "Product Management Intern",
-   "location": "Lynchburg, VA",
-   "url": "https://jobs.l3harris.com/job/Lynchburg-Product-Management-Intern-VA-24501-6952/1414571100/?ats=successfactors",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-10T17:29:45.969Z",
-   "postedAt": "2026-09-10T14:16:22.000Z"
   },
   {
    "company": "TikTok",
@@ -2615,6 +2575,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-04T11:38:57.247Z",
    "postedAt": "2026-08-04T09:20:12.000Z"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Full-Stack Product Engineer Intern - Web + Services",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-04T06:40:33.839Z",
+   "postedAt": "2026-08-04T06:09:43.000Z"
   },
   {
    "company": "Analog Devices",
