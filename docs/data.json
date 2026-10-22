@@ -1,11 +1,41 @@
 {
- "generatedAt": "2026-10-22T00:05:47.195Z",
+ "generatedAt": "2026-10-22T04:37:11.438Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "NVIDIA",
+   "title": "Product Management MBA Intern - Gaming, Content Creation, And PC AI",
+   "location": "Canada; Santa Clara, CA; United States",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-22T04:37:11.438Z",
+   "postedAt": "2026-10-21T00:00:00.000Z"
+  },
+  {
+   "company": "Tesla",
+   "title": "Internship - Product Management - Megapack Services - Winter/Spring 2027",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/287443",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-22T04:37:11.438Z",
+   "postedAt": "2026-10-22T01:46:59.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product-Led-Growth Product Manager Project Intern",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7655421207605889333",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-22T04:37:11.438Z",
+   "postedAt": "2026-10-22T01:22:28.000Z"
+  },
   {
    "company": "Facilities Management Express",
    "title": "Technical Product Manager",
@@ -457,16 +487,6 @@
    "postedAt": "2026-10-07T00:00:00.000Z"
   },
   {
-   "company": "Figma",
-   "title": "Associate Product Manager",
-   "location": "SF",
-   "url": "https://boards.greenhouse.io/figma/jobs/6180116004",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-08T01:18:36.940Z",
-   "postedAt": "2026-10-07T22:40:35.000Z"
-  },
-  {
    "company": "Hewlett Packard",
    "title": "Software Product Manager Intern",
    "location": "Austin, TX; Fort Collins, CO",
@@ -485,16 +505,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-08T01:18:36.940Z",
    "postedAt": "2026-10-07T22:29:29.000Z"
-  },
-  {
-   "company": "Figma",
-   "title": "Early Career, Associate Product Manager (2027)",
-   "location": "San Francisco, CA",
-   "url": "https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004",
-   "kind": "newgrad",
-   "source": "Company board",
-   "firstSeen": "2026-10-07T21:33:56.441Z",
-   "postedAt": "2026-10-07T14:36:45-04:00"
   },
   {
    "company": "Electronic Arts",
@@ -1675,6 +1685,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-03T19:50:30.822Z",
    "postedAt": "2026-06-07T09:10:42.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Project Intern",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7620569902743406901",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T19:50:30.822Z",
+   "postedAt": "2026-03-24T08:44:52.000Z"
   },
   {
    "company": "TikTok",
