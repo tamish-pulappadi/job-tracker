@@ -1,11 +1,41 @@
 {
- "generatedAt": "2026-10-23T15:01:28.923Z",
+ "generatedAt": "2026-10-23T19:09:58.690Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "1Password",
+   "title": "Product Management Intern - End User Experience",
+   "location": "Remote in USA; Remote in Canada",
+   "url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-23T19:09:58.690Z",
+   "postedAt": "2026-10-23T14:42:25.000Z"
+  },
+  {
+   "company": "Addepar",
+   "title": "Product Manager – Early Career - AI Platform",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910404002",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-23T19:09:58.690Z",
+   "postedAt": "2026-10-23T14:10:56.000Z"
+  },
+  {
+   "company": "Appian",
+   "title": "Associate Product Engineer",
+   "location": "McLean, VA",
+   "url": "https://job-boards.greenhouse.io/appian/jobs/8264454",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-23T19:09:58.690Z",
+   "postedAt": "2026-10-08T22:19:09.000Z"
+  },
   {
    "company": "1Password",
    "title": "Product Management Intern, End User Experience - Winter 2027",
@@ -147,6 +177,16 @@
    "postedAt": "2026-10-22T22:27:53.000Z"
   },
   {
+   "company": "Walmart",
+   "title": "Automation Product Manager Intern - Product Manager",
+   "location": "Lancaster, TX",
+   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-23T00:28:10.628Z",
+   "postedAt": "2026-10-22T00:00:00.000Z"
+  },
+  {
    "company": "NVIDIA",
    "title": "Product Management MBA Intern - Gaming, Content Creation, And PC AI",
    "location": "Canada; Santa Clara, CA; United States",
@@ -187,6 +227,16 @@
    "postedAt": "2026-10-21T22:33:20.000Z"
   },
   {
+   "company": "John Deere",
+   "title": "Software Engineer Student Intern - Product Engineering",
+   "location": "Cary, NC",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483990019",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-22T00:05:47.195Z",
+   "postedAt": "2026-10-21T22:23:31.000Z"
+  },
+  {
    "company": "Brain Co.",
    "title": "AI Product Engineer New Grad",
    "location": "SF",
@@ -195,6 +245,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-21T02:00:12.946Z",
    "postedAt": "2026-10-21T01:09:19.000Z"
+  },
+  {
+   "company": "GoFundMe",
+   "title": "MBA Product Management Intern",
+   "location": "SF",
+   "url": "https://job-boards.greenhouse.io/gofundme/jobs/8304644",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-21T02:00:12.946Z",
+   "postedAt": "2026-10-21T01:20:47.000Z"
   },
   {
    "company": "Zebra Technologies",
@@ -215,16 +275,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-20T06:54:19.738Z",
    "postedAt": "2026-10-20T01:41:10.000Z"
-  },
-  {
-   "company": "Jerry",
-   "title": "Product Manager-in-Training",
-   "location": "Palo Alto, CA",
-   "url": "https://jobs.ashbyhq.com/jerry.ai/8ef6fafc-3527-42ff-86f8-5f087b4edc64/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-20T06:54:19.738Z",
-   "postedAt": "2026-10-20T01:22:48.000Z"
   },
   {
    "company": "Kikoff",
@@ -255,6 +305,46 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-19T23:04:48.544Z",
    "postedAt": "2026-10-19T00:00:00.000Z"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Product Manager MBA Intern - Enterprise AI",
+   "location": "Santa Clara, CA",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-19T23:04:48.544Z",
+   "postedAt": "2026-10-19T00:00:00.000Z"
+  },
+  {
+   "company": "Westinghouse Electric Company",
+   "title": "Product Engineer Intern",
+   "location": "Cranberry Township, PA",
+   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Product-Engineer-NC/1441276000/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-19T23:04:48.544Z",
+   "postedAt": "2026-10-19T22:33:25.000Z"
+  },
+  {
+   "company": "Zurn Elkay Water Solutions",
+   "title": "Product Management Intern",
+   "location": "Downers Grove, IL",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-19T23:04:48.544Z",
+   "postedAt": "2026-10-19T00:00:00.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Video Moderation & Platform Responsibility Product Manager Project Intern - Platform Responsibility - Feed Safety",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7697105572165519621",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-17T04:19:46.823Z",
+   "postedAt": "2026-10-17T01:36:10.000Z"
   },
   {
    "company": "Book of the Month",
@@ -297,6 +387,26 @@
    "postedAt": "2026-09-18T00:00:00.000Z"
   },
   {
+   "company": "Duolingo",
+   "title": "Product Manager MBA Intern",
+   "location": "Pittsburgh, PA",
+   "url": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-15T23:09:00.759Z",
+   "postedAt": "2026-10-15T22:02:04.000Z"
+  },
+  {
+   "company": "ROCKWOOL Group",
+   "title": "Associate Product Management Intern",
+   "location": "Chicago, IL",
+   "url": "https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-15T23:09:00.759Z",
+   "postedAt": "2026-10-15T00:00:00.000Z"
+  },
+  {
    "company": "Super Micro Computer",
    "title": "Product Engineer",
    "location": "San Jose, CA",
@@ -337,6 +447,16 @@
    "postedAt": "2026-07-27T22:10:37.000Z"
   },
   {
+   "company": "Brain Co.",
+   "title": "AI Product Engineer Co-op Intern",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-14T06:42:08.774Z",
+   "postedAt": "2026-10-14T01:41:04.000Z"
+  },
+  {
    "company": "CWILL",
    "title": "Product Management Trainee",
    "location": "Cary, NC",
@@ -357,6 +477,46 @@
    "postedAt": "2026-10-13T00:00:00.000Z"
   },
   {
+   "company": "CoStar Group",
+   "title": "Product Intern",
+   "location": "Richmond, VA",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-13T22:58:20.798Z",
+   "postedAt": "2026-10-13T00:00:00.000Z"
+  },
+  {
+   "company": "Prologis",
+   "title": "AI Product Management Intern",
+   "location": "Denver, CO",
+   "url": "https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-13T22:58:20.798Z",
+   "postedAt": "2026-10-13T00:00:00.000Z"
+  },
+  {
+   "company": "ADT",
+   "title": "Product Management & Product Operations Intern",
+   "location": "Boca Raton, FL",
+   "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-12T23:41:46.559Z",
+   "postedAt": "2026-10-12T22:07:25.000Z"
+  },
+  {
+   "company": "Arcesium",
+   "title": "Product Management Intern",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-12T23:41:46.559Z",
+   "postedAt": "2026-10-12T22:15:13.000Z"
+  },
+  {
    "company": "Cummins",
    "title": "Product Manager",
    "location": "Seymour, IN",
@@ -365,6 +525,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-12T23:41:46.559Z",
    "postedAt": "2026-10-12T22:21:17.000Z"
+  },
+  {
+   "company": "Life Fitness",
+   "title": "Product Management Intern",
+   "location": "Rosemont, IL",
+   "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Product-Management-Intern_JR-025280",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-12T23:41:46.559Z",
+   "postedAt": "2026-10-12T00:00:00.000Z"
   },
   {
    "company": "Watts Water",
@@ -377,6 +547,16 @@
    "postedAt": "2026-10-12T00:00:00.000Z"
   },
   {
+   "company": "Workday",
+   "title": "Product Manager Intern",
+   "location": "Pleasanton, CA",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-10T14:45:51.300Z",
+   "postedAt": "2026-10-09T00:00:00.000Z"
+  },
+  {
    "company": "Vertiv",
    "title": "Energy Storage Product Management Intern",
    "location": "Delaware, OH",
@@ -385,6 +565,36 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-10T02:21:23.191Z",
    "postedAt": "2026-10-09T22:12:21.000Z"
+  },
+  {
+   "company": "SageSure",
+   "title": "Software Product Management Intern",
+   "location": "Chicago, IL; Jersey City, NJ; Mountain View, CA",
+   "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-09T23:14:42.554Z",
+   "postedAt": "2026-10-09T22:13:33.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Creative Product Manager Intern - Multiple Teams",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7693732178706974981",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-09T23:14:42.554Z",
+   "postedAt": "2026-10-09T22:16:42.000Z"
+  },
+  {
+   "company": "Robert Bosch Venture Capital",
+   "title": "Product Management Co-op",
+   "location": "Fountain Inn, SC",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154671460",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-09T19:09:42.544Z",
+   "postedAt": "2026-10-09T14:09:22.000Z"
   },
   {
    "company": "CWILL",
@@ -425,6 +635,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-08T01:18:36.940Z",
    "postedAt": "2026-10-07T22:29:29.000Z"
+  },
+  {
+   "company": "Electronic Arts",
+   "title": "Product Management Intern",
+   "location": "Austin, TX",
+   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T23:28:01.911Z",
+   "postedAt": "2026-10-06T22:20:51.000Z"
   },
   {
    "company": "HeartFlow",
@@ -468,6 +688,16 @@
   },
   {
    "company": "Astera Labs",
+   "title": "Platform Solutions Product Management Intern",
+   "location": "Cary, NC",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731590005",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-10-06T06:17:34.000Z"
+  },
+  {
+   "company": "Astera Labs",
    "title": "Product Engineering Intern",
    "location": "San Jose, CA",
    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731410005",
@@ -477,12 +707,42 @@
    "postedAt": "2026-10-06T06:17:28.000Z"
   },
   {
+   "company": "Axos Bank",
+   "title": "Product Intern",
+   "location": "LA; Omaha, NE; Edison, NJ; San Diego, CA",
+   "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Edison-NJ/Product-Intern_JR5663",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-10-05T00:00:00.000Z"
+  },
+  {
+   "company": "Cadence Solutions",
+   "title": "Product Management Intern",
+   "location": "Remote in USA",
+   "url": "https://job-boards.greenhouse.io/solutions/jobs/4715294006",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-10-06T06:40:52.000Z"
+  },
+  {
    "company": "Hewlett Packard Enterprise",
    "title": "Product Management Graduate",
    "location": "Andover, MA; Bloomington, MN; San Jose, CA; Spring, TX; Durham, NC; Westford, MA; Chippewa Falls, WI; Fort Collins, CO; Sunnyvale, CA; Roseville, CA",
    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1",
    "kind": "newgrad",
    "source": "Simplify New Grad",
+   "firstSeen": "2026-10-06T07:59:49.839Z",
+   "postedAt": "2026-08-28T00:00:00.000Z"
+  },
+  {
+   "company": "Hewlett Packard Enterprise",
+   "title": "Product Management Intern",
+   "location": "Andover, MA; Bloomington, MN; San Jose, CA; Spring, TX; Durham, NC; Westford, MA; Chippewa Falls, WI; Fort Collins, CO; Sunnyvale, CA; Roseville, CA",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634",
+   "kind": "intern",
+   "source": "Simplify Internships",
    "firstSeen": "2026-10-06T07:59:49.839Z",
    "postedAt": "2026-08-28T00:00:00.000Z"
   },
