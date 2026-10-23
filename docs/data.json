@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T00:28:10.628Z",
+ "generatedAt": "2026-10-23T05:11:15.118Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,14 +7,54 @@
  ],
  "jobs": [
   {
-   "company": "Hive",
-   "title": "Associate Product Manager - Deploy Models",
-   "location": "SF",
-   "url": "https://jobs.lever.co/hive/d5b22ed0-fdd2-4be1-8e6c-b6d734c17986/apply",
+   "company": "Alto-Shaam",
+   "title": "Associate Product Manager",
+   "location": "Menomonee Falls, WI",
+   "url": "https://jobs.smartrecruiters.com/Alto-Shaam/744000152265170",
    "kind": "newgrad",
    "source": "Simplify New Grad",
-   "firstSeen": "2026-10-23T00:28:10.628Z",
-   "postedAt": "2026-10-22T22:24:21.000Z"
+   "firstSeen": "2026-10-23T05:11:15.118Z",
+   "postedAt": "2026-09-28T22:11:14.000Z"
+  },
+  {
+   "company": "Amazon",
+   "title": "Technical Product Manager Intern",
+   "location": "Seattle, WA; Arlington County, Arlington, VA",
+   "url": "https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-23T05:11:15.118Z",
+   "postedAt": "2026-10-23T01:45:47.000Z"
+  },
+  {
+   "company": "Amazon",
+   "title": "Product Manager Intern - ALA",
+   "location": "Seattle, WA",
+   "url": "https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-23T05:11:15.118Z",
+   "postedAt": "2026-10-23T01:45:38.000Z"
+  },
+  {
+   "company": "Copart",
+   "title": "Associate Product Manager",
+   "location": "SF",
+   "url": "https://copart.wd12.myworkdayjobs.com/copart/job/San-Francisco-CA/Associate-Product-Manager_JR112367",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-23T05:11:15.118Z",
+   "postedAt": "2026-10-22T00:00:00.000Z"
+  },
+  {
+   "company": "Liminal (Menyala)",
+   "title": "Product Management Apprentice",
+   "location": "Boston, MA",
+   "url": "https://liminal.careers.hibob.com/jobs/2fd6df7d-cb2d-45a3-8564-0b71d06b0bf8",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-23T05:11:15.118Z",
+   "postedAt": "2026-07-20T03:50:14.000Z"
   },
   {
    "company": "Patreon",
@@ -2595,6 +2635,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-04T06:40:33.839Z",
    "postedAt": "2026-08-04T06:09:43.000Z"
+  },
+  {
+   "company": "SynQor",
+   "title": "Electrical Product Engineer",
+   "location": "Salem, NH",
+   "url": "https://jobs.jobvite.com/synqor-careers/job/o2EKxfwH?nl=1&nl=1&fr=false",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-08-04T06:40:33.839Z",
+   "postedAt": "2026-08-04T06:14:42.000Z"
   },
   {
    "company": "Analog Devices",
