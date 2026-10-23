@@ -1,9 +1,10 @@
 {
- "generatedAt": "2026-10-23T19:09:58.690Z",
+ "generatedAt": "2026-10-23T22:06:04.046Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Spotify: The operation was aborted due to timeout"
  ],
  "jobs": [
   {
@@ -1575,16 +1576,6 @@
    "source": "Company board",
    "firstSeen": "2026-09-08T22:49:24.765Z",
    "postedAt": "2026-09-08T18:13:14-04:00"
-  },
-  {
-   "company": "Aptean",
-   "title": "Associate Product Engineer",
-   "location": "Alpharetta, GA",
-   "url": "https://careers.aptean.com/jobs/7054?icims=1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-08T17:32:16.896Z",
-   "postedAt": "2026-09-08T16:16:04.000Z"
   },
   {
    "company": "ID.me",
