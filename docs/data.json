@@ -1,11 +1,41 @@
 {
- "generatedAt": "2026-10-22T22:00:01.048Z",
+ "generatedAt": "2026-10-23T00:28:10.628Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Hive",
+   "title": "Associate Product Manager - Deploy Models",
+   "location": "SF",
+   "url": "https://jobs.lever.co/hive/d5b22ed0-fdd2-4be1-8e6c-b6d734c17986/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-23T00:28:10.628Z",
+   "postedAt": "2026-10-22T22:24:21.000Z"
+  },
+  {
+   "company": "Patreon",
+   "title": "Product Manager Intern",
+   "location": "SF; NYC",
+   "url": "https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-23T00:28:10.628Z",
+   "postedAt": "2026-10-22T22:27:53.000Z"
+  },
+  {
+   "company": "Walmart",
+   "title": "Automation Product Manager Intern - Product Manager",
+   "location": "Lancaster, TX",
+   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-TX-LANCASTER-07382-ECOMM-FULFILLMENT-SERVICES/Summer-2027-Intern--Automation---Product-Manager---Corporate-Intern_R-2649739",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-23T00:28:10.628Z",
+   "postedAt": "2026-10-22T00:00:00.000Z"
+  },
   {
    "company": "NVIDIA",
    "title": "Product Management MBA Intern - Gaming, Content Creation, And PC AI",
