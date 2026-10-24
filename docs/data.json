@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T09:29:47.456Z",
+ "generatedAt": "2026-10-24T13:29:55.010Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -1105,16 +1105,6 @@
    "source": "Company board",
    "firstSeen": "2026-09-29T21:23:10.512Z",
    "postedAt": "2026-09-29T13:22:52-04:00"
-  },
-  {
-   "company": "Zurn Elkay Water Solutions",
-   "title": "Product Management Intern - Summer 2027",
-   "location": "Erie, PA",
-   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-29T17:01:04.783Z",
-   "postedAt": "2026-09-16T00:00:00.000Z"
   },
   {
    "company": "Goldman Sachs",
