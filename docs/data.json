@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T16:50:53.621Z",
+ "generatedAt": "2026-10-24T19:10:32.736Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -917,16 +917,6 @@
    "postedAt": "2026-10-02T00:00:00.000Z"
   },
   {
-   "company": "IDeaS",
-   "title": "Product Management Intern",
-   "location": "Bloomington, MN",
-   "url": "https://ideas-sas.icims.com/jobs/42648/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-02T14:59:13.908Z",
-   "postedAt": "2026-10-02T14:18:58.000Z"
-  },
-  {
    "company": "Bedrock Robotics",
    "title": "Product Intern",
    "location": "SF",
@@ -1137,16 +1127,6 @@
    "postedAt": "2026-09-28T14:20:06.000Z"
   },
   {
-   "company": "W.R. Berkley",
-   "title": "Product Management Analyst Intern",
-   "location": "Urbandale, IA",
-   "url": "https://careers-berkley.icims.com/jobs/14461/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-25T23:24:27.222Z",
-   "postedAt": "2026-09-25T22:06:18.000Z"
-  },
-  {
    "company": "Best Friend Finance",
    "title": "Associate Product Manager - New Products",
    "location": "SF",
@@ -1305,16 +1285,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-17T23:40:17.876Z",
    "postedAt": "2026-09-17T00:00:00.000Z"
-  },
-  {
-   "company": "W.R. Berkley",
-   "title": "Product Management Analyst Intern - Claims",
-   "location": "Manassas, VA",
-   "url": "https://careers-berkley.icims.com/jobs/14439/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-17T23:40:17.876Z",
-   "postedAt": "2026-09-17T22:05:22.000Z"
   },
   {
    "company": "Zurn Elkay Water Solutions",
@@ -1565,16 +1535,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-10T00:37:39.480Z",
    "postedAt": "2026-09-09T22:29:29.000Z"
-  },
-  {
-   "company": "ITT",
-   "title": "Product Management Co-op - Spring/Summer 2027",
-   "location": "Seneca Falls, NY",
-   "url": "https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-10T00:37:39.480Z",
-   "postedAt": "2026-09-09T22:21:31.000Z"
   },
   {
    "company": "Robert Bosch Venture Capital",
@@ -1877,26 +1837,6 @@
    "postedAt": "2026-09-03T02:47:49.000Z"
   },
   {
-   "company": "Shure",
-   "title": "Global Product Management Intern - Conferencing",
-   "location": "Niles, IL",
-   "url": "https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-03T09:11:25.581Z",
-   "postedAt": "2026-09-03T02:05:20.000Z"
-  },
-  {
-   "company": "Shure",
-   "title": "Global Product Management Data Intern",
-   "location": "Niles, IL",
-   "url": "https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-03T09:11:25.581Z",
-   "postedAt": "2026-09-03T02:05:19.000Z"
-  },
-  {
    "company": "Texas Instruments",
    "title": "Product Engineer Intern - Test Engineering",
    "location": "Dallas, TX",
@@ -1945,16 +1885,6 @@
    "source": "Company board",
    "firstSeen": "2026-09-02T17:09:02.814Z",
    "postedAt": "2026-09-02T12:41:13-04:00"
-  },
-  {
-   "company": "Atlassian",
-   "title": "Product Management Intern",
-   "location": "SF",
-   "url": "https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-02T08:56:17.735Z",
-   "postedAt": "2026-09-02T06:12:35.000Z"
   },
   {
    "company": "Clearwater Analytics",
@@ -2035,26 +1965,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-01T07:03:45.869Z",
    "postedAt": "2026-09-01T00:00:00.000Z"
-  },
-  {
-   "company": "Blackhawk Network Holdings",
-   "title": "Product Management Intern",
-   "location": "Coppell, TX",
-   "url": "https://careers-blackhawknetwork.icims.com/jobs/26868/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-31T23:24:35.217Z",
-   "postedAt": "2026-08-31T19:08:32.000Z"
-  },
-  {
-   "company": "Blackhawk Network Holdings",
-   "title": "Product Management Intern",
-   "location": "Pleasanton, CA",
-   "url": "https://careers-blackhawknetwork.icims.com/jobs/26869/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-31T23:24:35.217Z",
-   "postedAt": "2026-08-31T19:08:32.000Z"
   },
   {
    "company": "Oshkosh",
@@ -2315,36 +2225,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-24T15:08:20.869Z",
    "postedAt": "2026-08-24T00:00:00.000Z"
-  },
-  {
-   "company": "Springs Window Fashions",
-   "title": "Product Management Intern",
-   "location": "Long Island City, Queens, NY",
-   "url": "https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-22T14:37:44.670Z",
-   "postedAt": "2026-08-22T14:06:18.000Z"
-  },
-  {
-   "company": "Springs Window Fashions",
-   "title": "Product Management Competitive Product Assessment Intern - Summer 2027",
-   "location": "Middleton, WI",
-   "url": "https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-22T14:37:44.670Z",
-   "postedAt": "2026-08-22T14:06:23.000Z"
-  },
-  {
-   "company": "Springs Window Fashions",
-   "title": "Product Management Dashboard Analytics Intern",
-   "location": "Middleton, WI",
-   "url": "https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-22T14:37:44.670Z",
-   "postedAt": "2026-08-22T14:06:22.000Z"
   },
   {
    "company": "TikTok",
