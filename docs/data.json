@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-24T00:37:45.599Z",
+ "generatedAt": "2026-10-24T05:01:06.045Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Carvana",
+   "title": "Product Manager",
+   "location": "Tempe, AZ",
+   "url": "https://www.carvana.com/careers/apply?gh_jid=7543098",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-24T05:01:06.045Z",
+   "postedAt": "2026-10-24T01:02:16.000Z"
+  },
   {
    "company": "DIRECTV",
    "title": "Customer Operations Product Management Intern",
@@ -845,16 +855,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-04T18:14:53.517Z",
    "postedAt": "2026-10-02T00:00:00.000Z"
-  },
-  {
-   "company": "Applied Materials",
-   "title": "Aix Product Manager",
-   "location": "Santa Clara, CA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AIx-Product-Manager_R2622833",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-04T14:21:36.392Z",
-   "postedAt": "2026-07-09T01:11:39.000Z"
   },
   {
    "company": "Capital One",
