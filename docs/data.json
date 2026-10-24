@@ -1,12 +1,61 @@
 {
- "generatedAt": "2026-10-23T22:06:04.046Z",
+ "generatedAt": "2026-10-24T00:37:45.599Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Spotify: The operation was aborted due to timeout"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "DIRECTV",
+   "title": "Customer Operations Product Management Intern",
+   "location": "Remote in USA",
+   "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Product-Management--MBA-Opportunity-_R260333",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-24T00:37:45.599Z",
+   "postedAt": "2026-10-23T00:00:00.000Z"
+  },
+  {
+   "company": "Jerry",
+   "title": "Product Manager-in-Training",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.ashbyhq.com/jerry.ai/827b77fc-8777-4908-bcf9-b7a8c19c306d/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-24T00:37:45.599Z",
+   "postedAt": "2026-10-23T00:00:00.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Software Engineer Intern - Product Engineering",
+   "location": "Waterloo, IA; Cary, NC",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483990265",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-24T00:37:45.599Z",
+   "postedAt": "2026-10-23T22:44:19.000Z"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Product Manager Intern",
+   "location": "Cambridge, MA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-24T00:37:45.599Z",
+   "postedAt": "2026-10-23T22:40:21.000Z"
+  },
+  {
+   "company": "Renesas Electronics",
+   "title": "Product Engineer Intern",
+   "location": "Morrisville, NC",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000157550697",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-24T00:37:45.599Z",
+   "postedAt": "2026-10-23T19:06:26.000Z"
+  },
   {
    "company": "1Password",
    "title": "Product Management Intern - End User Experience",
@@ -826,6 +875,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-04T02:27:54.495Z",
    "postedAt": "2026-05-05T01:19:43.000Z"
+  },
+  {
+   "company": "Koch Industries",
+   "title": "Product Management Intern",
+   "location": "Eden Prairie, MN; Lisle, IL",
+   "url": "https://koch.avature.net/en_US/careers/JobDetail/195099",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-03T02:12:20.951Z",
+   "postedAt": "2026-10-03T01:17:12.000Z"
   },
   {
    "company": "C3.ai",
