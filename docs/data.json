@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T05:01:06.045Z",
+ "generatedAt": "2026-10-24T09:29:47.456Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -1285,16 +1285,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-18T11:33:05.433Z",
    "postedAt": "2026-09-18T06:11:57.000Z"
-  },
-  {
-   "company": "Rundoo",
-   "title": "Product Manager Intern",
-   "location": "Redwood City, CA",
-   "url": "https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-18T06:22:20.973Z",
-   "postedAt": "2026-09-18T01:20:44.000Z"
   },
   {
    "company": "Gordon Food Service",
