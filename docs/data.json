@@ -1,11 +1,41 @@
 {
- "generatedAt": "2026-10-26T19:40:01.029Z",
+ "generatedAt": "2026-10-26T23:20:50.756Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Axos Bank",
+   "title": "Product Intern",
+   "location": "LA; San Diego, CA",
+   "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Los-Angeles-CA/Product-Intern_JR5661",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-26T23:20:50.756Z",
+   "postedAt": "2026-10-26T00:00:00.000Z"
+  },
+  {
+   "company": "HCSC",
+   "title": "Product Engineer Intern",
+   "location": "Chicago, IL; Richardson, TX",
+   "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Intern_R0059492",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-26T23:20:50.756Z",
+   "postedAt": "2026-10-26T00:00:00.000Z"
+  },
+  {
+   "company": "Zebra Technologies",
+   "title": "Product Management Intern",
+   "location": "Lincolnshire, IL",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-26T23:20:50.756Z",
+   "postedAt": "2026-10-26T00:00:00.000Z"
+  },
   {
    "company": "TikTok",
    "title": "Product Manager New Grad - Platform Trust and Ecosystem",
@@ -225,6 +255,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-23T05:11:15.118Z",
    "postedAt": "2026-07-20T03:50:14.000Z"
+  },
+  {
+   "company": "Hive",
+   "title": "Associate Product Manager - Deploy Models",
+   "location": "SF",
+   "url": "https://jobs.lever.co/hive/d5b22ed0-fdd2-4be1-8e6c-b6d734c17986/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-23T00:28:10.628Z",
+   "postedAt": "2026-10-22T22:24:21.000Z"
   },
   {
    "company": "Patreon",
@@ -1967,6 +2007,16 @@
    "postedAt": "2026-08-31T00:00:00.000Z"
   },
   {
+   "company": "Medline",
+   "title": "Product Management Intern - Summer 2027",
+   "location": "Chicago, IL; Northfield, IL",
+   "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T19:41:57.516Z",
+   "postedAt": "2026-08-31T00:00:00.000Z"
+  },
+  {
    "company": "American Express",
    "title": "Product Management Intern - Global Commercial Services",
    "location": "NYC",
@@ -2075,16 +2125,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-26T05:02:55.710Z",
    "postedAt": "2026-06-29T22:08:56.000Z"
-  },
-  {
-   "company": "Hive",
-   "title": "Associate Product Manager - Hive Models",
-   "location": "SF",
-   "url": "https://jobs.lever.co/hive/c9da614c-7ebe-493f-a770-b79b711fd7df/apply",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-26T05:02:55.710Z",
-   "postedAt": "2026-07-23T22:03:29.000Z"
   },
   {
    "company": "Parkdepot",
