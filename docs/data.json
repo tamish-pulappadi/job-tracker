@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T06:58:12.662Z",
+ "generatedAt": "2026-10-26T13:55:13.978Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -1964,16 +1964,6 @@
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-08-31T23:24:35.217Z",
-   "postedAt": "2026-08-31T00:00:00.000Z"
-  },
-  {
-   "company": "The Home Depot",
-   "title": "Product Management Intern",
-   "location": "Atlanta, GA",
-   "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-31T19:41:57.516Z",
    "postedAt": "2026-08-31T00:00:00.000Z"
   },
   {
