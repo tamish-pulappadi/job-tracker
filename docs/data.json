@@ -1,11 +1,41 @@
 {
- "generatedAt": "2026-10-27T19:07:21.302Z",
+ "generatedAt": "2026-10-27T22:56:05.470Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "ASML",
+   "title": "Imaging Product Engineer Intern",
+   "location": "San Jose, CA",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Imaging-product-engineer_J-00355220",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-27T22:56:05.470Z",
+   "postedAt": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "company": "Micron Technology",
+   "title": "AI & Product Management Intern - Mobile Memory - Lpdram",
+   "location": "San Jose, CA",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI---Product-Management--Mobile-Memory--LPDRAM-_JR115839",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-27T22:56:05.470Z",
+   "postedAt": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "company": "Micron Technology",
+   "title": "CMBU Product Management Intern",
+   "location": "San Jose, CA",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-27T22:56:05.470Z",
+   "postedAt": "2026-10-27T00:00:00.000Z"
+  },
   {
    "company": "Visa",
    "title": "Product Management Intern - Data and AI Team",
@@ -24,7 +54,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T19:07:19.019Z"
+   "postedAt": "2026-10-27T22:56:05.173Z"
   },
   {
    "company": "Jerry",
@@ -1177,16 +1207,6 @@
    "postedAt": "2026-09-29T13:22:52-04:00"
   },
   {
-   "company": "Zurn Elkay Water Solutions",
-   "title": "Product Management Intern - Summer 2027",
-   "location": "Erie, PA",
-   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-29T17:01:04.783Z",
-   "postedAt": "2026-09-16T00:00:00.000Z"
-  },
-  {
    "company": "Goldman Sachs",
    "title": "Product Manager Analyst - Transaction Banking - API",
    "location": "Dallas, TX",
@@ -1465,16 +1485,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-14T23:28:51.351Z",
    "postedAt": "2026-09-14T21:08:06.000Z"
-  },
-  {
-   "company": "Lowe's",
-   "title": "Associate Product Manager - Launchpad",
-   "location": "Charlotte, NC",
-   "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Product-Manager---Launchpad_JR-02641560",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-14T20:41:41.722Z",
-   "postedAt": "2026-09-14T00:00:00.000Z"
   },
   {
    "company": "Lowe's",
