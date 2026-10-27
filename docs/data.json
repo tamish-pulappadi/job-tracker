@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T13:48:29.365Z",
+ "generatedAt": "2026-10-27T19:07:21.302Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -24,7 +24,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T13:48:29.049Z"
+   "postedAt": "2026-10-27T19:07:19.019Z"
   },
   {
    "company": "Jerry",
@@ -2247,16 +2247,6 @@
    "postedAt": "2026-08-25T00:00:00.000Z"
   },
   {
-   "company": "John Deere",
-   "title": "Robotics Engineer Part-Time Student - Product Engineering",
-   "location": "Urbandale, IA; Ames, IA",
-   "url": "https://johndeere.eightfold.ai/careers/job/137482782400",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-25T01:15:18.830Z",
-   "postedAt": "2026-08-25T00:05:19.000Z"
-  },
-  {
    "company": "TikTok",
    "title": "Product Manager Intern - Pgc",
    "location": "San Jose, CA",
@@ -2345,16 +2335,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-17T15:47:12.039Z",
    "postedAt": "2026-08-17T14:35:38.000Z"
-  },
-  {
-   "company": "Datadog",
-   "title": "Product Management Intern",
-   "location": "New York, New York, USA",
-   "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-08-17T14:52:29.853Z",
-   "postedAt": "2026-08-17T10:31:17-04:00"
   },
   {
    "company": "TikTok",
