@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-10-27T02:14:05.172Z",
+ "generatedAt": "2026-10-27T07:53:18.065Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Visa",
+   "title": "Product Management Intern, Data and AI Team - Summer 2027",
+   "location": "US - Foster City, CA",
+   "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-10-27T07:53:18.065Z",
+   "postedAt": "2026-10-27T07:53:13.604Z"
+  },
   {
    "company": "Jerry",
    "title": "Product Manager-in-Training",
