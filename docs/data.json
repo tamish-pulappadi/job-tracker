@@ -1,11 +1,51 @@
 {
- "generatedAt": "2026-10-28T19:54:47.964Z",
+ "generatedAt": "2026-10-28T23:44:18.489Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Elevate Semiconductor",
+   "title": "Product Engineer",
+   "location": "San Diego, CA",
+   "url": "https://apply.workable.com/elevate-semiconductor/j/8372407BCE/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-28T23:44:18.489Z",
+   "postedAt": "2026-10-28T22:43:33.000Z"
+  },
+  {
+   "company": "T-Mobile",
+   "title": "Associate Product Manager - App",
+   "location": "Bellevue, WA",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager---App_REQ373263-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-28T23:44:18.489Z",
+   "postedAt": "2026-10-28T00:00:00.000Z"
+  },
+  {
+   "company": "T-Mobile",
+   "title": "Associate Technical Product Manager Intern",
+   "location": "Frisco, TX",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-28T23:44:18.489Z",
+   "postedAt": "2026-10-28T00:00:00.000Z"
+  },
+  {
+   "company": "Texas Instruments",
+   "title": "Product Engineer",
+   "location": "Dallas, TX",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015861",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-28T23:44:18.489Z",
+   "postedAt": "2026-10-28T22:45:03.000Z"
+  },
   {
    "company": "Sonos",
    "title": "Software Product Management Intern",
@@ -104,7 +144,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T19:54:47.556Z"
+   "postedAt": "2026-10-27T23:44:18.207Z"
   },
   {
    "company": "Jerry",
@@ -205,16 +245,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-23T19:09:58.690Z",
    "postedAt": "2026-10-23T14:42:25.000Z"
-  },
-  {
-   "company": "Addepar",
-   "title": "Product Manager – Early Career - AI Platform",
-   "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910404002",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-23T19:09:58.690Z",
-   "postedAt": "2026-10-23T14:10:56.000Z"
   },
   {
    "company": "Appian",
@@ -365,16 +395,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-23T00:28:10.628Z",
    "postedAt": "2026-10-22T22:24:21.000Z"
-  },
-  {
-   "company": "Patreon",
-   "title": "Product Manager Intern",
-   "location": "SF; NYC",
-   "url": "https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-23T00:28:10.628Z",
-   "postedAt": "2026-10-22T22:27:53.000Z"
   },
   {
    "company": "Walmart",
@@ -1845,16 +1865,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-03T19:50:30.822Z",
    "postedAt": "2026-05-21T01:06:46.000Z"
-  },
-  {
-   "company": "Tesla",
-   "title": "Product Manager AI Adoption - AI Adoption - Megafactory",
-   "location": "Fulshear, TX",
-   "url": "https://www.tesla.com/careers/search/job/271820",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-03T19:50:30.822Z",
-   "postedAt": "2026-06-07T09:10:42.000Z"
   },
   {
    "company": "TikTok",
