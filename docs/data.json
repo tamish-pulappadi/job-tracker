@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-10-27T22:56:05.470Z",
+ "generatedAt": "2026-10-28T01:57:55.883Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Abbott",
+   "title": "Associate Product Manager",
+   "location": "Madison, WI",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/Associate-Product-Manager_31165697-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-28T01:57:55.883Z",
+   "postedAt": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "company": "Hex Technologies",
+   "title": "Product Engineer Intern",
+   "location": "SF",
+   "url": "https://jobs.ashbyhq.com/hex/45022740-b0ca-4a54-a98b-b90f9b4a9a30/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-28T01:57:55.883Z",
+   "postedAt": "2026-09-09T00:00:00.000Z"
+  },
   {
    "company": "ASML",
    "title": "Imaging Product Engineer Intern",
@@ -54,7 +74,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T22:56:05.173Z"
+   "postedAt": "2026-10-28T01:57:55.096Z"
   },
   {
    "company": "Jerry",
@@ -2337,16 +2357,6 @@
    "postedAt": "2026-08-19T01:14:49.000Z"
   },
   {
-   "company": "Datadog",
-   "title": "Product Management Intern",
-   "location": "NYC",
-   "url": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-17T15:47:12.039Z",
-   "postedAt": "2026-08-17T14:35:38.000Z"
-  },
-  {
    "company": "TikTok",
    "title": "Product Manager Intern - Content and Services",
    "location": "San Jose, CA",
@@ -2663,16 +2673,6 @@
    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805",
    "kind": "newgrad",
    "source": "Simplify New Grad",
-   "firstSeen": "2026-08-04T00:57:57.580Z",
-   "postedAt": "2026-08-03T00:00:00.000Z"
-  },
-  {
-   "company": "Uline",
-   "title": "Product Management Intern",
-   "location": "Waukegan, IL; Milwaukee, WI; Glenview, IL; Pleasant Prairie, WI; Kenosha, WI",
-   "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939",
-   "kind": "intern",
-   "source": "Simplify Internships",
    "firstSeen": "2026-08-04T00:57:57.580Z",
    "postedAt": "2026-08-03T00:00:00.000Z"
   },
