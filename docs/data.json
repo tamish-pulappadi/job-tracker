@@ -1,12 +1,21 @@
 {
- "generatedAt": "2026-10-28T14:45:26.800Z",
+ "generatedAt": "2026-10-28T19:54:47.964Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Shield AI: The operation was aborted due to timeout"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Sonos",
+   "title": "Software Product Management Intern",
+   "location": "Seattle, WA",
+   "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-28T19:54:47.964Z",
+   "postedAt": "2026-10-28T00:00:00.000Z"
+  },
   {
    "company": "Agave",
    "title": "Product Manager",
@@ -95,7 +104,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T14:45:20.683Z"
+   "postedAt": "2026-10-27T19:54:47.556Z"
   },
   {
    "company": "Jerry",
@@ -1556,26 +1565,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-12T02:19:46.221Z",
    "postedAt": "2026-09-12T01:11:28.000Z"
-  },
-  {
-   "company": "Amgen",
-   "title": "Digital Product Intern",
-   "location": "Remote in USA",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-11T23:52:00.894Z",
-   "postedAt": "2026-09-11T00:00:00.000Z"
-  },
-  {
-   "company": "Amgen",
-   "title": "Digital Product Intern - Digital Product - Technology & Medical Organizations",
-   "location": "Remote in USA",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-11T23:52:00.894Z",
-   "postedAt": "2026-09-11T00:00:00.000Z"
   },
   {
    "company": "Emerson Electric",
