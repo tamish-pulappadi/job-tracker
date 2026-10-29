@@ -1,9 +1,10 @@
 {
- "generatedAt": "2026-10-29T16:05:22.995Z",
+ "generatedAt": "2026-10-29T21:06:08.634Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Shield AI: The operation was aborted due to timeout"
  ],
  "jobs": [
   {
@@ -164,7 +165,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T16:05:22.719Z"
+   "postedAt": "2026-10-27T21:06:00.230Z"
   },
   {
    "company": "Jerry",
@@ -1017,16 +1018,6 @@
    "postedAt": "2026-10-06T06:46:47.000Z"
   },
   {
-   "company": "West Monroe",
-   "title": "Product Management Consultant",
-   "location": "Chicago, IL",
-   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6182632004",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-06T07:59:49.839Z",
-   "postedAt": "2026-10-06T06:46:47.000Z"
-  },
-  {
    "company": "Gallup",
    "title": "Product Manager - Digital Commerce",
    "location": "Omaha, NE",
@@ -1645,16 +1636,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-11T23:52:00.894Z",
    "postedAt": "2026-09-11T22:27:52.000Z"
-  },
-  {
-   "company": "Tesla",
-   "title": "Vehicle Accessories & Merchandise Product Intern - Global Merchandise",
-   "location": "Hawthorne, CA",
-   "url": "https://www.tesla.com/careers/search/job/283137",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-11T17:14:06.632Z",
-   "postedAt": "2026-09-11T14:34:50.000Z"
   },
   {
    "company": "Texas Instruments",
