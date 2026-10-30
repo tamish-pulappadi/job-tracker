@@ -1,11 +1,32 @@
 {
- "generatedAt": "2026-10-30T13:36:48.065Z",
+ "generatedAt": "2026-10-30T18:52:05.719Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Spotify: The operation was aborted due to timeout"
  ],
  "jobs": [
+  {
+   "company": "Astera Labs",
+   "title": "AI Product Management Intern",
+   "location": "San Jose, CA",
+   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-30T18:52:05.719Z",
+   "postedAt": "2026-10-30T14:19:31.000Z"
+  },
+  {
+   "company": "Snowflake",
+   "title": "Product Management Intern (Summer 2027)",
+   "location": "US-CA-Menlo Park",
+   "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-10-30T18:52:05.719Z",
+   "postedAt": "2026-10-30T16:51:05.742+00:00"
+  },
   {
    "company": "C3.ai",
    "title": "AI Product Manager Intern",
@@ -284,7 +305,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T13:36:47.126Z"
+   "postedAt": "2026-10-27T18:51:56.471Z"
   },
   {
    "company": "Jerry",
@@ -2055,16 +2076,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-03T09:11:25.581Z",
    "postedAt": "2026-09-03T02:13:59.000Z"
-  },
-  {
-   "company": "Qorvo",
-   "title": "Product Engineer Intern",
-   "location": "Chelmsford, MA",
-   "url": "https://careers.qorvo.com/job/Chelmsford-Product-Engineer-Intern-MA-1824/1425880400/?ats=successfactors",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-02T19:46:36.163Z",
-   "postedAt": "2026-09-02T19:24:00.000Z"
   },
   {
    "company": "Roblox",
