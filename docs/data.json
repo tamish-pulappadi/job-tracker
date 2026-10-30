@@ -1,12 +1,121 @@
 {
- "generatedAt": "2026-10-29T21:06:08.634Z",
+ "generatedAt": "2026-10-30T00:56:49.777Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Shield AI: The operation was aborted due to timeout"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Cloudflare",
+   "title": "Product Manager Intern",
+   "location": "Austin, TX",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8274790",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-30T00:56:49.777Z",
+   "postedAt": "2026-10-29T15:41:37.000Z"
+  },
+  {
+   "company": "Dell Technologies",
+   "title": "Product Management MBA Intern",
+   "location": "Santa Clara, CA; Round Rock, TX; Hopkinton, MA",
+   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297775",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-30T00:56:49.777Z",
+   "postedAt": "2026-10-29T22:44:48.000Z"
+  },
+  {
+   "company": "Raydar",
+   "title": "Product Manager",
+   "location": "SF",
+   "url": "https://apply.workable.com/raydar/j/C80D888AC4/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-30T00:56:49.777Z",
+   "postedAt": "2026-10-29T22:29:54.000Z"
+  },
+  {
+   "company": "Raydar",
+   "title": "Founding Product Engineer",
+   "location": "SF",
+   "url": "https://apply.workable.com/raydar/j/EB038A923D/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-30T00:56:49.777Z",
+   "postedAt": "2026-10-29T22:29:48.000Z"
+  },
+  {
+   "company": "Raydar",
+   "title": "Growth Product Manager",
+   "location": "NYC",
+   "url": "https://apply.workable.com/raydar/j/899876B20C/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-30T00:56:49.777Z",
+   "postedAt": "2026-10-29T22:29:51.000Z"
+  },
+  {
+   "company": "Raydar",
+   "title": "Product Engineer",
+   "location": "SF",
+   "url": "https://apply.workable.com/raydar/j/C05807495F/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-30T00:56:49.777Z",
+   "postedAt": "2026-10-29T22:29:53.000Z"
+  },
+  {
+   "company": "Raydar",
+   "title": "Research Product Manager",
+   "location": "SF",
+   "url": "https://apply.workable.com/raydar/j/0D7E553664/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-30T00:56:49.777Z",
+   "postedAt": "2026-10-29T22:29:53.000Z"
+  },
+  {
+   "company": "Raydar",
+   "title": "Founding Product Engineer",
+   "location": "NYC",
+   "url": "https://apply.workable.com/raydar/j/8017722EB8/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-30T00:56:49.777Z",
+   "postedAt": "2026-10-29T22:29:48.000Z"
+  },
+  {
+   "company": "Raydar",
+   "title": "AI Product Engineer / Forward Deployed Engineer",
+   "location": "London, UK; SF; Austin, TX; Remote in USA; Remote in Canada",
+   "url": "https://apply.workable.com/raydar/j/31364F00E3/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-30T00:56:49.777Z",
+   "postedAt": "2026-10-29T22:29:45.000Z"
+  },
+  {
+   "company": "Signify",
+   "title": "Product Management Intern",
+   "location": "Peachtree City, GA",
+   "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366870",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-30T00:56:49.777Z",
+   "postedAt": "2026-10-29T00:00:00.000Z"
+  },
+  {
+   "company": "T-Mobile",
+   "title": "Associate Product Manager Intern",
+   "location": "Overland Park, KS",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-30T00:56:49.777Z",
+   "postedAt": "2026-10-29T00:00:00.000Z"
+  },
   {
    "company": "OneEthos",
    "title": "Product Management Intern",
@@ -165,7 +274,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T21:06:00.230Z"
+   "postedAt": "2026-10-28T00:56:49.413Z"
   },
   {
    "company": "Jerry",
@@ -1006,16 +1115,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-06T07:59:49.839Z",
    "postedAt": "2026-08-28T00:00:00.000Z"
-  },
-  {
-   "company": "West Monroe",
-   "title": "Product Management Consultant",
-   "location": "NYC",
-   "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183043004",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-06T07:59:49.839Z",
-   "postedAt": "2026-10-06T06:46:47.000Z"
   },
   {
    "company": "Gallup",
