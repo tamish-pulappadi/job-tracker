@@ -1,11 +1,91 @@
 {
- "generatedAt": "2026-10-31T01:51:06.760Z",
+ "generatedAt": "2026-10-31T07:47:26.083Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Blackhawk Network Holdings",
+   "title": "Product Management Intern",
+   "location": "Pleasanton, CA",
+   "url": "https://blackhawknetwork.jibeapply.com/jobs/26869?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T07:47:26.083Z",
+   "postedAt": "2026-08-31T17:06:00.000Z"
+  },
+  {
+   "company": "Blackhawk Network Holdings",
+   "title": "Product Management Intern",
+   "location": "Coppell, TX",
+   "url": "https://blackhawknetwork.jibeapply.com/jobs/26868?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T07:47:26.083Z",
+   "postedAt": "2026-08-31T17:12:00.000Z"
+  },
+  {
+   "company": "Intercontinental Exchange",
+   "title": "Product Management Intern",
+   "location": "Atlanta, GA",
+   "url": "https://ice.jibeapply.com/jobs/14065?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T07:47:26.083Z",
+   "postedAt": "2026-10-23T20:09:00.000Z"
+  },
+  {
+   "company": "Publicis Groupe",
+   "title": "Product Intern",
+   "location": "Irving, TX",
+   "url": "https://publicisgroupe.jibeapply.com/jobs/172715?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T07:47:26.083Z",
+   "postedAt": "2026-10-16T19:10:00.000Z"
+  },
+  {
+   "company": "Publicis Groupe",
+   "title": "Product Intern",
+   "location": "NYC",
+   "url": "https://publicisgroupe.jibeapply.com/jobs/172717?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T07:47:26.083Z",
+   "postedAt": "2026-10-16T19:14:00.000Z"
+  },
+  {
+   "company": "Publicis Groupe",
+   "title": "Product Intern",
+   "location": "Chicago, IL",
+   "url": "https://publicisgroupe.jibeapply.com/jobs/172716?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T07:47:26.083Z",
+   "postedAt": "2026-10-16T19:15:00.000Z"
+  },
+  {
+   "company": "Publicis Groupe",
+   "title": "Product Manager Intern",
+   "location": "Boston, MA",
+   "url": "https://publicisgroupe.jibeapply.com/jobs/172574?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T07:47:26.083Z",
+   "postedAt": "2026-09-18T21:38:00.000Z"
+  },
+  {
+   "company": "Schneider Electric",
+   "title": "Graduate Product Management Intern",
+   "location": "Nashville, TN",
+   "url": "https://se.jibeapply.com/jobs/135310?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T07:47:26.083Z",
+   "postedAt": "2026-09-30T21:40:00.000Z"
+  },
   {
    "company": "ASML",
    "title": "Product Engineer Computational Model Intern",
@@ -414,7 +494,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-28T01:51:06.464Z"
+   "postedAt": "2026-10-27T07:47:25.879Z"
   },
   {
    "company": "Jerry",
@@ -1255,16 +1335,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-05T12:38:01.214Z",
    "postedAt": "2026-10-05T06:12:38.000Z"
-  },
-  {
-   "company": "BlackRock",
-   "title": "Technical Product Manager - Aladdin Next - Analyst",
-   "location": "NYC",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/NY7---50-Hudson-Yards-New-York/Technical-Product-Manager--Aladdin-Next---Analyst_R266696",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-04T18:14:53.517Z",
-   "postedAt": "2026-10-02T00:00:00.000Z"
   },
   {
    "company": "Capital One",
@@ -2387,16 +2457,6 @@
    "postedAt": "2026-08-25T00:00:00.000Z"
   },
   {
-   "company": "GE Vernova",
-   "title": "Controls Product Management Intern",
-   "location": "Longmont, CO; Greenville, SC",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Controls-Product-Management-Intern---Summer-2027_R5050803-3",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-25T19:07:26.923Z",
-   "postedAt": "2026-08-25T00:00:00.000Z"
-  },
-  {
    "company": "Vertiv",
    "title": "DC Power Product Management Intern - Summer 2027",
    "location": "Delaware, OH",
@@ -2855,16 +2915,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-01T14:10:38.339Z",
    "postedAt": "2026-03-31T22:08:12.000Z"
-  },
-  {
-   "company": "Creatify Lab ",
-   "title": "Product Manager",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.ashbyhq.com/creatify/4da91083-999a-4bf8-b53d-92a179073af2/application",
-   "kind": "newgrad",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-01T11:38:56.260Z",
-   "postedAt": "2026-03-05T02:24:37.000Z"
   },
   {
    "company": "Appian",
