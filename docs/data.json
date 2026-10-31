@@ -1,11 +1,81 @@
 {
- "generatedAt": "2026-10-30T22:44:13.895Z",
+ "generatedAt": "2026-10-31T01:51:06.760Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "ASML",
+   "title": "Product Engineer Computational Model Intern",
+   "location": "San Jose, CA",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Product-Engineer-Computational-Model_J-00355245",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T01:51:06.760Z",
+   "postedAt": "2026-10-30T00:00:00.000Z"
+  },
+  {
+   "company": "MANN+HUMMEL",
+   "title": "Product Management & Market Intelligence Intern",
+   "location": "Gastonia, NC",
+   "url": "https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T01:51:06.760Z",
+   "postedAt": "2026-10-30T22:44:25.000Z"
+  },
+  {
+   "company": "Pyrotek",
+   "title": "Product Management Intern",
+   "location": "Spokane, WA",
+   "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000158830479",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T01:51:06.760Z",
+   "postedAt": "2026-10-30T19:20:17.000Z"
+  },
+  {
+   "company": "Signify",
+   "title": "Product Manager Intern",
+   "location": "Aurora, CO",
+   "url": "https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Aurora/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366897",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T01:51:06.760Z",
+   "postedAt": "2026-10-30T00:00:00.000Z"
+  },
+  {
+   "company": "Teamworks",
+   "title": "Product Management MBA Intern",
+   "location": "Remote in USA",
+   "url": "https://jobs.ashbyhq.com/teamworks/13cc2066-5dfe-45ec-8064-3d7a20d9fc06/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T01:51:06.760Z",
+   "postedAt": "2026-10-30T00:00:00.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Project Intern - Global Monetization Product and Technology",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7701486873210390837",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T01:51:06.760Z",
+   "postedAt": "2026-10-30T22:43:01.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Product Manager Intern - Global Monetization Product and Technology",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7701480558070597893",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-31T01:51:06.760Z",
+   "postedAt": "2026-10-30T22:43:01.000Z"
+  },
   {
    "company": "Brain Co.",
    "title": "AI Product Intern",
@@ -344,7 +414,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T22:44:13.679Z"
+   "postedAt": "2026-10-28T01:51:06.464Z"
   },
   {
    "company": "Jerry",
@@ -2077,16 +2147,6 @@
    "postedAt": "2026-09-03T02:46:18.000Z"
   },
   {
-   "company": "Roblox",
-   "title": "Product Management Intern",
-   "location": "San Mateo, CA",
-   "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-03T09:11:25.581Z",
-   "postedAt": "2026-09-03T02:47:49.000Z"
-  },
-  {
    "company": "Texas Instruments",
    "title": "Product Engineer Intern - Test Engineering",
    "location": "Dallas, TX",
@@ -2115,16 +2175,6 @@
    "source": "Company board",
    "firstSeen": "2026-09-02T17:09:02.814Z",
    "postedAt": "2026-09-02T12:41:02-04:00"
-  },
-  {
-   "company": "Roblox",
-   "title": "[Summer 2027] Product Management Intern",
-   "location": "San Mateo, CA, United States",
-   "url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-09-02T17:09:02.814Z",
-   "postedAt": "2026-09-02T12:41:13-04:00"
   },
   {
    "company": "Clearwater Analytics",
