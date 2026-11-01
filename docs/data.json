@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T00:34:34.416Z",
+ "generatedAt": "2026-11-01T06:50:39.155Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -494,7 +494,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-28T00:34:33.638Z"
+   "postedAt": "2026-10-28T06:50:37.449Z"
   },
   {
    "company": "Jerry",
@@ -1437,16 +1437,6 @@
    "postedAt": "2026-10-01T00:00:00.000Z"
   },
   {
-   "company": "American Express",
-   "title": "Digital Product Management Intern - Enterprise Technology Services",
-   "location": "Sunrise, FL",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012145",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-01T06:42:32.725Z",
-   "postedAt": "2026-09-01T04:52:49.000Z"
-  },
-  {
    "company": "Adobe",
    "title": "MBA Intern - Product Manager",
    "location": "SF; San Jose, CA",
@@ -2257,16 +2247,6 @@
    "postedAt": "2026-09-01T00:00:00.000Z"
   },
   {
-   "company": "American Express",
-   "title": "Digital Product Management Associate - Enterprise Technology Services",
-   "location": "NYC",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012956",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-02T04:27:43.070Z",
-   "postedAt": "2026-09-02T00:51:35.000Z"
-  },
-  {
    "company": "NJM Insurance Group",
    "title": "Insurance Product Management Analyst Intern 3",
    "location": "Trenton, NJ",
@@ -2295,26 +2275,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-01T19:42:05.568Z",
    "postedAt": "2026-09-01T00:00:00.000Z"
-  },
-  {
-   "company": "American Express",
-   "title": "Digital Product Management Intern - Enterprise Technology Services",
-   "location": "NYC",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-01T07:03:45.869Z",
-   "postedAt": "2026-09-01T04:52:48.000Z"
-  },
-  {
-   "company": "American Express",
-   "title": "Digital Product Management Intern - Enterprise Technology Services",
-   "location": "Phoenix, AZ",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-01T07:03:45.869Z",
-   "postedAt": "2026-09-01T04:52:49.000Z"
   },
   {
    "company": "Travelers",
