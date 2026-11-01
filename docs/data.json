@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T18:43:02.604Z",
+ "generatedAt": "2026-11-01T22:26:45.002Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -494,7 +494,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T18:43:02.278Z"
+   "postedAt": "2026-10-27T22:26:36.734Z"
   },
   {
    "company": "Jerry",
