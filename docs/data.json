@@ -1,21 +1,11 @@
 {
- "generatedAt": "2026-11-02T01:41:12.840Z",
+ "generatedAt": "2026-11-02T08:18:56.175Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
-  {
-   "company": "KnowBe4",
-   "title": "Associate Product Manager Intern",
-   "location": "Clearwater, FL",
-   "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919274002",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-11-02T01:41:12.840Z",
-   "postedAt": "2026-11-01T19:16:43.000Z"
-  },
   {
    "company": "Blackhawk Network Holdings",
    "title": "Product Management Intern",
@@ -504,7 +494,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-28T01:41:12.230Z"
+   "postedAt": "2026-10-27T08:18:54.840Z"
   },
   {
    "company": "Jerry",
@@ -585,16 +575,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-24T00:37:45.599Z",
    "postedAt": "2026-10-23T22:44:19.000Z"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Product Manager Intern",
-   "location": "Cambridge, MA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044772",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-24T00:37:45.599Z",
-   "postedAt": "2026-10-23T22:40:21.000Z"
   },
   {
    "company": "1Password",
@@ -2265,16 +2245,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-02T04:27:43.070Z",
    "postedAt": "2026-09-01T00:00:00.000Z"
-  },
-  {
-   "company": "L3Harris Technologies",
-   "title": "Associate Product Management",
-   "location": "Rochester, NY",
-   "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Product-Management-NY-14609/1425467400/?ats=successfactors",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-01T19:42:05.568Z",
-   "postedAt": "2026-09-01T19:01:44.000Z"
   },
   {
    "company": "Tencent",
