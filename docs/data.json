@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T16:11:36.093Z",
+ "generatedAt": "2026-11-03T21:45:35.701Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -147,16 +147,6 @@
    "postedAt": "2026-10-16T19:15:00.000Z"
   },
   {
-   "company": "Publicis Groupe",
-   "title": "Product Manager Intern",
-   "location": "Boston, MA",
-   "url": "https://publicisgroupe.jibeapply.com/jobs/172574?icims=1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-31T07:47:26.083Z",
-   "postedAt": "2026-09-18T21:38:00.000Z"
-  },
-  {
    "company": "Schneider Electric",
    "title": "Graduate Product Management Intern",
    "location": "Nashville, TN",
@@ -185,16 +175,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-31T01:51:06.760Z",
    "postedAt": "2026-10-30T22:44:25.000Z"
-  },
-  {
-   "company": "Pyrotek",
-   "title": "Product Management Intern",
-   "location": "Spokane, WA",
-   "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000158830479",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-31T01:51:06.760Z",
-   "postedAt": "2026-10-30T19:20:17.000Z"
   },
   {
    "company": "Signify",
@@ -574,7 +554,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T16:11:35.844Z"
+   "postedAt": "2026-10-27T21:45:31.655Z"
   },
   {
    "company": "Axos Bank",
@@ -855,16 +835,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-21T02:00:12.946Z",
    "postedAt": "2026-10-21T01:20:47.000Z"
-  },
-  {
-   "company": "Zebra Technologies",
-   "title": "Supplies & Sensors Product Manager Intern - US",
-   "location": "Lincolnshire, IL",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-20T23:32:40.860Z",
-   "postedAt": "2026-10-20T00:00:00.000Z"
   },
   {
    "company": "Clerkie",
@@ -1675,16 +1645,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-19T01:20:38.555Z",
    "postedAt": "2026-09-18T00:00:00.000Z"
-  },
-  {
-   "company": "Publicis Groupe",
-   "title": "Product Manager Intern - Class of 2028",
-   "location": "Chicago, IL",
-   "url": "https://careers.publicisgroupe.com/jobs/172574?icims=1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-19T01:20:38.555Z",
-   "postedAt": "2026-09-18T22:13:48.000Z"
   },
   {
    "company": "Tesla",
