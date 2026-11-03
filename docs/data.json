@@ -1,11 +1,71 @@
 {
- "generatedAt": "2026-11-02T18:38:16.741Z",
+ "generatedAt": "2026-11-03T01:17:05.465Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Applied Materials",
+   "title": "Data Intelligence/Technical Program Manager Intern",
+   "location": "Santa Clara, CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-03T01:17:05.465Z",
+   "postedAt": "2026-11-02T00:00:00.000Z"
+  },
+  {
+   "company": "Jerry",
+   "title": "Product Manager-in-Training",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.ashbyhq.com/jerry.ai/7a417376-e6e8-45ff-820e-0a6cfcfe5987/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-03T01:17:05.465Z",
+   "postedAt": "2026-11-02T00:00:00.000Z"
+  },
+  {
+   "company": "LexisNexis Risk Solutions",
+   "title": "Product Manager Intern - Government",
+   "location": "Alpharetta, GA",
+   "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-03T01:17:05.465Z",
+   "postedAt": "2026-11-02T23:16:59.000Z"
+  },
+  {
+   "company": "LexisNexis Risk Solutions",
+   "title": "Product Management Intern - Insurance",
+   "location": "Alpharetta, GA",
+   "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-03T01:17:05.465Z",
+   "postedAt": "2026-11-02T23:17:00.000Z"
+  },
+  {
+   "company": "Renesas Electronics",
+   "title": "Product Engineer Intern",
+   "location": "Morrisville, NC",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000159218106",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-03T01:17:05.465Z",
+   "postedAt": "2026-11-02T18:31:55.000Z"
+  },
+  {
+   "company": "T-Mobile",
+   "title": "Product Management Intern",
+   "location": "Philadelphia, PA",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-03T01:17:05.465Z",
+   "postedAt": "2026-11-02T00:00:00.000Z"
+  },
   {
    "company": "ParetoHealth",
    "title": "Product Manager Intern",
@@ -225,6 +285,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-30T18:52:05.719Z",
    "postedAt": "2026-10-30T14:19:31.000Z"
+  },
+  {
+   "company": "Snowflake",
+   "title": "Product Management Intern (Summer 2027)",
+   "location": "US-CA-Menlo Park",
+   "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-10-30T18:52:05.719Z",
+   "postedAt": "2026-11-02T20:14:37.218+00:00"
   },
   {
    "company": "C3.ai",
@@ -504,17 +574,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T18:38:16.419Z"
-  },
-  {
-   "company": "Jerry",
-   "title": "Product Manager-in-Training",
-   "location": "Palo Alto, CA",
-   "url": "https://jobs.ashbyhq.com/jerry.ai/0de2cc4d-8ddc-41a9-adc7-321560f57b9a/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-27T02:14:05.172Z",
-   "postedAt": "2026-10-26T00:00:00.000Z"
+   "postedAt": "2026-10-28T01:17:02.593Z"
   },
   {
    "company": "Axos Bank",
@@ -1047,16 +1107,6 @@
    "postedAt": "2026-10-13T00:00:00.000Z"
   },
   {
-   "company": "CoStar Group",
-   "title": "Product Intern",
-   "location": "Richmond, VA",
-   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-13T22:58:20.798Z",
-   "postedAt": "2026-10-13T00:00:00.000Z"
-  },
-  {
    "company": "Prologis",
    "title": "AI Product Management Intern",
    "location": "Denver, CO",
@@ -1155,16 +1205,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-09T23:14:42.554Z",
    "postedAt": "2026-10-09T22:16:42.000Z"
-  },
-  {
-   "company": "Robert Bosch Venture Capital",
-   "title": "Product Management Co-op",
-   "location": "Fountain Inn, SC",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154671460",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-09T19:09:42.544Z",
-   "postedAt": "2026-10-09T14:09:22.000Z"
   },
   {
    "company": "CWILL",
@@ -2737,16 +2777,6 @@
    "postedAt": "2026-08-05T22:15:36.000Z"
   },
   {
-   "company": "American Express",
-   "title": "Product Management Intern - Global Merchant & Network Services",
-   "location": "Phoenix, AZ",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-05T23:18:07.770Z",
-   "postedAt": "2026-08-05T22:15:36.000Z"
-  },
-  {
    "company": "TikTok",
    "title": "Recommendation Product Manager Intern - Content Ecosystem",
    "location": "San Jose, CA",
@@ -2775,16 +2805,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-04T00:57:57.580Z",
    "postedAt": "2026-08-03T00:00:00.000Z"
-  },
-  {
-   "company": "Amazon",
-   "title": "Product Manager",
-   "location": "Seattle, WA",
-   "url": "https://amazon.jobs/en/jobs/10490981/2027-amazon-leadership-accelerator-ala-product-manager-full-time",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-03T23:17:45.744Z",
-   "postedAt": "2026-08-03T22:13:41.000Z"
   },
   {
    "company": "Pentair",
