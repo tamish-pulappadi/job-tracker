@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T01:17:05.465Z",
+ "generatedAt": "2026-11-03T08:09:41.292Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -574,7 +574,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-28T01:17:02.593Z"
+   "postedAt": "2026-10-27T08:09:41.072Z"
   },
   {
    "company": "Axos Bank",
@@ -935,16 +935,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-19T23:04:48.544Z",
    "postedAt": "2026-10-19T00:00:00.000Z"
-  },
-  {
-   "company": "Westinghouse Electric Company",
-   "title": "Product Engineer Intern",
-   "location": "Cranberry Township, PA",
-   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Product-Engineer-NC/1441276000/?ats=successfactors",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-19T23:04:48.544Z",
-   "postedAt": "2026-10-19T22:33:25.000Z"
   },
   {
    "company": "Zurn Elkay Water Solutions",
@@ -1735,16 +1725,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-18T11:33:05.433Z",
    "postedAt": "2026-09-18T06:11:57.000Z"
-  },
-  {
-   "company": "Gordon Food Service",
-   "title": "Digital Product Management Intern",
-   "location": "Wyoming, MI",
-   "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-17T23:40:17.876Z",
-   "postedAt": "2026-09-17T00:00:00.000Z"
   },
   {
    "company": "Zurn Elkay Water Solutions",
