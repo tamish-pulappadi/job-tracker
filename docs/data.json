@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T16:27:13.123Z",
+ "generatedAt": "2026-11-04T22:02:10.270Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -271,16 +271,6 @@
    "title": "Product Management Intern",
    "location": "Spring, TX",
    "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-30T22:44:13.895Z",
-   "postedAt": "2026-10-30T00:00:00.000Z"
-  },
-  {
-   "company": "Snowflake",
-   "title": "Product Management Intern",
-   "location": "Menlo Park, CA",
-   "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true",
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-10-30T22:44:13.895Z",
@@ -584,7 +574,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T16:27:10.235Z"
+   "postedAt": "2026-10-27T22:02:02.596Z"
   },
   {
    "company": "Axos Bank",
