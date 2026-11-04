@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T08:21:01.006Z",
+ "generatedAt": "2026-11-04T16:27:13.123Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -307,16 +307,6 @@
    "postedAt": "2026-10-30T14:19:31.000Z"
   },
   {
-   "company": "Snowflake",
-   "title": "Product Management Intern (Summer 2027)",
-   "location": "US-CA-Menlo Park",
-   "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-10-30T18:52:05.719Z",
-   "postedAt": "2026-11-02T20:14:37.218+00:00"
-  },
-  {
    "company": "C3.ai",
    "title": "AI Product Manager Intern",
    "location": "Redwood City, CA",
@@ -594,7 +584,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T08:21:00.748Z"
+   "postedAt": "2026-10-27T16:27:10.235Z"
   },
   {
    "company": "Axos Bank",
