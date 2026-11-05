@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T22:02:10.270Z",
+ "generatedAt": "2026-11-05T02:22:38.217Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -574,7 +574,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T22:02:02.596Z"
+   "postedAt": "2026-10-28T02:22:37.863Z"
   },
   {
    "company": "Axos Bank",
@@ -985,16 +985,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-15T23:09:00.759Z",
    "postedAt": "2026-10-15T00:00:00.000Z"
-  },
-  {
-   "company": "Super Micro Computer",
-   "title": "Product Engineer",
-   "location": "San Jose, CA",
-   "url": "https://jobs.supermicro.com/job/San-Jose-Product-Engineer-Cali/1432791100/?ats=successfactors",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-15T23:09:00.759Z",
-   "postedAt": "2026-09-23T01:08:36.000Z"
   },
   {
    "company": "Duolingo",
