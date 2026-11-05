@@ -1,11 +1,41 @@
 {
- "generatedAt": "2026-11-05T02:22:38.217Z",
+ "generatedAt": "2026-11-05T09:41:13.587Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "ABB",
+   "title": "Product Management Intern",
+   "location": "New Berlin, WI",
+   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-05T09:41:13.587Z",
+   "postedAt": "2026-10-26T00:00:00.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Product Engineering Student Intern - Product Engineering",
+   "location": "Urbandale, IA",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483675893",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-05T09:41:13.587Z",
+   "postedAt": "2026-11-05T02:23:05.000Z"
+  },
+  {
+   "company": "Panasonic Holdings",
+   "title": "Product Management Intern",
+   "location": "Bridgeton, MO",
+   "url": "https://careers.na.panasonic.com/jobs/51897?icims=1&lang=en-us",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-05T09:41:13.587Z",
+   "postedAt": "2026-10-23T17:22:00.000Z"
+  },
   {
    "company": "Tesla",
    "title": "Product Management Intern - Product Management - Megapack Services 3",
@@ -125,26 +155,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-02T18:38:16.741Z",
    "postedAt": "2026-11-02T13:14:28.000Z"
-  },
-  {
-   "company": "Blackhawk Network Holdings",
-   "title": "Product Management Intern",
-   "location": "Pleasanton, CA",
-   "url": "https://blackhawknetwork.jibeapply.com/jobs/26869?icims=1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-31T07:47:26.083Z",
-   "postedAt": "2026-08-31T17:06:00.000Z"
-  },
-  {
-   "company": "Blackhawk Network Holdings",
-   "title": "Product Management Intern",
-   "location": "Coppell, TX",
-   "url": "https://blackhawknetwork.jibeapply.com/jobs/26868?icims=1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-31T07:47:26.083Z",
-   "postedAt": "2026-08-31T17:12:00.000Z"
   },
   {
    "company": "Intercontinental Exchange",
@@ -407,16 +417,6 @@
    "postedAt": "2026-10-29T00:00:00.000Z"
   },
   {
-   "company": "T-Mobile",
-   "title": "Associate Product Manager Intern",
-   "location": "Overland Park, KS",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-30T00:56:49.777Z",
-   "postedAt": "2026-10-29T00:00:00.000Z"
-  },
-  {
    "company": "OneEthos",
    "title": "Product Management Intern",
    "location": "Remote in USA",
@@ -574,7 +574,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-28T02:22:37.863Z"
+   "postedAt": "2026-10-27T09:41:13.286Z"
   },
   {
    "company": "Axos Bank",
@@ -1157,6 +1157,16 @@
    "postedAt": "2026-10-09T22:16:42.000Z"
   },
   {
+   "company": "CWILL",
+   "title": "Order Tracking Product Management Trainee",
+   "location": "Cary, NC",
+   "url": "https://apply.workable.com/cwill-us/j/DD1A0BECB1/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-10-09T06:41:37.139Z",
+   "postedAt": "2026-10-09T01:18:39.000Z"
+  },
+  {
    "company": "Axos Bank",
    "title": "Product Intern",
    "location": "San Diego, CA",
@@ -1357,6 +1367,16 @@
    "postedAt": "2026-10-02T22:10:38.000Z"
   },
   {
+   "company": "IDeaS",
+   "title": "Product Management Intern",
+   "location": "Bloomington, MN",
+   "url": "https://ideas-sas.icims.com/jobs/42648/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-02T14:59:13.908Z",
+   "postedAt": "2026-10-02T14:18:58.000Z"
+  },
+  {
    "company": "Bedrock Robotics",
    "title": "Product Intern",
    "location": "SF",
@@ -1527,6 +1547,16 @@
    "postedAt": "2026-09-28T14:20:06.000Z"
   },
   {
+   "company": "W.R. Berkley",
+   "title": "Product Management Analyst Intern",
+   "location": "Urbandale, IA",
+   "url": "https://careers-berkley.icims.com/jobs/14461/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-25T23:24:27.222Z",
+   "postedAt": "2026-09-25T22:06:18.000Z"
+  },
+  {
    "company": "Best Friend Finance",
    "title": "Associate Product Manager - New Products",
    "location": "SF",
@@ -1535,16 +1565,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-25T01:40:39.418Z",
    "postedAt": "2026-09-25T01:17:14.000Z"
-  },
-  {
-   "company": "ABB",
-   "title": "Product Management Intern",
-   "location": "New Berlin, WI",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-24T23:19:55.570Z",
-   "postedAt": "2026-09-24T00:00:00.000Z"
   },
   {
    "company": "Best Friend Finance",
@@ -1867,6 +1887,16 @@
    "postedAt": "2026-09-09T22:29:29.000Z"
   },
   {
+   "company": "ITT",
+   "title": "Product Management Co-op - Spring/Summer 2027",
+   "location": "Seneca Falls, NY",
+   "url": "https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-10T00:37:39.480Z",
+   "postedAt": "2026-09-09T22:21:31.000Z"
+  },
+  {
    "company": "Robert Bosch Venture Capital",
    "title": "Product Management AI-Tool Intern - 8 months/40hrs per week",
    "location": "Farmington Hills, MI",
@@ -2137,14 +2167,24 @@
    "postedAt": "2026-09-03T02:46:18.000Z"
   },
   {
-   "company": "Texas Instruments",
-   "title": "Product Engineer Intern - Test Engineering",
-   "location": "Dallas, TX",
-   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017571",
+   "company": "Shure",
+   "title": "Global Product Management Intern - Conferencing",
+   "location": "Niles, IL",
+   "url": "https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false",
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-09-03T09:11:25.581Z",
-   "postedAt": "2026-09-03T02:35:48.000Z"
+   "postedAt": "2026-09-03T02:05:20.000Z"
+  },
+  {
+   "company": "Shure",
+   "title": "Global Product Management Data Intern",
+   "location": "Niles, IL",
+   "url": "https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-03T02:05:19.000Z"
   },
   {
    "company": "TikTok",
@@ -2165,6 +2205,16 @@
    "source": "Company board",
    "firstSeen": "2026-09-02T17:09:02.814Z",
    "postedAt": "2026-09-02T12:41:02-04:00"
+  },
+  {
+   "company": "Atlassian",
+   "title": "Product Management Intern",
+   "location": "SF",
+   "url": "https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-02T08:56:17.735Z",
+   "postedAt": "2026-09-02T06:12:35.000Z"
   },
   {
    "company": "Clearwater Analytics",
@@ -2205,6 +2255,26 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-01T07:03:45.869Z",
    "postedAt": "2026-09-01T00:00:00.000Z"
+  },
+  {
+   "company": "Blackhawk Network Holdings",
+   "title": "Product Management Intern",
+   "location": "Coppell, TX",
+   "url": "https://careers-blackhawknetwork.icims.com/jobs/26868/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T23:24:35.217Z",
+   "postedAt": "2026-08-31T19:08:32.000Z"
+  },
+  {
+   "company": "Blackhawk Network Holdings",
+   "title": "Product Management Intern",
+   "location": "Pleasanton, CA",
+   "url": "https://careers-blackhawknetwork.icims.com/jobs/26869/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T23:24:35.217Z",
+   "postedAt": "2026-08-31T19:08:32.000Z"
   },
   {
    "company": "Oshkosh",
@@ -2365,6 +2435,36 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-24T15:08:20.869Z",
    "postedAt": "2026-08-24T00:00:00.000Z"
+  },
+  {
+   "company": "Springs Window Fashions",
+   "title": "Product Management Intern",
+   "location": "Long Island City, Queens, NY",
+   "url": "https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-22T14:37:44.670Z",
+   "postedAt": "2026-08-22T14:06:18.000Z"
+  },
+  {
+   "company": "Springs Window Fashions",
+   "title": "Product Management Competitive Product Assessment Intern - Summer 2027",
+   "location": "Middleton, WI",
+   "url": "https://careers-springswindowfashions.icims.com/jobs/12883/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-22T14:37:44.670Z",
+   "postedAt": "2026-08-22T14:06:23.000Z"
+  },
+  {
+   "company": "Springs Window Fashions",
+   "title": "Product Management Dashboard Analytics Intern",
+   "location": "Middleton, WI",
+   "url": "https://careers-springswindowfashions.icims.com/jobs/12882/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-22T14:37:44.670Z",
+   "postedAt": "2026-08-22T14:06:22.000Z"
   },
   {
    "company": "TikTok",
