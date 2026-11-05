@@ -1,11 +1,23 @@
 {
- "generatedAt": "2026-11-05T09:41:13.587Z",
+ "generatedAt": "2026-11-05T17:38:53.432Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Shield AI: The operation was aborted due to timeout",
+  "Spotify: The operation was aborted due to timeout"
  ],
  "jobs": [
+  {
+   "company": "S&P Global",
+   "title": "Product Management Intern",
+   "location": "NYC",
+   "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern--Product-Management_332679-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-05T17:38:53.432Z",
+   "postedAt": "2026-11-05T00:00:00.000Z"
+  },
   {
    "company": "ABB",
    "title": "Product Management Intern",
@@ -574,7 +586,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T09:41:13.286Z"
+   "postedAt": "2026-10-27T17:38:44.550Z"
   },
   {
    "company": "Axos Bank",
@@ -1015,16 +1027,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-14T23:33:46.945Z",
    "postedAt": "2026-10-14T22:37:48.000Z"
-  },
-  {
-   "company": "WisdomTree",
-   "title": "Product Manager - Digital Assets - Digital Investment Products",
-   "location": "NYC",
-   "url": "https://jobs.lever.co/wisdomtree/bc16f38e-8613-43b6-bb9b-33d24f2da299/apply",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-14T12:23:43.944Z",
-   "postedAt": "2026-07-27T22:10:37.000Z"
   },
   {
    "company": "Brain Co.",
