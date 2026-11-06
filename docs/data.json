@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-11-05T22:50:28.271Z",
+ "generatedAt": "2026-11-06T02:58:53.648Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Invesco",
+   "title": "Digital Product Management Intern",
+   "location": "Atlanta, GA",
+   "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-06T02:58:53.648Z",
+   "postedAt": "2026-11-05T00:00:00.000Z"
+  },
   {
    "company": "S&P Global",
    "title": "Product Management Intern",
@@ -574,7 +584,7 @@
    "kind": "intern",
    "source": "Company board",
    "firstSeen": "2026-10-27T07:53:18.065Z",
-   "postedAt": "2026-10-27T22:50:27.973Z"
+   "postedAt": "2026-10-28T02:58:53.339Z"
   },
   {
    "company": "Axos Bank",
@@ -1665,6 +1675,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-18T11:33:05.433Z",
    "postedAt": "2026-09-18T06:11:57.000Z"
+  },
+  {
+   "company": "Rockwell Automation",
+   "title": "Product Management Intern",
+   "location": "Mequon, WI",
+   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Product-Management_R26-6971",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-18T06:22:20.973Z",
+   "postedAt": "2026-09-16T00:00:00.000Z"
   },
   {
    "company": "Zurn Elkay Water Solutions",
