@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-11-07T02:06:28.055Z",
+ "generatedAt": "2026-11-07T08:43:12.273Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "TikTok",
+   "title": "GEO Content Product Manager Intern",
+   "location": "San Jose, CA",
+   "url": "https://lifeattiktok.com/search/7696000178264361269",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-07T08:43:12.273Z",
+   "postedAt": "2026-11-07T02:15:14.000Z"
+  },
   {
    "company": "Docusign",
    "title": "Product Manager Intern",
