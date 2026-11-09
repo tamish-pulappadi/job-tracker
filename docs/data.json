@@ -1,11 +1,41 @@
 {
- "generatedAt": "2026-11-09T10:41:05.771Z",
+ "generatedAt": "2026-11-09T21:05:08.393Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Badger Meter",
+   "title": "Product Management Intern",
+   "location": "Milwaukee, WI",
+   "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-09T21:05:08.393Z",
+   "postedAt": "2026-11-09T00:00:00.000Z"
+  },
+  {
+   "company": "DwyerOmega",
+   "title": "Product Management Intern - Pressure & Force",
+   "location": "Michigan City, IN; Sunbury, OH",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-09T21:05:08.393Z",
+   "postedAt": "2026-11-06T03:27:48.000Z"
+  },
+  {
+   "company": "Pyrotek",
+   "title": "Product Management Intern",
+   "location": "Spokane, WA",
+   "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000160635163",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-09T21:05:08.393Z",
+   "postedAt": "2026-11-09T15:01:39.000Z"
+  },
   {
    "company": "TikTok",
    "title": "GEO Content Product Manager Intern",
@@ -115,16 +145,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-05T09:41:13.587Z",
    "postedAt": "2026-11-05T02:23:05.000Z"
-  },
-  {
-   "company": "Panasonic Holdings",
-   "title": "Product Management Intern",
-   "location": "Bridgeton, MO",
-   "url": "https://careers.na.panasonic.com/jobs/51897?icims=1&lang=en-us",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-11-05T09:41:13.587Z",
-   "postedAt": "2026-10-23T17:22:00.000Z"
   },
   {
    "company": "Tesla",
@@ -1457,16 +1477,6 @@
    "postedAt": "2026-09-30T00:00:00.000Z"
   },
   {
-   "company": "Booz Allen",
-   "title": "Product Engineer Intern",
-   "location": "McLean, VA",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Product-Engineering-Intern_R0250655",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-01T00:49:44.761Z",
-   "postedAt": "2026-09-30T00:00:00.000Z"
-  },
-  {
    "company": "Micron Technology",
    "title": "Design Validation Product Engineer New Grad - Engineering - HIG HBM PSE Design Validation",
    "location": "Boise, ID",
@@ -1597,16 +1607,6 @@
    "postedAt": "2026-09-24T22:19:19.000Z"
   },
   {
-   "company": "Fortune Brands",
-   "title": "Product Manager Intern - Retail",
-   "location": "Deerfield, IL",
-   "url": "https://jobs.smartrecruiters.com/FortuneBrands/744000151692989",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-24T23:19:55.570Z",
-   "postedAt": "2026-09-24T22:08:28.000Z"
-  },
-  {
    "company": "Tradeweb",
    "title": "Market Data Product Management Intern",
    "location": "NYC",
@@ -1615,16 +1615,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-24T23:19:55.570Z",
    "postedAt": "2026-09-24T22:14:11.000Z"
-  },
-  {
-   "company": "Motorola",
-   "title": "Junior Product Manager - Product Management",
-   "location": "Cambridge, UK; United Kingdom",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cambridge-UK-ZUK140/Junior-Product-Manager_R68841",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-24T17:12:51.576Z",
-   "postedAt": "2026-09-24T00:00:00.000Z"
   },
   {
    "company": "Adobe",
@@ -1747,16 +1737,6 @@
    "postedAt": "2026-09-16T06:15:37.000Z"
   },
   {
-   "company": "Illinois Tool Works",
-   "title": "Product Management Intern",
-   "location": "San Luis Obispo, CA",
-   "url": "https://careers.itw.com/global/en/job/JR10112",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-16T10:17:04.347Z",
-   "postedAt": "2026-09-16T09:42:06.000Z"
-  },
-  {
    "company": "Cheiron",
    "title": "Technical Product Management Intern",
    "location": "Los Altos, CA",
@@ -1855,16 +1835,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-11T23:52:00.894Z",
    "postedAt": "2026-09-11T22:13:17.000Z"
-  },
-  {
-   "company": "Fortune Brands",
-   "title": "Product Management Intern - B2B Security",
-   "location": "Deerfield, IL",
-   "url": "https://jobs.smartrecruiters.com/FortuneBrands/744000149058098",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-11T23:52:00.894Z",
-   "postedAt": "2026-09-11T22:06:37.000Z"
   },
   {
    "company": "Tesla",
