@@ -1,11 +1,51 @@
 {
- "generatedAt": "2026-11-09T21:05:08.393Z",
+ "generatedAt": "2026-11-10T03:31:35.997Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "DreamWorks Animation",
+   "title": "Streaming Platforms – Product Management Intern",
+   "location": "NYC",
+   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160661249",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-10T03:31:35.997Z",
+   "postedAt": "2026-11-09T16:16:07.000Z"
+  },
+  {
+   "company": "Jerry",
+   "title": "Product Manager-in-Training",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.ashbyhq.com/jerry.ai/60575f8f-a6b5-4099-9273-57a01dc04d44/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-10T03:31:35.997Z",
+   "postedAt": "2026-11-09T00:00:00.000Z"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Product Management Space Compute MBA Intern",
+   "location": "Canada; Santa Clara, CA; United States",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-10T03:31:35.997Z",
+   "postedAt": "2026-11-09T00:00:00.000Z"
+  },
+  {
+   "company": "Warner Bros.",
+   "title": "Product Management Co-op",
+   "location": "Needham, MA",
+   "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/MA-Needham-117-Kendrick-St/WB-Games-Product-Management-Co-op--Needham--MA---January-May-2027_R000109850",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-10T03:31:35.997Z",
+   "postedAt": "2026-11-09T00:00:00.000Z"
+  },
   {
    "company": "Badger Meter",
    "title": "Product Management Intern",
@@ -217,16 +257,6 @@
    "postedAt": "2026-11-02T00:00:00.000Z"
   },
   {
-   "company": "Jerry",
-   "title": "Product Manager-in-Training",
-   "location": "Palo Alto, CA",
-   "url": "https://jobs.ashbyhq.com/jerry.ai/7a417376-e6e8-45ff-820e-0a6cfcfe5987/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-11-03T01:17:05.465Z",
-   "postedAt": "2026-11-02T00:00:00.000Z"
-  },
-  {
    "company": "LexisNexis Risk Solutions",
    "title": "Product Manager Intern - Government",
    "location": "Alpharetta, GA",
@@ -295,16 +325,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-31T07:47:26.083Z",
    "postedAt": "2026-10-16T19:15:00.000Z"
-  },
-  {
-   "company": "Schneider Electric",
-   "title": "Graduate Product Management Intern",
-   "location": "Nashville, TN",
-   "url": "https://se.jibeapply.com/jobs/135310?icims=1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-31T07:47:26.083Z",
-   "postedAt": "2026-09-30T21:40:00.000Z"
   },
   {
    "company": "ASML",
@@ -608,16 +628,6 @@
   },
   {
    "company": "Micron Technology",
-   "title": "AI & Product Management Intern - Mobile Memory - Lpdram",
-   "location": "San Jose, CA",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI---Product-Management--Mobile-Memory--LPDRAM-_JR115839",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-27T22:56:05.470Z",
-   "postedAt": "2026-10-27T00:00:00.000Z"
-  },
-  {
-   "company": "Micron Technology",
    "title": "CMBU Product Management Intern",
    "location": "San Jose, CA",
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941",
@@ -895,16 +905,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-21T02:00:12.946Z",
    "postedAt": "2026-10-21T01:20:47.000Z"
-  },
-  {
-   "company": "Zebra Technologies",
-   "title": "Supplies & Sensors Product Manager Intern - US",
-   "location": "Lincolnshire, IL",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supplies---Sensors-Product-Manager_JR103640",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-20T23:32:40.860Z",
-   "postedAt": "2026-10-20T00:00:00.000Z"
   },
   {
    "company": "Clerkie",
