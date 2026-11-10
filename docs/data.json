@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-11-10T11:45:53.366Z",
+ "generatedAt": "2026-11-10T19:05:56.335Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Legrand",
+   "title": "Product Management Intern",
+   "location": "Syracuse, NY",
+   "url": "https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-10T19:05:56.335Z",
+   "postedAt": "2026-11-10T15:08:35.000Z"
+  },
   {
    "company": "Selective Insurance",
    "title": "Commercial Lines Product Intern",
@@ -1795,6 +1805,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-14T23:28:51.351Z",
    "postedAt": "2026-09-14T21:08:06.000Z"
+  },
+  {
+   "company": "Tesla",
+   "title": "Product Engineer Intern - Applications Engineering",
+   "location": "Fremont, CA",
+   "url": "https://www.tesla.com/careers/search/job/283298",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-14T23:28:51.351Z",
+   "postedAt": "2026-09-14T21:08:13.000Z"
   },
   {
    "company": "Lowe's",
