@@ -1,11 +1,61 @@
 {
- "generatedAt": "2026-11-10T19:05:56.335Z",
+ "generatedAt": "2026-11-11T00:00:16.504Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Altice USA",
+   "title": "Product Management Customer Management App Intern",
+   "location": "Bethpage, NY",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-11T00:00:16.504Z",
+   "postedAt": "2026-11-10T23:23:34.000Z"
+  },
+  {
+   "company": "Altice USA",
+   "title": "Product Management Intern - Video CPE",
+   "location": "Bethpage, NY",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Video-CPE-NY-11714/1449511700/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-11T00:00:16.504Z",
+   "postedAt": "2026-11-10T23:23:34.000Z"
+  },
+  {
+   "company": "Altice USA",
+   "title": "Product Management B2B Broadband Services Intern",
+   "location": "Bethpage, NY",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-11T00:00:16.504Z",
+   "postedAt": "2026-11-10T23:23:34.000Z"
+  },
+  {
+   "company": "Parspec",
+   "title": "Product Management Intern - Agentic AI",
+   "location": "San Mateo, CA",
+   "url": "https://jobs.ashbyhq.com/parspec/aa7b7f63-b31f-47fa-a711-b76d93028e56/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-11T00:00:16.504Z",
+   "postedAt": "2026-11-10T00:00:00.000Z"
+  },
+  {
+   "company": "Rubrik",
+   "title": "Product Management Intern",
+   "location": "Palo Alto, CA",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8350601?gh_jid=8350601",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-11T00:00:16.504Z",
+   "postedAt": "2026-11-10T19:37:35.000Z"
+  },
   {
    "company": "Legrand",
    "title": "Product Management Intern",
@@ -115,16 +165,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-07T02:06:28.055Z",
    "postedAt": "2026-11-06T18:30:00.000Z"
-  },
-  {
-   "company": "Hewlett Packard Enterprise",
-   "title": "Campus Switching Product Manager New Grad",
-   "location": "San Jose, CA; Roseville, CA",
-   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-11-07T02:06:28.055Z",
-   "postedAt": "2026-11-06T00:00:00.000Z"
   },
   {
    "company": "Honeywell",
@@ -447,6 +487,16 @@
    "postedAt": "2026-10-30T14:19:31.000Z"
   },
   {
+   "company": "Snowflake",
+   "title": "Product Management Intern (Summer 2027)",
+   "location": "US-CA-Menlo Park",
+   "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-10-30T18:52:05.719Z",
+   "postedAt": "2026-11-10T03:48:00.779+00:00"
+  },
+  {
    "company": "C3.ai",
    "title": "AI Product Manager Intern",
    "location": "Redwood City, CA",
@@ -595,16 +645,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-28T23:44:18.489Z",
    "postedAt": "2026-10-28T22:45:03.000Z"
-  },
-  {
-   "company": "Agave",
-   "title": "Product Manager",
-   "location": "SF",
-   "url": "https://jobs.ashbyhq.com/agave/685cc476-4e5d-4406-86d8-b9835fed6d9b/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-28T07:55:51.269Z",
-   "postedAt": "2026-08-09T00:00:00.000Z"
   },
   {
    "company": "Sela AI",
@@ -1567,6 +1607,16 @@
    "postedAt": "2026-09-29T22:27:49.000Z"
   },
   {
+   "company": "Altice USA",
+   "title": "Mobile Device Product Management Intern",
+   "location": "Bethpage, NY",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Mobile-Device-Product-Management-NY-11714/1434760800/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-29T21:23:10.512Z",
+   "postedAt": "2026-09-29T14:20:05.000Z"
+  },
+  {
    "company": "Epic Games",
    "title": "Product Management Intern",
    "location": "Cary,North Carolina,United States",
@@ -1885,16 +1935,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-10T05:16:18.610Z",
    "postedAt": "2026-09-10T01:30:21.000Z"
-  },
-  {
-   "company": "Immuta",
-   "title": "Product Engineering Intern",
-   "location": "College Park, MD",
-   "url": "https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4/apply",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-10T00:37:39.480Z",
-   "postedAt": "2026-09-09T22:29:29.000Z"
   },
   {
    "company": "ITT",
