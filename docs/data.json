@@ -1,11 +1,122 @@
 {
- "generatedAt": "2026-11-11T00:00:16.504Z",
+ "generatedAt": "2026-11-11T05:35:27.628Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Zoox: The operation was aborted due to timeout"
  ],
  "jobs": [
+  {
+   "company": "Bask Health",
+   "title": "Associate Product Manager New Grad",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/10419258C9/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-11T05:35:27.628Z",
+   "postedAt": "2026-11-11T02:06:20.000Z"
+  },
+  {
+   "company": "Bask Health",
+   "title": "Junior Product Manager - Intakes & Conversion",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/EB2C2D9268/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-11T05:35:27.628Z",
+   "postedAt": "2026-11-11T02:06:19.000Z"
+  },
+  {
+   "company": "Bask Health",
+   "title": "Product Manager Apprentice",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/641A955226/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-11T05:35:27.628Z",
+   "postedAt": "2026-11-11T02:06:19.000Z"
+  },
+  {
+   "company": "Bask Health",
+   "title": "Associate Product Manager",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/E3BA07B52A/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-11T05:35:27.628Z",
+   "postedAt": "2026-11-11T02:06:20.000Z"
+  },
+  {
+   "company": "Bask Health",
+   "title": "Product Management Intern",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/AAE5145A49/apply",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-11T05:35:27.628Z",
+   "postedAt": "2026-11-11T02:06:19.000Z"
+  },
+  {
+   "company": "Bask Health",
+   "title": "Patient Experience Product Intern",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/90535FE8AA/apply",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-11T05:35:27.628Z",
+   "postedAt": "2026-11-11T02:06:19.000Z"
+  },
+  {
+   "company": "Bask Health",
+   "title": "Merchant Experience Product Intern",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/62A0C615A5/apply",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-11T05:35:27.628Z",
+   "postedAt": "2026-11-11T02:06:20.000Z"
+  },
+  {
+   "company": "Bask Health",
+   "title": "AI Product Intern",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/9D7E69054E/apply",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-11T05:35:27.628Z",
+   "postedAt": "2026-11-11T02:06:19.000Z"
+  },
+  {
+   "company": "Blue Cross Blue Shield of Michigan",
+   "title": "Digital Product Intern",
+   "location": "Detroit, MI",
+   "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-11T05:35:27.628Z",
+   "postedAt": "2026-11-10T23:41:43.000Z"
+  },
+  {
+   "company": "Cummins",
+   "title": "Electronic Systems Product Engineer",
+   "location": "Columbus, IN",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435406",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-11T05:35:27.628Z",
+   "postedAt": "2026-11-10T23:45:56.000Z"
+  },
+  {
+   "company": "Rambus",
+   "title": "Product Engineer Intern",
+   "location": "San Jose, CA",
+   "url": "https://careers-rambus.icims.com/jobs/23119/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-11T05:35:27.628Z",
+   "postedAt": "2026-11-10T00:00:00.000Z"
+  },
   {
    "company": "Altice USA",
    "title": "Product Management Customer Management App Intern",
@@ -467,6 +578,16 @@
    "postedAt": "2026-10-30T00:00:00.000Z"
   },
   {
+   "company": "Snowflake",
+   "title": "Product Management Intern",
+   "location": "Menlo Park, CA",
+   "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-30T22:44:13.895Z",
+   "postedAt": "2026-10-30T00:00:00.000Z"
+  },
+  {
    "company": "The New York Times",
    "title": "Product Manager Intern",
    "location": "NYC",
@@ -825,16 +946,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-23T15:01:28.923Z",
    "postedAt": "2026-09-16T14:19:27.000Z"
-  },
-  {
-   "company": "OATEY",
-   "title": "Product Management Intern",
-   "location": "Cleveland, OH",
-   "url": "https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-23T15:01:28.923Z",
-   "postedAt": "2026-09-04T00:00:00.000Z"
   },
   {
    "company": "TikTok",
