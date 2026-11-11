@@ -1,11 +1,21 @@
 {
- "generatedAt": "2026-11-11T12:56:54.249Z",
+ "generatedAt": "2026-11-11T19:59:05.631Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "APEX Analytix",
+   "title": "Product Management Intern",
+   "location": "Greensboro, NC",
+   "url": "https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-11T19:59:05.631Z",
+   "postedAt": "2026-11-11T15:26:50.000Z"
+  },
   {
    "company": "Bask Health",
    "title": "Associate Product Manager New Grad",
@@ -1267,6 +1277,16 @@
    "postedAt": "2026-10-13T00:00:00.000Z"
   },
   {
+   "company": "H&R Block",
+   "title": "Product Management Intern - S",
+   "location": "Kansas City, MO",
+   "url": "https://careers.hrblock.com/jobs/76986?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-13T22:58:20.798Z",
+   "postedAt": "2026-09-28T22:16:26.000Z"
+  },
+  {
    "company": "Prologis",
    "title": "AI Product Management Intern",
    "location": "Denver, CO",
@@ -1405,16 +1425,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-08T01:18:36.940Z",
    "postedAt": "2026-10-07T22:29:29.000Z"
-  },
-  {
-   "company": "HeartFlow",
-   "title": "Product Manager",
-   "location": "SF; Rohnert Park, CA",
-   "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6218478004",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-06T23:28:01.911Z",
-   "postedAt": "2026-10-06T22:18:30.000Z"
   },
   {
    "company": "impact.com",
