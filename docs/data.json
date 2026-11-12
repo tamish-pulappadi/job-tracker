@@ -1,11 +1,41 @@
 {
- "generatedAt": "2026-11-12T09:00:14.797Z",
+ "generatedAt": "2026-11-12T17:27:46.661Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Dover",
+   "title": "Product Management Intern",
+   "location": "Keosauqua, IA",
+   "url": "https://dover.wd103.myworkdayjobs.com/Dover/job/Keosauqua-Iowa-USA/Product-Management-Intern_JR102326",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-12T17:27:46.661Z",
+   "postedAt": "2026-10-27T00:00:00.000Z"
+  },
+  {
+   "company": "Dover",
+   "title": "Product Management Intern - Aftermarket Parts",
+   "location": "Conyers, GA",
+   "url": "https://dover.wd103.myworkdayjobs.com/Dover/job/Conyers-Georgia-USA/Product-Management-Intern--Aftermarket-Parts_JR101948",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-12T17:27:46.661Z",
+   "postedAt": "2026-10-15T00:00:00.000Z"
+  },
+  {
+   "company": "Illinois Tool Works",
+   "title": "Product Management Intern",
+   "location": "Troy, MI",
+   "url": "https://itw.wd5.myworkdayjobs.com/external/job/Troy---101-Trade-Sq-E/Product-Management-Intern---Summer-2026_JR10105",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-12T17:27:46.661Z",
+   "postedAt": "2026-09-15T00:00:00.000Z"
+  },
   {
    "company": "InsCipher",
    "title": "AI Product Intern",
@@ -957,16 +987,6 @@
    "postedAt": "2026-10-24T01:02:16.000Z"
   },
   {
-   "company": "DIRECTV",
-   "title": "Customer Operations Product Management Intern",
-   "location": "Remote in USA",
-   "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Product-Management--MBA-Opportunity-_R260333",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-24T00:37:45.599Z",
-   "postedAt": "2026-10-23T00:00:00.000Z"
-  },
-  {
    "company": "John Deere",
    "title": "Software Engineer Intern - Product Engineering",
    "location": "Waterloo, IA; Cary, NC",
@@ -1345,16 +1365,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-13T22:58:20.798Z",
    "postedAt": "2026-10-13T00:00:00.000Z"
-  },
-  {
-   "company": "H&R Block",
-   "title": "Product Management Intern - S",
-   "location": "Kansas City, MO",
-   "url": "https://careers.hrblock.com/jobs/76986?icims=1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-13T22:58:20.798Z",
-   "postedAt": "2026-09-28T22:16:26.000Z"
   },
   {
    "company": "Prologis",
@@ -1745,6 +1755,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-01T00:49:44.761Z",
    "postedAt": "2026-09-30T22:08:30.000Z"
+  },
+  {
+   "company": "L3Harris Technologies",
+   "title": "Product Management Intern",
+   "location": "Rochester, NY",
+   "url": "https://jobs.l3harris.com/job/Rochester-Product-Management-Intern-(Rochester,-NY)-NY-14610-1839/1433689700/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-30T17:42:09.508Z",
+   "postedAt": "2026-09-30T14:07:37.000Z"
   },
   {
    "company": "AHEAD",
