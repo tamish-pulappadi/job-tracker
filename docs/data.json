@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T17:27:46.661Z",
+ "generatedAt": "2026-11-12T22:49:34.673Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -454,16 +454,6 @@
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-11-06T02:58:53.648Z",
-   "postedAt": "2026-11-05T00:00:00.000Z"
-  },
-  {
-   "company": "S&P Global",
-   "title": "Product Management Intern",
-   "location": "NYC",
-   "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Summer-Intern--Product-Management_332679-1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-11-05T17:38:53.432Z",
    "postedAt": "2026-11-05T00:00:00.000Z"
   },
   {
@@ -1597,16 +1587,6 @@
    "postedAt": "2026-08-28T00:00:00.000Z"
   },
   {
-   "company": "Gallup",
-   "title": "Product Manager - Digital Commerce",
-   "location": "Omaha, NE",
-   "url": "https://job-boards.greenhouse.io/gallup/jobs/4433447009",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-06T01:30:10.086Z",
-   "postedAt": "2026-10-05T22:28:56.000Z"
-  },
-  {
    "company": "Mohawk",
    "title": "Product Management Intern",
    "location": "Calhoun, GA",
@@ -1704,16 +1684,6 @@
    "kind": "newgrad",
    "source": "Simplify Internships",
    "firstSeen": "2026-10-01T23:09:56.334Z",
-   "postedAt": "2026-10-01T00:00:00.000Z"
-  },
-  {
-   "company": "Capital One",
-   "title": "MBA Product Intern",
-   "location": "McLean, VA; Richmond, VA; Chicago, IL; NYC",
-   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-01T19:10:18.630Z",
    "postedAt": "2026-10-01T00:00:00.000Z"
   },
   {
