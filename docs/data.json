@@ -1,11 +1,81 @@
 {
- "generatedAt": "2026-11-11T19:59:05.631Z",
+ "generatedAt": "2026-11-12T01:49:32.701Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Avante",
+   "title": "Product Engineer - Agent Experience",
+   "location": "Seattle, WA",
+   "url": "https://job-boards.greenhouse.io/avante/jobs/4502314009",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-12T01:49:32.701Z",
+   "postedAt": "2026-11-11T17:26:21.000Z"
+  },
+  {
+   "company": "Bask Health",
+   "title": "Junior Product Engineer - Interactive Experiences",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/7B69E15EFA/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-12T01:49:32.701Z",
+   "postedAt": "2026-11-11T23:07:48.000Z"
+  },
+  {
+   "company": "Bask Health",
+   "title": "Product Engineer New Grad",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/E7E44CA0FC/apply",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-12T01:49:32.701Z",
+   "postedAt": "2026-11-11T23:07:47.000Z"
+  },
+  {
+   "company": "Bask Health",
+   "title": "Product Engineering Intern",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/bask-health-1/j/1C108B16E2/apply",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-12T01:49:32.701Z",
+   "postedAt": "2026-11-11T23:07:48.000Z"
+  },
+  {
+   "company": "FNBO",
+   "title": "Banking Product Intern",
+   "location": "Omaha, NE",
+   "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Intern--Banking-Product_R-20261996",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-12T01:49:32.701Z",
+   "postedAt": "2026-11-11T00:00:00.000Z"
+  },
+  {
+   "company": "Gordon Food Service",
+   "title": "Digital Product Management Intern",
+   "location": "Wyoming, MI",
+   "url": "https://gfs.wd5.myworkdayjobs.com/usprivate-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336-2",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-12T01:49:32.701Z",
+   "postedAt": "2026-11-11T00:00:00.000Z"
+  },
+  {
+   "company": "Rubrik",
+   "title": "Product Manager Intern - Managed Service Provider",
+   "location": "Palo Alto, CA",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-12T01:49:32.701Z",
+   "postedAt": "2026-11-11T20:39:28.000Z"
+  },
   {
    "company": "APEX Analytix",
    "title": "Product Management Intern",
@@ -2995,6 +3065,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-03T23:17:45.744Z",
    "postedAt": "2026-08-03T00:00:00.000Z"
+  },
+  {
+   "company": "Microsoft",
+   "title": "Product Manager Intern",
+   "location": "Redmond, WA",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-03T06:52:49.188Z",
+   "postedAt": "2026-08-03T06:08:21.000Z"
   },
   {
    "company": "ABEC",
