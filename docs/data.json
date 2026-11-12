@@ -1,11 +1,31 @@
 {
- "generatedAt": "2026-11-12T01:49:32.701Z",
+ "generatedAt": "2026-11-12T09:00:14.797Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "InsCipher",
+   "title": "AI Product Intern",
+   "location": "Pleasant Grove, UT",
+   "url": "https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-12T09:00:14.797Z",
+   "postedAt": "2026-11-12T02:51:52.000Z"
+  },
+  {
+   "company": "Perplexity AI",
+   "title": "Product Manager - Legal",
+   "location": "SF; NYC",
+   "url": "https://jobs.ashbyhq.com/perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-12T09:00:14.797Z",
+   "postedAt": "2026-11-12T00:00:00.000Z"
+  },
   {
    "company": "Avante",
    "title": "Product Engineer - Agent Experience",
@@ -635,16 +655,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-31T01:51:06.760Z",
    "postedAt": "2026-10-30T22:43:01.000Z"
-  },
-  {
-   "company": "Brain Co.",
-   "title": "AI Product Intern",
-   "location": "SF",
-   "url": "https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-30T22:44:13.895Z",
-   "postedAt": "2026-09-12T00:00:00.000Z"
   },
   {
    "company": "HP Inc.",
@@ -1315,16 +1325,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-14T23:33:46.945Z",
    "postedAt": "2026-10-14T22:37:48.000Z"
-  },
-  {
-   "company": "Brain Co.",
-   "title": "AI Product Engineer Co-op Intern",
-   "location": "SF",
-   "url": "https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-14T06:42:08.774Z",
-   "postedAt": "2026-10-14T01:41:04.000Z"
   },
   {
    "company": "CWILL",
