@@ -1,11 +1,52 @@
 {
- "generatedAt": "2026-11-12T22:49:34.673Z",
+ "generatedAt": "2026-11-13T03:03:43.632Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Twitch: The operation was aborted due to timeout"
  ],
  "jobs": [
+  {
+   "company": "Carlisle Companies",
+   "title": "Product Management Intern",
+   "location": "Carlisle, PA",
+   "url": "https://jobs.smartrecruiters.com/Carlisle/3743990016055226",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-13T03:03:43.632Z",
+   "postedAt": "2026-10-12T14:44:28.000Z"
+  },
+  {
+   "company": "Copart",
+   "title": "Associate Product Manager",
+   "location": "Dallas, TX",
+   "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Associate-Product-Manager_JR112795",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-13T03:03:43.632Z",
+   "postedAt": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "company": "Entegris",
+   "title": "Product Management Intern",
+   "location": "Colorado Springs, CO",
+   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-13T03:03:43.632Z",
+   "postedAt": "2026-11-12T00:00:00.000Z"
+  },
+  {
+   "company": "T-Mobile",
+   "title": "Data Product Intern",
+   "location": "Bellevue, WA",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-13T03:03:43.632Z",
+   "postedAt": "2026-11-12T00:00:00.000Z"
+  },
   {
    "company": "Dover",
    "title": "Product Management Intern",
@@ -1335,16 +1376,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-14T23:33:46.945Z",
    "postedAt": "2026-10-14T22:37:48.000Z"
-  },
-  {
-   "company": "CWILL",
-   "title": "Product Management Trainee",
-   "location": "Cary, NC",
-   "url": "https://apply.workable.com/cwill-us/j/DC0FEF1210/apply",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-14T01:37:02.792Z",
-   "postedAt": "2026-10-13T22:20:37.000Z"
   },
   {
    "company": "Clairo",
