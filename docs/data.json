@@ -1,10 +1,9 @@
 {
- "generatedAt": "2026-11-13T03:03:43.632Z",
+ "generatedAt": "2026-11-13T10:52:42.729Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Twitch: The operation was aborted due to timeout"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
   {
