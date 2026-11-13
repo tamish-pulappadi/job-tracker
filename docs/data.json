@@ -1,11 +1,52 @@
 {
- "generatedAt": "2026-11-13T18:18:19.811Z",
+ "generatedAt": "2026-11-13T23:44:57.096Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Visa: 521 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "FieldPulse",
+   "title": "Product Intern",
+   "location": "Dallas, TX",
+   "url": "https://ats.rippling.com/fieldpulse/jobs/c62a858b-8eea-47e8-b481-07b9363d509f",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-13T23:44:57.096Z",
+   "postedAt": "2026-11-13T23:17:25.000Z"
+  },
+  {
+   "company": "Koch Industries",
+   "title": "Product Management Intern - Aerospace & Defense Solutions",
+   "location": "Georgetown, TX",
+   "url": "https://koch.avature.net/en_US/careers/JobDetail/197821",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-13T23:44:57.096Z",
+   "postedAt": "2026-11-13T23:27:01.000Z"
+  },
+  {
+   "company": "Texas Instruments",
+   "title": "Product Engineering Failure Analysis Intern",
+   "location": "Dallas, TX",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016015",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-13T23:44:57.096Z",
+   "postedAt": "2026-11-13T23:04:26.000Z"
+  },
+  {
+   "company": "Trane Technologies",
+   "title": "Product Management Engineering Co-op",
+   "location": "Pueblo, CO; Grand Rapids, MI",
+   "url": "https://careers.tranetechnologies.com/global/en/job/JR-10435",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-13T23:44:57.096Z",
+   "postedAt": "2026-11-13T23:09:30.000Z"
+  },
   {
    "company": "Entegris",
    "title": "Associate Product Manager Intern",
@@ -677,16 +718,6 @@
    "postedAt": "2026-10-30T00:00:00.000Z"
   },
   {
-   "company": "MANN+HUMMEL",
-   "title": "Product Management & Market Intelligence Intern",
-   "location": "Gastonia, NC",
-   "url": "https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-31T01:51:06.760Z",
-   "postedAt": "2026-10-30T22:44:25.000Z"
-  },
-  {
    "company": "Signify",
    "title": "Product Manager Intern",
    "location": "Aurora, CO",
@@ -1045,16 +1076,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-23T19:09:58.690Z",
    "postedAt": "2026-10-08T22:19:09.000Z"
-  },
-  {
-   "company": "1Password",
-   "title": "Product Management Intern, End User Experience - Winter 2027",
-   "location": "Remote (United States | Canada); Remote",
-   "url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003",
-   "kind": "intern",
-   "source": "Company board",
-   "firstSeen": "2026-10-23T15:01:28.923Z",
-   "postedAt": "2026-10-23T13:12:17.029+00:00"
   },
   {
    "company": "HP Inc.",
@@ -1723,16 +1744,6 @@
    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---ENG--HIG-HBM-PSE-Design-Validation_JR112995",
    "kind": "newgrad",
    "source": "Simplify New Grad",
-   "firstSeen": "2026-10-01T00:49:44.761Z",
-   "postedAt": "2026-09-30T00:00:00.000Z"
-  },
-  {
-   "company": "Rockwell Automation",
-   "title": "Product Management Intern - Digital Client",
-   "location": "Mequon, WI",
-   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-7261",
-   "kind": "intern",
-   "source": "Simplify Internships",
    "firstSeen": "2026-10-01T00:49:44.761Z",
    "postedAt": "2026-09-30T00:00:00.000Z"
   },
