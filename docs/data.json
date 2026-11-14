@@ -1,10 +1,9 @@
 {
- "generatedAt": "2026-11-14T10:55:24.164Z",
+ "generatedAt": "2026-11-14T16:48:10.454Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Visa: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
   {
@@ -596,6 +595,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-11-04T01:46:09.708Z",
    "postedAt": "2026-11-03T00:00:00.000Z"
+  },
+  {
+   "company": "Mohawk",
+   "title": "Product Management Associate",
+   "location": "Calhoun, GA",
+   "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Associate-ASPIRE-LDP-Geor-30701/1447354900/?ats=successfactors",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-04T01:46:09.708Z",
+   "postedAt": "2026-11-03T23:04:57.000Z"
   },
   {
    "company": "USAFacts",
@@ -1598,6 +1607,16 @@
    "postedAt": "2026-08-28T00:00:00.000Z"
   },
   {
+   "company": "Mohawk",
+   "title": "Product Management Intern",
+   "location": "Calhoun, GA",
+   "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-05T12:38:01.214Z",
+   "postedAt": "2026-10-05T06:12:38.000Z"
+  },
+  {
    "company": "Capital One",
    "title": "Manager Product Management - Multiple Teams",
    "location": "McLean, VA; Richmond, VA",
@@ -1752,6 +1771,16 @@
    "title": "Product Management Technology Intern",
    "location": "Conyers, GA",
    "url": "https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-30T00:37:26.593Z",
+   "postedAt": "2026-09-29T22:17:17.000Z"
+  },
+  {
+   "company": "Acuity",
+   "title": "Finance AI Product Management Intern",
+   "location": "Atlanta, GA",
+   "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors",
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-09-30T00:37:26.593Z",
@@ -2046,6 +2075,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-14T20:41:41.722Z",
    "postedAt": "2026-09-14T00:00:00.000Z"
+  },
+  {
+   "company": "Acuity",
+   "title": "AI Product Management Specialist - Business Analyst",
+   "location": "Atlanta, GA",
+   "url": "https://careers.acuityinc.com/job/Atlanta-BUILD-Leadership-Program-Business-Analyst-Tech-Product-Management-Specialist-GA-30309/1429284000/?ats=successfactors",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-09-12T02:19:46.221Z",
+   "postedAt": "2026-09-12T01:11:28.000Z"
   },
   {
    "company": "Emerson Electric",
@@ -2486,6 +2525,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-08-31T19:41:57.516Z",
    "postedAt": "2026-08-31T00:00:00.000Z"
+  },
+  {
+   "company": "Qorvo",
+   "title": "Product Engineering Intern",
+   "location": "Hillsboro, OR",
+   "url": "https://careers.qorvo.com/job/Hillsboro-Product-Engineering-Intern-OR-97124/1421976600/?ats=successfactors",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-08-31T06:11:12.240Z",
+   "postedAt": "2026-08-31T05:25:10.000Z"
   },
   {
    "company": "TikTok",
