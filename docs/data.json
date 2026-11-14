@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T23:44:57.096Z",
+ "generatedAt": "2026-11-14T03:36:38.763Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -1046,16 +1046,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-24T00:37:45.599Z",
    "postedAt": "2026-10-23T22:44:19.000Z"
-  },
-  {
-   "company": "1Password",
-   "title": "Product Management Intern - End User Experience",
-   "location": "Remote in USA; Remote in Canada",
-   "url": "https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-23T19:09:58.690Z",
-   "postedAt": "2026-10-23T14:42:25.000Z"
   },
   {
    "company": "Addepar",
