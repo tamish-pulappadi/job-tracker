@@ -1,9 +1,10 @@
 {
- "generatedAt": "2026-11-15T20:08:46.965Z",
+ "generatedAt": "2026-11-15T23:57:07.139Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
-  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
+  "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
+  "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=560"
  ],
  "jobs": [
   {
