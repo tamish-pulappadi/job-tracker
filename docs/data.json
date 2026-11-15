@@ -1,11 +1,41 @@
 {
- "generatedAt": "2026-11-15T14:57:51.690Z",
+ "generatedAt": "2026-11-15T20:08:46.965Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs"
  ],
  "jobs": [
+  {
+   "company": "Fanatics",
+   "title": "Product Management Intern",
+   "location": "Seattle, WA",
+   "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-15T20:08:46.965Z",
+   "postedAt": "2026-11-15T13:05:31.000Z"
+  },
+  {
+   "company": "Fanatics",
+   "title": "Product Intern - Physical Trading Cards",
+   "location": "Coppell, TX",
+   "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-15T20:08:46.965Z",
+   "postedAt": "2026-11-15T13:05:18.000Z"
+  },
+  {
+   "company": "Fanatics",
+   "title": "Product Intern",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-15T20:08:46.965Z",
+   "postedAt": "2026-11-15T13:05:09.000Z"
+  },
   {
    "company": "FieldPulse",
    "title": "Product Intern",
