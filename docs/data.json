@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T21:01:18.170Z",
+ "generatedAt": "2026-11-15T01:00:02.212Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -805,16 +805,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-30T00:56:49.777Z",
    "postedAt": "2026-10-29T22:44:48.000Z"
-  },
-  {
-   "company": "Raydar",
-   "title": "Founding Product Engineer",
-   "location": "SF",
-   "url": "https://apply.workable.com/raydar/j/EB038A923D/apply",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-30T00:56:49.777Z",
-   "postedAt": "2026-10-29T22:29:48.000Z"
   },
   {
    "company": "Raydar",
@@ -3044,16 +3034,6 @@
    "kind": "newgrad",
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-04T00:57:57.580Z",
-   "postedAt": "2026-08-03T00:00:00.000Z"
-  },
-  {
-   "company": "Pentair",
-   "title": "Product Management Internship",
-   "location": "Apex, NC; Brookfield, WI; Delavan, WI; North Aurora, IL; New Brighton, MN; Golden Valley, MN",
-   "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/Product-Management-Leadership-Development-Internship-Program---Summer-2027_R23713",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-03T23:17:45.744Z",
    "postedAt": "2026-08-03T00:00:00.000Z"
   },
   {
