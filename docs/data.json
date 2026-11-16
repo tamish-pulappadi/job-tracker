@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T13:08:24.122Z",
+ "generatedAt": "2026-11-16T22:51:46.766Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,16 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "Addepar",
+   "title": "Technical Product Management Intern - ADX",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910324002",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-16T22:51:46.766Z",
+   "postedAt": "2026-11-16T14:35:35.000Z"
+  },
   {
    "company": "Philips",
    "title": "Upstream Product Management Intern",
@@ -478,16 +488,6 @@
    "postedAt": "2026-11-09T00:00:00.000Z"
   },
   {
-   "company": "Warner Bros.",
-   "title": "Product Management Co-op",
-   "location": "Needham, MA",
-   "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/MA-Needham-117-Kendrick-St/WB-Games-Product-Management-Co-op--Needham--MA---January-May-2027_R000109850",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-11-10T03:31:35.997Z",
-   "postedAt": "2026-11-09T00:00:00.000Z"
-  },
-  {
    "company": "Badger Meter",
    "title": "Product Management Intern",
    "location": "Milwaukee, WI",
@@ -506,16 +506,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-09T21:05:08.393Z",
    "postedAt": "2026-11-06T03:27:48.000Z"
-  },
-  {
-   "company": "Pyrotek",
-   "title": "Product Management Intern",
-   "location": "Spokane, WA",
-   "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000160635163",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-11-09T21:05:08.393Z",
-   "postedAt": "2026-11-09T15:01:39.000Z"
   },
   {
    "company": "TikTok",
@@ -808,16 +798,6 @@
    "postedAt": "2026-10-30T00:00:00.000Z"
   },
   {
-   "company": "The New York Times",
-   "title": "Product Manager Intern",
-   "location": "NYC",
-   "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-30T22:44:13.895Z",
-   "postedAt": "2026-10-30T19:04:42.000Z"
-  },
-  {
    "company": "Astera Labs",
    "title": "AI Product Management Intern",
    "location": "San Jose, CA",
@@ -872,16 +852,6 @@
    "title": "Product Engineer",
    "location": "SF",
    "url": "https://apply.workable.com/raydar/j/C05807495F/apply",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-30T00:56:49.777Z",
-   "postedAt": "2026-10-29T22:29:53.000Z"
-  },
-  {
-   "company": "Raydar",
-   "title": "Research Product Manager",
-   "location": "SF",
-   "url": "https://apply.workable.com/raydar/j/0D7E553664/apply",
    "kind": "newgrad",
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-30T00:56:49.777Z",
@@ -1408,16 +1378,6 @@
    "postedAt": "2026-10-14T22:37:48.000Z"
   },
   {
-   "company": "Clairo",
-   "title": "Associate Product Manager",
-   "location": "Remote in USA; Remote in Canada",
-   "url": "https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/Canada-Remote/Associate-Product-Manager_R18374",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-13T22:58:20.798Z",
-   "postedAt": "2026-10-13T00:00:00.000Z"
-  },
-  {
    "company": "Prologis",
    "title": "AI Product Management Intern",
    "location": "Denver, CO",
@@ -1616,16 +1576,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-06T07:59:49.839Z",
    "postedAt": "2026-10-05T00:00:00.000Z"
-  },
-  {
-   "company": "Cadence Solutions",
-   "title": "Product Management Intern",
-   "location": "Remote in USA",
-   "url": "https://job-boards.greenhouse.io/solutions/jobs/4715294006",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-06T07:59:49.839Z",
-   "postedAt": "2026-10-06T06:40:52.000Z"
   },
   {
    "company": "Hewlett Packard Enterprise",
@@ -1836,16 +1786,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-30T00:37:26.593Z",
    "postedAt": "2026-09-29T22:27:49.000Z"
-  },
-  {
-   "company": "Altice USA",
-   "title": "Mobile Device Product Management Intern",
-   "location": "Bethpage, NY",
-   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Mobile-Device-Product-Management-NY-11714/1434760800/?ats=successfactors",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-29T21:23:10.512Z",
-   "postedAt": "2026-09-29T14:20:05.000Z"
   },
   {
    "company": "Epic Games",
@@ -2156,16 +2096,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-11T13:41:21.687Z",
    "postedAt": "2026-07-22T22:04:32.000Z"
-  },
-  {
-   "company": "TikTok",
-   "title": "Product Manager Project Intern - Business Integrity - MBA",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7683651421602433333",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-10T05:16:18.610Z",
-   "postedAt": "2026-09-10T01:30:21.000Z"
   },
   {
    "company": "ITT",
@@ -2606,16 +2536,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-28T01:34:52.194Z",
    "postedAt": "2026-08-27T00:00:00.000Z"
-  },
-  {
-   "company": "Harper Group",
-   "title": "Product Manager",
-   "location": "SF",
-   "url": "https://jobs.ashbyhq.com/harperinsure/4d603511-cb01-4203-a184-13fe60aed9ee/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-26T05:02:55.710Z",
-   "postedAt": "2026-06-29T22:08:56.000Z"
   },
   {
    "company": "Parkdepot",
