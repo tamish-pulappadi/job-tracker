@@ -1,12 +1,22 @@
 {
- "generatedAt": "2026-11-15T23:57:07.139Z",
+ "generatedAt": "2026-11-16T04:38:34.851Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=560"
+  "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "Philips",
+   "title": "Upstream Product Management Intern",
+   "location": "Bedford, MA",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-16T04:38:34.851Z",
+   "postedAt": "2026-11-15T00:00:00.000Z"
+  },
   {
    "company": "Fanatics",
    "title": "Product Management Intern",
@@ -526,6 +536,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-07T02:06:28.055Z",
    "postedAt": "2026-11-06T18:30:00.000Z"
+  },
+  {
+   "company": "Hewlett Packard Enterprise",
+   "title": "Campus Switching Product Manager New Grad",
+   "location": "San Jose, CA; Roseville, CA",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267-1",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-07T02:06:28.055Z",
+   "postedAt": "2026-11-06T00:00:00.000Z"
   },
   {
    "company": "Honeywell",
@@ -2029,13 +2049,13 @@
   },
   {
    "company": "Stripe",
-   "title": "Product Manager",
+   "title": "Product Manager New Grad",
    "location": "Seattle, WA; SF; NYC",
    "url": "https://stripe.com/jobs/search?gh_jid=7737124",
    "kind": "newgrad",
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-16T05:31:12.043Z",
-   "postedAt": "2026-03-21T01:07:28.000Z"
+   "postedAt": "2026-09-16T01:31:40.000Z"
   },
   {
    "company": "Illinois Tool Works",
