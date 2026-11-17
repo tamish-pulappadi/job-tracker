@@ -1,12 +1,42 @@
 {
- "generatedAt": "2026-11-16T22:51:46.766Z",
+ "generatedAt": "2026-11-17T04:54:10.788Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
+  "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=80"
  ],
  "jobs": [
+  {
+   "company": "Bound",
+   "title": "Product Management Intern",
+   "location": "Ames, IA",
+   "url": "https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-17T04:54:10.788Z",
+   "postedAt": "2026-11-16T23:41:17.000Z"
+  },
+  {
+   "company": "Duetti",
+   "title": "Product Intern",
+   "location": "NYC",
+   "url": "https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2/apply",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-17T04:54:10.788Z",
+   "postedAt": "2026-11-16T23:44:49.000Z"
+  },
+  {
+   "company": "ServiceNow",
+   "title": "Inbound Product Manager Intern",
+   "location": "San Diego, CA",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161885234",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-17T04:54:10.788Z",
+   "postedAt": "2026-11-16T18:22:56.000Z"
+  },
   {
    "company": "Addepar",
    "title": "Technical Product Management Intern - ADX",
@@ -236,16 +266,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-12T01:49:32.701Z",
    "postedAt": "2026-11-11T23:07:48.000Z"
-  },
-  {
-   "company": "FNBO",
-   "title": "Banking Product Intern",
-   "location": "Omaha, NE",
-   "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Intern--Banking-Product_R-20261996",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-11-12T01:49:32.701Z",
-   "postedAt": "2026-11-11T00:00:00.000Z"
   },
   {
    "company": "Gordon Food Service",
@@ -836,46 +856,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-30T00:56:49.777Z",
    "postedAt": "2026-10-29T22:44:48.000Z"
-  },
-  {
-   "company": "Raydar",
-   "title": "Growth Product Manager",
-   "location": "NYC",
-   "url": "https://apply.workable.com/raydar/j/899876B20C/apply",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-30T00:56:49.777Z",
-   "postedAt": "2026-10-29T22:29:51.000Z"
-  },
-  {
-   "company": "Raydar",
-   "title": "Product Engineer",
-   "location": "SF",
-   "url": "https://apply.workable.com/raydar/j/C05807495F/apply",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-30T00:56:49.777Z",
-   "postedAt": "2026-10-29T22:29:53.000Z"
-  },
-  {
-   "company": "Raydar",
-   "title": "Founding Product Engineer",
-   "location": "NYC",
-   "url": "https://apply.workable.com/raydar/j/8017722EB8/apply",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-30T00:56:49.777Z",
-   "postedAt": "2026-10-29T22:29:48.000Z"
-  },
-  {
-   "company": "Raydar",
-   "title": "AI Product Engineer / Forward Deployed Engineer",
-   "location": "London, UK; SF; Austin, TX; Remote in USA; Remote in Canada",
-   "url": "https://apply.workable.com/raydar/j/31364F00E3/apply",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-30T00:56:49.777Z",
-   "postedAt": "2026-10-29T22:29:45.000Z"
   },
   {
    "company": "Signify",
