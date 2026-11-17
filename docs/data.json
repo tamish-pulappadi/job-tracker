@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-17T04:54:10.788Z",
+ "generatedAt": "2026-11-17T14:00:33.128Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=80"
+  "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
   {
@@ -1498,6 +1498,16 @@
    "postedAt": "2026-10-07T22:29:29.000Z"
   },
   {
+   "company": "Electronic Arts",
+   "title": "Product Management Intern",
+   "location": "Austin, TX",
+   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-06T23:28:01.911Z",
+   "postedAt": "2026-10-06T22:20:51.000Z"
+  },
+  {
    "company": "impact.com",
    "title": "Associate Product Manager - Contracting/Action Processing",
    "location": "Seattle, WA; Santa Barbara, CA",
@@ -2986,16 +2996,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-04T00:57:57.580Z",
    "postedAt": "2026-08-03T00:00:00.000Z"
-  },
-  {
-   "company": "Microsoft",
-   "title": "Product Manager Intern",
-   "location": "Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-03T06:52:49.188Z",
-   "postedAt": "2026-08-03T06:08:21.000Z"
   },
   {
    "company": "ABEC",
