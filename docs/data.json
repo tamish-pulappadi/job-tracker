@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T03:45:26.340Z",
+ "generatedAt": "2026-11-18T12:30:19.542Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -326,16 +326,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-12T01:49:32.701Z",
    "postedAt": "2026-11-11T23:07:48.000Z"
-  },
-  {
-   "company": "Gordon Food Service",
-   "title": "Digital Product Management Intern",
-   "location": "Wyoming, MI",
-   "url": "https://gfs.wd5.myworkdayjobs.com/usprivate-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336-2",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-11-12T01:49:32.701Z",
-   "postedAt": "2026-11-11T00:00:00.000Z"
   },
   {
    "company": "Rubrik",
@@ -776,16 +766,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-31T07:47:26.083Z",
    "postedAt": "2026-10-16T19:14:00.000Z"
-  },
-  {
-   "company": "Publicis Groupe",
-   "title": "Product Intern",
-   "location": "Chicago, IL",
-   "url": "https://publicisgroupe.jibeapply.com/jobs/172716?icims=1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-31T07:47:26.083Z",
-   "postedAt": "2026-10-16T19:15:00.000Z"
   },
   {
    "company": "ASML",
@@ -1378,16 +1358,6 @@
    "postedAt": "2026-10-14T00:00:00.000Z"
   },
   {
-   "company": "Normal Computing",
-   "title": "Product Manager",
-   "location": "NYC",
-   "url": "https://jobs.ashbyhq.com/normalcomputing/acc80301-3574-4cc8-904a-fb66a346ebd4/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-14T23:33:46.945Z",
-   "postedAt": "2026-10-14T22:37:48.000Z"
-  },
-  {
    "company": "Prologis",
    "title": "AI Product Management Intern",
    "location": "Denver, CO",
@@ -1526,16 +1496,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-08T01:18:36.940Z",
    "postedAt": "2026-10-07T22:29:29.000Z"
-  },
-  {
-   "company": "Electronic Arts",
-   "title": "Product Management Intern",
-   "location": "Austin, TX",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-06T23:28:01.911Z",
-   "postedAt": "2026-10-06T22:20:51.000Z"
   },
   {
    "company": "impact.com",
@@ -2719,16 +2679,6 @@
   },
   {
    "company": "TikTok",
-   "title": "Product Manager Graduate - Content and Service - Search Ads",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7675440171819960629",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-19T02:16:42.884Z",
-   "postedAt": "2026-08-19T01:14:49.000Z"
-  },
-  {
-   "company": "TikTok",
    "title": "Product Manager Intern - Content and Services",
    "location": "San Jose, CA",
    "url": "https://lifeattiktok.com/search/7673337777708550405",
@@ -2766,16 +2716,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-14T05:02:35.156Z",
    "postedAt": "2026-08-14T03:57:21.000Z"
-  },
-  {
-   "company": "TikTok",
-   "title": "Product Manager Graduate - Content and Service Ads",
-   "location": "San Jose, CA",
-   "url": "https://lifeattiktok.com/search/7673333697095469317",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-14T05:02:35.156Z",
-   "postedAt": "2026-08-14T03:57:22.000Z"
   },
   {
    "company": "TikTok",
@@ -3026,16 +2966,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-04T00:57:57.580Z",
    "postedAt": "2026-08-03T00:00:00.000Z"
-  },
-  {
-   "company": "ABEC",
-   "title": "Product Engineer",
-   "location": "Bethlehem, PA",
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372257",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-02T14:54:43.661Z",
-   "postedAt": "2026-07-31T17:09:45.000Z"
   },
   {
    "company": "Dome Systems Inc",
