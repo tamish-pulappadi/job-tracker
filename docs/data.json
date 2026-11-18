@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T22:16:54.867Z",
+ "generatedAt": "2026-11-18T03:45:26.340Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -8,14 +8,64 @@
  ],
  "jobs": [
   {
-   "company": "Salesforce",
-   "title": "Product Management Intern - Product Management",
-   "location": "SF; NYC",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1",
+   "company": "APEX Analytix",
+   "title": "Product Management Intern - DevOps",
+   "location": "Greensboro, NC",
+   "url": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164",
    "kind": "intern",
    "source": "Simplify Internships",
-   "firstSeen": "2026-11-17T22:16:54.867Z",
-   "postedAt": "2026-11-06T00:00:00.000Z"
+   "firstSeen": "2026-11-18T03:45:26.340Z",
+   "postedAt": "2026-11-17T23:24:15.000Z"
+  },
+  {
+   "company": "Hanes Companies",
+   "title": "Product Management Trainee",
+   "location": "Winston-Salem, NC",
+   "url": "https://hanescompanies.applytojob.com/apply/NKLr584hFW/Product-Management-Trainee",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-18T03:45:26.340Z",
+   "postedAt": "2026-11-17T23:49:36.000Z"
+  },
+  {
+   "company": "JP Morgan Chase",
+   "title": "Product Manager - Investor Access - Analyst",
+   "location": "NYC",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810015",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-18T03:45:26.340Z",
+   "postedAt": "2026-11-17T23:06:41.000Z"
+  },
+  {
+   "company": "Smarty",
+   "title": "Product Management Intern",
+   "location": "Orem, UT",
+   "url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-18T03:45:26.340Z",
+   "postedAt": "2026-11-18T02:29:56.000Z"
+  },
+  {
+   "company": "TikTok",
+   "title": "Logistics Product Manager Graduate - Supply Chain and Logistics",
+   "location": "Seattle, WA",
+   "url": "https://lifeattiktok.com/search/7704910847553931573",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-18T03:45:26.340Z",
+   "postedAt": "2026-11-18T02:11:13.000Z"
+  },
+  {
+   "company": "Uber",
+   "title": "Product Management Intern",
+   "location": "SF",
+   "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-18T03:45:26.340Z",
+   "postedAt": "2026-11-17T23:36:40.000Z"
   },
   {
    "company": "Bound",
@@ -708,16 +758,6 @@
    "postedAt": "2026-11-02T13:14:28.000Z"
   },
   {
-   "company": "Intercontinental Exchange",
-   "title": "Product Management Intern",
-   "location": "Atlanta, GA",
-   "url": "https://ice.jibeapply.com/jobs/14065?icims=1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-31T07:47:26.083Z",
-   "postedAt": "2026-10-23T20:09:00.000Z"
-  },
-  {
    "company": "Publicis Groupe",
    "title": "Product Intern",
    "location": "Irving, TX",
@@ -876,16 +916,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-29T16:05:22.995Z",
    "postedAt": "2026-10-21T16:06:30.000Z"
-  },
-  {
-   "company": "Sonos",
-   "title": "Software Product Manager Intern",
-   "location": "Seattle, WA",
-   "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-29T16:05:22.995Z",
-   "postedAt": "2026-10-29T00:00:00.000Z"
   },
   {
    "company": "Elevate Semiconductor",
@@ -3049,16 +3079,6 @@
   },
   {
    "company": "Databricks",
-   "title": "Associate Product Manager, New Grad (2027 Start)",
-   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002",
-   "kind": "newgrad",
-   "source": "Company board",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2024-08-08T18:52:06-04:00"
-  },
-  {
-   "company": "Databricks",
    "title": "Product Management Intern (Summer 2027)",
    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
@@ -3066,16 +3086,6 @@
    "source": "Company board",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2023-08-17T17:27:27-04:00"
-  },
-  {
-   "company": "Databricks",
-   "title": "Associate Product Manager New Grad",
-   "location": "SF; Bellevue, WA; Mountain View, CA",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=7586263002",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-07-16T22:18:51.000Z"
   },
   {
    "company": "Databricks",
