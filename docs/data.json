@@ -1,12 +1,22 @@
 {
- "generatedAt": "2026-11-19T10:14:58.225Z",
+ "generatedAt": "2026-11-19T18:59:36.690Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
   "Instabase: 404 https://boards-api.greenhouse.io/v1/boards/instabase/jobs",
-  "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=420"
+  "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "American Express",
+   "title": "Analyst – Product Management",
+   "location": "NYC",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016885",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-19T18:59:36.690Z",
+   "postedAt": "2026-11-19T15:13:24.000Z"
+  },
   {
    "company": "Lucid",
    "title": "Product Management Intern",
@@ -252,16 +262,6 @@
    "title": "Product Management Intern",
    "location": "Colorado Springs, CO",
    "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-11-13T03:03:43.632Z",
-   "postedAt": "2026-11-12T00:00:00.000Z"
-  },
-  {
-   "company": "T-Mobile",
-   "title": "Data Product Intern",
-   "location": "Bellevue, WA",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212",
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-11-13T03:03:43.632Z",
@@ -1166,16 +1166,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-23T00:28:10.628Z",
    "postedAt": "2026-10-22T22:24:21.000Z"
-  },
-  {
-   "company": "NVIDIA",
-   "title": "Product Management MBA Intern - Gaming, Content Creation, And PC AI",
-   "location": "Canada; Santa Clara, CA; United States",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-22T04:37:11.438Z",
-   "postedAt": "2026-10-21T00:00:00.000Z"
   },
   {
    "company": "Tesla",
@@ -2246,16 +2236,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-09-03T19:50:30.822Z",
    "postedAt": "2026-05-11T14:08:06.000Z"
-  },
-  {
-   "company": "Oracle",
-   "title": "Product Manager Intern - Ovip",
-   "location": "Kansas City, MO",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-03T19:50:30.822Z",
-   "postedAt": "2026-05-21T01:06:46.000Z"
   },
   {
    "company": "TikTok",
