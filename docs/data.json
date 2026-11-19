@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T20:53:30.716Z",
+ "generatedAt": "2026-11-19T02:08:27.204Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,36 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "Lucid",
+   "title": "Product Management Intern",
+   "location": "Raleigh, NC",
+   "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-19T02:08:27.204Z",
+   "postedAt": "2026-11-18T23:36:36.000Z"
+  },
+  {
+   "company": "Lucid",
+   "title": "Product Management Intern",
+   "location": "Salt Lake City, UT",
+   "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-19T02:08:27.204Z",
+   "postedAt": "2026-11-18T23:36:38.000Z"
+  },
+  {
+   "company": "Pyrotek",
+   "title": "Product Management Intern",
+   "location": "Spokane, WA",
+   "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000162385949",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-19T02:08:27.204Z",
+   "postedAt": "2026-11-18T20:15:29.000Z"
+  },
   {
    "company": "APEX Analytix",
    "title": "Product Management Intern - DevOps",
@@ -1606,16 +1636,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-04T02:27:54.495Z",
    "postedAt": "2026-05-05T01:19:43.000Z"
-  },
-  {
-   "company": "Koch Industries",
-   "title": "Product Management Intern",
-   "location": "Eden Prairie, MN; Lisle, IL",
-   "url": "https://koch.avature.net/en_US/careers/JobDetail/195099",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-03T02:12:20.951Z",
-   "postedAt": "2026-10-03T01:17:12.000Z"
   },
   {
    "company": "C3.ai",
