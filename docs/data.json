@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T01:05:33.976Z",
+ "generatedAt": "2026-11-20T08:29:45.909Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,26 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "CAS",
+   "title": "Product Management Intern",
+   "location": "Columbus, OH",
+   "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=446d0048-3a4f-48d6-afd7-7cc59e589336",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-20T08:29:45.909Z",
+   "postedAt": "2026-11-20T07:42:54.000Z"
+  },
+  {
+   "company": "CAS",
+   "title": "Product Management in AI for Chemistry Fellow",
+   "location": "Columbus, OH",
+   "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f0600bf5-5242-4565-9d1a-021544b8fca1",
+   "kind": "newgrad",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-20T08:29:45.909Z",
+   "postedAt": "2026-11-20T07:42:55.000Z"
+  },
   {
    "company": "American Express",
    "title": "Analyst – Product Management",
