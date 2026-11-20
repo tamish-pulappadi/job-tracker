@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T17:09:10.576Z",
+ "generatedAt": "2026-11-20T23:03:31.339Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -576,16 +576,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-10T03:31:35.997Z",
    "postedAt": "2026-11-09T16:16:07.000Z"
-  },
-  {
-   "company": "Jerry",
-   "title": "Product Manager-in-Training",
-   "location": "Palo Alto, CA",
-   "url": "https://jobs.ashbyhq.com/jerry.ai/60575f8f-a6b5-4099-9273-57a01dc04d44/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-11-10T03:31:35.997Z",
-   "postedAt": "2026-11-09T00:00:00.000Z"
   },
   {
    "company": "NVIDIA",
