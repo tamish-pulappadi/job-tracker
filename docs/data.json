@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T08:29:45.909Z",
+ "generatedAt": "2026-11-20T17:09:10.576Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -3046,16 +3046,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-07-27T17:46:09.090Z",
    "postedAt": "2026-06-23T13:45:49.000Z"
-  },
-  {
-   "company": "Uncountable",
-   "title": "Product Manager – New Grad",
-   "location": "SF; NYC",
-   "url": "https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc/application",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-07-27T17:46:09.090Z",
-   "postedAt": "2026-03-25T09:15:44.000Z"
   }
  ]
 }
