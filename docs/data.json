@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T18:59:36.690Z",
+ "generatedAt": "2026-11-20T01:05:33.976Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -76,16 +76,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-11-18T03:45:26.340Z",
    "postedAt": "2026-11-17T23:06:41.000Z"
-  },
-  {
-   "company": "Smarty",
-   "title": "Product Management Intern",
-   "location": "Orem, UT",
-   "url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-11-18T03:45:26.340Z",
-   "postedAt": "2026-11-18T02:29:56.000Z"
   },
   {
    "company": "TikTok",
@@ -2356,16 +2346,6 @@
    "source": "Company board",
    "firstSeen": "2026-09-02T17:09:02.814Z",
    "postedAt": "2026-09-02T12:41:02-04:00"
-  },
-  {
-   "company": "Atlassian",
-   "title": "Product Management Intern",
-   "location": "SF",
-   "url": "https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-02T08:56:17.735Z",
-   "postedAt": "2026-09-02T06:12:35.000Z"
   },
   {
    "company": "Clearwater Analytics",
