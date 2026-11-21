@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T12:01:28.002Z",
+ "generatedAt": "2026-11-21T19:09:01.812Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,36 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "AriensCo",
+   "title": "Product Management Intern",
+   "location": "Brillion, WI",
+   "url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-21T19:09:01.812Z",
+   "postedAt": "2026-11-20T00:00:00.000Z"
+  },
+  {
+   "company": "J.Crew",
+   "title": "Associate Product Manager - Web Experience",
+   "location": "NYC",
+   "url": "https://jcrew.wd1.myworkdayjobs.com/FriendsFamilyCareers/job/New-York-NY-USA-Headquarters/Associate-Product-Manager_126672",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-21T19:09:01.812Z",
+   "postedAt": "2026-11-16T00:00:00.000Z"
+  },
+  {
+   "company": "Walmart",
+   "title": "MBA Product Manager Intern - MBA",
+   "location": "Bentonville, AR",
+   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-21T19:09:01.812Z",
+   "postedAt": "2026-11-20T00:00:00.000Z"
+  },
   {
    "company": "First Merchants Bank",
    "title": "Treasury Management Product Intern",
