@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T23:03:31.339Z",
+ "generatedAt": "2026-11-21T03:56:41.264Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,116 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "First Merchants Bank",
+   "title": "Treasury Management Product Intern",
+   "location": "Columbus, OH",
+   "url": "https://recruiting.ultipro.com/FIR1024FRME/JobBoard/d8ba2a8e-910f-42cf-9614-28c6f0ccdee4/OpportunityDetail?opportunityId=affbbaee-6ee2-45f7-a52b-7accf4458029",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-21T03:56:41.264Z",
+   "postedAt": "2026-11-20T23:21:27.000Z"
+  },
+  {
+   "company": "iCapital Network",
+   "title": "Product Management Intern",
+   "location": "NYC",
+   "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8944694002",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-21T03:56:41.264Z",
+   "postedAt": "2026-11-20T18:20:13.000Z"
+  },
+  {
+   "company": "Jerry",
+   "title": "Product Manager - 2x YC founder mentorship",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.ashbyhq.com/jerry.ai/62d15042-9e60-405a-a14b-5689ce1bdcf0/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-21T03:56:41.264Z",
+   "postedAt": "2026-11-20T00:00:00.000Z"
+  },
+  {
+   "company": "Jerry",
+   "title": "Product Manager-in-Training",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.ashbyhq.com/jerry.ai/a192c0e7-aa27-4c76-ba9d-7a0a197ae312/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-21T03:56:41.264Z",
+   "postedAt": "2026-11-20T00:00:00.000Z"
+  },
+  {
+   "company": "Jewelers Mutual Group",
+   "title": "Product Intern",
+   "location": "Neenah, WI",
+   "url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=73e636fd-4bf6-45be-9b83-3f5d3a9315ea",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-21T03:56:41.264Z",
+   "postedAt": "2026-11-20T23:17:55.000Z"
+  },
+  {
+   "company": "Method",
+   "title": "Product Management Intern",
+   "location": "Remote in USA; Santa Clara, CA; Charlotte, NC; NYC; Remote in Canada",
+   "url": "https://job-boards.greenhouse.io/method/jobs/8207585003",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-21T03:56:41.264Z",
+   "postedAt": "2026-11-20T19:24:46.000Z"
+  },
+  {
+   "company": "Milliman",
+   "title": "AI Product Engineer",
+   "location": "Brookfield, WI; Remote in USA",
+   "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=caa572e4-f514-48c0-80c6-620b7465a91e",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-21T03:56:41.264Z",
+   "postedAt": "2026-11-20T23:39:33.000Z"
+  },
+  {
+   "company": "Milliman",
+   "title": "AI Product Engineer Intern",
+   "location": "Brookfield, WI; Chicago, IL",
+   "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=4f353716-eb67-4f11-a274-efee2100be07",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-21T03:56:41.264Z",
+   "postedAt": "2026-11-20T23:39:35.000Z"
+  },
+  {
+   "company": "Publicis Groupe",
+   "title": "Product Intern",
+   "location": "NYC",
+   "url": "https://careers.publicisgroupe.com/jobs/172717?icims=1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-21T03:56:41.264Z",
+   "postedAt": "2026-10-16T19:14:00.000Z"
+  },
+  {
+   "company": "TransCore",
+   "title": "Associate Product Manager",
+   "location": "Atlanta, GA",
+   "url": "https://recruiting2.ultipro.com/TRA1034TNSC/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=55e32159-4c95-48ea-bb03-01dbca8391c3",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-21T03:56:41.264Z",
+   "postedAt": "2026-11-20T23:58:29.000Z"
+  },
+  {
+   "company": "VanEck",
+   "title": "ETF Product Intern",
+   "location": "NYC",
+   "url": "https://vaneck.rec.pro.ukg.net/VAN1502VEAC/JobBoard/9158c56d-61c9-447f-98b1-4ba0b04ca31d/OpportunityDetail?opportunityId=185d986f-8f9f-40ac-bf05-a26e3aa02f9e",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-21T03:56:41.264Z",
+   "postedAt": "2026-11-20T23:03:32.000Z"
+  },
   {
    "company": "CAS",
    "title": "Product Management Intern",
@@ -786,16 +896,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-31T07:47:26.083Z",
    "postedAt": "2026-10-16T19:10:00.000Z"
-  },
-  {
-   "company": "Publicis Groupe",
-   "title": "Product Intern",
-   "location": "NYC",
-   "url": "https://publicisgroupe.jibeapply.com/jobs/172717?icims=1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-31T07:47:26.083Z",
-   "postedAt": "2026-10-16T19:14:00.000Z"
   },
   {
    "company": "ASML",
@@ -1758,16 +1858,6 @@
    "postedAt": "2026-09-29T13:22:52-04:00"
   },
   {
-   "company": "Goldman Sachs",
-   "title": "Product Manager Analyst - Transaction Banking - API",
-   "location": "Dallas, TX",
-   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/185198",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-09-29T05:39:26.967Z",
-   "postedAt": "2026-09-28T14:20:06.000Z"
-  },
-  {
    "company": "W.R. Berkley",
    "title": "Product Management Analyst Intern",
    "location": "Urbandale, IA",
@@ -2348,16 +2438,6 @@
    "postedAt": "2026-09-03T02:13:59.000Z"
   },
   {
-   "company": "Roblox",
-   "title": "[2027] Associate Product Manager, Early Career",
-   "location": "San Mateo, CA, United States",
-   "url": "https://careers.roblox.com/jobs/8143976?gh_jid=8143976",
-   "kind": "newgrad",
-   "source": "Company board",
-   "firstSeen": "2026-09-02T17:09:02.814Z",
-   "postedAt": "2026-09-02T12:41:02-04:00"
-  },
-  {
    "company": "Clearwater Analytics",
    "title": "Technical Product Management Intern",
    "location": "NYC",
@@ -2836,16 +2916,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-10T20:02:52.766Z",
    "postedAt": "2026-08-10T00:00:00.000Z"
-  },
-  {
-   "company": "Medline",
-   "title": "MBA Intern - Product Management",
-   "location": "Chicago, IL; Northfield, IL",
-   "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-08-08T06:00:41.238Z",
-   "postedAt": "2026-08-07T00:00:00.000Z"
   },
   {
    "company": "TikTok",
