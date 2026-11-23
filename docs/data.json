@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T08:12:35.338Z",
+ "generatedAt": "2026-11-23T20:12:01.075Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -1172,16 +1172,6 @@
    "title": "Product Engineer Intern",
    "location": "Chicago, IL; Richardson, TX",
    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Intern_R0059492",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-26T23:20:50.756Z",
-   "postedAt": "2026-10-26T00:00:00.000Z"
-  },
-  {
-   "company": "Zebra Technologies",
-   "title": "Product Management Intern",
-   "location": "Lincolnshire, IL",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652",
    "kind": "intern",
    "source": "Simplify Internships",
    "firstSeen": "2026-10-26T23:20:50.756Z",
