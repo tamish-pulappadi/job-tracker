@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T00:37:00.272Z",
+ "generatedAt": "2026-11-23T08:12:35.338Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,16 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "First Resonance",
+   "title": "Product Management Intern",
+   "location": "El Segundo, CA",
+   "url": "https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-23T08:12:35.338Z",
+   "postedAt": "2026-11-23T00:00:00.000Z"
+  },
   {
    "company": "Megger",
    "title": "Product Manager Intern",
