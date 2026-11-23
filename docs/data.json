@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T19:58:50.983Z",
+ "generatedAt": "2026-11-23T00:37:00.272Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,16 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "Megger",
+   "title": "Product Manager Intern",
+   "location": "Dallas, TX",
+   "url": "https://megger.wd3.myworkdayjobs.com/MeggerCareers/job/Dallas-United-States/Product-Manager-Intern_JR100870",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-23T00:37:00.272Z",
+   "postedAt": "2026-11-19T00:00:00.000Z"
+  },
   {
    "company": "Fiskars Group",
    "title": "Product Management Intern",
