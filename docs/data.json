@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T20:12:01.075Z",
+ "generatedAt": "2026-11-24T04:46:07.503Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,76 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "Blueprint AI (Mental Health)",
+   "title": "Product Engineering Intern",
+   "location": "Remote in USA",
+   "url": "https://apply.workable.com/blueprint-health/j/6C902886A5/apply",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-24T04:46:07.503Z",
+   "postedAt": "2026-11-23T23:05:09.000Z"
+  },
+  {
+   "company": "Electric Power Engineers",
+   "title": "Product Management Intern",
+   "location": "Austin, TX",
+   "url": "https://careers-epeconsulting.icims.com/jobs/2449/job?mobile=true&needsRedirect=false",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-24T04:46:07.503Z",
+   "postedAt": "2026-11-23T00:00:00.000Z"
+  },
+  {
+   "company": "Illumio",
+   "title": "Product Manager Intern",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.ashbyhq.com/illumio/1dbbc51c-ede6-4067-98df-9e4d9d06f6d3/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-24T04:46:07.503Z",
+   "postedAt": "2026-11-23T00:00:00.000Z"
+  },
+  {
+   "company": "Illumio",
+   "title": "Product Management Intern - Solution Economics",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.ashbyhq.com/illumio/96759634-4161-4931-9cf3-5933035be101/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-24T04:46:07.503Z",
+   "postedAt": "2026-11-23T00:00:00.000Z"
+  },
+  {
+   "company": "Illumio",
+   "title": "Technical Product Management Intern",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-24T04:46:07.503Z",
+   "postedAt": "2026-11-23T00:00:00.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Simulation Engineering Student Intern - Product Engineering",
+   "location": "Urbandale, IA",
+   "url": "https://johndeere.eightfold.ai/careers/job/137484510505",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-24T04:46:07.503Z",
+   "postedAt": "2026-11-23T23:23:34.000Z"
+  },
+  {
+   "company": "Nuro",
+   "title": "Technical Program Manager, Systems Intern",
+   "location": "Mountain View, California (HQ)",
+   "url": "https://nuro.ai/careersitem?gh_jid=8412577",
+   "kind": "intern",
+   "source": "Company board",
+   "firstSeen": "2026-11-24T04:46:07.503Z",
+   "postedAt": "2026-11-23T16:50:12-05:00"
+  },
   {
    "company": "First Resonance",
    "title": "Product Management Intern",
@@ -36,26 +106,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-22T19:58:50.983Z",
    "postedAt": "2026-11-19T00:00:00.000Z"
-  },
-  {
-   "company": "AriensCo",
-   "title": "Product Management Intern",
-   "location": "Brillion, WI",
-   "url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-11-21T19:09:01.812Z",
-   "postedAt": "2026-11-20T00:00:00.000Z"
-  },
-  {
-   "company": "J.Crew",
-   "title": "Associate Product Manager - Web Experience",
-   "location": "NYC",
-   "url": "https://jcrew.wd1.myworkdayjobs.com/FriendsFamilyCareers/job/New-York-NY-USA-Headquarters/Associate-Product-Manager_126672",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-11-21T19:09:01.812Z",
-   "postedAt": "2026-11-16T00:00:00.000Z"
   },
   {
    "company": "Walmart",
@@ -1016,16 +1066,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-30T22:44:13.895Z",
    "postedAt": "2026-10-30T00:00:00.000Z"
-  },
-  {
-   "company": "Astera Labs",
-   "title": "AI Product Management Intern",
-   "location": "San Jose, CA",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-30T18:52:05.719Z",
-   "postedAt": "2026-10-30T14:19:31.000Z"
   },
   {
    "company": "C3.ai",
@@ -1996,16 +2036,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-18T11:33:05.433Z",
    "postedAt": "2026-09-18T06:11:57.000Z"
-  },
-  {
-   "company": "Rockwell Automation",
-   "title": "Product Management Intern",
-   "location": "Mequon, WI",
-   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Product-Management_R26-6971",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-09-18T06:22:20.973Z",
-   "postedAt": "2026-09-16T00:00:00.000Z"
   },
   {
    "company": "Zurn Elkay Water Solutions",
