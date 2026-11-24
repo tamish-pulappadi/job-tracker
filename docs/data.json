@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T04:46:07.503Z",
+ "generatedAt": "2026-11-24T15:26:16.510Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,16 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "CarGurus",
+   "title": "Product Management Intern",
+   "location": "Boston, MA",
+   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230686",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-24T15:26:16.510Z",
+   "postedAt": "2026-09-30T20:58:39.000Z"
+  },
   {
    "company": "Blueprint AI (Mental Health)",
    "title": "Product Engineering Intern",
@@ -878,16 +888,6 @@
    "postedAt": "2026-11-06T10:34:54.000Z"
   },
   {
-   "company": "Invesco",
-   "title": "Digital Product Management Intern",
-   "location": "Atlanta, GA",
-   "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-11-06T02:58:53.648Z",
-   "postedAt": "2026-11-05T00:00:00.000Z"
-  },
-  {
    "company": "ABB",
    "title": "Product Management Intern",
    "location": "New Berlin, WI",
@@ -1126,16 +1126,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-28T23:44:18.489Z",
    "postedAt": "2026-10-28T22:43:33.000Z"
-  },
-  {
-   "company": "T-Mobile",
-   "title": "Associate Product Manager - App",
-   "location": "Bellevue, WA",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Product-Manager---App_REQ373263-1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-10-28T23:44:18.489Z",
-   "postedAt": "2026-10-28T00:00:00.000Z"
   },
   {
    "company": "Texas Instruments",
@@ -2436,6 +2426,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-09-03T09:11:25.581Z",
    "postedAt": "2026-09-02T00:00:00.000Z"
+  },
+  {
+   "company": "John Deere",
+   "title": "Application Engineering Intern - JDPS Application Engineering - Product Engineering",
+   "location": "Waterloo, IA",
+   "url": "https://johndeere.eightfold.ai/careers/job/137483157846",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-09-03T09:11:25.581Z",
+   "postedAt": "2026-09-03T03:53:15.000Z"
   },
   {
    "company": "Newrez",
