@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T18:07:16.708Z",
+ "generatedAt": "2026-11-26T01:45:21.862Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,56 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "Ancestry",
+   "title": "Product Manager Co-op - DNA to Family History - Bridges",
+   "location": "Remote in USA",
+   "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Product-Manager-Co-op---DNA-to-Family-History--Bridges-_R003505",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-26T01:45:21.862Z",
+   "postedAt": "2026-11-25T00:00:00.000Z"
+  },
+  {
+   "company": "Docusign",
+   "title": "Product Manager Intern",
+   "location": "Seattle, WA; SF",
+   "url": "https://careers.docusign.com/jobs/32541?icims=1&lang=en-us",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-26T01:45:21.862Z",
+   "postedAt": "2026-11-25T19:04:00.000Z"
+  },
+  {
+   "company": "Docusign",
+   "title": "Product Manager Intern - Abuse Protection",
+   "location": "Seattle, WA; SF",
+   "url": "https://careers.docusign.com/jobs/32212?icims=1&lang=en-us",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-26T01:45:21.862Z",
+   "postedAt": "2026-11-25T16:09:00.000Z"
+  },
+  {
+   "company": "Total Quality Logistics",
+   "title": "Product Management Intern",
+   "location": "Cincinnati, OH",
+   "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19765",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-26T01:45:21.862Z",
+   "postedAt": "2026-11-25T23:48:11.000Z"
+  },
+  {
+   "company": "Total Quality Logistics",
+   "title": "AI Product Intern",
+   "location": "Cincinnati, OH",
+   "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19757",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-26T01:45:21.862Z",
+   "postedAt": "2026-11-25T23:48:04.000Z"
+  },
   {
    "company": "Dell Technologies",
    "title": "Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement",
