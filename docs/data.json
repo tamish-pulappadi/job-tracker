@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T10:14:14.556Z",
+ "generatedAt": "2026-11-26T19:37:51.955Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,16 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "Zebra Technologies",
+   "title": "Product Management Intern",
+   "location": "Lincolnshire, IL",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-26T19:37:51.955Z",
+   "postedAt": "2026-11-23T00:00:00.000Z"
+  },
   {
    "company": "OpenSesame",
    "title": "Product Intern",
@@ -406,6 +416,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-19T02:08:27.204Z",
    "postedAt": "2026-11-18T20:15:29.000Z"
+  },
+  {
+   "company": "APEX Analytix",
+   "title": "Product Management Intern - DevOps",
+   "location": "Greensboro, NC",
+   "url": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-18T03:45:26.340Z",
+   "postedAt": "2026-11-17T23:24:15.000Z"
   },
   {
    "company": "Hanes Companies",
@@ -1026,16 +1046,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-04T08:21:01.006Z",
    "postedAt": "2026-11-04T02:46:48.000Z"
-  },
-  {
-   "company": "Blackhawk Network Holdings",
-   "title": "Associate Product Manager - Technology",
-   "location": "Pleasanton, CA",
-   "url": "https://blackhawknetwork.jibeapply.com/jobs/27263?icims=1",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-11-04T01:46:09.708Z",
-   "postedAt": "2026-11-03T19:55:00.000Z"
   },
   {
    "company": "GAF",
