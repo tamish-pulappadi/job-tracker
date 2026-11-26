@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T01:45:21.862Z",
+ "generatedAt": "2026-11-26T10:14:14.556Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,26 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "OpenSesame",
+   "title": "Product Intern",
+   "location": "Remote in USA",
+   "url": "https://boards.greenhouse.io/opensesame/jobs/8418204",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-26T10:14:14.556Z",
+   "postedAt": "2026-11-25T23:47:53.000Z"
+  },
+  {
+   "company": "QuEra Computing",
+   "title": "Technical Product Management Intern",
+   "location": "Boston, MA",
+   "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-26T10:14:14.556Z",
+   "postedAt": "2026-11-25T23:44:45.000Z"
+  },
   {
    "company": "Ancestry",
    "title": "Product Manager Co-op - DNA to Family History - Bridges",
@@ -386,16 +406,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-19T02:08:27.204Z",
    "postedAt": "2026-11-18T20:15:29.000Z"
-  },
-  {
-   "company": "APEX Analytix",
-   "title": "Product Management Intern - DevOps",
-   "location": "Greensboro, NC",
-   "url": "https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-11-18T03:45:26.340Z",
-   "postedAt": "2026-11-17T23:24:15.000Z"
   },
   {
    "company": "Hanes Companies",
