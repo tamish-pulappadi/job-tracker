@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T11:05:34.197Z",
+ "generatedAt": "2026-11-27T19:55:33.224Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -276,16 +276,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-21T03:56:41.264Z",
    "postedAt": "2026-11-20T18:20:13.000Z"
-  },
-  {
-   "company": "Jerry",
-   "title": "Product Manager-in-Training",
-   "location": "Palo Alto, CA",
-   "url": "https://jobs.ashbyhq.com/jerry.ai/a192c0e7-aa27-4c76-ba9d-7a0a197ae312/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-11-21T03:56:41.264Z",
-   "postedAt": "2026-11-20T00:00:00.000Z"
   },
   {
    "company": "Jewelers Mutual Group",
