@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T19:37:51.955Z",
+ "generatedAt": "2026-11-27T02:23:23.029Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -276,16 +276,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-21T03:56:41.264Z",
    "postedAt": "2026-11-20T18:20:13.000Z"
-  },
-  {
-   "company": "Jerry",
-   "title": "Product Manager - 2x YC founder mentorship",
-   "location": "Palo Alto, CA",
-   "url": "https://jobs.ashbyhq.com/jerry.ai/62d15042-9e60-405a-a14b-5689ce1bdcf0/application?embed=true",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-11-21T03:56:41.264Z",
-   "postedAt": "2026-11-20T00:00:00.000Z"
   },
   {
    "company": "Jerry",
@@ -3170,12 +3160,12 @@
   {
    "company": "Globus Medical",
    "title": "Product Manager",
-   "location": "King of Prussia, PA",
+   "location": "Audubon, PA",
    "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Manager_JR106319",
    "kind": "newgrad",
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-01T14:10:38.339Z",
-   "postedAt": "2026-03-31T22:08:12.000Z"
+   "postedAt": "2026-06-20T10:55:29.000Z"
   },
   {
    "company": "Appian",
