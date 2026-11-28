@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T02:24:32.406Z",
+ "generatedAt": "2026-11-28T10:41:15.543Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,16 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "Samsung",
+   "title": "Technical Product Management Intern - D2C Shopping Experiences - Mobile & Consumer Electronics",
+   "location": "Mountain View, CA",
+   "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Technical-Product-Management-Intern---D2C-Shopping-Experiences--Mobile---Consumer-Electronics-_R122020",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-28T10:41:15.543Z",
+   "postedAt": "2026-11-16T00:00:00.000Z"
+  },
   {
    "company": "ASML",
    "title": "Optical Imaging Product Engineer Intern",
@@ -496,16 +506,6 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-11-20T08:29:45.909Z",
    "postedAt": "2026-11-20T07:42:55.000Z"
-  },
-  {
-   "company": "American Express",
-   "title": "Analyst – Product Management",
-   "location": "NYC",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016885",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-11-19T18:59:36.690Z",
-   "postedAt": "2026-11-19T15:13:24.000Z"
   },
   {
    "company": "Lucid",
@@ -2836,16 +2836,6 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-08-28T23:07:16.978Z",
    "postedAt": "2026-08-28T00:00:00.000Z"
-  },
-  {
-   "company": "Booz Allen",
-   "title": "Product Engineer",
-   "location": "McLean, VA",
-   "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Product-Engineer_R0248101",
-   "kind": "newgrad",
-   "source": "Simplify New Grad",
-   "firstSeen": "2026-08-28T01:34:52.194Z",
-   "postedAt": "2026-08-27T00:00:00.000Z"
   },
   {
    "company": "Parkdepot",
