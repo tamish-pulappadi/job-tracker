@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T19:55:33.224Z",
+ "generatedAt": "2026-11-28T02:24:32.406Z",
  "companiesTracked": 94,
  "failures": [
   "Amplitude: 404 https://boards-api.greenhouse.io/v1/boards/amplitude/jobs",
@@ -7,6 +7,146 @@
   "Visa: 429 https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs offset=0"
  ],
  "jobs": [
+  {
+   "company": "ASML",
+   "title": "Optical Imaging Product Engineer Intern",
+   "location": "San Jose, CA",
+   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship-Optical-Imaging-Product-Engineer_J-00355188",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-17T00:00:00.000Z"
+  },
+  {
+   "company": "CrowdStrike",
+   "title": "Product Engineer Intern - Falcon Guardian",
+   "location": "Redmond, WA; Sunnyvale, CA",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Product-Engineering-Intern---Falcon-Guardian_R30622",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-24T00:00:00.000Z"
+  },
+  {
+   "company": "Fidelity National Information Services",
+   "title": "Commercial Product Manager 1",
+   "location": "Milwaukee, WI; Jacksonville, FL",
+   "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Commercial-Product-Manager-I--FIS-University-Program_JR0311223",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-24T00:00:00.000Z"
+  },
+  {
+   "company": "Generac",
+   "title": "Associate Product Manager",
+   "location": "Sussex, WI",
+   "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Sussex-WI---USA/Associate-Product-Manager_JR18376",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-19T00:00:00.000Z"
+  },
+  {
+   "company": "Great American Insurance Company",
+   "title": "Technical Product Management Intern - Summer 2027",
+   "location": "Cincinnati, OH",
+   "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Technical-Product-Management-Intern---Summer-2027_R9883-1",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-17T00:00:00.000Z"
+  },
+  {
+   "company": "Highmark Health",
+   "title": "Product Management and Development Intern",
+   "location": "New Mexico; Washington; Kansas; Pennsylvania; North Dakota; Oregon; Delaware; Iowa; California; Washington, DC; Vermont; Wyoming; Connecticut; Texas; Montana; Florida; New Hampshire; Nevada; South Carolina; South Dakota; Georgia; Arizona; Mississippi; Tennessee; Virginia; Arkansas; Minnesota; Colorado; Nebraska; Rhode Island; Utah; Kentucky; West Virginia; NYC; Maryland; Hawaii; Wisconsin; Maine; Massachusetts; North Carolina; Oklahoma; Missouri; Ohio; New Jersey; Indiana; Louisiana; Alaska; Michigan; Illinois; Alabama; Idaho",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Product-Management-and-Development-Intern_J287159",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-19T00:00:00.000Z"
+  },
+  {
+   "company": "Jerry",
+   "title": "Product Manager-in-Training",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.ashbyhq.com/jerry.ai/9a2efccf-3dd9-4488-8422-0f0c4f86bdd5/application?embed=true",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-27T00:00:00.000Z"
+  },
+  {
+   "company": "M&T Bank",
+   "title": "Management Development Program New Grad - Commercial Product Management",
+   "location": "Buffalo, NY",
+   "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Management-Development-Program---Commercial-Product-Management--Buffalo--NY-_R90323",
+   "kind": "newgrad",
+   "source": "Simplify New Grad",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-23T00:00:00.000Z"
+  },
+  {
+   "company": "Micron Technology",
+   "title": "DRAM Product Engineering Intern",
+   "location": "Manassas, VA",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/DRAM-PE-Intern_JR117440",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-23T00:00:00.000Z"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Product Management MBA Intern - GenAI Data Strategy",
+   "location": "Canada; Santa Clara, CA; United States",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-25T00:00:00.000Z"
+  },
+  {
+   "company": "ODL",
+   "title": "Corporate Product Management Intern",
+   "location": "Zeeland, MI",
+   "url": "https://odl.wd5.myworkdayjobs.com/odl/job/Zeeland-MI/Corporate-Product-Management-Intern_R004251",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-02T00:00:00.000Z"
+  },
+  {
+   "company": "State Street",
+   "title": "Data Engineering & Product Intern",
+   "location": "Boston, MA",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Engineering---Product--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801274",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-18T00:00:00.000Z"
+  },
+  {
+   "company": "State Street",
+   "title": "Product Internship - Data Intelligence",
+   "location": "Cambridge, MA",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/State-Street-Product-Team---Data-Intelligence---2027-Summer-Internship_R-801340",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-20T00:00:00.000Z"
+  },
+  {
+   "company": "State Street",
+   "title": "Data Engineering & Product Intern",
+   "location": "Quincy, MA",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Data-Engineering---Product--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801276",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-11-28T02:24:32.406Z",
+   "postedAt": "2026-11-18T00:00:00.000Z"
+  },
   {
    "company": "Zebra Technologies",
    "title": "Product Management Intern",
@@ -1288,16 +1428,6 @@
    "postedAt": "2026-09-09T00:00:00.000Z"
   },
   {
-   "company": "ASML",
-   "title": "Imaging Product Engineer Intern",
-   "location": "San Jose, CA",
-   "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Imaging-product-engineer_J-00355220",
-   "kind": "intern",
-   "source": "Simplify Internships",
-   "firstSeen": "2026-10-27T22:56:05.470Z",
-   "postedAt": "2026-10-27T00:00:00.000Z"
-  },
-  {
    "company": "Micron Technology",
    "title": "CMBU Product Management Intern",
    "location": "San Jose, CA",
@@ -1456,6 +1586,16 @@
    "source": "Simplify New Grad",
    "firstSeen": "2026-10-23T00:28:10.628Z",
    "postedAt": "2026-10-22T22:24:21.000Z"
+  },
+  {
+   "company": "NVIDIA",
+   "title": "Product Management MBA Intern - Gaming, Content Creation, And PC AI",
+   "location": "Canada; Santa Clara, CA; United States",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-22T04:37:11.438Z",
+   "postedAt": "2026-10-21T00:00:00.000Z"
   },
   {
    "company": "Tesla",
@@ -1626,6 +1766,16 @@
    "source": "Simplify Internships",
    "firstSeen": "2026-10-15T01:50:18.175Z",
    "postedAt": "2026-10-14T00:00:00.000Z"
+  },
+  {
+   "company": "CoStar Group",
+   "title": "Product Intern",
+   "location": "Richmond, VA",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900",
+   "kind": "intern",
+   "source": "Simplify Internships",
+   "firstSeen": "2026-10-13T22:58:20.798Z",
+   "postedAt": "2026-10-13T00:00:00.000Z"
   },
   {
    "company": "Prologis",
